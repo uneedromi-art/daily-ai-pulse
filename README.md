@@ -1,6 +1,6 @@
 # Daily AI Pulse
 
-Mastodon · Reddit · Google Research 등에서 AI 뉴스를 모아 한국어 요약으로 보여주는 일일 뉴스 보드.
+Reddit · Google Research · CIO(한국어) · Medium 등에서 AI 뉴스를 모아 한국어 요약으로 보여주는 일일 뉴스 보드.
 
 ## 로컬 실행
 

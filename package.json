@@ -9,6 +9,7 @@
     "start": "next start",
     "lint": "eslint",
     "fetch-news": "node scripts/fetch_news.js",
+    "diagnose-cio": "node scripts/diagnose-cio.js",
     "daily": "node scripts/daily_job.js",
     "setup-daily-task": "powershell -ExecutionPolicy Bypass -File scripts/setup-windows-task.ps1"
   },

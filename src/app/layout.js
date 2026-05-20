@@ -1,5 +1,6 @@
 import { Noto_Sans_KR, Geist_Mono } from "next/font/google";
 import "@/styles/globals.css";
+import { ThemeProvider } from "@/components/ThemeProvider";
 
 const notoSansKr = Noto_Sans_KR({
   variable: "--font-sans-kr",
@@ -20,9 +21,9 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="ko">
+    <html lang="ko" data-theme="dark" suppressHydrationWarning>
       <body className={`${notoSansKr.variable} ${geistMono.variable}`}>
-        {children}
+        <ThemeProvider>{children}</ThemeProvider>
       </body>
     </html>
   );

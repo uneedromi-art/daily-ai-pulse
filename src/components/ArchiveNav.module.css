@@ -5,21 +5,21 @@
     gap: 30px;
     margin-top: 40px;
     padding: 20px 0;
-    border-top: 1px solid #222;
+    border-top: 1px solid var(--border);
 }
 
 .link {
     display: flex;
     align-items: center;
     gap: 8px;
-    color: #666;
+    color: var(--text-muted);
     font-size: 14px;
     transition: color 0.2s;
     cursor: pointer;
 }
 
 .link:hover {
-    color: #fff;
+    color: var(--text);
 }
 
 .label {
@@ -31,11 +31,11 @@
 .current {
     font-size: 16px;
     font-weight: 700;
-    color: #fff;
-    background: #111;
+    color: var(--text);
+    background: var(--bg-card);
     padding: 8px 16px;
     border-radius: 20px;
-    border: 1px solid #333;
+    border: 1px solid var(--border-strong);
 }
 
 .disabled {

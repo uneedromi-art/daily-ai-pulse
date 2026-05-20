@@ -3,220 +3,372 @@ const fs = require('fs');
 const path = require('path');
 const { exec } = require('child_process');
 const Parser = require('rss-parser');
-const { cleanPostText, createSummaryBuilder } = require('./summaryUtils');
-const { translateToKorean, loadEnvLocal } = require('./translateKo');
+const { cleanPostText, createSummaryBuilder, clipToMaxChars } = require('./summaryUtils');
+const { summarizeToKorean, loadEnvLocal } = require('./translateKo');
+const {
+    loadFeedConfig,
+    matchesKeywords,
+    buildRedditFeedUrl,
+    parseRssFeed,
+    isKoreanCioItem,
+} = require('./feedConfig');
+const {
+    resolveMediumArticle,
+    shouldDropMediumPost,
+} = require('./mediumUtils');
+
+const { SUMMARY_INPUT_CHARS } = require('./summaryUtils');
+
 
 loadEnvLocal();
 
-// Ignore SSL errors for local dev/testing
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
-// --- CONFIG ---
-const REDDIT_FEED_URL = "https://www.reddit.com/r/MachineLearning+LocalLLaMA+ArtificialIntelligence+OpenAI+Singularity/top/.rss?t=day";
-const MASTODON_API_URL = "https://mastodon.social/api/v1/timelines/tag/ArtificialIntelligence?limit=5";
-const GOOGLE_RESEARCH_FEED = "https://research.google/blog/rss/";
-// X(Twitter) — Playwright 로그인 이슈로 기본 비활성화. 켜려면 ENABLE_TWITTER=true
 const ENABLE_TWITTER = process.env.ENABLE_TWITTER === 'true';
+const buildKoreanSummary = createSummaryBuilder(summarizeToKorean);
 
-// --- HELPERS ---
-async function fetchWithTimeout(promise, name, ms = 15000) { // Increased timeout for translation
+function shouldIncludeItem(itemText, sourceConfig, config) {
+    if (!sourceConfig.filterByKeywords) return true;
+    return matchesKeywords(itemText, config.keywords, config.keywordMode);
+}
+
+async function fetchWithTimeout(promise, name, ms = 15000) {
     return new Promise((resolve, reject) => {
-        const timer = setTimeout(() => {
-            reject(new Error(`Service '${name}' timed out`));
-        }, ms);
+        const timer = setTimeout(() => reject(new Error(`Service '${name}' timed out`)), ms);
         promise
-            .then(value => {
-                clearTimeout(timer);
-                resolve(value);
-            })
-            .catch(reason => {
-                clearTimeout(timer);
-                reject(reason);
-            });
+            .then((value) => { clearTimeout(timer); resolve(value); })
+            .catch((reason) => { clearTimeout(timer); reject(reason); });
     });
 }
 
-const buildKoreanSummary = createSummaryBuilder(translateToKorean);
+async function fetchReddit(config) {
+    const source = config.sources.reddit;
+    if (!source?.enabled) return [];
 
-// --- FETCHERS ---
-async function fetchReddit() {
-    console.log("Fetching Reddit...");
+    console.log('Fetching Reddit...');
+    const feedUrl = buildRedditFeedUrl(source.subreddits);
+
     try {
         const parser = new Parser();
-        const response = await fetch(REDDIT_FEED_URL, {
+        const response = await fetch(feedUrl, {
             headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
-            }
+                'User-Agent': 'Mozilla/5.0 (compatible; DailyAIPulse/1.0)',
+            },
         });
         if (!response.ok) throw new Error(`Reddit HTTP ${response.status}`);
-        const text = await response.text();
-        const feed = await parser.parseString(text);
+        const feed = await parser.parseString(await response.text());
 
-        // Process items serially to respect translation rate limits
         const results = [];
-        const items = feed.items.slice(0, 4);
+        for (const item of feed.items.slice(0, source.limit || 4)) {
+            const text = item.title || '';
+            if (!shouldIncludeItem(text, source, config)) continue;
 
-        for (const item of items) {
-            // Extract Image
             let imageUrl = null;
-            const content = item.content || "";
+            const content = item.content || '';
             const imgMatch = content.match(/<img[^>]+src="([^">]+)"/);
-            if (imgMatch) imageUrl = imgMatch[1];
-            if (imageUrl) imageUrl = imageUrl.replace(/&amp;/g, '&').replace(/&quot;/g, '"');
-
-            const translatedSummary = await buildKoreanSummary(item.title, { isTitle: true });
+            if (imgMatch) imageUrl = imgMatch[1].replace(/&amp;/g, '&');
 
             results.push({
                 id: item.guid || item.link,
-                platform: "Reddit",
-                author: { name: item.author || "Reddit User", handle: "/u/" + (item.author || "user"), avatar_color: "#ff4500" },
-                content: item.title,
-                summary_ko: translatedSummary,
-                url: item.link,
-                image: imageUrl,
-                date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
-                likes: 0,
-                comments: 0
-            });
-        }
-        return results;
-    } catch (e) {
-        console.error("Reddit Fetch Failed:", e.message);
-        return [];
-    }
-}
-
-async function fetchMastodon() {
-    console.log("Fetching Mastodon...");
-    try {
-        const response = await fetch(MASTODON_API_URL);
-        if (!response.ok) throw new Error(`Mastodon HTTP ${response.status}`);
-        const data = await response.json();
-
-        const results = [];
-        for (const post of data) {
-            const rawContent = post.content.replace(/<[^>]*>?/gm, '');
-            const decodedContent = cleanPostText(rawContent);
-            const translatedSummary = await buildKoreanSummary(decodedContent);
-
-            results.push({
-                id: post.id,
-                platform: "Mastodon",
+                platform: 'Reddit',
+                title: item.title,
                 author: {
-                    name: post.account.display_name,
-                    handle: `@${post.account.username}`,
-                    avatar_color: "#6364ff",
-                    avatar_url: post.account.avatar_static
+                    name: item.author || 'Reddit User',
+                    handle: '/u/' + (item.author || 'user'),
+                    avatar_color: '#ff4500',
                 },
-                content: decodedContent,
-                summary_ko: translatedSummary,
-                url: post.url,
-                date: post.created_at,
-                likes: post.favourites_count,
-                comments: post.replies_count
-            });
-        }
-        return results;
-    } catch (e) {
-        console.error("Mastodon Fetch Failed:", e.message);
-        return [];
-    }
-}
-
-async function fetchGoogle() {
-    console.log("Fetching Google Research...");
-    try {
-        const parser = new Parser();
-        const feed = await parser.parseURL(GOOGLE_RESEARCH_FEED);
-
-        const results = [];
-        const items = feed.items.slice(0, 2);
-
-        for (const item of items) {
-            // Extract Image
-            let imageUrl = null;
-            const content = item['content:encoded'] || item.content || item.description || "";
-            const imgMatch = content.match(/<img[^>]+src="([^">]+)"/);
-            if (imgMatch) imageUrl = imgMatch[1];
-
-            const description = item.contentSnippet || item.summary || '';
-            const sourceForSummary = description.length > 80
-                ? `${item.title}. ${description}`
-                : item.title;
-            const translatedSummary = await buildKoreanSummary(sourceForSummary);
-
-            results.push({
-                id: item.guid || item.link,
-                platform: "Google",
-                author: { name: "Google Research", handle: "@GoogleAI", avatar_color: "#4285F4", avatar_url: "https://lh3.googleusercontent.com/COxitq8kL0PhMydc8hC_pC5VvlBq2YLt05i1V7n3Xw-Qwb_NfJbwdWq0gWkO0l9g" },
                 content: item.title,
-                summary_ko: translatedSummary,
+                summary_ko: await buildKoreanSummary(item.title, { isTitle: true, maxChars: SUMMARY_INPUT_CHARS }),
                 url: item.link,
                 image: imageUrl,
                 date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
                 likes: 0,
-                comments: 0
+                comments: 0,
             });
         }
         return results;
     } catch (e) {
-        console.error("Google Fetch Failed:", e.message);
+        console.error('Reddit Fetch Failed:', e.message);
+        return [];
+    }
+}
+
+async function fetchCio(config) {
+    const source = config.sources.cio;
+    if (!source?.enabled || !source.feedUrl) return [];
+
+    console.log('Fetching CIO (Korean + English)...');
+
+    try {
+        const feed = await parseRssFeed(source.feedUrl);
+        const results = [];
+        const koLimit = source.koreanLimit ?? source.limit ?? 5;
+        const enLimit = source.englishLimit ?? source.limit ?? 5;
+        const maxScan = source.maxScanItems || 40;
+        let koCount = 0;
+        let enCount = 0;
+        const fetchLog = {
+            generatedAt: new Date().toISOString(),
+            feedUrl: source.feedUrl,
+            keywords: config.keywords,
+            keywordMode: config.keywordMode,
+            included: [],
+            skipped: [],
+        };
+
+        for (const item of feed.items.slice(0, maxScan)) {
+            const title = (item.title || '').trim();
+            const description = cleanPostText(item.contentSnippet || item.summary || '');
+            const searchText = `${title} ${description}`;
+            const isKo = isKoreanCioItem(item);
+
+            if (!shouldIncludeItem(searchText, source, config)) {
+                fetchLog.skipped.push({ title, lang: isKo ? 'ko' : 'en', reason: 'keyword' });
+                continue;
+            }
+            if (isKo && koCount >= koLimit) {
+                fetchLog.skipped.push({ title, lang: 'ko', reason: 'koreanLimit' });
+                continue;
+            }
+            if (!isKo && enCount >= enLimit) {
+                fetchLog.skipped.push({ title, lang: 'en', reason: 'englishLimit' });
+                continue;
+            }
+
+            let imageUrl = null;
+            const html = item['content:encoded'] || item.content || '';
+            const imgMatch = html.match(/<img[^>]+src="([^">]+)"/);
+            if (imgMatch) imageUrl = imgMatch[1];
+
+            const summaryKo = isKo
+                ? (description && description.length <= 280 ? description : title)
+                : await buildKoreanSummary(
+                    description.length > 80 ? `${title}. ${description}` : title,
+                    { maxChars: SUMMARY_INPUT_CHARS }
+                );
+
+            results.push({
+                id: item.link || item.guid || `cio-${title}`,
+                platform: 'CIO',
+                title,
+                lang: isKo ? 'ko' : 'en',
+                author: {
+                    name: 'CIO 코리아',
+                    handle: '@CIO_KR',
+                    avatar_color: '#E51937',
+                    avatar_url: null,
+                },
+                content: title,
+                summary_ko: summaryKo,
+                url: item.link,
+                image: imageUrl,
+                date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
+                likes: 0,
+                comments: 0,
+            });
+
+            fetchLog.included.push({ title, lang: isKo ? 'ko' : 'en', url: item.link });
+            if (isKo) koCount += 1;
+            else enCount += 1;
+        }
+
+        const logPath = path.join(process.cwd(), 'public', 'data', 'cio-fetch-log.json');
+        fetchLog.summary = { korean: koCount, english: enCount, total: results.length };
+        fs.writeFileSync(logPath, JSON.stringify(fetchLog, null, 2));
+
+        console.log(`CIO: ${results.length} articles (KO ${koCount}, EN ${enCount})`);
+        return results;
+    } catch (e) {
+        console.error('CIO Fetch Failed:', e.message);
+        return [];
+    }
+}
+
+async function fetchMedium(config) {
+    const source = config.sources.medium;
+    if (!source?.enabled || !source.feedUrl) return [];
+
+    console.log('Fetching Medium (free full-text only)...');
+
+    try {
+        const feedUrls = source.feedUrls || [source.feedUrl];
+        const seenLinks = new Set();
+        const allItems = [];
+
+        for (const feedUrl of feedUrls) {
+            const feed = await parseRssFeed(feedUrl);
+            for (const item of feed.items) {
+                const link = item.link || item.guid;
+                if (!link || seenLinks.has(link)) continue;
+                seenLinks.add(link);
+                allItems.push(item);
+            }
+        }
+
+        const results = [];
+        const itemLimit = source.limit || 4;
+        const maxScan = source.maxScanItems || 50;
+        const minBodyChars = source.minBodyChars || 450;
+        let skippedPaywall = 0;
+
+        for (const item of allItems.slice(0, maxScan)) {
+            const title = (item.title || '').trim();
+            const resolved = await resolveMediumArticle(item, minBodyChars);
+
+            if (resolved.skip) {
+                skippedPaywall += 1;
+                continue;
+            }
+
+            const body = resolved.body;
+
+            const searchText = `${title} ${body}`;
+            if (!shouldIncludeItem(searchText, source, config)) continue;
+
+            let imageUrl = null;
+            const html = item['content:encoded'] || item.content || '';
+            const imgMatch = html.match(/<img[^>]+src="([^">]+)"/);
+            if (imgMatch) imageUrl = imgMatch[1];
+
+            results.push({
+                id: item.link || item.guid || `medium-${title}`,
+                platform: 'Medium',
+                title,
+                author: {
+                    name: item.creator || 'Medium',
+                    handle: '@medium',
+                    avatar_color: '#000000',
+                    avatar_url: null,
+                },
+                content: body,
+                summary_ko: await buildKoreanSummary(body, { maxChars: SUMMARY_INPUT_CHARS }),
+                url: item.link,
+                image: imageUrl,
+                date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
+                likes: 0,
+                comments: 0,
+            });
+
+            if (results.length >= itemLimit) break;
+        }
+
+        console.log(`Medium: ${results.length} free articles (${skippedPaywall} paywalled/teaser skipped)`);
+        return results;
+    } catch (e) {
+        console.error('Medium Fetch Failed:', e.message);
+        return [];
+    }
+}
+
+
+async function fetchRssFeed(config, sourceKey, platformMeta) {
+    const source = config.sources[sourceKey];
+    if (!source?.enabled || !source.feedUrl) return [];
+
+    console.log(`Fetching ${platformMeta.platform}...`);
+
+    try {
+        const feed = await parseRssFeed(source.feedUrl);
+        const results = [];
+
+        const itemLimit = source.limit || 4;
+        const maxScan = source.maxScanItems || Math.max(itemLimit * 8, 24);
+
+        for (const item of feed.items.slice(0, maxScan)) {
+            const title = item.title || '';
+            const description = item.contentSnippet || item.summary || '';
+            const body = cleanPostText(
+                item['content:encoded'] || item.content || description
+            );
+            const searchText = `${title} ${description} ${body}`;
+
+            if (!shouldIncludeItem(searchText, source, config)) continue;
+
+            let imageUrl = null;
+            const html = item['content:encoded'] || item.content || '';
+            const imgMatch = html.match(/<img[^>]+src="([^">]+)"/);
+            if (imgMatch) imageUrl = imgMatch[1];
+
+            const sourceForSummary = body.length > 120
+                ? body
+                : description.length > 80
+                    ? `${title}. ${description}`
+                    : title;
+
+            results.push({
+                id: item.link || item.guid || `${sourceKey}-${item.title}`,
+                platform: platformMeta.platform,
+                title,
+                author: {
+                    name: platformMeta.authorName,
+                    handle: platformMeta.authorHandle,
+                    avatar_color: platformMeta.avatarColor,
+                    avatar_url: platformMeta.avatarUrl || null,
+                },
+                content: body || title,
+                summary_ko: await buildKoreanSummary(sourceForSummary, { maxChars: SUMMARY_INPUT_CHARS }),
+                url: item.link,
+                image: imageUrl,
+                date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
+                likes: 0,
+                comments: 0,
+            });
+
+            if (results.length >= itemLimit) break;
+        }
+        return results;
+    } catch (e) {
+        console.error(`${platformMeta.platform} Fetch Failed:`, e.message);
         return [];
     }
 }
 
 async function fetchTwitter() {
-    console.log("Fetching Twitter (via Playwright)...");
-    return new Promise((resolve, reject) => {
-        // Use node to run the browser script
+    console.log('Fetching Twitter (via Playwright)...');
+    return new Promise((resolve) => {
         exec('node devtools/archive/twitter/fetch_twitter_browser.js', { maxBuffer: 1024 * 1024 * 5 }, async (error, stdout, stderr) => {
-            // Log browser actions to console for debugging
             if (stderr) console.error(`[Browser Log]: ${stderr}`);
-
             if (error) {
                 console.error(`Twitter Browser Error: ${error.message}`);
                 resolve([]);
                 return;
             }
-
             try {
-                // Parse JSON output
-                // Stdout might contain extra logs, find the JSON array
                 const output = stdout.trim();
                 const jsonStartIndex = output.indexOf('[');
                 const jsonEndIndex = output.lastIndexOf(']');
-
-                if (jsonStartIndex === -1 || jsonEndIndex === -1) {
-                    throw new Error("No JSON array found in output");
-                }
-
-                const jsonStr = output.substring(jsonStartIndex, jsonEndIndex + 1);
-                const posts = JSON.parse(jsonStr);
-
-                // Translate
-                const translatedPosts = [];
+                if (jsonStartIndex === -1) throw new Error('No JSON array found');
+                const posts = JSON.parse(output.substring(jsonStartIndex, jsonEndIndex + 1));
                 for (const post of posts) {
-                    post.summary_ko = await buildKoreanSummary(post.content);
-                    translatedPosts.push(post);
+                    post.summary_ko = await buildKoreanSummary(post.content, { maxChars: SUMMARY_INPUT_CHARS });
                 }
-
-                resolve(translatedPosts);
+                resolve(posts);
             } catch (e) {
-                console.error("Failed to parse Twitter Browser JSON:", e.message);
+                console.error('Failed to parse Twitter JSON:', e.message);
                 resolve([]);
             }
         });
     });
 }
 
-// --- MAIN ---
 async function main() {
-    console.log("Starting Daily News Fetch...");
+    const config = loadFeedConfig();
+    console.log('Starting Daily News Fetch...');
+    console.log(`Keywords (${config.keywordMode}): ${config.keywords.join(', ')}`);
 
     const fetchTasks = [
-        fetchWithTimeout(fetchReddit(), 'Reddit'),
-        fetchWithTimeout(fetchMastodon(), 'Mastodon', 120000),
-        fetchWithTimeout(fetchGoogle(), 'Google'),
+        fetchWithTimeout(fetchReddit(config), 'Reddit'),
+        fetchWithTimeout(
+            fetchRssFeed(config, 'google', {
+                platform: 'Google',
+                authorName: 'Google Research',
+                authorHandle: '@GoogleAI',
+                avatarColor: '#4285F4',
+            }),
+            'Google'
+        ),
+        fetchWithTimeout(fetchCio(config), 'CIO', 60000),
+        fetchWithTimeout(fetchMedium(config), 'Medium', 90000),
     ];
 
     if (ENABLE_TWITTER) {
@@ -226,47 +378,41 @@ async function main() {
     }
 
     const results = await Promise.allSettled(fetchTasks);
-
     const allPosts = [];
-    results.forEach(res => {
-        if (res.status === 'fulfilled') {
-            allPosts.push(...res.value);
-        }
+    results.forEach((res) => {
+        if (res.status === 'fulfilled') allPosts.push(...res.value);
     });
 
-    // --- HISTORY MANGEMENT ---
     const outputPath = path.join(process.cwd(), 'public', 'data', 'news.json');
     let existingPosts = [];
 
-    // Read existing file if present
     if (fs.existsSync(outputPath)) {
         try {
-            const fileContent = fs.readFileSync(outputPath, 'utf8');
-            existingPosts = JSON.parse(fileContent);
+            existingPosts = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
             console.log(`Loaded ${existingPosts.length} existing items for history merging.`);
         } catch (e) {
-            console.warn("Could not read existing news.json, starting fresh.", e.message);
+            console.warn('Could not read existing news.json', e.message);
         }
     }
 
-    // Merge: New posts + Existing posts
     const combinedPosts = [...existingPosts, ...allPosts];
+    const uniquePosts = Array.from(new Map(combinedPosts.map((item) => [item.id, item])).values())
+        .filter((item) => !shouldDropMediumPost(item));
 
-    // Deduplicate by ID
-    const uniquePosts = Array.from(new Map(combinedPosts.map(item => [item.id, item])).values());
+    const cutoff = new Date();
+    cutoff.setDate(cutoff.getDate() - 30);
+    const recentPosts = uniquePosts
+        .filter((item) => item.platform !== 'Mastodon')
+        .filter((item) => !shouldDropMediumPost(item))
+        .filter((item) => new Date(item.date) > cutoff)
+        .map((item) => ({
+            ...item,
+            summary_ko: item.summary_ko ? clipToMaxChars(item.summary_ko) : item.summary_ko,
+        }))
+        .sort((a, b) => new Date(b.date) - new Date(a.date));
 
-    // Filter out posts older than 30 days
-    const sensitiveDate = new Date();
-    sensitiveDate.setDate(sensitiveDate.getDate() - 30);
-
-    const recentPosts = uniquePosts.filter(item => new Date(item.date) > sensitiveDate);
-
-    // Sort by Date (Newest first)
-    recentPosts.sort((a, b) => new Date(b.date) - new Date(a.date));
-
-    // Save to file
     fs.writeFileSync(outputPath, JSON.stringify(recentPosts, null, 2));
-    console.log(`Saved ${recentPosts.length} items to ${outputPath} (History preserved)`);
+    console.log(`Saved ${recentPosts.length} items to ${outputPath}`);
 }
 
 main();

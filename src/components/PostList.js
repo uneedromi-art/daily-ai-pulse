@@ -4,9 +4,10 @@ import { useSearchParams } from 'next/navigation';
 import Card from './Card';
 import ArchiveNav from './ArchiveNav';
 import styles from '../app/page.module.css';
-import { formatKSTDate } from '../lib/dateUtils';
+import { formatKSTDate, previousKSTDate } from '../lib/dateUtils';
+import { postMatchesKeywords } from '../lib/feedConfig';
 
-export default function PostList({ initialPosts = [] }) {
+export default function PostList({ initialPosts = [], keywordFilter = null }) {
     const searchParams = useSearchParams();
     const queryDate = searchParams.get('date');
 
@@ -31,9 +32,24 @@ export default function PostList({ initialPosts = [] }) {
     const currentDate = queryDate || latestPostDateStr;
 
     // Filter Logic using KST
-    const filteredPosts = sortedPosts.filter(post => {
+    const isLatestDayView = !queryDate && currentDate === latestPostDateStr;
+    const cioCarryDate = isLatestDayView ? previousKSTDate(currentDate) : null;
+
+    const filteredPosts = sortedPosts.filter((post) => {
         const postDateKST = formatKSTDate(post.date);
-        return postDateKST === currentDate;
+        const dateMatch = postDateKST === currentDate
+            || (post.platform === 'CIO' && cioCarryDate && postDateKST === cioCarryDate);
+        if (!dateMatch) return false;
+        // CIO·Medium은 fetch-news 단계에서 이미 키워드 필터됨 (화면 재필터 시 제목만 검사되어 누락됨)
+        const skipKeywordFilter = post.platform === 'CIO' || post.platform === 'Medium';
+        if (!skipKeywordFilter && keywordFilter?.keywords?.length) {
+            return postMatchesKeywords(
+                post,
+                keywordFilter.keywords,
+                keywordFilter.keywordMode || 'any'
+            );
+        }
+        return true;
     });
 
     console.log(`Filtering for ${currentDate} (KST): Found ${filteredPosts.length} posts`);
@@ -46,7 +62,7 @@ export default function PostList({ initialPosts = [] }) {
                         <Card key={item.id} item={item} />
                     ))
                 ) : (
-                    <div style={{ color: '#666', gridColumn: '1/-1', textAlign: 'center', padding: '40px' }}>
+                    <div style={{ color: 'var(--text-muted)', gridColumn: '1/-1', textAlign: 'center', padding: '40px' }}>
                         <p>No news found for {currentDate}.</p>
                         <p style={{ fontSize: '0.8em', marginTop: '10px' }}>Try navigating to another date.</p>
                     </div>

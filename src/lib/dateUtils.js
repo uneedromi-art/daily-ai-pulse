@@ -18,6 +18,13 @@ export const formatKSTDate = (dateInput) => {
     return kstDate.toISOString().split('T')[0];
 };
 
+/** KST 기준 하루 전 YYYY-MM-DD */
+export const previousKSTDate = (dateStr) => {
+    const base = getKSTDate(`${dateStr}T12:00:00.000Z`);
+    base.setUTCDate(base.getUTCDate() - 1);
+    return base.toISOString().split('T')[0];
+};
+
 // Helper to format for display (e.g., "Feb 3")
 export const displayKSTDate = (dateInput) => {
     const kstDate = getKSTDate(dateInput);

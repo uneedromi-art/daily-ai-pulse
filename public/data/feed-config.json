@@ -1,0 +1,67 @@
+{
+  "keywords": [
+    "artificial intelligence",
+    "인공지능",
+    "generative ai",
+    "생성형",
+    "machine learning",
+    "llm",
+    "openai",
+    "agent",
+    "에이전트",
+    "ai"
+  ],
+  "keywordMode": "any",
+  "sources": {
+    "reddit": {
+      "enabled": true,
+      "subreddits": [
+        "MachineLearning",
+        "LocalLLaMA",
+        "ArtificialIntelligence",
+        "OpenAI",
+        "Singularity"
+      ],
+      "limit": 4,
+      "filterByKeywords": false,
+      "note": "서브레딧 자체가 AI 주제 (키워드 필터 생략)"
+    },
+    "mastodon": {
+      "enabled": false,
+      "tag": "ArtificialIntelligence",
+      "limit": 5,
+      "filterByKeywords": false,
+      "note": "비활성 (품질 이슈)"
+    },
+    "google": {
+      "enabled": true,
+      "feedUrl": "https://research.google/blog/rss/",
+      "limit": 2,
+      "filterByKeywords": false,
+      "note": "Google Research 블로그 전체"
+    },
+    "cio": {
+      "enabled": true,
+      "feedUrl": "https://www.cio.com/kr/feed/",
+      "koreanLimit": 5,
+      "englishLimit": 5,
+      "maxScanItems": 40,
+      "filterByKeywords": true,
+      "note": "CIO 코리아 RSS — AI 키워드 통과 시 한·영 각 최대 5건"
+    },
+    "medium": {
+      "enabled": true,
+      "feedUrl": "https://medium.com/feed/tag/artificial-intelligence",
+      "feedUrls": [
+        "https://medium.com/feed/tag/artificial-intelligence",
+        "https://medium.com/feed/tag/machine-learning",
+        "https://medium.com/feed/tag/generative-ai"
+      ],
+      "limit": 4,
+      "maxScanItems": 60,
+      "minBodyChars": 450,
+      "filterByKeywords": true,
+      "note": "Medium — 유료/티저 제외, 전문 읽기 가능한 글만 (페이지 본문 추출 포함)"
+    }
+  }
+}
