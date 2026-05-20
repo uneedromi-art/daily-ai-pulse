@@ -1,0 +1,45 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 40px;
+    padding: 20px 0;
+    border-top: 1px solid #222;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #666;
+    font-size: 14px;
+    transition: color 0.2s;
+    cursor: pointer;
+}
+
+.link:hover {
+    color: #fff;
+}
+
+.label {
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+}
+
+.current {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    background: #111;
+    padding: 8px 16px;
+    border-radius: 20px;
+    border: 1px solid #333;
+}
+
+.disabled {
+    opacity: 0.3;
+    pointer-events: none;
+    cursor: default;
+}

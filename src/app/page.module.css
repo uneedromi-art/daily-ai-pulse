@@ -1,0 +1,27 @@
+/* src/app/page.module.css */
+.main {
+  min-height: 100vh;
+  padding: 0 20px 40px 20px;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 1100px;
+  /* Constrain width */
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 24px;
+}
+
+/* On very small screens, 1 column */
+@media (max-width: 600px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}

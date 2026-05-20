@@ -1,0 +1,136 @@
+.card {
+    background: #111;
+    border: 1px solid #222;
+    border-radius: 16px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    transition: transform 0.2s, border-color 0.2s;
+    height: 100%;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    border-color: #333;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.authorInfo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+}
+
+.meta {
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    font-weight: 600;
+    font-size: 15px;
+    color: #fff;
+}
+
+.handle {
+    font-size: 13px;
+    color: #888;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    flex: 1;
+}
+
+.summaryLabel {
+    display: block;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #c084fc;
+    margin-bottom: 4px;
+}
+
+.summaryText {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.65;
+    color: #f0f0f0;
+    font-weight: 400;
+}
+
+.cardImage {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 10px;
+    background-color: #222;
+}
+
+.originalBlock {
+    padding-top: 10px;
+    border-top: 1px solid #2a2a2a;
+}
+
+.originalLabel {
+    display: block;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #555;
+    margin-bottom: 6px;
+}
+
+.originalExcerpt {
+    margin: 0;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #666;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.footer {
+    margin-top: auto;
+    padding-top: 4px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.link {
+    font-size: 13px;
+    color: #888;
+    font-weight: 500;
+    transition: color 0.2s;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #c084fc;
+}
