@@ -21,6 +21,8 @@ export default function Card({ item }) {
         if (p.includes('mastodon')) return <span style={{ fontSize: '1.2em' }}>🐘</span>;
         if (p.includes('bluesky')) return <span style={{ fontSize: '1.2em' }}>🦋</span>;
         if (p.includes('google')) return <span style={{ fontSize: '1.2em' }}>G</span>;
+        if (p.includes('cio')) return <span style={{ fontSize: '1.2em' }}>CIO</span>;
+        if (p.includes('medium')) return <span style={{ fontSize: '1.2em' }}>M</span>;
 
         return <span>🔗</span>;
     };

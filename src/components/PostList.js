@@ -5,8 +5,9 @@ import Card from './Card';
 import ArchiveNav from './ArchiveNav';
 import styles from '../app/page.module.css';
 import { formatKSTDate } from '../lib/dateUtils';
+import { postMatchesKeywords } from '../lib/feedConfig';
 
-export default function PostList({ initialPosts = [] }) {
+export default function PostList({ initialPosts = [], keywordFilter = null }) {
     const searchParams = useSearchParams();
     const queryDate = searchParams.get('date');
 
@@ -31,9 +32,17 @@ export default function PostList({ initialPosts = [] }) {
     const currentDate = queryDate || latestPostDateStr;
 
     // Filter Logic using KST
-    const filteredPosts = sortedPosts.filter(post => {
+    const filteredPosts = sortedPosts.filter((post) => {
         const postDateKST = formatKSTDate(post.date);
-        return postDateKST === currentDate;
+        if (postDateKST !== currentDate) return false;
+        if (keywordFilter?.keywords?.length) {
+            return postMatchesKeywords(
+                post,
+                keywordFilter.keywords,
+                keywordFilter.keywordMode || 'any'
+            );
+        }
+        return true;
     });
 
     console.log(`Filtering for ${currentDate} (KST): Found ${filteredPosts.length} posts`);

@@ -1,7 +1,7 @@
 import { Suspense } from 'react';
 import styles from './page.module.css';
 import Header from '@/components/Header';
-import PostList from '@/components/PostList';
+import NewsFeed from '@/components/NewsFeed';
 import fs from 'fs';
 import path from 'path';
 import { getKSTDate } from '@/lib/dateUtils';
@@ -34,11 +34,11 @@ export default async function Home() {
 
         {/* Render Client Component for Filtering & Navigation */}
         <Suspense fallback={<div style={{ textAlign: 'center', padding: '40px', color: '#666' }}>Loading…</div>}>
-          <PostList initialPosts={news} />
+          <NewsFeed initialPosts={news} />
         </Suspense>
 
         <div style={{ textAlign: 'center', marginTop: '20px', fontSize: '0.7em', color: '#444' }}>
-          Data Source: Mastodon + Google Research
+          Sources: Reddit · Mastodon · Google · CIO · Medium
           <br />
           Last Updated: {getKSTDate().toISOString().replace('T', ' ').slice(0, 19)} (KST)
         </div>

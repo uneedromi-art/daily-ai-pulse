@@ -1,0 +1,54 @@
+{
+  "keywords": [
+    "artificial intelligence",
+    "generative ai",
+    "machine learning",
+    "llm",
+    "openai",
+    "agent"
+  ],
+  "keywordMode": "any",
+  "sources": {
+    "reddit": {
+      "enabled": true,
+      "subreddits": [
+        "MachineLearning",
+        "LocalLLaMA",
+        "ArtificialIntelligence",
+        "OpenAI",
+        "Singularity"
+      ],
+      "limit": 4,
+      "filterByKeywords": false,
+      "note": "서브레딧 자체가 AI 주제 (키워드 필터 생략)"
+    },
+    "mastodon": {
+      "enabled": true,
+      "tag": "ArtificialIntelligence",
+      "limit": 5,
+      "filterByKeywords": false,
+      "note": "해시태그 타임라인"
+    },
+    "google": {
+      "enabled": true,
+      "feedUrl": "https://research.google/blog/rss/",
+      "limit": 2,
+      "filterByKeywords": false,
+      "note": "Google Research 블로그 전체"
+    },
+    "cio": {
+      "enabled": true,
+      "feedUrl": "https://www.cio.com/category/artificial-intelligence/feed/",
+      "limit": 4,
+      "filterByKeywords": true,
+      "note": "CIO.com AI 카테고리 RSS"
+    },
+    "medium": {
+      "enabled": true,
+      "feedUrl": "https://medium.com/feed/tag/artificial-intelligence",
+      "limit": 4,
+      "filterByKeywords": true,
+      "note": "Medium #artificial-intelligence 태그 RSS"
+    }
+  }
+}
