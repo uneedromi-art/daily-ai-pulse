@@ -1,6 +1,5 @@
 import { Suspense } from 'react';
 import styles from './page.module.css';
-import Header from '@/components/Header';
 import NewsFeed from '@/components/NewsFeed';
 import fs from 'fs';
 import path from 'path';
@@ -30,15 +29,12 @@ export default async function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.container}>
-        <Header />
-
-        {/* Render Client Component for Filtering & Navigation */}
         <Suspense fallback={<div style={{ textAlign: 'center', padding: '40px', color: '#666' }}>Loading…</div>}>
           <NewsFeed initialPosts={news} />
         </Suspense>
 
-        <div style={{ textAlign: 'center', marginTop: '20px', fontSize: '0.7em', color: '#444' }}>
-          Sources: Reddit · Mastodon · Google · CIO · Medium
+        <div style={{ textAlign: 'center', marginTop: '20px', fontSize: '0.7em', color: 'var(--text-muted)' }}>
+          Sources: Reddit · Google · CIO · Medium
           <br />
           Last Updated: {getKSTDate().toISOString().replace('T', ' ').slice(0, 19)} (KST)
         </div>

@@ -1,12 +1,19 @@
 const STORAGE_KEY = 'daily-ai-pulse-feed-config';
 
+function keywordMatches(haystack, rawKeyword) {
+    const k = rawKeyword.trim().toLowerCase();
+    if (!k) return false;
+    if (k === 'ai') return /\bai\b/i.test(haystack);
+    return haystack.includes(k);
+}
+
 export function matchesKeywords(text, keywords, mode = 'any') {
     if (!keywords?.length) return true;
     const haystack = (text || '').toLowerCase();
     const checks = keywords
-        .map((k) => k.trim().toLowerCase())
+        .map((k) => k.trim())
         .filter(Boolean)
-        .map((k) => haystack.includes(k));
+        .map((k) => keywordMatches(haystack, k));
     if (!checks.length) return true;
     return mode === 'all' ? checks.every(Boolean) : checks.some(Boolean);
 }

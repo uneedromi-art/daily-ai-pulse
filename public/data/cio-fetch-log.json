@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-05-20T07:41:48.647Z",
+  "feedUrl": "https://www.cio.com/kr/feed/",
+  "keywords": [
+    "artificial intelligence",
+    "인공지능",
+    "generative ai",
+    "생성형",
+    "machine learning",
+    "llm",
+    "openai",
+    "agent",
+    "에이전트",
+    "ai"
+  ],
+  "keywordMode": "any",
+  "included": [
+    {
+      "title": "EnterpriseClaw wants to bring governance to the OpenClaw era",
+      "lang": "en",
+      "url": "https://www.cio.com/article/4173405/enterpriseclaw-wants-to-bring-governance-to-the-openclaw-era.html"
+    },
+    {
+      "title": "AIはテック人材不足を解決しない——解決できるのはリーダーだ",
+      "lang": "en",
+      "url": "https://www.cio.com/article/4172518/ai%e3%81%af%e3%83%86%e3%83%83%e3%82%af%e4%ba%ba%e6%9d%90%e4%b8%8d%e8%b6%b3%e3%82%92%e8%a7%a3%e6%b1%ba%e3%81%97%e3%81%aa%e3%81%84-%e8%a7%a3%e6%b1%ba%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%ae.html"
+    },
+    {
+      "title": "Agentic AI won’t scale on ambition. It will scale on infrastructure.",
+      "lang": "en",
+      "url": "https://www.cio.com/article/4173213/agentic-ai-wont-scale-on-ambition-it-will-scale-on-infrastructure.html"
+    },
+    {
+      "title": "Solving healthcare’s unique security challenges: The role of zero trust and SASE",
+      "lang": "en",
+      "url": "https://www.cio.com/article/4172532/solving-healthcares-unique-security-challenges-the-role-of-zero-trust-and-sase.html"
+    },
+    {
+      "title": "The next digital divide: AI owners vs. AI renters",
+      "lang": "en",
+      "url": "https://www.cio.com/article/4172558/the-next-digital-divide-ai-owners-vs-ai-renters.html"
+    },
+    {
+      "title": "CIO코리아·IBM, “AI 성패 좌우하는 건 데이터”…AI 레디 데이터 전략 제시",
+      "lang": "ko",
+      "url": "https://www.cio.com/article/4172904/cio%ec%bd%94%eb%a6%ac%ec%95%84%c2%b7ibm-ai-%ec%84%b1%ed%8c%a8-%ec%a2%8c%ec%9a%b0%ed%95%98%eb%8a%94-%ea%b1%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%8b%a4%ec%8b%9c%ea%b0%84%c2%b7.html"
+    },
+    {
+      "title": "오픈텍스트, 버티카 사업부 매각 완료…AI·정보관리 분야 집중 확대",
+      "lang": "ko",
+      "url": "https://www.cio.com/article/4172702/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%b2%84%ed%8b%b0%ec%b9%b4-%ec%82%ac%ec%97%85%eb%b6%80-%eb%a7%a4%ea%b0%81-%ec%99%84%eb%a3%8c-ai%c2%b7%ec%a0%95%eb%b3%b4%ea%b4%80%eb%a6%ac-%eb%b6%84.html"
+    },
+    {
+      "title": "엑슨모빌 ‘기초부터’ vs 리바이스 ‘1000개 에이전트’···SAP 고객 사례로 본 AI 전략",
+      "lang": "ko",
+      "url": "https://www.cio.com/article/4172139/%ec%97%91%ec%8a%a8%eb%aa%a8%eb%b9%8c-%ea%b8%b0%ec%b4%88%eb%b6%80%ed%84%b0-vs-%eb%a6%ac%eb%b0%94%ec%9d%b4%ec%8a%a4-1000%ea%b0%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html"
+    },
+    {
+      "title": "글로벌 기업이 먼저 경험한 변화…AI 에이전트, 매출을 증명하다",
+      "lang": "ko",
+      "url": "https://www.cio.com/article/4172133/%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b8%b0%ec%97%85%ec%9d%b4-%eb%a8%bc%ec%a0%80-%ea%b2%bd%ed%97%98%ed%95%9c-%eb%b3%80%ed%99%94ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a7%a4%ec%b6%9c%ec%9d%84.html"
+    }
+  ],
+  "skipped": [
+    {
+      "title": "Contractor’s public GitHub account exposed GovCloud and CISA credentials",
+      "lang": "en",
+      "reason": "keyword"
+    },
+    {
+      "title": "7 signs your data isn’t ready for AI",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "How IT teams are putting AI agents to work",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "AI upends key pillars of project management",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Launch time! Turning early momentum into real growth",
+      "lang": "en",
+      "reason": "keyword"
+    },
+    {
+      "title": "The friction tax: What hidden IT dysfunction really costs a business",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "La soberanía digital como estrategia: así construye Amnistía Internacional España su modelo tecnológico",
+      "lang": "en",
+      "reason": "keyword"
+    },
+    {
+      "title": "¿Eres el próximo CIO? El programa que busca a los nuevos líderes tecnológicos de España",
+      "lang": "en",
+      "reason": "keyword"
+    },
+    {
+      "title": "From tools to workflows: Rethinking the SDLC for the AI age",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "AI is rewriting the software development playbook",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Sovereign AI: Why CIOs can no longer outsource control",
+      "lang": "en",
+      "reason": "englishLimit"
+    }
+  ],
+  "summary": {
+    "korean": 4,
+    "english": 5,
+    "total": 9
+  }
+}

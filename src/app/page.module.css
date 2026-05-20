@@ -1,25 +1,22 @@
-/* src/app/page.module.css */
 .main {
   min-height: 100vh;
   padding: 0 20px 40px 20px;
-  background-color: #000;
+  background-color: var(--bg);
   display: flex;
   justify-content: center;
 }
 
 .container {
   width: 100%;
-  max-width: 1100px;
-  /* Constrain width */
+  max-width: 1200px;
 }
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 24px;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 28px;
 }
 
-/* On very small screens, 1 column */
 @media (max-width: 600px) {
   .grid {
     grid-template-columns: 1fr;

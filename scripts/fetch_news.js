@@ -3,21 +3,29 @@ const fs = require('fs');
 const path = require('path');
 const { exec } = require('child_process');
 const Parser = require('rss-parser');
-const { cleanPostText, createSummaryBuilder } = require('./summaryUtils');
-const { translateToKorean, loadEnvLocal } = require('./translateKo');
+const { cleanPostText, createSummaryBuilder, clipToMaxChars } = require('./summaryUtils');
+const { summarizeToKorean, loadEnvLocal } = require('./translateKo');
 const {
     loadFeedConfig,
     matchesKeywords,
     buildRedditFeedUrl,
-    buildMastodonFeedUrl,
+    parseRssFeed,
+    isKoreanCioItem,
 } = require('./feedConfig');
+const {
+    resolveMediumArticle,
+    shouldDropMediumPost,
+} = require('./mediumUtils');
+
+const { SUMMARY_INPUT_CHARS } = require('./summaryUtils');
+
 
 loadEnvLocal();
 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 const ENABLE_TWITTER = process.env.ENABLE_TWITTER === 'true';
-const buildKoreanSummary = createSummaryBuilder(translateToKorean);
+const buildKoreanSummary = createSummaryBuilder(summarizeToKorean);
 
 function shouldIncludeItem(itemText, sourceConfig, config) {
     if (!sourceConfig.filterByKeywords) return true;
@@ -63,13 +71,14 @@ async function fetchReddit(config) {
             results.push({
                 id: item.guid || item.link,
                 platform: 'Reddit',
+                title: item.title,
                 author: {
                     name: item.author || 'Reddit User',
                     handle: '/u/' + (item.author || 'user'),
                     avatar_color: '#ff4500',
                 },
                 content: item.title,
-                summary_ko: await buildKoreanSummary(item.title, { isTitle: true }),
+                summary_ko: await buildKoreanSummary(item.title, { isTitle: true, maxChars: SUMMARY_INPUT_CHARS }),
                 url: item.link,
                 image: imageUrl,
                 date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
@@ -84,46 +93,173 @@ async function fetchReddit(config) {
     }
 }
 
-async function fetchMastodon(config) {
-    const source = config.sources.mastodon;
-    if (!source?.enabled) return [];
+async function fetchCio(config) {
+    const source = config.sources.cio;
+    if (!source?.enabled || !source.feedUrl) return [];
 
-    console.log(`Fetching Mastodon #${source.tag}...`);
-    const apiUrl = buildMastodonFeedUrl(source.tag, source.limit || 5);
+    console.log('Fetching CIO (Korean + English)...');
 
     try {
-        const response = await fetch(apiUrl);
-        if (!response.ok) throw new Error(`Mastodon HTTP ${response.status}`);
-        const data = await response.json();
-
+        const feed = await parseRssFeed(source.feedUrl);
         const results = [];
-        for (const post of data) {
-            const decodedContent = cleanPostText(post.content.replace(/<[^>]*>?/gm, ''));
-            if (!shouldIncludeItem(decodedContent, source, config)) continue;
+        const koLimit = source.koreanLimit ?? source.limit ?? 5;
+        const enLimit = source.englishLimit ?? source.limit ?? 5;
+        const maxScan = source.maxScanItems || 40;
+        let koCount = 0;
+        let enCount = 0;
+        const fetchLog = {
+            generatedAt: new Date().toISOString(),
+            feedUrl: source.feedUrl,
+            keywords: config.keywords,
+            keywordMode: config.keywordMode,
+            included: [],
+            skipped: [],
+        };
+
+        for (const item of feed.items.slice(0, maxScan)) {
+            const title = (item.title || '').trim();
+            const description = cleanPostText(item.contentSnippet || item.summary || '');
+            const searchText = `${title} ${description}`;
+            const isKo = isKoreanCioItem(item);
+
+            if (!shouldIncludeItem(searchText, source, config)) {
+                fetchLog.skipped.push({ title, lang: isKo ? 'ko' : 'en', reason: 'keyword' });
+                continue;
+            }
+            if (isKo && koCount >= koLimit) {
+                fetchLog.skipped.push({ title, lang: 'ko', reason: 'koreanLimit' });
+                continue;
+            }
+            if (!isKo && enCount >= enLimit) {
+                fetchLog.skipped.push({ title, lang: 'en', reason: 'englishLimit' });
+                continue;
+            }
+
+            let imageUrl = null;
+            const html = item['content:encoded'] || item.content || '';
+            const imgMatch = html.match(/<img[^>]+src="([^">]+)"/);
+            if (imgMatch) imageUrl = imgMatch[1];
+
+            const summaryKo = isKo
+                ? (description && description.length <= 280 ? description : title)
+                : await buildKoreanSummary(
+                    description.length > 80 ? `${title}. ${description}` : title,
+                    { maxChars: SUMMARY_INPUT_CHARS }
+                );
 
             results.push({
-                id: post.id,
-                platform: 'Mastodon',
+                id: item.link || item.guid || `cio-${title}`,
+                platform: 'CIO',
+                title,
+                lang: isKo ? 'ko' : 'en',
                 author: {
-                    name: post.account.display_name,
-                    handle: `@${post.account.username}`,
-                    avatar_color: '#6364ff',
-                    avatar_url: post.account.avatar_static,
+                    name: 'CIO 코리아',
+                    handle: '@CIO_KR',
+                    avatar_color: '#E51937',
+                    avatar_url: null,
                 },
-                content: decodedContent,
-                summary_ko: await buildKoreanSummary(decodedContent),
-                url: post.url,
-                date: post.created_at,
-                likes: post.favourites_count,
-                comments: post.replies_count,
+                content: title,
+                summary_ko: summaryKo,
+                url: item.link,
+                image: imageUrl,
+                date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
+                likes: 0,
+                comments: 0,
             });
+
+            fetchLog.included.push({ title, lang: isKo ? 'ko' : 'en', url: item.link });
+            if (isKo) koCount += 1;
+            else enCount += 1;
         }
+
+        const logPath = path.join(process.cwd(), 'public', 'data', 'cio-fetch-log.json');
+        fetchLog.summary = { korean: koCount, english: enCount, total: results.length };
+        fs.writeFileSync(logPath, JSON.stringify(fetchLog, null, 2));
+
+        console.log(`CIO: ${results.length} articles (KO ${koCount}, EN ${enCount})`);
         return results;
     } catch (e) {
-        console.error('Mastodon Fetch Failed:', e.message);
+        console.error('CIO Fetch Failed:', e.message);
         return [];
     }
 }
+
+async function fetchMedium(config) {
+    const source = config.sources.medium;
+    if (!source?.enabled || !source.feedUrl) return [];
+
+    console.log('Fetching Medium (free full-text only)...');
+
+    try {
+        const feedUrls = source.feedUrls || [source.feedUrl];
+        const seenLinks = new Set();
+        const allItems = [];
+
+        for (const feedUrl of feedUrls) {
+            const feed = await parseRssFeed(feedUrl);
+            for (const item of feed.items) {
+                const link = item.link || item.guid;
+                if (!link || seenLinks.has(link)) continue;
+                seenLinks.add(link);
+                allItems.push(item);
+            }
+        }
+
+        const results = [];
+        const itemLimit = source.limit || 4;
+        const maxScan = source.maxScanItems || 50;
+        const minBodyChars = source.minBodyChars || 450;
+        let skippedPaywall = 0;
+
+        for (const item of allItems.slice(0, maxScan)) {
+            const title = (item.title || '').trim();
+            const resolved = await resolveMediumArticle(item, minBodyChars);
+
+            if (resolved.skip) {
+                skippedPaywall += 1;
+                continue;
+            }
+
+            const body = resolved.body;
+
+            const searchText = `${title} ${body}`;
+            if (!shouldIncludeItem(searchText, source, config)) continue;
+
+            let imageUrl = null;
+            const html = item['content:encoded'] || item.content || '';
+            const imgMatch = html.match(/<img[^>]+src="([^">]+)"/);
+            if (imgMatch) imageUrl = imgMatch[1];
+
+            results.push({
+                id: item.link || item.guid || `medium-${title}`,
+                platform: 'Medium',
+                title,
+                author: {
+                    name: item.creator || 'Medium',
+                    handle: '@medium',
+                    avatar_color: '#000000',
+                    avatar_url: null,
+                },
+                content: body,
+                summary_ko: await buildKoreanSummary(body, { maxChars: SUMMARY_INPUT_CHARS }),
+                url: item.link,
+                image: imageUrl,
+                date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
+                likes: 0,
+                comments: 0,
+            });
+
+            if (results.length >= itemLimit) break;
+        }
+
+        console.log(`Medium: ${results.length} free articles (${skippedPaywall} paywalled/teaser skipped)`);
+        return results;
+    } catch (e) {
+        console.error('Medium Fetch Failed:', e.message);
+        return [];
+    }
+}
+
 
 async function fetchRssFeed(config, sourceKey, platformMeta) {
     const source = config.sources[sourceKey];
@@ -132,11 +268,13 @@ async function fetchRssFeed(config, sourceKey, platformMeta) {
     console.log(`Fetching ${platformMeta.platform}...`);
 
     try {
-        const parser = new Parser();
-        const feed = await parser.parseURL(source.feedUrl);
+        const feed = await parseRssFeed(source.feedUrl);
         const results = [];
 
-        for (const item of feed.items.slice(0, source.limit || 4)) {
+        const itemLimit = source.limit || 4;
+        const maxScan = source.maxScanItems || Math.max(itemLimit * 8, 24);
+
+        for (const item of feed.items.slice(0, maxScan)) {
             const title = item.title || '';
             const description = item.contentSnippet || item.summary || '';
             const body = cleanPostText(
@@ -151,27 +289,32 @@ async function fetchRssFeed(config, sourceKey, platformMeta) {
             const imgMatch = html.match(/<img[^>]+src="([^">]+)"/);
             if (imgMatch) imageUrl = imgMatch[1];
 
-            const sourceForSummary = description.length > 80
-                ? `${title}. ${description}`
-                : title;
+            const sourceForSummary = body.length > 120
+                ? body
+                : description.length > 80
+                    ? `${title}. ${description}`
+                    : title;
 
             results.push({
-                id: item.guid || item.link,
+                id: item.link || item.guid || `${sourceKey}-${item.title}`,
                 platform: platformMeta.platform,
+                title,
                 author: {
                     name: platformMeta.authorName,
                     handle: platformMeta.authorHandle,
                     avatar_color: platformMeta.avatarColor,
                     avatar_url: platformMeta.avatarUrl || null,
                 },
-                content: title + (description ? `\n\n${description}` : ''),
-                summary_ko: await buildKoreanSummary(sourceForSummary),
+                content: body || title,
+                summary_ko: await buildKoreanSummary(sourceForSummary, { maxChars: SUMMARY_INPUT_CHARS }),
                 url: item.link,
                 image: imageUrl,
                 date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
                 likes: 0,
                 comments: 0,
             });
+
+            if (results.length >= itemLimit) break;
         }
         return results;
     } catch (e) {
@@ -197,7 +340,7 @@ async function fetchTwitter() {
                 if (jsonStartIndex === -1) throw new Error('No JSON array found');
                 const posts = JSON.parse(output.substring(jsonStartIndex, jsonEndIndex + 1));
                 for (const post of posts) {
-                    post.summary_ko = await buildKoreanSummary(post.content);
+                    post.summary_ko = await buildKoreanSummary(post.content, { maxChars: SUMMARY_INPUT_CHARS });
                 }
                 resolve(posts);
             } catch (e) {
@@ -215,7 +358,6 @@ async function main() {
 
     const fetchTasks = [
         fetchWithTimeout(fetchReddit(config), 'Reddit'),
-        fetchWithTimeout(fetchMastodon(config), 'Mastodon', 120000),
         fetchWithTimeout(
             fetchRssFeed(config, 'google', {
                 platform: 'Google',
@@ -225,26 +367,8 @@ async function main() {
             }),
             'Google'
         ),
-        fetchWithTimeout(
-            fetchRssFeed(config, 'cio', {
-                platform: 'CIO',
-                authorName: 'CIO.com',
-                authorHandle: '@CIO',
-                avatarColor: '#E51937',
-            }),
-            'CIO',
-            60000
-        ),
-        fetchWithTimeout(
-            fetchRssFeed(config, 'medium', {
-                platform: 'Medium',
-                authorName: 'Medium',
-                authorHandle: '@medium',
-                avatarColor: '#000000',
-            }),
-            'Medium',
-            60000
-        ),
+        fetchWithTimeout(fetchCio(config), 'CIO', 60000),
+        fetchWithTimeout(fetchMedium(config), 'Medium', 90000),
     ];
 
     if (ENABLE_TWITTER) {
@@ -272,12 +396,19 @@ async function main() {
     }
 
     const combinedPosts = [...existingPosts, ...allPosts];
-    const uniquePosts = Array.from(new Map(combinedPosts.map((item) => [item.id, item])).values());
+    const uniquePosts = Array.from(new Map(combinedPosts.map((item) => [item.id, item])).values())
+        .filter((item) => !shouldDropMediumPost(item));
 
     const cutoff = new Date();
     cutoff.setDate(cutoff.getDate() - 30);
     const recentPosts = uniquePosts
+        .filter((item) => item.platform !== 'Mastodon')
+        .filter((item) => !shouldDropMediumPost(item))
         .filter((item) => new Date(item.date) > cutoff)
+        .map((item) => ({
+            ...item,
+            summary_ko: item.summary_ko ? clipToMaxChars(item.summary_ko) : item.summary_ko,
+        }))
         .sort((a, b) => new Date(b.date) - new Date(a.date));
 
     fs.writeFileSync(outputPath, JSON.stringify(recentPosts, null, 2));

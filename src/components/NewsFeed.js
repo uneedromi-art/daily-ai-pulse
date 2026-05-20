@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import KeywordSettings from './KeywordSettings';
+import Header from './Header';
 import PostList from './PostList';
 
 export default function NewsFeed({ initialPosts = [] }) {
@@ -9,7 +9,7 @@ export default function NewsFeed({ initialPosts = [] }) {
 
     return (
         <>
-            <KeywordSettings onFilterChange={setKeywordFilter} />
+            <Header onFilterChange={setKeywordFilter} />
             <PostList initialPosts={initialPosts} keywordFilter={keywordFilter} />
         </>
     );

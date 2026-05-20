@@ -1,6 +1,34 @@
-:root {
-    --background: #000000;
-    --foreground: #ffffff;
+:root,
+[data-theme="dark"] {
+    --bg: #000000;
+    --bg-elevated: #111111;
+    --bg-card: #111111;
+    --bg-card-hover: #1a1a1a;
+    --border: #222222;
+    --border-strong: #333333;
+    --text: #ffffff;
+    --text-secondary: #999999;
+    --text-muted: #666666;
+    --text-body: #f0f0f0;
+    --accent: #c084fc;
+    --accent-soft: rgba(192, 132, 252, 0.15);
+    --shadow: rgba(0, 0, 0, 0.4);
+}
+
+[data-theme="light"] {
+    --bg: #f4f4f6;
+    --bg-elevated: #ffffff;
+    --bg-card: #ffffff;
+    --bg-card-hover: #fafafa;
+    --border: #e5e5ea;
+    --border-strong: #d1d1d6;
+    --text: #111111;
+    --text-secondary: #555555;
+    --text-muted: #888888;
+    --text-body: #222222;
+    --accent: #7c3aed;
+    --accent-soft: rgba(124, 58, 237, 0.1);
+    --shadow: rgba(0, 0, 0, 0.08);
 }
 
 * {
@@ -13,12 +41,13 @@ html,
 body {
     max-width: 100vw;
     overflow-x: hidden;
-    background-color: var(--background);
-    color: var(--foreground);
+    background-color: var(--bg);
+    color: var(--text);
     font-family: var(--font-sans-kr), "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     letter-spacing: -0.01em;
+    transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 a {
