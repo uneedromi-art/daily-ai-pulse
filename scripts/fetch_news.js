@@ -357,7 +357,7 @@ async function main() {
     console.log(`Keywords (${config.keywordMode}): ${config.keywords.join(', ')}`);
 
     const fetchTasks = [
-        fetchWithTimeout(fetchReddit(config), 'Reddit'),
+        fetchWithTimeout(fetchReddit(config), 'Reddit', 120000),
         fetchWithTimeout(
             fetchRssFeed(config, 'google', {
                 platform: 'Google',
@@ -365,10 +365,11 @@ async function main() {
                 authorHandle: '@GoogleAI',
                 avatarColor: '#4285F4',
             }),
-            'Google'
+            'Google',
+            120000
         ),
-        fetchWithTimeout(fetchCio(config), 'CIO', 60000),
-        fetchWithTimeout(fetchMedium(config), 'Medium', 90000),
+        fetchWithTimeout(fetchCio(config), 'CIO', 180000),
+        fetchWithTimeout(fetchMedium(config), 'Medium', 120000),
     ];
 
     if (ENABLE_TWITTER) {
@@ -377,10 +378,18 @@ async function main() {
         console.log('Skipping Twitter/X (ENABLE_TWITTER is not true)');
     }
 
+    const fetchTaskNames = ['Reddit', 'Google', 'CIO', 'Medium'];
+    if (ENABLE_TWITTER) fetchTaskNames.push('Twitter');
+
     const results = await Promise.allSettled(fetchTasks);
     const allPosts = [];
-    results.forEach((res) => {
-        if (res.status === 'fulfilled') allPosts.push(...res.value);
+    results.forEach((res, index) => {
+        const name = fetchTaskNames[index] || `task-${index}`;
+        if (res.status === 'fulfilled') {
+            allPosts.push(...res.value);
+        } else {
+            console.error(`[fetch] ${name} failed:`, res.reason?.message || res.reason);
+        }
     });
 
     const outputPath = path.join(process.cwd(), 'public', 'data', 'news.json');

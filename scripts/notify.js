@@ -11,33 +11,55 @@ function formatKSTDate(dateInput) {
 function getTodaySummary() {
     const newsPath = path.join(process.cwd(), 'public', 'data', 'news.json');
     if (!fs.existsSync(newsPath)) {
-        return { date: formatKSTDate(), count: 0, headlines: [] };
+        return { date: formatKSTDate(), count: 0, headlines: [], isLatestFallback: false };
     }
 
     const posts = JSON.parse(fs.readFileSync(newsPath, 'utf8'));
     const today = formatKSTDate();
-    const todayPosts = posts
+    let targetDate = today;
+    let todayPosts = posts
         .filter((p) => formatKSTDate(p.date) === today)
         .sort((a, b) => new Date(b.date) - new Date(a.date));
+
+    let isLatestFallback = false;
+    if (todayPosts.length === 0 && posts.length > 0) {
+        targetDate = posts.reduce((latest, p) => {
+            const d = formatKSTDate(p.date);
+            return d > latest ? d : latest;
+        }, formatKSTDate(posts[0].date));
+        todayPosts = posts
+            .filter((p) => formatKSTDate(p.date) === targetDate)
+            .sort((a, b) => new Date(b.date) - new Date(a.date));
+        isLatestFallback = targetDate !== today;
+    }
 
     const headlines = todayPosts.slice(0, 5).map((p) => {
         const text = (p.summary_ko || p.content || '').replace(/\s+/g, ' ').trim();
         return text.length > 80 ? `${text.slice(0, 80)}…` : text;
     });
 
-    return { date: today, count: todayPosts.length, headlines };
+    return { date: targetDate, count: todayPosts.length, headlines, isLatestFallback, todayKST: today };
 }
 
-function buildMessage({ date, count, headlines }) {
+function buildMessage({ date, count, headlines, isLatestFallback, todayKST }) {
     const lines = [
-        `📡 Daily AI Pulse — ${date}`,
-        `오늘 ${count}건의 AI 뉴스가 업데이트되었습니다.`,
+        `📡 Daily AI Pulse — ${todayKST || date}`,
     ];
+
+    if (isLatestFallback) {
+        lines.push(
+            `오늘(${todayKST}) 발행된 글은 없습니다. 최신 수집분(${date}) ${count}건입니다.`
+        );
+    } else if (count > 0) {
+        lines.push(`오늘 ${count}건의 AI 뉴스가 업데이트되었습니다.`);
+    } else {
+        lines.push('수집된 뉴스가 없습니다. fetch 로그를 확인해 보세요.');
+    }
 
     if (headlines.length > 0) {
         lines.push('');
         headlines.forEach((h, i) => lines.push(`${i + 1}. ${h}`));
-    } else {
+    } else if (!isLatestFallback) {
         lines.push('', '오늘 수집된 뉴스가 없습니다. 사이트에서 날짜를 확인해 보세요.');
     }
 
