@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T23:52:56.850Z",
+  "generatedAt": "2026-05-28T00:25:32.604Z",
   "feedUrl": "https://www.cio.com/kr/feed/",
   "keywords": [
     "artificial intelligence",
@@ -16,111 +16,111 @@
   "keywordMode": "any",
   "included": [
     {
-      "title": "CIOは「360°CIO」に進化する、では組織は追いついているか？",
+      "title": "Another IT governance headache: AI-enabled sanction evasion",
       "lang": "en",
-      "url": "https://www.cio.com/article/4172536/cio%e3%81%af%e3%80%8c360cio%e3%80%8d%e3%81%ab%e9%80%b2%e5%8c%96%e3%81%99%e3%82%8b%e3%80%81%e3%81%a7%e3%81%af%e7%b5%84%e7%b9%94%e3%81%af%e8%bf%bd%e3%81%84%e3%81%a4%e3%81%84%e3%81%a6%e3%81%84.html"
+      "url": "https://www.cio.com/article/4177854/another-it-governance-headache-ai-enabled-sanction-evasion.html"
     },
     {
-      "title": "How Australian CIOs can unlock the agentic AI advantage",
+      "title": "Cyber defense in the era of frontier AI: Insights from Mythos and GPT 5.5 Cyber",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177107/how-australian-cios-can-unlock-the-agentic-ai-advantage.html"
+      "url": "https://www.cio.com/article/4177927/cyber-defense-in-the-era-of-frontier-ai-insights-from-mythos-and-gpt-5-5-cyber.html"
     },
     {
-      "title": "Broadcom just handed you the business case you’ve been waiting for",
+      "title": "Why machine-speed exploits demand autonomous defense",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177114/broadcom-just-handed-you-the-business-case-youve-been-waiting-for.html"
+      "url": "https://www.cio.com/article/4177922/why-machine-speed-exploits-demand-autonomous-defense.html"
     },
     {
-      "title": "Warmy.Io Publishes Research On Barracuda Blacklist, Revealing Why Legitimate B2B Senders Get Blocked",
+      "title": "12 AI prompts that leak enterprise data—and how to fix them",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177226/warmy-io-publishes-research-on-barracuda-blacklist-revealing-why-legitimate-b2b-senders-get-blocked.html"
+      "url": "https://www.cio.com/article/4177917/12-ai-prompts-that-leak-enterprise-data-and-how-to-fix-them.html"
     },
     {
-      "title": "CIOs are enlisting business users to vibe code their own apps",
+      "title": "The agentic wave: Why advanced AI demands foundational security",
       "lang": "en",
-      "url": "https://www.cio.com/article/4176062/cios-are-enlisting-business-users-to-vibe-code-their-own-apps.html"
+      "url": "https://www.cio.com/article/4177900/the-agentic-wave-why-advanced-ai-demands-foundational-security.html"
     },
     {
-      "title": "AI 도입 막는 ‘데이터 문제’ 7가지 징후…기업은 왜 준비되지 않았나",
+      "title": "오픈텍스트 “UCMDB 기반 통합 가시성으로 IT 운영 효율 높여”",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4176947/ai-%eb%8f%84%ec%9e%85-%eb%a7%89%eb%8a%94-%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%ac%b8%ec%a0%9c-7%ea%b0%80%ec%a7%80-%ec%a7%95%ed%9b%84%ea%b8%b0%ec%97%85%ec%9d%80-%ec%99%9c-%ec%a4%80.html"
+      "url": "https://www.cio.com/article/4177520/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ucmdb-%ea%b8%b0%eb%b0%98-%ed%86%b5%ed%95%a9-%ea%b0%80%ec%8b%9c%ec%84%b1%ec%9c%bc%eb%a1%9c-it-%ec%9a%b4%ec%98%81-%ed%9a%a8%ec%9c%a8-%eb%86%92.html"
     },
     {
-      "title": "xAI-앤트로픽 계약, AI 컴퓨팅 ‘독립 사업’ 부상 신호탄",
+      "title": "최기영 전 스노우플레이크 한국 총괄, 앤트로픽 코리아 초대 지사장으로",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4176940/xai-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ea%b3%84%ec%95%bd-ai-%ec%bb%b4%ed%93%a8%ed%8c%85-%eb%8f%85%eb%a6%bd-%ec%82%ac%ec%97%85-%eb%b6%80%ec%83%81-%ec%8b%a0%ed%98%b8%ed%83%84.html"
+      "url": "https://www.cio.com/article/4177525/%ec%b5%9c%ea%b8%b0%ec%98%81-%ec%a0%84-%ec%8a%a4%eb%85%b8%ec%9a%b0%ed%94%8c%eb%a0%88%ec%9d%b4%ed%81%ac-%ed%95%9c%ea%b5%ad-%ec%b4%9d%ea%b4%84-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%bd%94%eb%a6%ac.html"
     },
     {
-      "title": "MS, AI 에이전트 보안 강화 위한 오픈소스 도구 ‘램파트·클래리티’ 공개",
+      "title": "오픈AI, 한국에 ‘데이브레이크’ 도입…정부·공공기관 AI 보안 지원 본격화",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4176902/ms-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%b3%b4%ec%95%88-%ea%b0%95%ed%99%94-%ec%9c%84%ed%95%9c-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%8f%84%ea%b5%ac-%eb%9e%a8%ed%8c%8c%ed%8a%b8%c2%b7.html"
+      "url": "https://www.cio.com/article/4177506/%ec%98%a4%ed%94%88ai-%ed%95%9c%ea%b5%ad%ec%97%90-%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-%eb%8f%84%ec%9e%85%ec%a0%95%eb%b6%80%c2%b7%ea%b3%b5%ea%b3%b5.html"
+    },
+    {
+      "title": "칼럼 | 임원 사칭부터 결제 사기까지…딥페이크, 기업 리스크로 번지다",
+      "lang": "ko",
+      "url": "https://www.cio.com/article/4177494/%ec%b9%bc%eb%9f%bc-%ec%9e%84%ec%9b%90-%ec%82%ac%ec%b9%ad%eb%b6%80%ed%84%b0-%ea%b2%b0%ec%a0%9c-%ec%82%ac%ea%b8%b0%ea%b9%8c%ec%a7%80%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac-%ea%b8%b0%ec%97%85.html"
+    },
+    {
+      "title": "기업 AI 도입 핵심 부상 ‘FDE’… MS·EY 대규모 투자 단행",
+      "lang": "ko",
+      "url": "https://www.cio.com/article/4176972/%ea%b8%b0%ec%97%85-ai-%eb%8f%84%ec%9e%85-%ed%95%b5%ec%8b%ac-%eb%b6%80%ec%83%81-fde-ms%c2%b7ey-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ed%88%ac%ec%9e%90-%eb%8b%a8%ed%96%89.html"
     }
   ],
   "skipped": [
     {
-      "title": "Connected vehicles, disconnected security: Why connectivity architecture now matters most",
+      "title": "Netherlands blocks Kyndryl’s Solvinity acquisition citing public risk",
       "lang": "en",
       "reason": "keyword"
     },
     {
-      "title": "What is a data analyst? A key role for data-driven business decisions",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "The security assumption agentic AI just broke",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "From Process to Chip: How Wipro and Intel Are Delivering ROI-First AI for the Enterprise",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "Why scaling AI requires both left-brain rigor and right-brain ingenuity",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "Las trampas de modernización de TI que los CIO deben evitar",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "データを使い倒して変革の最前線に立つために——コスモエネルギーCDOが語る「チェンジマネジメント」の本質",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "Google adds open source Agent Executor to support AI agents in production",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "IA, ingresos y resiliencia redefinen el papel del CIO",
+      "title": "How to get ahead of digital friction before it impacts your profitability",
       "lang": "en",
       "reason": "keyword"
     },
     {
-      "title": "El viaje de la Comunitat Valenciana hacia una salud digital más inclusiva, ética y eficiente",
-      "lang": "en",
-      "reason": "keyword"
-    },
-    {
-      "title": "8 IT modernization traps CIOs must avoid",
+      "title": "La estrategia de IA pierde talento sin personas en el centro",
       "lang": "en",
       "reason": "englishLimit"
     },
     {
-      "title": "Why relationships are the hidden infrastructure of AI transformation",
+      "title": "The AI talent problem CIOs cannot delegate to HR",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "When GPU utilization lies: The FinOps blind spot in secure AI training",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Why enterprise AI initiatives stall — and what CIOs can do about it",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "How Georgia-Pacific drives autonomous decision-making",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "The experience tax: How annoying software is quietly eroding customer loyalty",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Companies are spending billions to train workers for AI. Most of it will fail",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Innovate fast, owe less: A practical path to help reduce AI security debt",
       "lang": "en",
       "reason": "englishLimit"
     }
   ],
   "summary": {
-    "korean": 3,
+    "korean": 5,
     "english": 5,
-    "total": 8
+    "total": 10
   }
 }

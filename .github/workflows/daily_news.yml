@@ -40,8 +40,12 @@ jobs:
           git push
 
       - name: Discord notification
-        if: ${{ secrets.DISCORD_WEBHOOK_URL != '' }}
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-        run: node -e "require('./scripts/notify').notifyDailySummary()"
+        run: |
+          if [ -n "$DISCORD_WEBHOOK_URL" ]; then
+            node -e "require('./scripts/notify').notifyDailySummary()"
+          else
+            echo "DISCORD_WEBHOOK_URL not set — skipping Discord notification"
+          fi
