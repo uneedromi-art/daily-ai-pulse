@@ -11,7 +11,7 @@ import {
     downloadFeedConfig,
 } from '@/lib/feedConfig';
 
-export default function KeywordSettings({ open, onClose, onFilterChange }) {
+export default function KeywordSettings({ open, onClose }) {
     const [baseConfig, setBaseConfig] = useState(null);
     const [keywordsText, setKeywordsText] = useState('');
     const [keywordMode, setKeywordMode] = useState('any');
@@ -24,7 +24,6 @@ export default function KeywordSettings({ open, onClose, onFilterChange }) {
                 setBaseConfig(base);
                 const user = loadUserFeedConfig();
                 const merged = mergeFeedConfig(base, user);
-                applyToParent(merged);
                 setKeywordsText((merged.keywords || []).join(', '));
                 setKeywordMode(merged.keywordMode || 'any');
             })
@@ -43,13 +42,6 @@ export default function KeywordSettings({ open, onClose, onFilterChange }) {
             .catch(() => setCioLog(null));
     }, [open]);
 
-    const applyToParent = (config) => {
-        onFilterChange?.({
-            keywords: config.keywords || [],
-            keywordMode: config.keywordMode || 'any',
-        });
-    };
-
     const handleApply = () => {
         if (!baseConfig) return;
         const keywords = keywordsText
@@ -59,9 +51,7 @@ export default function KeywordSettings({ open, onClose, onFilterChange }) {
 
         const override = { keywords, keywordMode };
         saveUserFeedConfig(override);
-        const merged = mergeFeedConfig(baseConfig, override);
-        applyToParent(merged);
-        setMessage('화면 필터에 적용했습니다.');
+        setMessage('저장했습니다. public/data/feed-config.json에 반영 후 fetch-news를 실행하세요.');
         onClose?.();
     };
 
@@ -70,7 +60,6 @@ export default function KeywordSettings({ open, onClose, onFilterChange }) {
         if (baseConfig) {
             setKeywordsText((baseConfig.keywords || []).join(', '));
             setKeywordMode(baseConfig.keywordMode || 'any');
-            applyToParent(baseConfig);
         }
         setMessage('기본 설정으로 되돌렸습니다.');
     };
@@ -111,7 +100,8 @@ export default function KeywordSettings({ open, onClose, onFilterChange }) {
                 </div>
 
                 <p className={styles.help}>
-                    Reddit·Google은 주제 고정. CIO·Medium은 수집 시 키워드 필터.
+                    Reddit·Google은 주제 고정. CIO·Medium은 수집(fetch-news) 시 키워드 필터.
+                    화면에는 news.json에 저장된 글을 날짜별로 그대로 표시합니다.
                     Medium은 유료/티저(Continue reading) 글 제외, 본문 충분한 글만 수집합니다.
                 </p>
 
@@ -164,7 +154,7 @@ export default function KeywordSettings({ open, onClose, onFilterChange }) {
 
                 <div className={styles.actions}>
                     <button type="button" className={styles.primary} onClick={handleApply}>
-                        화면에 적용
+                        저장
                     </button>
                     <button type="button" className={styles.secondary} onClick={handleDownload}>
                         수집용 설정 다운로드

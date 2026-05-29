@@ -4,10 +4,9 @@ import { useSearchParams } from 'next/navigation';
 import Card from './Card';
 import ArchiveNav from './ArchiveNav';
 import styles from '../app/page.module.css';
-import { formatKSTDate, previousKSTDate } from '../lib/dateUtils';
-import { postMatchesKeywords } from '../lib/feedConfig';
+import { formatKSTDate } from '../lib/dateUtils';
 
-export default function PostList({ initialPosts = [], keywordFilter = null }) {
+export default function PostList({ initialPosts = [] }) {
     const searchParams = useSearchParams();
     const queryDate = searchParams.get('date');
 
@@ -27,29 +26,13 @@ export default function PostList({ initialPosts = [], keywordFilter = null }) {
         ? formatKSTDate(sortedPosts[0].date)
         : nowKSTStr;
 
-    // Use queryDate if present, otherwise default to latest available date (or today KST if no data)
-    // The previous logic favored latestDateStr over real today to avoid empty pages.
-    const currentDate = queryDate || latestPostDateStr;
-
-    // Filter Logic using KST
-    const isLatestDayView = !queryDate && currentDate === latestPostDateStr;
-    const cioCarryDate = isLatestDayView ? previousKSTDate(currentDate) : null;
+    // 기본: 오늘(KST) 날짜. 오늘 글이 없으면 데이터에 있는 최신 날짜
+    const hasPostsToday = sortedPosts.some((p) => formatKSTDate(p.date) === nowKSTStr);
+    const currentDate = queryDate || (hasPostsToday ? nowKSTStr : latestPostDateStr);
 
     const filteredPosts = sortedPosts.filter((post) => {
         const postDateKST = formatKSTDate(post.date);
-        const dateMatch = postDateKST === currentDate
-            || (post.platform === 'CIO' && cioCarryDate && postDateKST === cioCarryDate);
-        if (!dateMatch) return false;
-        // CIO·Medium은 fetch-news 단계에서 이미 키워드 필터됨 (화면 재필터 시 제목만 검사되어 누락됨)
-        const skipKeywordFilter = post.platform === 'CIO' || post.platform === 'Medium';
-        if (!skipKeywordFilter && keywordFilter?.keywords?.length) {
-            return postMatchesKeywords(
-                post,
-                keywordFilter.keywords,
-                keywordFilter.keywordMode || 'any'
-            );
-        }
-        return true;
+        return postDateKST === currentDate;
     });
 
     console.log(`Filtering for ${currentDate} (KST): Found ${filteredPosts.length} posts`);

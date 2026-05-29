@@ -5,7 +5,7 @@ import styles from './Header.module.css';
 import KeywordSettings from './KeywordSettings';
 import { useTheme } from './ThemeProvider';
 
-export default function Header({ onFilterChange }) {
+export default function Header() {
     const [settingsOpen, setSettingsOpen] = useState(false);
     const { theme, toggleTheme } = useTheme();
 
@@ -68,7 +68,6 @@ export default function Header({ onFilterChange }) {
             <KeywordSettings
                 open={settingsOpen}
                 onClose={() => setSettingsOpen(false)}
-                onFilterChange={onFilterChange}
             />
         </>
     );

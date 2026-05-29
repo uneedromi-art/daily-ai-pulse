@@ -2,6 +2,7 @@
 
 import styles from './Card.module.css';
 import { clipSummary } from '@/lib/summaryDisplay';
+import { formatUtcDate } from '@/lib/dateUtils';
 
 function getTitle(item) {
     if (item.title?.trim()) return item.title.trim();
@@ -86,7 +87,7 @@ export default function Card({ item }) {
                                 <span className={styles.dateText}>
                                     {(() => {
                                         try {
-                                            return new Date(item.date).toISOString().split('T')[0];
+                                            return formatUtcDate(item.date);
                                         } catch {
                                             return '';
                                         }

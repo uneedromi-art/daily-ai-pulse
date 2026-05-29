@@ -12,6 +12,12 @@ export const getKSTDate = (dateInput) => {
     return new Date(date.getTime() + (3600000 * 9));
 };
 
+/** UTC 기준 YYYY-MM-DD (카드 표시용) */
+export const formatUtcDate = (dateInput) => {
+    const date = dateInput ? new Date(dateInput) : new Date();
+    return date.toISOString().split('T')[0];
+};
+
 // Helper to format a date as YYYY-MM-DD in KST
 export const formatKSTDate = (dateInput) => {
     const kstDate = getKSTDate(dateInput);

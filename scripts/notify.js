@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const os = require('os');
+const { execFileSync } = require('child_process');
+const notifier = require('node-notifier');
 
 function formatKSTDate(dateInput) {
     const date = dateInput ? new Date(dateInput) : new Date();
@@ -85,19 +87,18 @@ async function sendDiscord(message) {
     return true;
 }
 
-function toUtf16LeBase64(text) {
-    return Buffer.from(String(text), 'utf16le').toString('base64');
-}
-
 function getSiteUrl() {
     return (process.env.SITE_URL || 'http://localhost:3000').trim();
 }
 
 function buildToastBody(summary) {
-    const { date, count, headlines } = summary;
+    const { date, count, headlines, isLatestFallback, todayKST } = summary;
     const lead = headlines[0]
         ? headlines[0].replace(/\s+/g, ' ').slice(0, 100)
         : '사이트에서 오늘 뉴스를 확인하세요.';
+    if (isLatestFallback) {
+        return `${todayKST} · 오늘 0건, 최신 ${date} ${count}건\n${lead}`;
+    }
     return `${date} · 오늘 ${count}건\n${lead}`;
 }
 
@@ -105,43 +106,60 @@ function sendWindowsToast(title, body) {
     if (process.platform !== 'win32') return false;
     if (process.env.NOTIFY_WINDOWS === 'false') return false;
 
-    const titleB64 = toUtf16LeBase64(title);
-    const bodyB64 = toUtf16LeBase64(body);
-    const urlB64 = toUtf16LeBase64(getSiteUrl());
-    const actionLabelB64 = toUtf16LeBase64('뉴스 보기');
+    const siteUrl = getSiteUrl();
 
-    // 클릭 시 브라우저 열기: Activated 이벤트 + 하단 버튼(protocol)
-    const ps1 = [
-        '[Console]::OutputEncoding = [System.Text.Encoding]::UTF8',
-        'function Read-UniB64([string]$s) {',
-        '  [System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String($s))',
-        '}',
-        `$title = [System.Security.SecurityElement]::Escape((Read-UniB64 '${titleB64}'))`,
-        `$body  = [System.Security.SecurityElement]::Escape((Read-UniB64 '${bodyB64}'))`,
-        `$siteUrl = Read-UniB64 '${urlB64}'`,
-        `$actionLabel = [System.Security.SecurityElement]::Escape((Read-UniB64 '${actionLabelB64}'))`,
-        '$urlArg = [System.Security.SecurityElement]::Escape($siteUrl)',
-        '[Windows.UI.Notifications.ToastNotificationManager, Windows.UI.Notifications, ContentType = WindowsRuntime] | Out-Null',
-        '[Windows.Data.Xml.Dom.XmlDocument, Windows.Data.Xml.Dom.XmlDocument, ContentType = WindowsRuntime] | Out-Null',
-        '$xml = New-Object Windows.Data.Xml.Dom.XmlDocument',
-        '$xml.LoadXml([string]::Format(',
-        "  '<toast launch=\"{0}\"><visual><binding template=\"{1}\"><text id=\"1\">{2}</text><text id=\"2\">{3}</text></binding></visual><actions><action content=\"{4}\" arguments=\"{0}\" activationType=\"protocol\"/></actions></toast>',",
-        '  $urlArg, "ToastText02", $title, $body, $actionLabel))',
-        '$toast = [Windows.UI.Notifications.ToastNotification]::new($xml)',
-        '$reg = [Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier("Daily AI Pulse")',
-        '$handler = [Windows.Foundation.TypedEventHandler[Windows.UI.Notifications.ToastNotification, object]]::new({',
-        '  param($sender, $e)',
-        '  Start-Process $siteUrl',
-        '})',
-        '$toast.Add_Activated($handler)',
-        '$reg.Show($toast)',
-    ].join('\n');
+    try {
+        notifier.notify({
+            title,
+            message: body,
+            icon: path.join(process.cwd(), 'public', 'favicon.ico'),
+            appID: 'Daily AI Pulse',
+            wait: false,
+        });
+        return true;
+    } catch (primaryError) {
+        console.warn('[notify] node-notifier 실패, PowerShell 폴백 시도:', primaryError.message);
+    }
 
-    const encoded = Buffer.from(ps1, 'utf16le').toString('base64');
-    execSync(`powershell -NoProfile -ExecutionPolicy Bypass -EncodedCommand ${encoded}`, {
-        stdio: 'ignore',
-    });
-    return true;
+    const scriptPath = path.join(__dirname, 'show-windows-toast.ps1');
+    if (!fs.existsSync(scriptPath)) {
+        throw new Error('show-windows-toast.ps1 not found');
+    }
+
+    const payloadPath = path.join(os.tmpdir(), `daily-ai-pulse-toast-${process.pid}.json`);
+    fs.writeFileSync(
+        payloadPath,
+        JSON.stringify({
+            title,
+            body,
+            url: siteUrl,
+            actionLabel: '뉴스 보기',
+        }),
+        'utf8'
+    );
+
+    try {
+        execFileSync(
+            'powershell.exe',
+            [
+                '-NoProfile',
+                '-ExecutionPolicy',
+                'Bypass',
+                '-File',
+                scriptPath,
+                '-PayloadPath',
+                payloadPath,
+            ],
+            { stdio: 'ignore', windowsHide: true }
+        );
+        return true;
+    } finally {
+        try {
+            fs.unlinkSync(payloadPath);
+        } catch {
+            /* ignore */
+        }
+    }
 }
 
 async function notifyDailySummary() {
@@ -172,6 +190,7 @@ async function notifyDailySummary() {
         }
     } catch (e) {
         console.warn('[notify] Windows 알림 실패:', e.message);
+        console.warn('[notify] AhnLab 등 보안 SW가 powershell.exe를 차단하면 NOTIFY_WINDOWS=false 로 끄세요.');
     }
 
     if (results.length === 0 && !process.env.DISCORD_WEBHOOK_URL) {

@@ -357,7 +357,7 @@ async function main() {
     console.log(`Keywords (${config.keywordMode}): ${config.keywords.join(', ')}`);
 
     const fetchTasks = [
-        fetchWithTimeout(fetchReddit(config), 'Reddit', 120000),
+        fetchWithTimeout(fetchReddit(config), 'Reddit', 180000),
         fetchWithTimeout(
             fetchRssFeed(config, 'google', {
                 platform: 'Google',
@@ -366,10 +366,10 @@ async function main() {
                 avatarColor: '#4285F4',
             }),
             'Google',
-            120000
+            180000
         ),
-        fetchWithTimeout(fetchCio(config), 'CIO', 180000),
-        fetchWithTimeout(fetchMedium(config), 'Medium', 120000),
+        fetchWithTimeout(fetchCio(config), 'CIO', 300000),
+        fetchWithTimeout(fetchMedium(config), 'Medium', 180000),
     ];
 
     if (ENABLE_TWITTER) {

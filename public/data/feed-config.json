@@ -59,9 +59,9 @@
       ],
       "limit": 4,
       "maxScanItems": 60,
-      "minBodyChars": 450,
+      "minBodyChars": 80,
       "filterByKeywords": true,
-      "note": "Medium — 유료/티저 제외, 전문 읽기 가능한 글만 (페이지 본문 추출 포함)"
+      "note": "Medium — Member-only·Continue reading 티저 제외, 페이지 HTML로 무료 전문 확인"
     }
   }
 }

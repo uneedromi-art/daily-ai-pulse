@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T00:25:32.604Z",
+  "generatedAt": "2026-05-28T23:09:35.306Z",
   "feedUrl": "https://www.cio.com/kr/feed/",
   "keywords": [
     "artificial intelligence",
@@ -16,111 +16,111 @@
   "keywordMode": "any",
   "included": [
     {
-      "title": "Another IT governance headache: AI-enabled sanction evasion",
+      "title": "Keet: Tether’s P2P communication app built to survive internet shutdowns",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177854/another-it-governance-headache-ai-enabled-sanction-evasion.html"
+      "url": "https://www.cio.com/article/4175793/keet-tethers-p2p-communication-app-built-to-survive-internet-shutdowns.html"
     },
     {
-      "title": "Cyber defense in the era of frontier AI: Insights from Mythos and GPT 5.5 Cyber",
+      "title": "Transforming your SOC from reactive monitoring to strategic defense",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177927/cyber-defense-in-the-era-of-frontier-ai-insights-from-mythos-and-gpt-5-5-cyber.html"
+      "url": "https://www.cio.com/article/4178300/transforming-your-soc-from-reactive-monitoring-to-strategic-defense.html"
     },
     {
-      "title": "Why machine-speed exploits demand autonomous defense",
+      "title": "AI agents are the actor your Kubernetes governance didn’t plan for",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177922/why-machine-speed-exploits-demand-autonomous-defense.html"
+      "url": "https://www.cio.com/article/4177347/ai-agents-are-the-actor-your-kubernetes-governance-didnt-plan-for.html"
     },
     {
-      "title": "12 AI prompts that leak enterprise data—and how to fix them",
+      "title": "Why software development is changing for good",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177917/12-ai-prompts-that-leak-enterprise-data-and-how-to-fix-them.html"
+      "url": "https://www.cio.com/article/4177302/why-software-development-is-changing-for-good.html"
     },
     {
-      "title": "The agentic wave: Why advanced AI demands foundational security",
+      "title": "Hyper-personalization in the age of agentic AI: How regulated industries can do it with guardrails",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177900/the-agentic-wave-why-advanced-ai-demands-foundational-security.html"
+      "url": "https://www.cio.com/article/4177299/hyper-personalization-in-the-age-of-agentic-ai-how-regulated-industries-can-do-it-with-guardrails.html"
     },
     {
-      "title": "오픈텍스트 “UCMDB 기반 통합 가시성으로 IT 운영 효율 높여”",
+      "title": "AI 보안, 이제는 모델이 아니라 시스템 중심으로 접근해야",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4177520/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ucmdb-%ea%b8%b0%eb%b0%98-%ed%86%b5%ed%95%a9-%ea%b0%80%ec%8b%9c%ec%84%b1%ec%9c%bc%eb%a1%9c-it-%ec%9a%b4%ec%98%81-%ed%9a%a8%ec%9c%a8-%eb%86%92.html"
+      "url": "https://www.cio.com/article/4178056/ai-%eb%b3%b4%ec%95%88-%ec%9d%b4%ec%a0%9c%eb%8a%94-%eb%aa%a8%eb%8d%b8%ec%9d%b4-%ec%95%84%eb%8b%88%eb%9d%bc-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%a4%91%ec%8b%ac%ec%9c%bc%eb%a1%9c-%ec%a0%91%ea%b7%bc%ed%95%b4.html"
     },
     {
-      "title": "최기영 전 스노우플레이크 한국 총괄, 앤트로픽 코리아 초대 지사장으로",
+      "title": "AI가 취약점 1만 건 캐냈지만…진짜 병목은 ‘패치’였다",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4177525/%ec%b5%9c%ea%b8%b0%ec%98%81-%ec%a0%84-%ec%8a%a4%eb%85%b8%ec%9a%b0%ed%94%8c%eb%a0%88%ec%9d%b4%ed%81%ac-%ed%95%9c%ea%b5%ad-%ec%b4%9d%ea%b4%84-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%bd%94%eb%a6%ac.html"
+      "url": "https://www.cio.com/article/4178047/ai%ea%b0%80-%ec%b7%a8%ec%95%bd%ec%a0%90-1%eb%a7%8c-%ea%b1%b4-%ec%ba%90%eb%83%88%ec%a7%80%eb%a7%8c%ec%a7%84%ec%a7%9c-%eb%b3%91%eb%aa%a9%ec%9d%80-%ed%8c%a8%ec%b9%98%ec%98%80.html"
     },
     {
-      "title": "오픈AI, 한국에 ‘데이브레이크’ 도입…정부·공공기관 AI 보안 지원 본격화",
+      "title": "“개발팀에 맡기는 시대는 끝났다” CIO, 바이브 코딩으로 현업 자급자족 시대 연다",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4177506/%ec%98%a4%ed%94%88ai-%ed%95%9c%ea%b5%ad%ec%97%90-%eb%8d%b0%ec%9d%b4%eb%b8%8c%eb%a0%88%ec%9d%b4%ed%81%ac-%eb%8f%84%ec%9e%85%ec%a0%95%eb%b6%80%c2%b7%ea%b3%b5%ea%b3%b5.html"
-    },
-    {
-      "title": "칼럼 | 임원 사칭부터 결제 사기까지…딥페이크, 기업 리스크로 번지다",
-      "lang": "ko",
-      "url": "https://www.cio.com/article/4177494/%ec%b9%bc%eb%9f%bc-%ec%9e%84%ec%9b%90-%ec%82%ac%ec%b9%ad%eb%b6%80%ed%84%b0-%ea%b2%b0%ec%a0%9c-%ec%82%ac%ea%b8%b0%ea%b9%8c%ec%a7%80%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac-%ea%b8%b0%ec%97%85.html"
-    },
-    {
-      "title": "기업 AI 도입 핵심 부상 ‘FDE’… MS·EY 대규모 투자 단행",
-      "lang": "ko",
-      "url": "https://www.cio.com/article/4176972/%ea%b8%b0%ec%97%85-ai-%eb%8f%84%ec%9e%85-%ed%95%b5%ec%8b%ac-%eb%b6%80%ec%83%81-fde-ms%c2%b7ey-%eb%8c%80%ea%b7%9c%eb%aa%a8-%ed%88%ac%ec%9e%90-%eb%8b%a8%ed%96%89.html"
+      "url": "https://www.cio.com/article/4178024/%ea%b0%9c%eb%b0%9c%ed%8c%80%ec%97%90-%eb%a7%a1%ea%b8%b0%eb%8a%94-%ec%8b%9c%eb%8c%80%eb%8a%94-%eb%81%9d%eb%82%ac%eb%8b%a4-cio-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9%ec%9c%bc.html"
     }
   ],
   "skipped": [
     {
-      "title": "Netherlands blocks Kyndryl’s Solvinity acquisition citing public risk",
+      "title": "誰も認めないCIOの後継者問題",
       "lang": "en",
       "reason": "keyword"
     },
     {
-      "title": "How to get ahead of digital friction before it impacts your profitability",
+      "title": "Del catálogo al proyecto arquitectónico",
       "lang": "en",
       "reason": "keyword"
     },
     {
-      "title": "La estrategia de IA pierde talento sin personas en el centro",
+      "title": "Snowflake to acquire MCP-focused Natoma to boost governance for AI agents",
       "lang": "en",
       "reason": "englishLimit"
     },
     {
-      "title": "The AI talent problem CIOs cannot delegate to HR",
+      "title": "The AI governance imperative you can’t afford to ignore",
       "lang": "en",
       "reason": "englishLimit"
     },
     {
-      "title": "When GPU utilization lies: The FinOps blind spot in secure AI training",
+      "title": "This is not a security problem — Anthropic’s Mythos, GlassWing and how the industry must move forward",
       "lang": "en",
       "reason": "englishLimit"
     },
     {
-      "title": "Why enterprise AI initiatives stall — and what CIOs can do about it",
+      "title": "Developing a customer-first culture for IT",
       "lang": "en",
       "reason": "englishLimit"
     },
     {
-      "title": "How Georgia-Pacific drives autonomous decision-making",
+      "title": "AI will replace far fewer jobs than ignorance will",
       "lang": "en",
       "reason": "englishLimit"
     },
     {
-      "title": "The experience tax: How annoying software is quietly eroding customer loyalty",
+      "title": "Los CIO incorporan a usuarios de negocio para que desarrollen sus propias aplicaciones con ‘vibe coding’",
       "lang": "en",
       "reason": "englishLimit"
     },
     {
-      "title": "Companies are spending billions to train workers for AI. Most of it will fail",
+      "title": "Another IT governance headache: AI-enabled sanction evasion",
       "lang": "en",
       "reason": "englishLimit"
     },
     {
-      "title": "Innovate fast, owe less: A practical path to help reduce AI security debt",
+      "title": "Cyber defense in the era of frontier AI: Insights from Mythos and GPT 5.5 Cyber",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Why machine-speed exploits demand autonomous defense",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "12 AI prompts that leak enterprise data—and how to fix them",
       "lang": "en",
       "reason": "englishLimit"
     }
   ],
   "summary": {
-    "korean": 5,
+    "korean": 3,
     "english": 5,
-    "total": 10
+    "total": 8
   }
 }
