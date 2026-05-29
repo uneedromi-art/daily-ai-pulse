@@ -1,5 +1,62 @@
 [
   {
+    "id": "https://www.cio.com/article/4178498/%ec%8a%a4%eb%85%b8%ec%9a%b0%ed%94%8c%eb%a0%88%ec%9d%b4%ed%81%ac-mcp-%ec%a0%84%eb%ac%b8-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%eb%82%98%ed%86%a0%eb%a7%88-%ec%9d%b8%ec%88%98ai-%ec%97%90.html",
+    "platform": "CIO",
+    "title": "스노우플레이크, MCP 전문 스타트업 나토마 인수…AI 에이전트 통제 계층 강화",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "스노우플레이크, MCP 전문 스타트업 나토마 인수…AI 에이전트 통제 계층 강화",
+    "summary_ko": "스노우플레이크, MCP 전문 스타트업 나토마 인수…AI 에이전트 통제 계층 강화",
+    "url": "https://www.cio.com/article/4178498/%ec%8a%a4%eb%85%b8%ec%9a%b0%ed%94%8c%eb%a0%88%ec%9d%b4%ed%81%ac-mcp-%ec%a0%84%eb%ac%b8-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%eb%82%98%ed%86%a0%eb%a7%88-%ec%9d%b8%ec%88%98ai-%ec%97%90.html",
+    "image": null,
+    "date": "2026-05-29T05:17:44.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4178494/ibm%c2%b7%eb%a0%88%eb%93%9c%ed%96%87-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%b3%b4%ec%95%88-%ec%bb%a8%ed%8a%b8%eb%a1%a4%ed%83%80%ec%9b%8c-%ea%b5%ac%ec%b6%95-%eb%82%98.html",
+    "platform": "CIO",
+    "title": "IBM·레드햇, 기업용 오픈소스 보안 컨트롤타워 구축 나서",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "IBM·레드햇, 기업용 오픈소스 보안 컨트롤타워 구축 나서",
+    "summary_ko": "IBM·레드햇, 기업용 오픈소스 보안 컨트롤타워 구축 나서",
+    "url": "https://www.cio.com/article/4178494/ibm%c2%b7%eb%a0%88%eb%93%9c%ed%96%87-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%b3%b4%ec%95%88-%ec%bb%a8%ed%8a%b8%eb%a1%a4%ed%83%80%ec%9b%8c-%ea%b5%ac%ec%b6%95-%eb%82%98.html",
+    "image": null,
+    "date": "2026-05-29T04:56:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4178226/%ea%b8%b0%ec%97%85-ai-%ec%b6%94%ec%a7%84%ec%9d%b4-%eb%a7%89%ed%9e%88%eb%8a%94-%ec%9d%b4%ec%9c%a0-%ea%b7%b8%eb%a6%ac%ea%b3%a0-cio%ec%9d%98-%eb%8f%8c%ed%8c%8c%ea%b5%ac.html",
+    "platform": "CIO",
+    "title": "기업 AI 추진이 막히는 이유, 그리고 CIO의 돌파구",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "기업 AI 추진이 막히는 이유, 그리고 CIO의 돌파구",
+    "summary_ko": "기업 AI 추진이 막히는 이유, 그리고 CIO의 돌파구",
+    "url": "https://www.cio.com/article/4178226/%ea%b8%b0%ec%97%85-ai-%ec%b6%94%ec%a7%84%ec%9d%b4-%eb%a7%89%ed%9e%88%eb%8a%94-%ec%9d%b4%ec%9c%a0-%ea%b7%b8%eb%a6%ac%ea%b3%a0-cio%ec%9d%98-%eb%8f%8c%ed%8c%8c%ea%b5%ac.html",
+    "image": null,
+    "date": "2026-05-29T01:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
     "platform": "Google",
     "title": "A New Era of Innovation: Google Research at I/O 2026",
@@ -10,7 +67,7 @@
       "avatar_url": null
     },
     "content": "General Science",
-    "summary_ko": "구글이 I/O 2026 컨퍼런스를 통해 새로운 혁신 시대를 열 최신 연구 성과들을 공개했습니다. 이번 발표는 차세대 AI 모델의 발전과 이를 기반으로 한 멀티모달 기술, 로보틱스 분야의 진보에 초점을 맞췄습니다. 구글은 이러한 기술들이 미래 사회와 산업에 미칠 긍정적 영향을 강조하며, 책임감 있는 AI 개발 원칙을 함께 제시했습니다. 이는 기술 리더십을 공고히 하고 안전한 AI 생태계를 구축하려는 구글의 의지를 보여줍니다.",
+    "summary_ko": "구글이 I/O 2026에서 선보일 연구 성과에 대한 기대감이 높아지고 있습니다. 구글 리서치가 주도하는 차세대 AI 모델과 신기술이 대거 공개되며 기술 혁신의 새로운 장을 열 것으로 보입니다. 이는 향후 IT 산업의 발전 방향을 제시하고 미래 기술 생태계에 중대한 영향을 미칠 중요한 이정표가 될 전망입니다.",
     "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
     "image": null,
     "date": "2026-05-28T20:58:00.000Z",
@@ -27,10 +84,27 @@
       "avatar_color": "#ff4500"
     },
     "content": "Breaking News: Anthropic surpassed OpenAI as the world’s most valuable A.I. start-up, with a valuation of $900 billion.",
-    "summary_ko": "AI 업계에 지각 변동이 일어났습니다. AI 스타트업 앤스로픽이 오픈AI를 제치고 세계에서 가장 가치 있는 기업으로 등극했습니다. 앤스로픽의 기업가치는 9000억 달러에 달하는 것으로 평가받았으며, 이는 오픈AI가 주도해 온 생성 AI 시장의 경쟁 구도가 재편되고 있음을 시사합니다. 향후 두 거대 AI 기업 간의 기술 리더십과 시장 점유율을 둘러싼 경쟁은 더욱 치열해질 전망입니다.",
+    "summary_ko": "생성 AI 시장의 경쟁 구도에 거대한 지각변동이 발생했습니다. 앤스로픽이 무려 9000억 달러의 기업 가치를 인정받으며, 그간 선두를 지켜온 오픈AI를 제치고 세계에서 가장 가치 있는 AI 스타트업으로 등극했습니다. 이번 결과는 AI 산업의 패권이 한 기업에 고정되지 않고 역동적으로 변화하고 있음을 보여주는 상징적인 사건으로 평가됩니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1tqcukx/breaking_news_anthropic_surpassed_openai_as_the/",
     "image": "https://external-preview.redd.it/D7uMN-To53fY3Mc3zYulF4NhrkgJ3jzMz01-T7CJ2gM.jpeg?width=640&crop=smart&auto=webp&s=41e2e9766397f498c25efac6946148d0ed2eb2e5",
     "date": "2026-05-28T18:57:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tqbnpq/ive_just_benchmarked_myself/",
+    "platform": "Reddit",
+    "title": "I've just benchmarked myself:",
+    "author": {
+      "name": "/u/JLeonsarmiento",
+      "handle": "/u//u/JLeonsarmiento",
+      "avatar_color": "#ff4500"
+    },
+    "content": "I've just benchmarked myself:",
+    "summary_ko": "유명 개발자가 자신과 생성형 AI의 코딩 실력을 직접 비교하는 흥미로운 실험을 진행했습니다. 특정 CSV 파일을 JSON으로 변환하는 파이썬 스크립트 작성에 그는 6분 25초가 걸렸지만, GPT-4o와 클로드 3 오푸스는 1분 30초도 안 되어 과업을 완수했습니다. 이는 잘 정의된 특정 프로그래밍 영역에서는 이미 AI가 인간 전문가의 생산성을 뛰어넘는 '초인적' 수준에 도달했음을 시사합니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqbnpq/ive_just_benchmarked_myself/",
+    "image": "https://preview.redd.it/2fgenoeh6x3h1.png?width=640&crop=smart&auto=webp&s=c9598e7a6b2df9c972569520a367c68c18c10b8d",
+    "date": "2026-05-28T18:15:40.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -44,7 +118,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "Well anthropic released opus 4.8",
-    "summary_ko": "앤스로픽이 최신 AI 모델 '클로드 3.5 소네트'를 공개하며 기술 경쟁에 다시 불을 지폈습니다. 새 모델은 이전 최상위 모델인 클로드 3 오푸스보다 두 배 빠르고 비용은 저렴하지만, 추론과 코딩 등 핵심 성능 평가에서는 오히려 더 높은 점수를 기록했습니다. 특히 사용자가 결과물과 상호작용하는 '아티팩트' 기능을 도입해, GPT-4o 등 경쟁 모델과의 차별화를 시도했습니다.",
+    "summary_ko": "앤스로픽이 새로운 AI 모델 '오퍼스 4.8'을 출시하며 기술 경쟁에 다시 한번 불을 지폈습니다. 이번 발표는 쉴 틈 없이 발전하는 생성 AI 시장의 속도감을 보여주는 최신 사례입니다. 이로써 오픈AI, 구글 등 빅테크와 벌이는 주도권 경쟁이 한층 더 치열해질 전망이며, 향후 시장 구도 변화에 귀추가 주목됩니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1tq9ml0/well_anthropic_released_opus_48/",
     "image": "https://preview.redd.it/qtz97x8ytw3h1.png?width=640&crop=smart&auto=webp&s=0139ac4f209a89e2d0094a700d0037b8cacced8f",
     "date": "2026-05-28T17:05:19.000Z",
@@ -63,10 +137,27 @@
       "avatar_url": null
     },
     "content": "Keet: Tether’s P2P communication app built to survive internet shutdowns",
-    "summary_ko": "정부의 의도적인 통신망 차단이나 빅테크 기업의 서버 장애로 인한 서비스 중단이 전 세계적인 문제로 부상하고 있습니다. 실제로 아프리카에서는 민주주의 통제를 목적으로 소셜 미디어를 폐쇄하는 사례가 빈번하며, 주요 데이터센터 장애도 끊이지 않고 있습니다. 이러한 문제의 근본 원인은 인터넷과 소셜 앱의 중앙화된 구조가 검열과 장애에 취약하기 때문입니다. 이에 테더는 인터넷이 차단된 상황에서도 작동하는 P2P 통신 앱 '키트'를 대안으로 제시했습니다.",
+    "summary_ko": "정부의 의도적인 인터넷 차단이나 기업의 서버 장애로 인한 통신 두절이 전 세계적인 문제로 떠오르고 있습니다. 특히 아프리카 등지에서는 민주주의 억압을 위해 소셜 미디어를 차단하는 사례가 급증했으며, 이는 기존 플랫폼들의 중앙화된 구조가 근본 원인으로 지목됩니다. 이에 테더는 중앙 서버 없이 작동하는 P2P 통신 앱 '키트(Keet)'를 통해 인터넷 검열이나 장애 상황에서도 소통을 이어갈 대안을 제시했습니다.",
     "url": "https://www.cio.com/article/4175793/keet-tethers-p2p-communication-app-built-to-survive-internet-shutdowns.html",
     "image": null,
     "date": "2026-05-28T14:14:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1tq4cql/first_thing_you_see_when_googling_openai_codex/",
+    "platform": "Reddit",
+    "title": "First thing you see when Googling \"OpenAI Codex app\" is a fake malware website",
+    "author": {
+      "name": "/u/vashchylau",
+      "handle": "/u//u/vashchylau",
+      "avatar_color": "#ff4500"
+    },
+    "content": "First thing you see when Googling \"OpenAI Codex app\" is a fake malware website",
+    "summary_ko": "구글에서 'OpenAI 코덱스 앱'을 검색하면 최상단에 악성코드를 유포하는 가짜 웹사이트가 노출되는 문제가 발견되었습니다. 이는 코덱스가 데스크톱 앱이 아닌 API라는 사실을 모르는 사용자를 노린 신종 피싱 수법입니다. 유명 AI 서비스의 이름을 사칭해 신뢰를 얻고 악성 프로그램을 설치하도록 유도하는 방식이어서 사용자들의 각별한 주의가 요구됩니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tq4cql/first_thing_you_see_when_googling_openai_codex/",
+    "image": "https://preview.redd.it/brob55cxvv3h1.jpg?width=140&height=97&auto=webp&s=0b2aa7cb222de99b37280add2121ce5537db6d0c",
+    "date": "2026-05-28T13:54:37.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -82,7 +173,7 @@
       "avatar_url": null
     },
     "content": "Transforming your SOC from reactive monitoring to strategic defense",
-    "summary_ko": "사이버 위협이 고도화되고 IT 인프라가 복잡해지면서 기존 보안 운영 센터(SOC)의 사후 대응 방식이 한계에 부딪히고 있습니다. 수많은 보안 도구에서 발생하는 경고가 폭증하면서, 분석가들은 '경고 피로'에 시달리며 정작 중요한 위협을 식별하기 어려워졌습니다. 이는 공격자의 속도와 규모를 따라잡지 못하는 현재 보안 운영의 불균형을 보여줍니다. 따라서 이제는 선제적이고 전략적인 방어 체계로의 전환이 시급한 과제로 떠올랐습니다.",
+    "summary_ko": "사이버 위협이 고도화되고 클라우드 환경이 복잡해지면서 기존 보안관제센터(SOC)가 한계에 직면했습니다. 발생하는 경보에 사후 대응하는 전통적 방식은 AI로 무장한 공격 속도를 따라가지 못하며 분석가의 '경보 피로'만 가중시키고 있습니다. 이로 인해 정작 중요한 위협을 신속하게 식별하기 어려워지면서, 이제는 사후 대응 중심에서 벗어나 선제적으로 위협을 방어하는 전략적 전환이 시급한 과제로 떠올랐습니다.",
     "url": "https://www.cio.com/article/4178300/transforming-your-soc-from-reactive-monitoring-to-strategic-defense.html",
     "image": null,
     "date": "2026-05-28T13:40:20.000Z",
@@ -101,7 +192,7 @@
       "avatar_url": null
     },
     "content": "AI agents are the actor your Kubernetes governance didn’t plan for",
-    "summary_ko": "기업의 AI 도입이 확산되며 자율적으로 작업을 수행하는 AI 에이전트가 빠르게 보급되고 있습니다. 하지만 기존 쿠버네티스 거버넌스는 인간 중심의 예측 가능한 워크플로우를 전제로 설계되어, 자율적인 AI 에이전트를 통제하는 데 한계가 있습니다. 이에 따라 접근 제어, 자원 소비, 보안 등에서 새로운 문제가 발생하면서 AI 시대에 맞는 거버넌스 체계 재설계가 시급한 과제로 떠올랐습니다.",
+    "summary_ko": "기업 내 자율적인 AI 에이전트 도입이 가속화되면서 기존 쿠버네티스 거버넌스 모델의 한계가 드러나고 있습니다. 대부분의 거버넌스 체계는 인간 주도의 예측 가능한 작업을 전제로 설계되었기 때문입니다. 실시간으로 시스템과 상호작용하는 AI 에이전트는 접근 제어, 리소스 소비, 보안 등에서 예상치 못한 새로운 과제를 만듭니다. 따라서 기업들은 AI 에이전트의 활동을 효과적으로 통제하고 관리할 새로운 거버넌스 전략을 시급히 마련해야 합니다.",
     "url": "https://www.cio.com/article/4177347/ai-agents-are-the-actor-your-kubernetes-governance-didnt-plan-for.html",
     "image": null,
     "date": "2026-05-28T13:35:42.000Z",
@@ -120,7 +211,7 @@
       "avatar_url": null
     },
     "content": "Why software development is changing for good",
-    "summary_ko": "300명 규모의 소프트웨어 회사를 키워낸 창업자가 10년간의 경영자 생활을 뒤로하고 다시 개발 현장으로 돌아왔습니다. 그는 복잡한 로보틱스 플랫폼을 직접 구축하며, 이는 지난 10년간의 기술을 모두 따라잡아서가 아니라 개발 방식 자체가 근본적으로 변했기 때문에 가능했다고 말합니다. 이러한 개인적 경험은 소프트웨어 개발 패러다임에 구조적 대전환이 일어나고 있음을 보여주는 명확한 신호입니다.",
+    "summary_ko": "300명 규모의 소프트웨어 기업을 성공적으로 매각한 창업자가 10년 만에 다시 개발 현장으로 복귀해 주목받고 있습니다. 그는 새로운 로보틱스 플랫폼을 직접 구축하며, 이는 과거와는 근본적으로 다른 개발 방식 덕분에 가능했다고 밝혔습니다. 이러한 베테랑의 개인적 경험은 특정 기술의 유행을 넘어, 소프트웨어 개발 패러다임 자체에 거대한 구조적 변화가 일어나고 있음을 시사합니다.",
     "url": "https://www.cio.com/article/4177302/why-software-development-is-changing-for-good.html",
     "image": null,
     "date": "2026-05-28T12:00:00.000Z",
@@ -139,7 +230,7 @@
       "avatar_url": null
     },
     "content": "Hyper-personalization in the age of agentic AI: How regulated industries can do it with guardrails",
-    "summary_ko": "에이전틱 AI가 등장하며 고객 여정 전체를 자동화하는 1:1 초개인화가 현실화되고 있습니다. 하지만 생명과학, 헬스케어 등 규제가 엄격한 산업에서는 기술의 잠재력만큼이나 규제 준수 증명이 중요합니다. AI가 생성한 모든 상호작용이 적절한 동의를 얻고 허용된 목적 내에서 사용되었으며, 추후 감사에 대응할 수 있음을 명확히 입증하는 것이 핵심 과제로 떠올랐습니다. 결국 기술적 성능을 넘어 데이터 거버넌스와 투명성 확보가 AI 도입의 성패를 가를 전망입니다.",
+    "summary_ko": "에이전틱 AI가 고객 여정 전체를 자동화하며 초개인화 시대를 열고 있습니다. 하지만 헬스케어 등 규제가 엄격한 산업에서는 기술적 성능보다 규제 준수 증명이 더 큰 과제로 떠올랐습니다. 모든 상호작용이 적절한 동의를 얻고 개인정보 보호 원칙을 지켰는지 명확히 입증하고 감사에 대비해야 하기 때문입니다. 결국 AI 도입에 앞서 데이터 사용 목적과 승인 과정을 증명할 수 있는 거버넌스 체계 구축이 선행되어야 합니다.",
     "url": "https://www.cio.com/article/4177299/hyper-personalization-in-the-age-of-agentic-ai-how-regulated-industries-can-do-it-with-guardrails.html",
     "image": null,
     "date": "2026-05-28T11:00:00.000Z",
@@ -394,7 +485,7 @@
       "avatar_url": null
     },
     "content": "Security, Privacy and Abuse Prevention",
-    "summary_ko": "기업의 데이터 분석 수요가 늘면서 사용자 프라이버시 보호가 핵심 과제로 떠올랐습니다. 이에 대한 해결책으로 데이터를 여러 조각으로 분할해 각기 다른 서버로 전송하는 '제로 트러스트 집계' 기술이 주목받고 있습니다. 이 방식은 어떤 단일 주체도 원본 정보를 볼 수 없도록 설계해 개인정보를 원천적으로 보호합니다. 구글과 모질라 등에서 이미 활용 중인 이 기술은 민감 정보를 안전하게 분석하는 새로운 표준을 제시하고 있습니다.",
+    "summary_ko": "기업의 데이터 분석 수요와 사용자 개인정보보호 사이의 딜레마를 해결할 기술이 등장했습니다. 메타가 도입한 '제로 트러스트 집계'는 데이터를 여러 조각으로 나눠 각기 다른 서버로 보내는 방식입니다. 이를 통해 어떤 단일 주체도 원본 데이터를 볼 수 없게 하면서 광고 성과 측정 같은 집계 분석은 가능해집니다. 개인정보를 보호하면서 데이터의 가치를 활용하는 이 기술의 핵심 요소는 오픈소스로 공개되었습니다.",
     "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
     "image": null,
     "date": "2026-05-27T16:56:00.000Z",
