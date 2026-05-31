@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tsd41n/someone_out_there_likely_needs_this/",
+    "platform": "Reddit",
+    "title": "Someone out there likely needs this",
+    "author": {
+      "name": "/u/Signal_Ad657",
+      "handle": "/u//u/Signal_Ad657",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Someone out there likely needs this",
+    "summary_ko": "LLM이 외부 도구를 활용하는 원리는 흔히 오해되지만, 핵심은 반복적인 루프 구조에 있습니다. LLM은 단순히 도구를 한 번 호출하는 데 그치지 않고, 도구 사용 여부와 방법을 스스로 결정합니다. 이후 도구로부터 받은 결과값을 바탕으로 다음 행동을 선택하거나 최종 답변을 생성하는 과정을 거칩니다. 이러한 순환적 의사결정 구조는 챗GPT의 웹 브라우징 기능 등 최신 AI 에이전트 기술의 기반이 됩니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsd41n/someone_out_there_likely_needs_this/",
+    "image": "https://preview.redd.it/qr9kyi1gmc4h1.jpeg?width=640&crop=smart&auto=webp&s=4621c1c9d90ec916d8632d12e71c8d5865ab5c6e",
+    "date": "2026-05-30T22:11:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
+    "platform": "Reddit",
+    "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
+    "author": {
+      "name": "/u/pmttyji",
+      "handle": "/u//u/pmttyji",
+      "avatar_color": "#ff4500"
+    },
+    "content": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
+    "summary_ko": "엔비디아가 알리바바의 350억 매개변수 모델 'Qwen2-35B'를 최적화한 버전을 공개했습니다. 이 모델은 엔비디아의 4비트 FP4 활성화와 3비트 가중치 양자화 기술을 결합한 것이 특징으로, RTX 4090과 같은 24GB VRAM의 단일 GPU에서도 구동 가능합니다. 극단적인 경량화에도 8비트 모델과 동등한 수준의 성능을 유지해, 고성능 AI 모델의 접근성을 크게 높였다는 평가를 받습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
+    "image": "https://external-preview.redd.it/08Y1LhdDbGFZYvC6g92f--j5ndHy1Vg0-HCvkblPmV0.png?width=640&crop=smart&auto=webp&s=fe0d42bbf7ab36b6ad4704fbd2b855c69ef49b85",
+    "date": "2026-05-30T17:49:08.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1ts05n7/true_story_a_lot_of_folks_doing_this_around/",
+    "platform": "Reddit",
+    "title": "True story, a lot of folks doing this around",
+    "author": {
+      "name": "/u/tatooinex",
+      "handle": "/u//u/tatooinex",
+      "avatar_color": "#ff4500"
+    },
+    "content": "True story, a lot of folks doing this around",
+    "summary_ko": "대규모 언어 모델(LLM)의 활용법이 단순한 대화를 넘어 복잡한 작업을 자동 수행하는 방향으로 진화하고 있습니다. 이는 LLM을 추론 엔진으로 사용해 사용자의 요청을 해석하고, 항공편 예약이나 이메일 발송 같은 외부 도구(API)를 스스로 호출하여 과업을 조율하는 방식입니다. 이처럼 LLM이 직접 계획을 세우고 여러 단계를 거쳐 문제를 해결하는 능력은 자율 에이전트 기술의 핵심으로, AI 애플리케이션 개발의 강력한 패러다임으로 부상하고 있습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1ts05n7/true_story_a_lot_of_folks_doing_this_around/",
+    "image": "https://preview.redd.it/68buzym92a4h1.jpeg?width=640&crop=smart&auto=webp&s=87dadabec2002694dccc105339a5883bd73797f2",
+    "date": "2026-05-30T13:35:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1tryqn0/inside_putins_26_billion_quest_for_longevity_from/",
+    "platform": "Reddit",
+    "title": "Inside Putin’s $26 Billion Quest for Longevity | From mini-pigs and organ printing to cryotherapy and genetics, Russia’s president has turned antiaging research into a Kremlin priority",
+    "author": {
+      "name": "/u/SnoozeDoggyDog",
+      "handle": "/u//u/SnoozeDoggyDog",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Inside Putin’s $26 Billion Quest for Longevity | From mini-pigs and organ printing to cryotherapy and genetics, Russia’s president has turned antiaging research into a Kremlin priority",
+    "summary_ko": "블라디미르 푸틴 러시아 대통령이 노화 방지 및 장수 연구를 국가적 과제로 추진하고 있습니다. 이를 위해 유전학, 인공 장기 프린팅, 냉동 요법 등 첨단 분야에 260억 달러(약 36조 원)에 달하는 막대한 예산을 투입한 것으로 알려졌습니다. 이는 개인의 관심을 넘어 크렘린궁이 직접 주도하는 국가적 우선순위 사업이 되었음을 시사합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1tryqn0/inside_putins_26_billion_quest_for_longevity_from/",
+    "image": null,
+    "date": "2026-05-30T12:33:19.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4178840/salesforces-headless-360-monetization-play-could-give-cios-a-familiar-budgeting-headache.html",
     "platform": "CIO",
     "title": "Salesforce’s Headless 360 monetization play could give CIOs a familiar budgeting headache",
@@ -11,7 +79,7 @@
       "avatar_url": null
     },
     "content": "Salesforce’s Headless 360 monetization play could give CIOs a familiar budgeting headache",
-    "summary_ko": "AI 에이전트와 자동화 워크플로우가 확산되면서 API를 통한 데이터 접근 방식이 보편화되고 있습니다. 이에 세일즈포스는 '헤드리스 360'을 출시하고, AI 봇 등을 통한 외부 데이터 접근에 새로운 과금 모델을 도입할 계획입니다. 이는 기업들이 AI 기반 자동화 도입 시 추가 비용을 부담하게 될 수 있음을 의미하며, CIO의 예산 책정에 새로운 과제로 떠올랐습니다.",
+    "summary_ko": "AI 에이전트와 자동화 워크플로우의 부상에 따라 세일즈포스가 새로운 '헤드리스 360'을 선보였습니다. 이는 기존 애플리케이션 화면 대신 API를 통해 AI가 데이터에 접근하는 시대를 겨냥한 아키텍처 변화입니다. 세일즈포스는 이러한 새로운 형태의 데이터 접근에 대해 과금할 계획을 밝혔으며, 이는 기업 CIO들에게 새로운 예산 책정의 과제를 안겨줄 전망입니다.",
     "url": "https://www.cio.com/article/4178840/salesforces-headless-360-monetization-play-could-give-cios-a-familiar-budgeting-headache.html",
     "image": null,
     "date": "2026-05-29T22:30:33.000Z",
@@ -47,7 +115,7 @@
       "avatar_url": null
     },
     "content": "Amazon deletes devs’ tokenmaxxing leaderboard to minimize costs",
-    "summary_ko": "기업들이 직원들의 AI 도입을 독려하기 위해 내부 순위표를 도입하고 있지만, 의도치 않은 부작용이 발생하고 있습니다. 아마존에서는 직원들이 순위를 높이려 불필요한 작업을 AI에 맡기는 '토큰맥싱'으로 컴퓨팅 비용이 급증하자 결국 순위표를 삭제했습니다. 이는 AI 사용량 측정은 쉽지만, 그 사업적 가치를 평가하기는 어려운 현실을 보여줍니다. 이에 기업들은 AI 활용을 장려하면서도 비용 폭증을 막아야 하는 섬세한 균형점을 찾아야 하는 과제에 직면했습니다.",
+    "summary_ko": "기업들이 직원들의 AI 도입을 독려하고 있지만, 의도치 않은 비용 문제에 직면하고 있습니다. 최근 아마존은 직원들이 AI 사용 순위를 높이기 위해 불필요한 작업을 생성하는 '토큰맥싱' 현상으로 막대한 컴퓨팅 비용이 발생하자 내부 순위표를 폐쇄했습니다. 이는 AI 사용량 측정은 쉽지만 그 사업적 가치를 평가하기는 어려운 현실을 보여줍니다. 결국 기업들은 AI 활용 장려와 비용 통제라는 상충하는 과제 사이에서 균형점을 찾아야 하는 딜레마에 놓였습니다.",
     "url": "https://www.cio.com/article/4178825/amazon-deletes-devs-tokenmaxxing-leaderboard-to-minimize-costs-2.html",
     "image": null,
     "date": "2026-05-29T16:18:11.000Z",
@@ -66,7 +134,7 @@
       "avatar_url": null
     },
     "content": "AI hiring monoculture is delivering racial bias at scale",
-    "summary_ko": "AI를 활용한 채용이 확산되면서 시스템적인 인종 편향 문제가 심각해지고 있습니다. 스탠퍼드대 연구 결과, 미국 기업 대다수가 소수의 특정 AI 채용 솔루션에 의존하는 '단일문화' 현상으로 인해 흑인 및 아시아인 지원자가 불균형적으로 많이 탈락한 것으로 나타났습니다. 이처럼 널리 쓰이는 AI 채용 도구는 그 결정 과정이 불투명해 사회적 파장이 크며, 결국 기업 내 인력 구성의 획일화를 초래할 수 있다는 지적이 나옵니다.",
+    "summary_ko": "미국 기업의 AI 채용 시스템이 조직적인 인종 편향을 야기한다는 연구 결과가 나왔습니다. 스탠퍼드대 연구에 따르면, 대다수 기업이 소수 AI 솔루션에 의존하는 '단일문화' 현상으로 흑인과 아시아인 지원자가 더 많이 탈락했습니다. AI가 아니었다면 아시아인 지원자 2만 9천 명이 추가 면접 기회를 얻었을 것으로 분석됐으며, 이는 불투명한 AI가 고용 시장의 획일화를 심화시킬 수 있음을 시사합니다.",
     "url": "https://www.cio.com/article/4178787/ai-hiring-monoculture-is-delivering-racial-bias-at-scale.html",
     "image": null,
     "date": "2026-05-29T15:47:31.000Z",
@@ -102,7 +170,7 @@
       "avatar_url": null
     },
     "content": "Shadow AI: The hidden risk expanding across the enterprise",
-    "summary_ko": "임직원들이 생산성 향상을 위해 승인 없이 사용하는 '섀도우 AI'가 기업의 새로운 보안 위협으로 떠오르고 있습니다. 이는 단순 챗봇 활용을 넘어 SaaS 내장 기능, 미검토 AI 앱 등 광범위하게 확산하며 데이터 유출과 정책 실패를 유발하는 공격 표면을 만듭니다. 이에 따라 기업 보안 책임자들은 빠르게 확장되는 AI 활용의 가시성을 확보하고 이를 통제하는 중대한 과제에 직면했습니다.",
+    "summary_ko": "기업 내 임직원들이 생산성 향상을 위해 승인받지 않은 생성형 AI를 사용하면서 '섀도우 AI'가 새로운 보안 위협으로 떠오르고 있습니다. 이는 단순 챗봇 활용을 넘어 SaaS에 내장된 코파일럿, 내부 개발 AI 기능 등 기업의 통제를 벗어난 모든 AI 활동을 포함합니다. 이로 인해 민감 정보 유출이나 예상치 못한 공격 경로가 생기는 등 관리 사각지대가 빠르게 확산되고 있습니다. 따라서 섀도우 AI에 대한 가시성을 확보하고 체계적인 거버넌스를 수립하는 것이 시급한 과제가 되었습니다.",
     "url": "https://www.cio.com/article/4178708/shadow-ai-the-hidden-risk-expanding-across-the-enterprise.html",
     "image": null,
     "date": "2026-05-29T14:22:56.000Z",
@@ -138,7 +206,7 @@
       "avatar_url": null
     },
     "content": "Cloud spend is now a governance issue. Finance and IT need a new model",
-    "summary_ko": "클라우드는 IT 인프라를 고정 투자에서 유연한 사용량 기반 서비스로 전환시켰습니다. 그러나 이러한 유연성은 비용을 역동적이고 예측 불가능하게 만들어 기존의 예산 관리 방식으로는 통제가 어려워졌습니다. 이에 따라 클라우드 비용은 단순한 기술이나 재무 문제를 넘어, 여러 부서가 협력해야 하는 거버넌스 문제로 부상했습니다. 이제 재무와 IT 부서는 변화된 환경에 맞는 새로운 협력 모델을 구축해야 하는 과제를 안게 되었습니다.",
+    "summary_ko": "클라우드 도입으로 IT 비용이 유연한 소비 기반으로 전환되었지만, 이는 예측 불가능한 지출 문제로 이어졌습니다. 특히 AI 워크로드의 확산은 비용을 더욱 동적으로 만들고 일상적인 기술 결정에 직접 연동시켜 기존의 예산 관리 방식으로는 통제가 어렵게 되었습니다. 이에 따라 클라우드 비용은 단순한 재무나 기술 문제를 넘어, 여러 부서가 협력해야 하는 핵심적인 거버넌스 과제로 부상했습니다.",
     "url": "https://www.cio.com/article/4177694/cloud-spend-is-now-a-governance-issue-finance-and-it-need-a-new-model.html",
     "image": null,
     "date": "2026-05-29T11:00:00.000Z",
@@ -230,7 +298,7 @@
       "avatar_url": null
     },
     "content": "General Science",
-    "summary_ko": "구글이 2026년 I/O 개발자 컨퍼런스에서 ‘새로운 혁신의 시대’를 열겠다고 예고했습니다. 이번 발표는 구글의 제품 부문이 아닌 기초 연구를 담당하는 리서치 조직이 주도한다는 점에서 주목받고 있습니다. 이는 단순한 기능 업데이트를 넘어, AI 등 미래 기술의 패러다임을 바꿀 중대한 연구 성과가 공개될 것임을 시사합니다. 따라서 업계는 구글이 선보일 차세대 기술에 대한 기대감 속에 관련 동향을 예의주시하고 있습니다.",
+    "summary_ko": "구글 리서치가 I/O 2026 컨퍼런스에서 '새로운 혁신의 시대'를 주제로 미래 기술 비전을 제시했습니다. 이는 단순한 제품 공개를 넘어 구글의 장기적인 연구개발 방향과 핵심 전략을 공유하는 자리가 될 것으로 보입니다. 따라서 구글이 선보일 차세대 혁신 기술이 향후 IT 생태계에 어떤 변화를 가져올지 업계의 관심이 집중되고 있습니다.",
     "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
     "image": null,
     "date": "2026-05-28T20:58:00.000Z",
@@ -648,7 +716,7 @@
       "avatar_url": null
     },
     "content": "Security, Privacy and Abuse Prevention",
-    "summary_ko": "기업은 서비스 개선을 위해 사용자 데이터 분석이 필요하지만, 개인정보 침해와 재식별 위험이라는 큰 장벽에 부딪힙니다. 이를 해결하기 위해 데이터를 암호화된 여러 조각으로 나눠 서로 다른 서버에 분산하는 '제로 트러스트 집계' 기술이 개발되었습니다. 이 방식은 어떤 단일 서버도 원본 정보를 볼 수 없어 통계 분석 과정에서 개인정보를 강력하게 보호합니다. 덕분에 기업은 프라이버시를 침해하지 않으면서도 대규모 데이터를 안전하게 활용할 새로운 길을 열게 되었습니다.",
+    "summary_ko": "기업의 데이터 분석 수요와 사용자의 개인정보 보호 요구를 동시에 충족하는 '제로 트러스트 집계' 기술이 주목받고 있습니다. 이 기술은 사용자 데이터를 암호학적으로 분할해 서로 다른 서버로 전송함으로써, 어떤 단일 서버도 원본 정보를 복원할 수 없게 만듭니다. 덕분에 서버들이 협력해 전체 합산이나 평균 등 유의미한 통계는 얻으면서도 개인 데이터는 안전하게 보호할 수 있습니다.",
     "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
     "image": null,
     "date": "2026-05-27T16:56:00.000Z",
