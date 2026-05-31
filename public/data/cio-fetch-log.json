@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T23:09:35.306Z",
+  "generatedAt": "2026-05-31T23:00:06.257Z",
   "feedUrl": "https://www.cio.com/kr/feed/",
   "keywords": [
     "artificial intelligence",
@@ -16,51 +16,96 @@
   "keywordMode": "any",
   "included": [
     {
-      "title": "Keet: Tether’s P2P communication app built to survive internet shutdowns",
+      "title": "Salesforce’s Headless 360 monetization play could give CIOs a familiar budgeting headache",
       "lang": "en",
-      "url": "https://www.cio.com/article/4175793/keet-tethers-p2p-communication-app-built-to-survive-internet-shutdowns.html"
+      "url": "https://www.cio.com/article/4178840/salesforces-headless-360-monetization-play-could-give-cios-a-familiar-budgeting-headache.html"
     },
     {
-      "title": "Transforming your SOC from reactive monitoring to strategic defense",
+      "title": "Amazon deletes devs’ tokenmaxxing leaderboard to minimize costs",
       "lang": "en",
-      "url": "https://www.cio.com/article/4178300/transforming-your-soc-from-reactive-monitoring-to-strategic-defense.html"
+      "url": "https://www.cio.com/article/4178825/amazon-deletes-devs-tokenmaxxing-leaderboard-to-minimize-costs-2.html"
     },
     {
-      "title": "AI agents are the actor your Kubernetes governance didn’t plan for",
+      "title": "AI hiring monoculture is delivering racial bias at scale",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177347/ai-agents-are-the-actor-your-kubernetes-governance-didnt-plan-for.html"
+      "url": "https://www.cio.com/article/4178787/ai-hiring-monoculture-is-delivering-racial-bias-at-scale.html"
     },
     {
-      "title": "Why software development is changing for good",
+      "title": "Shadow AI: The hidden risk expanding across the enterprise",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177302/why-software-development-is-changing-for-good.html"
+      "url": "https://www.cio.com/article/4178708/shadow-ai-the-hidden-risk-expanding-across-the-enterprise.html"
     },
     {
-      "title": "Hyper-personalization in the age of agentic AI: How regulated industries can do it with guardrails",
+      "title": "Cloud spend is now a governance issue. Finance and IT need a new model",
       "lang": "en",
-      "url": "https://www.cio.com/article/4177299/hyper-personalization-in-the-age-of-agentic-ai-how-regulated-industries-can-do-it-with-guardrails.html"
+      "url": "https://www.cio.com/article/4177694/cloud-spend-is-now-a-governance-issue-finance-and-it-need-a-new-model.html"
     },
     {
-      "title": "AI 보안, 이제는 모델이 아니라 시스템 중심으로 접근해야",
+      "title": "스노우플레이크, MCP 전문 스타트업 나토마 인수…AI 에이전트 통제 계층 강화",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4178056/ai-%eb%b3%b4%ec%95%88-%ec%9d%b4%ec%a0%9c%eb%8a%94-%eb%aa%a8%eb%8d%b8%ec%9d%b4-%ec%95%84%eb%8b%88%eb%9d%bc-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%a4%91%ec%8b%ac%ec%9c%bc%eb%a1%9c-%ec%a0%91%ea%b7%bc%ed%95%b4.html"
+      "url": "https://www.cio.com/article/4178498/%ec%8a%a4%eb%85%b8%ec%9a%b0%ed%94%8c%eb%a0%88%ec%9d%b4%ed%81%ac-mcp-%ec%a0%84%eb%ac%b8-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%eb%82%98%ed%86%a0%eb%a7%88-%ec%9d%b8%ec%88%98ai-%ec%97%90.html"
     },
     {
-      "title": "AI가 취약점 1만 건 캐냈지만…진짜 병목은 ‘패치’였다",
+      "title": "IBM·레드햇, 기업용 오픈소스 보안 컨트롤타워 구축 나서",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4178047/ai%ea%b0%80-%ec%b7%a8%ec%95%bd%ec%a0%90-1%eb%a7%8c-%ea%b1%b4-%ec%ba%90%eb%83%88%ec%a7%80%eb%a7%8c%ec%a7%84%ec%a7%9c-%eb%b3%91%eb%aa%a9%ec%9d%80-%ed%8c%a8%ec%b9%98%ec%98%80.html"
+      "url": "https://www.cio.com/article/4178494/ibm%c2%b7%eb%a0%88%eb%93%9c%ed%96%87-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%b3%b4%ec%95%88-%ec%bb%a8%ed%8a%b8%eb%a1%a4%ed%83%80%ec%9b%8c-%ea%b5%ac%ec%b6%95-%eb%82%98.html"
     },
     {
-      "title": "“개발팀에 맡기는 시대는 끝났다” CIO, 바이브 코딩으로 현업 자급자족 시대 연다",
+      "title": "기업 AI 추진이 막히는 이유, 그리고 CIO의 돌파구",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4178024/%ea%b0%9c%eb%b0%9c%ed%8c%80%ec%97%90-%eb%a7%a1%ea%b8%b0%eb%8a%94-%ec%8b%9c%eb%8c%80%eb%8a%94-%eb%81%9d%eb%82%ac%eb%8b%a4-cio-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9%ec%9c%bc.html"
+      "url": "https://www.cio.com/article/4178226/%ea%b8%b0%ec%97%85-ai-%ec%b6%94%ec%a7%84%ec%9d%b4-%eb%a7%89%ed%9e%88%eb%8a%94-%ec%9d%b4%ec%9c%a0-%ea%b7%b8%eb%a6%ac%ea%b3%a0-cio%ec%9d%98-%eb%8f%8c%ed%8c%8c%ea%b5%ac.html"
     }
   ],
   "skipped": [
     {
+      "title": "Vanguard’s AI investments pay dividends",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Many autonomous agents doomed by governance failures",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "CMMI certifications: A complete guide",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Why orchestration, not the model, determines whether your AI scales",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Want real growth? Here’s the DX formula every CIO needs to see",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
       "title": "誰も認めないCIOの後継者問題",
       "lang": "en",
       "reason": "keyword"
+    },
+    {
+      "title": "Keet: Tether’s P2P communication app built to survive internet shutdowns",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Transforming your SOC from reactive monitoring to strategic defense",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "AI agents are the actor your Kubernetes governance didn’t plan for",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Why software development is changing for good",
+      "lang": "en",
+      "reason": "englishLimit"
     },
     {
       "title": "Del catálogo al proyecto arquitectónico",
@@ -68,52 +113,7 @@
       "reason": "keyword"
     },
     {
-      "title": "Snowflake to acquire MCP-focused Natoma to boost governance for AI agents",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "The AI governance imperative you can’t afford to ignore",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "This is not a security problem — Anthropic’s Mythos, GlassWing and how the industry must move forward",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "Developing a customer-first culture for IT",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "AI will replace far fewer jobs than ignorance will",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "Los CIO incorporan a usuarios de negocio para que desarrollen sus propias aplicaciones con ‘vibe coding’",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "Another IT governance headache: AI-enabled sanction evasion",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "Cyber defense in the era of frontier AI: Insights from Mythos and GPT 5.5 Cyber",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "Why machine-speed exploits demand autonomous defense",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "12 AI prompts that leak enterprise data—and how to fix them",
+      "title": "Hyper-personalization in the age of agentic AI: How regulated industries can do it with guardrails",
       "lang": "en",
       "reason": "englishLimit"
     }

@@ -4,6 +4,11 @@ on:
   push:
     branches: [main, master]
   workflow_dispatch:
+  # daily_news가 GITHUB_TOKEN으로 push하면 push 트리거가 막히므로 workflow_run으로 재배포
+  workflow_run:
+    workflows: ['Daily AI News Fetcher']
+    types: [completed]
+    branches: [main]
 
 permissions:
   contents: read
@@ -16,6 +21,10 @@ concurrency:
 
 jobs:
   build-deploy:
+    if: >
+      github.event_name == 'push' ||
+      github.event_name == 'workflow_dispatch' ||
+      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -26,6 +35,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
 
       - uses: actions/setup-node@v4
         with:

@@ -65,7 +65,7 @@ function buildMessage({ date, count, headlines, isLatestFallback, todayKST }) {
         lines.push('', '오늘 수집된 뉴스가 없습니다. 사이트에서 날짜를 확인해 보세요.');
     }
 
-    const siteUrl = process.env.SITE_URL || 'http://localhost:3000';
+    const siteUrl = getSiteUrl();
     lines.push('', `👉 ${siteUrl}`);
 
     return lines.join('\n');
@@ -88,7 +88,12 @@ async function sendDiscord(message) {
 }
 
 function getSiteUrl() {
-    return (process.env.SITE_URL || 'http://localhost:3000').trim();
+    const raw = (process.env.SITE_URL || 'http://localhost:3000').trim();
+    // GitHub Pages project site uses trailingSlash in next.config
+    if (/^https:\/\/[^/]+\.github\.io\/[^/?#]+$/i.test(raw)) {
+        return `${raw}/`;
+    }
+    return raw;
 }
 
 function buildToastBody(summary) {
@@ -114,6 +119,7 @@ function sendWindowsToast(title, body) {
             message: body,
             icon: path.join(process.cwd(), 'public', 'favicon.ico'),
             appID: 'Daily AI Pulse',
+            open: siteUrl,
             wait: false,
         });
         return true;
