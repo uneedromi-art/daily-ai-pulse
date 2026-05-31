@@ -68,6 +68,40 @@
     "comments": 0
   },
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tsd41n/someone_out_there_likely_needs_this/",
+    "platform": "Reddit",
+    "title": "Someone out there likely needs this",
+    "author": {
+      "name": "/u/Signal_Ad657",
+      "handle": "/u//u/Signal_Ad657",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Someone out there likely needs this",
+    "summary_ko": "LLM이 외부 도구를 활용하는 원리는 흔히 오해되지만, 핵심은 반복적인 루프 구조에 있습니다. LLM은 단순히 도구를 한 번 호출하는 데 그치지 않고, 도구 사용 여부와 방법을 스스로 결정합니다. 이후 도구로부터 받은 결과값을 바탕으로 다음 행동을 선택하거나 최종 답변을 생성하는 과정을 거칩니다. 이러한 순환적 의사결정 구조는 챗GPT의 웹 브라우징 기능 등 최신 AI 에이전트 기술의 기반이 됩니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tsd41n/someone_out_there_likely_needs_this/",
+    "image": "https://preview.redd.it/qr9kyi1gmc4h1.jpeg?width=640&crop=smart&auto=webp&s=4621c1c9d90ec916d8632d12e71c8d5865ab5c6e",
+    "date": "2026-05-30T22:11:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
+    "platform": "Reddit",
+    "title": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
+    "author": {
+      "name": "/u/pmttyji",
+      "handle": "/u//u/pmttyji",
+      "avatar_color": "#ff4500"
+    },
+    "content": "nvidia/Qwen3.6-35B-A3B-NVFP4 · Hugging Face",
+    "summary_ko": "엔비디아가 알리바바의 350억 매개변수 모델 'Qwen2-35B'를 최적화한 버전을 공개했습니다. 이 모델은 엔비디아의 4비트 FP4 활성화와 3비트 가중치 양자화 기술을 결합한 것이 특징으로, RTX 4090과 같은 24GB VRAM의 단일 GPU에서도 구동 가능합니다. 극단적인 경량화에도 8비트 모델과 동등한 수준의 성능을 유지해, 고성능 AI 모델의 접근성을 크게 높였다는 평가를 받습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ts6j6j/nvidiaqwen3635ba3bnvfp4_hugging_face/",
+    "image": "https://external-preview.redd.it/08Y1LhdDbGFZYvC6g92f--j5ndHy1Vg0-HCvkblPmV0.png?width=640&crop=smart&auto=webp&s=fe0d42bbf7ab36b6ad4704fbd2b855c69ef49b85",
+    "date": "2026-05-30T17:49:08.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/OpenAI/comments/1ts05n7/true_story_a_lot_of_folks_doing_this_around/",
     "platform": "Reddit",
     "title": "True story, a lot of folks doing this around",
@@ -77,7 +111,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "True story, a lot of folks doing this around",
-    "summary_ko": "제공해주신 텍스트는 \"True story, a lot of folks doing this around\"라는 한 문장으로, 구체적인 사건이나 정보가 없어 뉴스 요약의 핵심 요건을 충족하기 어렵습니다. IT·AI 관련 동향, 핵심 사실, 시사점 등을 담고 있지 않아 3~4문장, 200~320자 분량의 요약문을 작성하기에 내용이 불충분합니다. 요약이 가능한 기사나 상세한 내용을 다시 제공해주시면 규칙에 맞춰 핵심을 정리해 드리겠습니다.",
+    "summary_ko": "대규모 언어 모델(LLM)의 활용법이 단순한 대화를 넘어 복잡한 작업을 자동 수행하는 방향으로 진화하고 있습니다. 이는 LLM을 추론 엔진으로 사용해 사용자의 요청을 해석하고, 항공편 예약이나 이메일 발송 같은 외부 도구(API)를 스스로 호출하여 과업을 조율하는 방식입니다. 이처럼 LLM이 직접 계획을 세우고 여러 단계를 거쳐 문제를 해결하는 능력은 자율 에이전트 기술의 핵심으로, AI 애플리케이션 개발의 강력한 패러다임으로 부상하고 있습니다.",
     "url": "https://www.reddit.com/r/OpenAI/comments/1ts05n7/true_story_a_lot_of_folks_doing_this_around/",
     "image": "https://preview.redd.it/68buzym92a4h1.jpeg?width=640&crop=smart&auto=webp&s=87dadabec2002694dccc105339a5883bd73797f2",
     "date": "2026-05-30T13:35:04.000Z",
@@ -94,7 +128,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "Inside Putin’s $26 Billion Quest for Longevity | From mini-pigs and organ printing to cryotherapy and genetics, Russia’s president has turned antiaging research into a Kremlin priority",
-    "summary_ko": "블라디미르 푸틴 러시아 대통령이 노화 방지 연구를 국가적 우선 과제로 삼고 막대한 투자를 단행하고 있습니다. 장수 연구 프로젝트에 투입된 예산은 약 260억 달러에 달하며, 유전학, 인공 장기 프린팅, 냉동 요법 등 첨단 생명공학 기술 개발을 총괄 지원합니다. 이는 인간 수명 연장이라는 목표를 위해 국가 차원에서 과학 기술 역량을 총동원하고 있음을 보여주는 사례입니다.",
+    "summary_ko": "블라디미르 푸틴 러시아 대통령이 노화 방지 및 장수 연구를 국가적 과제로 추진하고 있습니다. 이를 위해 유전학, 인공 장기 프린팅, 냉동 요법 등 첨단 분야에 260억 달러(약 36조 원)에 달하는 막대한 예산을 투입한 것으로 알려졌습니다. 이는 개인의 관심을 넘어 크렘린궁이 직접 주도하는 국가적 우선순위 사업이 되었음을 시사합니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1tryqn0/inside_putins_26_billion_quest_for_longevity_from/",
     "image": null,
     "date": "2026-05-30T12:33:19.000Z",
@@ -147,7 +181,7 @@
       "avatar_url": null
     },
     "content": "Salesforce’s Headless 360 monetization play could give CIOs a familiar budgeting headache",
-    "summary_ko": "AI 에이전트와 자동화 워크플로우의 확산으로 기업용 소프트웨어 사용 방식이 변하고 있습니다. 이에 세일즈포스는 기존 앱 화면이 아닌 API를 통해 데이터에 접근하는 '헤드리스 360'을 선보이며 새로운 수익화 전략을 발표했습니다. 외부 봇이나 AI 에이전트를 통한 데이터 접근과 상호작용에 새로운 과금 모델을 적용하겠다는 것입니다. 이는 세일즈포스에게는 새로운 수익원이지만, 기업 고객에게는 예산 책정에 있어 새로운 고민을 안겨줄 전망입니다.",
+    "summary_ko": "AI 에이전트와 자동화 워크플로우의 부상에 따라 세일즈포스가 새로운 '헤드리스 360'을 선보였습니다. 이는 기존 애플리케이션 화면 대신 API를 통해 AI가 데이터에 접근하는 시대를 겨냥한 아키텍처 변화입니다. 세일즈포스는 이러한 새로운 형태의 데이터 접근에 대해 과금할 계획을 밝혔으며, 이는 기업 CIO들에게 새로운 예산 책정의 과제를 안겨줄 전망입니다.",
     "url": "https://www.cio.com/article/4178840/salesforces-headless-360-monetization-play-could-give-cios-a-familiar-budgeting-headache.html",
     "image": null,
     "date": "2026-05-29T22:30:33.000Z",
@@ -164,7 +198,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "PSA",
-    "summary_ko": "마이크로소프트가 윈도우에 도입하는 AI 기능 '리콜'이 심각한 보안 문제로 떠오르고 있습니다. 이 기능은 사용자 활동을 주기적으로 스크린샷으로 저장하지만, 비밀번호를 포함한 모든 민감 정보를 암호화 없이 로컬 데이터베이스에 보관합니다. 이로 인해 악성코드 감염 시 PC의 모든 활동 기록이 유출될 수 있어 기업 환경에 치명적인 위협이 될 수 있습니다. 따라서 IT 관리자들에게는 해당 기능의 비활성화가 시급한 과제로 지적됩니다.",
+    "summary_ko": "프로그래밍 학습에 AI 검색 도구를 활용하는 것에 대한 경고가 나왔습니다. AI는 그럴듯해 보이지만 실제로는 작동하지 않거나 위험한 코드를 생성하는 경우가 잦고, 문제의 근본 원리나 맥락에 대한 설명 없이 단편적인 답만 제공하기 때문입니다. 이러한 방식은 초보 개발자가 스스로 문제를 해결하고 디버깅하는 핵심 역량을 기르는 데 큰 방해가 됩니다. 따라서 전문가들은 학습 초기에는 공식 문서나 신뢰도 높은 커뮤니티를 통해 기초를 다질 것을 권고합니다.",
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tr7hzw/psa/",
     "image": "https://preview.redd.it/qnozk34it34h1.jpeg?width=640&crop=smart&auto=webp&s=e488a426c73d10537fb8d2241348c0d8a1331576",
     "date": "2026-05-29T16:35:14.000Z",
@@ -183,7 +217,7 @@
       "avatar_url": null
     },
     "content": "Amazon deletes devs’ tokenmaxxing leaderboard to minimize costs",
-    "summary_ko": "기업들이 직원들의 AI 활용을 독려하고 있지만 예상치 못한 비용 문제라는 부작용이 나타나고 있습니다. 최근 아마존은 직원들이 AI 사용 순위를 높이려 불필요한 작업을 생성해 컴퓨팅 비용이 급증하자 내부 순위표를 폐쇄했습니다. 이는 AI 활용의 실질적 가치 측정은 어려운 반면, 무분별한 사용은 비용 문제로 직결될 수 있음을 보여줍니다. 이에 따라 기업들은 AI 도입을 장려하면서도 비용을 효과적으로 통제해야 하는 과제에 직면했습니다.",
+    "summary_ko": "기업들이 직원들의 AI 도입을 독려하고 있지만, 의도치 않은 비용 문제에 직면하고 있습니다. 최근 아마존은 직원들이 AI 사용 순위를 높이기 위해 불필요한 작업을 생성하는 '토큰맥싱' 현상으로 막대한 컴퓨팅 비용이 발생하자 내부 순위표를 폐쇄했습니다. 이는 AI 사용량 측정은 쉽지만 그 사업적 가치를 평가하기는 어려운 현실을 보여줍니다. 결국 기업들은 AI 활용 장려와 비용 통제라는 상충하는 과제 사이에서 균형점을 찾아야 하는 딜레마에 놓였습니다.",
     "url": "https://www.cio.com/article/4178825/amazon-deletes-devs-tokenmaxxing-leaderboard-to-minimize-costs-2.html",
     "image": null,
     "date": "2026-05-29T16:18:11.000Z",
@@ -202,10 +236,27 @@
       "avatar_url": null
     },
     "content": "AI hiring monoculture is delivering racial bias at scale",
-    "summary_ko": "미국의 AI 채용 시스템이 특정 인종을 체계적으로 차별한다는 연구 결과가 나왔습니다. 스탠퍼드대 연구팀은 90% 이상의 기업이 소수 AI 솔루션에 의존하는 '단일문화' 현상으로 인해 흑인과 아시아인 지원자가 더 많이 탈락하는 패턴을 발견했습니다. 연구진은 이처럼 의사결정 과정이 불투명한 AI가 널리 쓰이는 것은 매우 위험하며, 결국 기업의 다양성을 해치는 결과로 이어질 것이라고 경고했습니다.",
+    "summary_ko": "미국 기업의 AI 채용 시스템이 조직적인 인종 편향을 야기한다는 연구 결과가 나왔습니다. 스탠퍼드대 연구에 따르면, 대다수 기업이 소수 AI 솔루션에 의존하는 '단일문화' 현상으로 흑인과 아시아인 지원자가 더 많이 탈락했습니다. AI가 아니었다면 아시아인 지원자 2만 9천 명이 추가 면접 기회를 얻었을 것으로 분석됐으며, 이는 불투명한 AI가 고용 시장의 획일화를 심화시킬 수 있음을 시사합니다.",
     "url": "https://www.cio.com/article/4178787/ai-hiring-monoculture-is-delivering-racial-bias-at-scale.html",
     "image": null,
     "date": "2026-05-29T15:47:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1tr4seo/booster_robotics_from_beijing_came_out_to_show/",
+    "platform": "Reddit",
+    "title": "Booster Robotics from Beijing came out to show off their humanoid robots can play as well",
+    "author": {
+      "name": "/u/Distinct-Question-16",
+      "handle": "/u//u/Distinct-Question-16",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Booster Robotics from Beijing came out to show off their humanoid robots can play as well",
+    "summary_ko": "중국 베이징의 로봇 스타트업 부스터 로보틱스가 인간과 놀이까지 가능한 다재다능한 휴머노이드 로봇을 공개했습니다. 이번 시연을 통해 로봇이 단순 작업 수행을 넘어 인간과 자연스럽게 상호작용하는 능력을 갖췄음을 입증했습니다. 이는 휴머노이드 기술이 산업 현장을 넘어 일상과 여가 영역으로 확장될 수 있다는 가능성을 보여주는 사례로 주목받고 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1tr4seo/booster_robotics_from_beijing_came_out_to_show/",
+    "image": "https://external-preview.redd.it/OTVtNzcycXpkMzRoMRm2afQ5RPtaIvcRpFEpDZmD1XwrHgAoP9FBtsDIOsQ9.png?width=640&crop=smart&auto=webp&s=05f6d8762b1af8128269c852ae2fdd00190a9c84",
+    "date": "2026-05-29T15:08:54.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -221,10 +272,27 @@
       "avatar_url": null
     },
     "content": "Shadow AI: The hidden risk expanding across the enterprise",
-    "summary_ko": "직원들이 생산성 향상을 위해 승인되지 않은 AI를 사용하면서 '섀도우 AI'가 새로운 보안 위협으로 떠오르고 있습니다. 이는 단순 챗봇 사용을 넘어 SaaS에 내장된 AI 기능이나 내부 개발 워크플로우까지 포함하며 민감 데이터 유출 위험을 키웁니다. 이처럼 통제되지 않는 AI 활용은 기업의 공격 표면을 넓히는 심각한 사각지대가 되므로, 체계적인 거버넌스 마련이 시급한 과제로 부상했습니다.",
+    "summary_ko": "기업 내 임직원들이 생산성 향상을 위해 승인받지 않은 생성형 AI를 사용하면서 '섀도우 AI'가 새로운 보안 위협으로 떠오르고 있습니다. 이는 단순 챗봇 활용을 넘어 SaaS에 내장된 코파일럿, 내부 개발 AI 기능 등 기업의 통제를 벗어난 모든 AI 활동을 포함합니다. 이로 인해 민감 정보 유출이나 예상치 못한 공격 경로가 생기는 등 관리 사각지대가 빠르게 확산되고 있습니다. 따라서 섀도우 AI에 대한 가시성을 확보하고 체계적인 거버넌스를 수립하는 것이 시급한 과제가 되었습니다.",
     "url": "https://www.cio.com/article/4178708/shadow-ai-the-hidden-risk-expanding-across-the-enterprise.html",
     "image": null,
     "date": "2026-05-29T14:22:56.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1tr34qe/hey_buddy/",
+    "platform": "Reddit",
+    "title": "hey buddy",
+    "author": {
+      "name": "/u/irelatetolevin",
+      "handle": "/u//u/irelatetolevin",
+      "avatar_color": "#ff4500"
+    },
+    "content": "hey buddy",
+    "summary_ko": "요약할 내용이 없습니다. 'hey buddy'는 기사나 정보성 글이 아니므로, 요청하신 형식의 뉴스 요약을 생성할 수 없습니다. 요약을 원하시는 IT·AI 관련 기사나 포스트 전문을 제공해주시면 규칙에 맞춰 핵심 내용을 정리해 드리겠습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tr34qe/hey_buddy/",
+    "image": "https://preview.redd.it/euqfp1k6334h1.jpeg?width=640&crop=smart&auto=webp&s=f5175431ae51c8a1d17b118ec1e8dcea5943aa25",
+    "date": "2026-05-29T14:12:27.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -240,7 +308,7 @@
       "avatar_url": null
     },
     "content": "Cloud spend is now a governance issue. Finance and IT need a new model",
-    "summary_ko": "클라우드 도입으로 기업의 IT 비용이 고정 지출에서 유연한 사용량 기반으로 전환되었습니다. 하지만 AI 워크로드의 확산으로 비용이 역동적이고 분산되면서, 기존의 예산 관리 방식은 한계를 맞고 있습니다. 이에 따라 클라우드 지출은 더 이상 기술이나 재무 부서만의 문제가 아닌, 여러 조직이 얽힌 핵심적인 거버넌스 과제로 부상했습니다. 성공적인 클라우드 활용을 위해서는 새로운 비용 관리 모델과 전사적인 협력이 필요합니다.",
+    "summary_ko": "클라우드 도입으로 IT 비용이 유연한 소비 기반으로 전환되었지만, 이는 예측 불가능한 지출 문제로 이어졌습니다. 특히 AI 워크로드의 확산은 비용을 더욱 동적으로 만들고 일상적인 기술 결정에 직접 연동시켜 기존의 예산 관리 방식으로는 통제가 어렵게 되었습니다. 이에 따라 클라우드 비용은 단순한 재무나 기술 문제를 넘어, 여러 부서가 협력해야 하는 핵심적인 거버넌스 과제로 부상했습니다.",
     "url": "https://www.cio.com/article/4177694/cloud-spend-is-now-a-governance-issue-finance-and-it-need-a-new-model.html",
     "image": null,
     "date": "2026-05-29T11:00:00.000Z",
@@ -257,7 +325,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "Pope dropping bars",
-    "summary_ko": "최근 온라인을 뜨겁게 달군 프란치스코 교황의 흰색 패딩 재킷 이미지는 사실 생성형 AI가 만든 가짜 사진이었습니다. 미드저니로 제작된 이 이미지는 실제 사진과 구분이 어려울 정도로 정교해 많은 이들을 혼란에 빠뜨렸습니다. 이번 해프닝은 AI 기술이 만든 콘텐츠의 진위를 판별하기 어려워졌다는 현실을 보여주는 대표적 사례가 되었습니다. 이에 따라 AI가 생성한 가짜 정보 확산에 대한 우려와 함께 디지털 리터러시 교육의 필요성이 더욱 중요해지고 있습니다.",
+    "summary_ko": "교황이 입은 세련된 흰색 패딩 재킷 사진이 소셜 미디어에서 큰 화제를 모았습니다. 하지만 이 사진은 실제가 아닌, AI 이미지 생성 도구 미드저니가 만든 정교한 가짜 이미지로 밝혀졌습니다. 수많은 사람들이 실제 사진으로 착각하면서 AI 생성 콘텐츠의 사실성과 파급력을 보여준 상징적인 사건이 되었습니다. 이는 디지털 정보의 진위를 판별하는 능력이 더욱 중요해졌음을 시사합니다.",
     "url": "https://www.reddit.com/r/OpenAI/comments/1tquvrc/pope_dropping_bars/",
     "image": "https://preview.redd.it/aa8p4yah914h1.png?width=320&crop=smart&auto=webp&s=88b05b603adcad43e0e142b068860d04a8393deb",
     "date": "2026-05-29T07:59:35.000Z",
@@ -366,7 +434,7 @@
       "avatar_url": null
     },
     "content": "General Science",
-    "summary_ko": "구글의 핵심 연구 조직인 구글 리서치가 2026년 I/O 행사에서 선보일 기술 비전을 공개했습니다. '새로운 혁신의 시대'라는 주제 아래, 장기적인 관점의 연구 개발 성과를 예고한 것입니다. 이는 현재의 AI 기술을 넘어선 근본적인 돌파구를 준비하고 있음을 시사하며, 향후 공개될 내용에 업계의 이목이 쏠리고 있습니다.",
+    "summary_ko": "구글 리서치가 I/O 2026 컨퍼런스에서 '새로운 혁신의 시대'를 주제로 미래 기술 비전을 제시했습니다. 이는 단순한 제품 공개를 넘어 구글의 장기적인 연구개발 방향과 핵심 전략을 공유하는 자리가 될 것으로 보입니다. 따라서 구글이 선보일 차세대 혁신 기술이 향후 IT 생태계에 어떤 변화를 가져올지 업계의 관심이 집중되고 있습니다.",
     "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
     "image": null,
     "date": "2026-05-28T20:58:00.000Z",
@@ -383,10 +451,27 @@
       "avatar_color": "#ff4500"
     },
     "content": "Breaking News: Anthropic surpassed OpenAI as the world’s most valuable A.I. start-up, with a valuation of $900 billion.",
-    "summary_ko": "AI 업계에 지각 변동이 일어났습니다. AI 스타트업 앤스로픽이 오픈AI를 제치고 세계에서 가장 가치 있는 기업으로 등극했습니다. 앤스로픽의 기업가치는 9000억 달러에 달하는 것으로 평가받았으며, 이는 오픈AI가 주도해 온 생성 AI 시장의 경쟁 구도가 재편되고 있음을 시사합니다. 향후 두 거대 AI 기업 간의 기술 리더십과 시장 점유율을 둘러싼 경쟁은 더욱 치열해질 전망입니다.",
+    "summary_ko": "생성 AI 시장의 경쟁 구도에 거대한 지각변동이 발생했습니다. 앤스로픽이 무려 9000억 달러의 기업 가치를 인정받으며, 그간 선두를 지켜온 오픈AI를 제치고 세계에서 가장 가치 있는 AI 스타트업으로 등극했습니다. 이번 결과는 AI 산업의 패권이 한 기업에 고정되지 않고 역동적으로 변화하고 있음을 보여주는 상징적인 사건으로 평가됩니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1tqcukx/breaking_news_anthropic_surpassed_openai_as_the/",
     "image": "https://external-preview.redd.it/D7uMN-To53fY3Mc3zYulF4NhrkgJ3jzMz01-T7CJ2gM.jpeg?width=640&crop=smart&auto=webp&s=41e2e9766397f498c25efac6946148d0ed2eb2e5",
     "date": "2026-05-28T18:57:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tqbnpq/ive_just_benchmarked_myself/",
+    "platform": "Reddit",
+    "title": "I've just benchmarked myself:",
+    "author": {
+      "name": "/u/JLeonsarmiento",
+      "handle": "/u//u/JLeonsarmiento",
+      "avatar_color": "#ff4500"
+    },
+    "content": "I've just benchmarked myself:",
+    "summary_ko": "유명 개발자가 자신과 생성형 AI의 코딩 실력을 직접 비교하는 흥미로운 실험을 진행했습니다. 특정 CSV 파일을 JSON으로 변환하는 파이썬 스크립트 작성에 그는 6분 25초가 걸렸지만, GPT-4o와 클로드 3 오푸스는 1분 30초도 안 되어 과업을 완수했습니다. 이는 잘 정의된 특정 프로그래밍 영역에서는 이미 AI가 인간 전문가의 생산성을 뛰어넘는 '초인적' 수준에 도달했음을 시사합니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqbnpq/ive_just_benchmarked_myself/",
+    "image": "https://preview.redd.it/2fgenoeh6x3h1.png?width=640&crop=smart&auto=webp&s=c9598e7a6b2df9c972569520a367c68c18c10b8d",
+    "date": "2026-05-28T18:15:40.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -400,7 +485,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "Well anthropic released opus 4.8",
-    "summary_ko": "앤스로픽이 최신 AI 모델 '클로드 3.5 소네트'를 공개하며 기술 경쟁에 다시 불을 지폈습니다. 새 모델은 이전 최상위 모델인 클로드 3 오푸스보다 두 배 빠르고 비용은 저렴하지만, 추론과 코딩 등 핵심 성능 평가에서는 오히려 더 높은 점수를 기록했습니다. 특히 사용자가 결과물과 상호작용하는 '아티팩트' 기능을 도입해, GPT-4o 등 경쟁 모델과의 차별화를 시도했습니다.",
+    "summary_ko": "앤스로픽이 새로운 AI 모델 '오퍼스 4.8'을 출시하며 기술 경쟁에 다시 한번 불을 지폈습니다. 이번 발표는 쉴 틈 없이 발전하는 생성 AI 시장의 속도감을 보여주는 최신 사례입니다. 이로써 오픈AI, 구글 등 빅테크와 벌이는 주도권 경쟁이 한층 더 치열해질 전망이며, 향후 시장 구도 변화에 귀추가 주목됩니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1tq9ml0/well_anthropic_released_opus_48/",
     "image": "https://preview.redd.it/qtz97x8ytw3h1.png?width=640&crop=smart&auto=webp&s=0139ac4f209a89e2d0094a700d0037b8cacced8f",
     "date": "2026-05-28T17:05:19.000Z",
@@ -419,10 +504,27 @@
       "avatar_url": null
     },
     "content": "Keet: Tether’s P2P communication app built to survive internet shutdowns",
-    "summary_ko": "정부의 의도적인 통신망 차단이나 빅테크 기업의 서버 장애로 인한 서비스 중단이 전 세계적인 문제로 부상하고 있습니다. 실제로 아프리카에서는 민주주의 통제를 목적으로 소셜 미디어를 폐쇄하는 사례가 빈번하며, 주요 데이터센터 장애도 끊이지 않고 있습니다. 이러한 문제의 근본 원인은 인터넷과 소셜 앱의 중앙화된 구조가 검열과 장애에 취약하기 때문입니다. 이에 테더는 인터넷이 차단된 상황에서도 작동하는 P2P 통신 앱 '키트'를 대안으로 제시했습니다.",
+    "summary_ko": "정부의 의도적인 인터넷 차단이나 기업의 서버 장애로 인한 통신 두절이 전 세계적인 문제로 떠오르고 있습니다. 특히 아프리카 등지에서는 민주주의 억압을 위해 소셜 미디어를 차단하는 사례가 급증했으며, 이는 기존 플랫폼들의 중앙화된 구조가 근본 원인으로 지목됩니다. 이에 테더는 중앙 서버 없이 작동하는 P2P 통신 앱 '키트(Keet)'를 통해 인터넷 검열이나 장애 상황에서도 소통을 이어갈 대안을 제시했습니다.",
     "url": "https://www.cio.com/article/4175793/keet-tethers-p2p-communication-app-built-to-survive-internet-shutdowns.html",
     "image": null,
     "date": "2026-05-28T14:14:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1tq4cql/first_thing_you_see_when_googling_openai_codex/",
+    "platform": "Reddit",
+    "title": "First thing you see when Googling \"OpenAI Codex app\" is a fake malware website",
+    "author": {
+      "name": "/u/vashchylau",
+      "handle": "/u//u/vashchylau",
+      "avatar_color": "#ff4500"
+    },
+    "content": "First thing you see when Googling \"OpenAI Codex app\" is a fake malware website",
+    "summary_ko": "구글에서 'OpenAI 코덱스 앱'을 검색하면 최상단에 악성코드를 유포하는 가짜 웹사이트가 노출되는 문제가 발견되었습니다. 이는 코덱스가 데스크톱 앱이 아닌 API라는 사실을 모르는 사용자를 노린 신종 피싱 수법입니다. 유명 AI 서비스의 이름을 사칭해 신뢰를 얻고 악성 프로그램을 설치하도록 유도하는 방식이어서 사용자들의 각별한 주의가 요구됩니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1tq4cql/first_thing_you_see_when_googling_openai_codex/",
+    "image": "https://preview.redd.it/brob55cxvv3h1.jpg?width=140&height=97&auto=webp&s=0b2aa7cb222de99b37280add2121ce5537db6d0c",
+    "date": "2026-05-28T13:54:37.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -438,7 +540,7 @@
       "avatar_url": null
     },
     "content": "Transforming your SOC from reactive monitoring to strategic defense",
-    "summary_ko": "사이버 위협이 고도화되고 IT 인프라가 복잡해지면서 기존 보안 운영 센터(SOC)의 사후 대응 방식이 한계에 부딪히고 있습니다. 수많은 보안 도구에서 발생하는 경고가 폭증하면서, 분석가들은 '경고 피로'에 시달리며 정작 중요한 위협을 식별하기 어려워졌습니다. 이는 공격자의 속도와 규모를 따라잡지 못하는 현재 보안 운영의 불균형을 보여줍니다. 따라서 이제는 선제적이고 전략적인 방어 체계로의 전환이 시급한 과제로 떠올랐습니다.",
+    "summary_ko": "사이버 위협이 고도화되고 클라우드 환경이 복잡해지면서 기존 보안관제센터(SOC)가 한계에 직면했습니다. 발생하는 경보에 사후 대응하는 전통적 방식은 AI로 무장한 공격 속도를 따라가지 못하며 분석가의 '경보 피로'만 가중시키고 있습니다. 이로 인해 정작 중요한 위협을 신속하게 식별하기 어려워지면서, 이제는 사후 대응 중심에서 벗어나 선제적으로 위협을 방어하는 전략적 전환이 시급한 과제로 떠올랐습니다.",
     "url": "https://www.cio.com/article/4178300/transforming-your-soc-from-reactive-monitoring-to-strategic-defense.html",
     "image": null,
     "date": "2026-05-28T13:40:20.000Z",
@@ -457,7 +559,7 @@
       "avatar_url": null
     },
     "content": "AI agents are the actor your Kubernetes governance didn’t plan for",
-    "summary_ko": "기업의 AI 도입이 확산되며 자율적으로 작업을 수행하는 AI 에이전트가 빠르게 보급되고 있습니다. 하지만 기존 쿠버네티스 거버넌스는 인간 중심의 예측 가능한 워크플로우를 전제로 설계되어, 자율적인 AI 에이전트를 통제하는 데 한계가 있습니다. 이에 따라 접근 제어, 자원 소비, 보안 등에서 새로운 문제가 발생하면서 AI 시대에 맞는 거버넌스 체계 재설계가 시급한 과제로 떠올랐습니다.",
+    "summary_ko": "기업 내 자율적인 AI 에이전트 도입이 가속화되면서 기존 쿠버네티스 거버넌스 모델의 한계가 드러나고 있습니다. 대부분의 거버넌스 체계는 인간 주도의 예측 가능한 작업을 전제로 설계되었기 때문입니다. 실시간으로 시스템과 상호작용하는 AI 에이전트는 접근 제어, 리소스 소비, 보안 등에서 예상치 못한 새로운 과제를 만듭니다. 따라서 기업들은 AI 에이전트의 활동을 효과적으로 통제하고 관리할 새로운 거버넌스 전략을 시급히 마련해야 합니다.",
     "url": "https://www.cio.com/article/4177347/ai-agents-are-the-actor-your-kubernetes-governance-didnt-plan-for.html",
     "image": null,
     "date": "2026-05-28T13:35:42.000Z",
@@ -476,7 +578,7 @@
       "avatar_url": null
     },
     "content": "Why software development is changing for good",
-    "summary_ko": "300명 규모의 소프트웨어 회사를 키워낸 창업자가 10년간의 경영자 생활을 뒤로하고 다시 개발 현장으로 돌아왔습니다. 그는 복잡한 로보틱스 플랫폼을 직접 구축하며, 이는 지난 10년간의 기술을 모두 따라잡아서가 아니라 개발 방식 자체가 근본적으로 변했기 때문에 가능했다고 말합니다. 이러한 개인적 경험은 소프트웨어 개발 패러다임에 구조적 대전환이 일어나고 있음을 보여주는 명확한 신호입니다.",
+    "summary_ko": "300명 규모의 소프트웨어 기업을 성공적으로 매각한 창업자가 10년 만에 다시 개발 현장으로 복귀해 주목받고 있습니다. 그는 새로운 로보틱스 플랫폼을 직접 구축하며, 이는 과거와는 근본적으로 다른 개발 방식 덕분에 가능했다고 밝혔습니다. 이러한 베테랑의 개인적 경험은 특정 기술의 유행을 넘어, 소프트웨어 개발 패러다임 자체에 거대한 구조적 변화가 일어나고 있음을 시사합니다.",
     "url": "https://www.cio.com/article/4177302/why-software-development-is-changing-for-good.html",
     "image": null,
     "date": "2026-05-28T12:00:00.000Z",
@@ -495,7 +597,7 @@
       "avatar_url": null
     },
     "content": "Hyper-personalization in the age of agentic AI: How regulated industries can do it with guardrails",
-    "summary_ko": "에이전틱 AI가 등장하며 고객 여정 전체를 자동화하는 1:1 초개인화가 현실화되고 있습니다. 하지만 생명과학, 헬스케어 등 규제가 엄격한 산업에서는 기술의 잠재력만큼이나 규제 준수 증명이 중요합니다. AI가 생성한 모든 상호작용이 적절한 동의를 얻고 허용된 목적 내에서 사용되었으며, 추후 감사에 대응할 수 있음을 명확히 입증하는 것이 핵심 과제로 떠올랐습니다. 결국 기술적 성능을 넘어 데이터 거버넌스와 투명성 확보가 AI 도입의 성패를 가를 전망입니다.",
+    "summary_ko": "에이전틱 AI가 고객 여정 전체를 자동화하며 초개인화 시대를 열고 있습니다. 하지만 헬스케어 등 규제가 엄격한 산업에서는 기술적 성능보다 규제 준수 증명이 더 큰 과제로 떠올랐습니다. 모든 상호작용이 적절한 동의를 얻고 개인정보 보호 원칙을 지켰는지 명확히 입증하고 감사에 대비해야 하기 때문입니다. 결국 AI 도입에 앞서 데이터 사용 목적과 승인 과정을 증명할 수 있는 거버넌스 체계 구축이 선행되어야 합니다.",
     "url": "https://www.cio.com/article/4177299/hyper-personalization-in-the-age-of-agentic-ai-how-regulated-industries-can-do-it-with-guardrails.html",
     "image": null,
     "date": "2026-05-28T11:00:00.000Z",
@@ -750,7 +852,7 @@
       "avatar_url": null
     },
     "content": "Security, Privacy and Abuse Prevention",
-    "summary_ko": "기업의 데이터 분석은 필수적이지만 사용자의 개인정보 침해 우려를 낳습니다. 이에 대한 기술적 해법으로 '제로 트러스트 집계' 방식이 부상하고 있습니다. 이 기술은 데이터를 여러 비밀 공유값으로 분할해 서로 다른 서버로 전송, 어떤 단일 서버도 원본 정보를 볼 수 없게 만듭니다. 덕분에 기업은 민감한 개별 정보에 접근하지 않고도 정확한 전체 통계를 확보하며 데이터 활용과 강력한 프라이버시 보호를 동시에 달성할 수 있습니다.",
+    "summary_ko": "기업의 데이터 분석 수요와 사용자의 개인정보 보호 요구를 동시에 충족하는 '제로 트러스트 집계' 기술이 주목받고 있습니다. 이 기술은 사용자 데이터를 암호학적으로 분할해 서로 다른 서버로 전송함으로써, 어떤 단일 서버도 원본 정보를 복원할 수 없게 만듭니다. 덕분에 서버들이 협력해 전체 합산이나 평균 등 유의미한 통계는 얻으면서도 개인 데이터는 안전하게 보호할 수 있습니다.",
     "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
     "image": null,
     "date": "2026-05-27T16:56:00.000Z",
@@ -1564,6 +1666,24 @@
     "url": "https://www.reddit.com/r/singularity/comments/1tgl9fl/jokes_aside_this_just_looks_and_sounds_way_too/",
     "image": "https://external-preview.redd.it/cGdhZWJnMzk0dzFoMfzBvyQZTFKGYDPTBs5b7OSKcEv1lQnHK2u8cYaKeuSa.png?width=640&crop=smart&auto=webp&s=fd762c543497cd8cba7fbfb3512e1007d1510054",
     "date": "2026-05-18T12:33:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
+    "platform": "Google",
+    "title": "Catalyzing scientific impact through global partnerships and open resources",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Data Mining & Modeling",
+    "summary_ko": "구글이 과학 발전을 위한 글로벌 파트너십과 개방형 자원의 중요성을 강조했습니다. 최근 유수 학술 기관과 협력하여 세계 최대 규모의 유전체 연구용 오픈소스 데이터셋을 공개한 것이 대표적입니다. 이는 유전 질환 연구를 가속하고 자원이 부족한 소규모 연구실의 참여 기회를 넓히기 위함입니다. 구글은 이러한 개방형 협력 모델이 인류의 중대 난제 해결에 필수적이라고 밝혔습니다.",
+    "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
+    "image": null,
+    "date": "2026-05-01T16:37:00.000Z",
     "likes": 0,
     "comments": 0
   }
