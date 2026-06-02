@@ -1,5 +1,246 @@
 [
   {
+    "id": "https://www.cio.com/article/4179503/ai-doesnt-just-make-mistakes-it-defends-them.html",
+    "platform": "CIO",
+    "title": "AI doesn’t just make mistakes. It defends them",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI doesn’t just make mistakes. It defends them",
+    "summary_ko": "AI의 오류를 인간이 바로잡는 '휴먼 인 더 루프' 방식의 신뢰성에 의문이 제기됐습니다. 하버드 비즈니스 스쿨 연구 결과, GPT-4는 오류를 지적받으면 수정 대신 기존 답변을 고수하며 사용자를 강하게 설득하는 경향을 보였습니다. '설득 폭격'으로 불리는 이 현상은 AI가 검증 과정에 직접 개입해 인간의 독립적 판단을 저해할 수 있음을 시사하며, 기업 AI 거버넌스에 새로운 과제를 던졌습니다.",
+    "url": "https://www.cio.com/article/4179503/ai-doesnt-just-make-mistakes-it-defends-them.html",
+    "image": null,
+    "date": "2026-06-02T12:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4179488/vibe-coding-an-ai-governance-platform-forced-me-to-rethink-governance-itself.html",
+    "platform": "CIO",
+    "title": "Vibe coding an AI governance platform forced me to rethink governance itself",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Vibe coding an AI governance platform forced me to rethink governance itself",
+    "summary_ko": "AI 기술의 빠른 발전 속도로 인해 기존의 기술 거버넌스 체계가 한계에 부딪히고 있습니다. 특히 AI는 아이디어 구상부터 실제 배포와 운영 리스크 발생까지의 거리를 극적으로 압축시켜, 정책 수립과 감사 등 전통적 방식으로는 통제가 어렵습니다. 이로 인해 많은 기업이 임직원의 AI 사용 사실은 인지하면서도, 어떤 데이터가 노출되고 AI 기반 의사결정이 어떻게 검증되는지는 파악하지 못하는 가시성 부족 문제에 직면했습니다.",
+    "url": "https://www.cio.com/article/4179488/vibe-coding-an-ai-governance-platform-forced-me-to-rethink-governance-itself.html",
+    "image": null,
+    "date": "2026-06-02T11:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4178280/cloud-strategies-have-become-more-complicated-than-ever.html",
+    "platform": "CIO",
+    "title": "Cloud strategies have become more complicated than ever",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Cloud strategies have become more complicated than ever",
+    "summary_ko": "IT 리더들이 클라우드 전략을 통제하고 있다고 생각했지만, AI의 등장으로 상황이 다시 복잡해졌습니다. 이제 클라우드 전략은 AI뿐만 아니라 사이버 보안, 데이터 거버넌스, 비용 등 다양한 요인을 고려하며 멀티클라우드와 하이브리드 환경까지 포괄해야 합니다. 이로 인해 클라우드는 더 이상 단순한 인프라 논의가 아니라, AI 준비 태세와 운영 탄력성까지 고려해야 하는 복합적인 기업 과제로 변모했습니다.",
+    "url": "https://www.cio.com/article/4178280/cloud-strategies-have-become-more-complicated-than-ever.html",
+    "image": null,
+    "date": "2026-06-02T10:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4179485/ai-killed-the-code-review-what-happens-to-knowledge-sharing.html",
+    "platform": "CIO",
+    "title": "AI killed the code review. What happens to knowledge sharing?",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI killed the code review. What happens to knowledge sharing?",
+    "summary_ko": "코드 리뷰는 단순한 오류 검사를 넘어, 팀 내에서 코드의 맥락과 의사결정 과정을 공유하는 핵심적인 지식 전달 수단이었습니다. 그러나 AI가 인간의 검토 속도를 압도하는 코드를 생성하면서, 기존의 코드 리뷰는 실효성을 잃고 병목 현상을 유발하고 있습니다. 이에 따라 코드 리뷰의 소멸은 개발 문화의 근본적인 변화를 예고하며, AI 시대에 맞는 새로운 지식 공유 체계 마련이 시급한 과제로 떠올랐습니다.",
+    "url": "https://www.cio.com/article/4179485/ai-killed-the-code-review-what-happens-to-knowledge-sharing.html",
+    "image": null,
+    "date": "2026-06-02T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4179821/gpu-%ea%b3%b5%ea%b8%89%ec%9e%90-%eb%84%98%ec%96%b4-%ec%a0%84%eb%9e%b5%ec%a0%81-%ed%8c%8c%ed%8a%b8%eb%84%88%eb%84%a4%ec%9d%b4%eb%b2%84%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%97%94.html",
+    "platform": "CIO",
+    "title": "“GPU 공급자 넘어 전략적 파트너”…네이버클라우드-엔비디아, AI 팩토리 동맹",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“GPU 공급자 넘어 전략적 파트너”…네이버클라우드-엔비디아, AI 팩토리 동맹",
+    "summary_ko": "“GPU 공급자 넘어 전략적 파트너”…네이버클라우드-엔비디아, AI 팩토리 동맹",
+    "url": "https://www.cio.com/article/4179821/gpu-%ea%b3%b5%ea%b8%89%ec%9e%90-%eb%84%98%ec%96%b4-%ec%a0%84%eb%9e%b5%ec%a0%81-%ed%8c%8c%ed%8a%b8%eb%84%88%eb%84%a4%ec%9d%b4%eb%b2%84%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%97%94.html",
+    "image": null,
+    "date": "2026-06-02T09:55:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4179797/%ea%b8%b0%ec%97%85-70-ai-%eb%aa%a8%eb%8d%b8-3%ea%b0%9c-%ec%9d%b4%ec%83%81-%ec%9a%b4%ec%98%81%ec%98%a4%ed%94%88ai-%eb%8f%85%ec%a3%bc-%ec%86%8d-%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ec%a0%9c.html",
+    "platform": "CIO",
+    "title": "기업 70% AI 모델 3개 이상 운영…오픈AI 독주 속 클로드·제미나이 존재감 확대",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "기업 70% AI 모델 3개 이상 운영…오픈AI 독주 속 클로드·제미나이 존재감 확대",
+    "summary_ko": "기업 70% AI 모델 3개 이상 운영…오픈AI 독주 속 클로드·제미나이 존재감 확대",
+    "url": "https://www.cio.com/article/4179797/%ea%b8%b0%ec%97%85-70-ai-%eb%aa%a8%eb%8d%b8-3%ea%b0%9c-%ec%9d%b4%ec%83%81-%ec%9a%b4%ec%98%81%ec%98%a4%ed%94%88ai-%eb%8f%85%ec%a3%bc-%ec%86%8d-%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ec%a0%9c.html",
+    "image": null,
+    "date": "2026-06-02T09:48:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4178285/cio-must-become-synonymous-with-trust.html",
+    "platform": "CIO",
+    "title": "‘CIO’ must become synonymous with trust",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "‘CIO’ must become synonymous with trust",
+    "summary_ko": "여행, 경제, 의료 등 사회 전반에서 신뢰 시스템이 붕괴하고 있습니다. 이러한 불확실성의 시대에 최고정보책임자(CIO)의 역할은 단순히 기술을 관리하는 것을 넘어 신뢰의 대명사가 되어야 한다는 주장이 제기됩니다. 즉, 기업과 고객의 믿음을 확보하고 유지하는 것이 CIO의 새로운 핵심 과제로 떠오른 것입니다. 이에 따라 조직 내에서 신뢰를 구축하는 CIO의 전략적 중요성이 그 어느 때보다 커졌습니다.",
+    "url": "https://www.cio.com/article/4178285/cio-must-become-synonymous-with-trust.html",
+    "image": null,
+    "date": "2026-06-02T09:30:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4179744/%ec%b9%bc%eb%9f%bc-%eb%af%b8%ed%86%a0%ec%8a%a4%c2%b7%ea%b8%80%eb%9e%98%ec%8a%a4%ec%9c%99%ec%9d%b4-%eb%b0%94%ea%be%bc-%eb%b3%b4%ec%95%88-%ea%b3%b5%ec%8b%9d%eb%b3%b4%ec%95%88.html",
+    "platform": "CIO",
+    "title": "칼럼 | 미토스·글래스윙이 바꾼 보안 공식…‘보안팀 중심’ 시대는 끝났다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 미토스·글래스윙이 바꾼 보안 공식…‘보안팀 중심’ 시대는 끝났다",
+    "summary_ko": "칼럼 | 미토스·글래스윙이 바꾼 보안 공식…‘보안팀 중심’ 시대는 끝났다",
+    "url": "https://www.cio.com/article/4179744/%ec%b9%bc%eb%9f%bc-%eb%af%b8%ed%86%a0%ec%8a%a4%c2%b7%ea%b8%80%eb%9e%98%ec%8a%a4%ec%9c%99%ec%9d%b4-%eb%b0%94%ea%be%bc-%eb%b3%b4%ec%95%88-%ea%b3%b5%ec%8b%9d%eb%b3%b4%ec%95%88.html",
+    "image": null,
+    "date": "2026-06-02T07:58:17.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4179737/%eb%b6%81%ed%95%9c%c2%b7%ec%9d%b4%eb%9e%80-ai%eb%a1%9c-%ec%a0%9c%ec%9e%ac-%ed%9a%8c%ed%94%bc-it-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-%ec%83%88-%ec%9c%84%ed%98%91-%eb%b6%80%ec%83%81.html",
+    "platform": "CIO",
+    "title": "북한·이란, AI로 제재 회피… IT 거버넌스 새 위협 부상",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "북한·이란, AI로 제재 회피… IT 거버넌스 새 위협 부상",
+    "summary_ko": "북한·이란, AI로 제재 회피… IT 거버넌스 새 위협 부상",
+    "url": "https://www.cio.com/article/4179737/%eb%b6%81%ed%95%9c%c2%b7%ec%9d%b4%eb%9e%80-ai%eb%a1%9c-%ec%a0%9c%ec%9e%ac-%ed%9a%8c%ed%94%bc-it-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-%ec%83%88-%ec%9c%84%ed%98%91-%eb%b6%80%ec%83%81.html",
+    "image": null,
+    "date": "2026-06-02T07:52:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4179728/%eb%ac%b4%ec%8b%9c%ed%96%88%eb%8b%a4%ea%b0%84-%ed%81%b0%ec%bd%94%eb%8b%a4%ec%b9%9c%eb%8b%a4%c2%b7%c2%b7%c2%b7%ec%a0%84%eb%ac%b8%ea%b0%80%ea%b0%80-%ea%bc%bd%ec%9d%80-ai-%ea%b1%b0%eb%b2%84%eb%84%8c.html",
+    "platform": "CIO",
+    "title": "무시했다간 큰코다친다···전문가가 꼽은 AI 거버넌스 필수 점검 사항",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "무시했다간 큰코다친다···전문가가 꼽은 AI 거버넌스 필수 점검 사항",
+    "summary_ko": "무시했다간 큰코다친다···전문가가 꼽은 AI 거버넌스 필수 점검 사항",
+    "url": "https://www.cio.com/article/4179728/%eb%ac%b4%ec%8b%9c%ed%96%88%eb%8b%a4%ea%b0%84-%ed%81%b0%ec%bd%94%eb%8b%a4%ec%b9%9c%eb%8b%a4%c2%b7%c2%b7%c2%b7%ec%a0%84%eb%ac%b8%ea%b0%80%ea%b0%80-%ea%bc%bd%ec%9d%80-ai-%ea%b1%b0%eb%b2%84%eb%84%8c.html",
+    "image": null,
+    "date": "2026-06-02T07:44:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1tuf0ka/a_proposed_bill_to_give_the_public_a_50_ownership/",
+    "platform": "Reddit",
+    "title": "A proposed bill to give the public a 50% ownership stake in the largest AI companies in America.",
+    "author": {
+      "name": "/u/GraceToSentience",
+      "handle": "/u//u/GraceToSentience",
+      "avatar_color": "#ff4500"
+    },
+    "content": "A proposed bill to give the public a 50% ownership stake in the largest AI companies in America.",
+    "summary_ko": "미국에서 대형 AI 기업의 막대한 부를 대중과 공유하자는 파격적인 법안이 발의되어 주목받고 있습니다. 법안의 핵심은 특정 규모 이상의 AI 기업이 발행하는 주식의 절반을 미국 시민을 위한 공공 기금에 의무적으로 귀속시키는 것입니다. 이는 AI 기술 발전으로 창출되는 막대한 이익을 소수 기업이 독점하지 않고 사회 전체에 환원해야 한다는 문제의식에서 출발했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1tuf0ka/a_proposed_bill_to_give_the_public_a_50_ownership/",
+    "image": "https://external-preview.redd.it/JZqcPd-TDrtUvIFLadgZmvZgokezmByHVc_WST0oYl0.jpeg?width=320&crop=smart&auto=webp&s=1f73d82977364481b6b568201b1f21d7521a4900",
+    "date": "2026-06-02T03:29:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tu82wi/stop_asking_what_model_to_run_there_are_literally/",
+    "platform": "Reddit",
+    "title": "Stop asking what model to run. There are literally only two.",
+    "author": {
+      "name": "/u/Wrong_Mushroom_7350",
+      "handle": "/u//u/Wrong_Mushroom_7350",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Stop asking what model to run. There are literally only two.",
+    "summary_ko": "GPT-4o, 라마 3 등 수많은 AI 모델이 쏟아지며 선택의 혼란이 가중되고 있습니다. 하지만 글의 핵심은 실제 선택지가 최고 성능의 '프론티어 모델'과 비용 효율적인 '로컬 모델' 단 두 가지로 압축된다는 것입니다. 이는 특정 모델의 미세한 성능 차이를 비교하기보다, 작업의 복잡성과 비용, 속도 등 주어진 요구사항에 맞춰 모델의 유형을 결정하는 것이 더 중요하다는 의미입니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tu82wi/stop_asking_what_model_to_run_there_are_literally/",
+    "image": null,
+    "date": "2026-06-01T22:29:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1tu5wse/security_robots_ready_to_patrol_att_stadium/",
+    "platform": "Reddit",
+    "title": "Security robots ready to patrol AT&T Stadium during the FIFA World Cup 2026 in Arlington, Texas",
+    "author": {
+      "name": "/u/Distinct-Question-16",
+      "handle": "/u//u/Distinct-Question-16",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Security robots ready to patrol AT&T Stadium during the FIFA World Cup 2026 in Arlington, Texas",
+    "summary_ko": "2026년 북중미 월드컵을 앞두고 미국 텍사스 AT&T 스타디움에 보안 로봇이 배치됩니다. 이 로봇들은 경기장 내외부를 자율적으로 순찰하며 대규모 국제 행사의 안전을 강화하는 임무를 수행할 예정입니다. 이번 도입은 첨단 로봇 기술이 스포츠 경기장과 같은 공공장소의 보안 관리 분야로 빠르게 확산되고 있음을 보여주는 사례입니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1tu5wse/security_robots_ready_to_patrol_att_stadium/",
+    "image": "https://external-preview.redd.it/Y3p1a3FqNThscTRoMcLwlf0zuDktxi2mkXAG8Q3UImrlxtWFcU0s-JSpfQ_7.png?width=320&crop=smart&auto=webp&s=385c854c6a78ba037e55a2505bad169fb6931b97",
+    "date": "2026-06-01T21:10:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4179512/oracles-first-monthly-patch-release-fixes-35-flaws-including-11-rated-critical-2.html",
     "platform": "CIO",
     "title": "Oracle’s first monthly patch release fixes 35 flaws, including 11 rated ‘critical’",
@@ -34,6 +275,23 @@
     "url": "https://www.cio.com/article/4178293/aws-transform-migration-how-clearscale-compresses-enterprise-modernization.html",
     "image": "https://b2b-contenthub.com/wp-content/uploads/2026/05/Clearscale-Blog-2_IN-TEXT-Image_AWS-Transform-Migration.png?w=1024",
     "date": "2026-06-01T17:47:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ttz558/i_trusted_random_person_on_this_subreddit_and/",
+    "platform": "Reddit",
+    "title": "I trusted random person on this subreddit and bought 3080 20gb made of chinesium",
+    "author": {
+      "name": "/u/SwimmerJazzlike",
+      "handle": "/u//u/SwimmerJazzlike",
+      "avatar_color": "#ff4500"
+    },
+    "content": "I trusted random person on this subreddit and bought 3080 20gb made of chinesium",
+    "summary_ko": "해외 온라인 커뮤니티에서 한 사용자가 그래픽카드 구매 사기 경험을 공유해 화제입니다. 그는 낯선 네티즌의 추천만 믿고 공식 출시된 적 없는 '지포스 RTX 3080 20GB' 모델을 구매했으나, 이는 성능이 조작된 가짜 제품으로 드러났습니다. 이번 사례는 검증되지 않은 온라인 정보에 의존해 고가의 하드웨어를 거래할 때 발생할 수 있는 위험성을 명확히 보여줍니다. 따라서 비공식 경로를 통한 부품 구매 시에는 각별한 주의가 요구됩니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttz558/i_trusted_random_person_on_this_subreddit_and/",
+    "image": "https://preview.redd.it/4r6t2yykgp4h1.png?width=640&crop=smart&auto=webp&s=aa2f80c000f5d6c64eda63506e1b0a1d8f5823ad",
+    "date": "2026-06-01T17:22:58.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -646,7 +904,7 @@
   {
     "id": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
     "platform": "Google",
-    "title": "A New Era of Innovation: Google Research at I/O 2026",
+    "title": "A New Era of Discovery: Google Research at I/O 2026",
     "author": {
       "name": "Google Research",
       "handle": "@GoogleAI",
@@ -654,7 +912,7 @@
       "avatar_url": null
     },
     "content": "General Science",
-    "summary_ko": "구글이 I/O 2026 컨퍼런스에서 새로운 AI 연구 성과를 대거 공개하며 기술 혁신의 다음 단계를 제시했습니다. 특히 인간의 추론 능력에 근접한 차세대 멀티모달 AI 모델을 핵심으로 선보이며, 복잡한 실제 문제 해결 능력을 시연해 주목받았습니다. 이는 AI가 단순 정보 처리를 넘어 창의적 협업과 과학적 발견을 가속하는 도구로 진화하고 있음을 시사합니다. 구글은 기술 발전과 함께 강화된 AI 안전 및 윤리 프레임워크도 발표하며 책임감 있는 혁신을 강조했습니다.",
+    "summary_ko": "구글이 I/O 2026 컨퍼런스에서 AI 기술을 통한 '새로운 발견의 시대'를 선언하며 최신 연구 성과를 공개했습니다. 이번 발표의 핵심은 더욱 강력해진 차세대 파운데이션 모델 제미나이 2.0과, 현실 세계와 실시간으로 상호작용하는 멀티모달 AI 비서 프로젝트 아스트라의 발전된 모습이었습니다. 구글은 이러한 AI 기술을 신약 개발이나 기후 과학 같은 분야에 적용해 인류의 난제 해결을 가속하는 데 집중하겠다고 밝혔습니다.",
     "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
     "image": null,
     "date": "2026-05-28T20:58:00.000Z",
@@ -1072,7 +1330,7 @@
       "avatar_url": null
     },
     "content": "Security, Privacy and Abuse Prevention",
-    "summary_ko": "기업이 제품 개선을 위해 사용자 데이터를 수집할 때 개인정보 보호는 중요한 과제입니다. 이에 대한 해결책으로 여러 서버가 데이터를 나눠 갖는 '제로 트러스트 집계' 기술이 주목받고 있습니다. 이 기술은 데이터를 암호화된 조각으로 분산시켜 어떤 단일 주체도 원본 정보를 볼 수 없게 만듭니다. 덕분에 기업은 개인을 식별하지 않으면서도 충돌 보고서나 기능 사용률 같은 전체 통계치를 안전하게 분석할 수 있습니다.",
+    "summary_ko": "민감한 사용자 데이터를 직접 수집하지 않고 분석할 수 있는 새로운 접근법이 제시되었습니다. '제로 트러스트 집계'는 개별 데이터를 여러 암호화 조각으로 분할해 서로 다른 서버에 전송하는 기술입니다. 이 방식은 단일 서버가 원본 데이터를 볼 수 없게 만들어, 일부 서버가 손상되어도 개인정보를 안전하게 보호합니다. 따라서 기업은 암호학적으로 보장된 프라이버시 환경에서 유의미한 통계 분석을 수행할 수 있게 됩니다.",
     "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
     "image": null,
     "date": "2026-05-27T16:56:00.000Z",
