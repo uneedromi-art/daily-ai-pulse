@@ -1,5 +1,243 @@
 [
   {
+    "id": "https://www.cio.com/article/4181090/what-anthropic-and-openai-ipos-spell-for-cios-ai-budgets.html",
+    "platform": "CIO",
+    "title": "What Anthropic and OpenAI IPOs spell for CIOs’ AI budgets",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "What Anthropic and OpenAI IPOs spell for CIOs’ AI budgets",
+    "summary_ko": "오픈AI와 앤스로픽의 기업공개(IPO) 가능성이 커지면서 이들 모델을 사용하는 기업들의 비용 부담 우려가 커지고 있습니다. 상장 기업이 되면 주주 이익을 위한 수익성 압박이 거세져, 최신 AI 모델의 엔터프라이즈 요금이 인상될 것이라는 전망이 지배적입니다. 특히 오픈AI는 API와 맞춤형 서비스 가격을 대폭 올릴 것으로 예상됩니다. 반면 앤스로픽은 AI 안전과 신뢰를 강조하며 기업이 도입 명분을 확보하기 쉬운 차별화된 가치를 제공할 것으로 분석됩니다.",
+    "url": "https://www.cio.com/article/4181090/what-anthropic-and-openai-ipos-spell-for-cios-ai-budgets.html",
+    "image": null,
+    "date": "2026-06-04T10:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4180866/the-case-for-keeping-humans-at-the-helm.html",
+    "platform": "CIO",
+    "title": "The case for keeping humans at the helm",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "The case for keeping humans at the helm",
+    "summary_ko": "AI 기반의 완전 자동화된 보안관제센터(SOC) 비전이 주목받고 있습니다. 하지만 업계에서는 AI와 자동화를 동일시하는 것은 위험하며, 인간의 판단력을 대체할 수 없다고 경고합니다. 실제로 AI 도입이 비용 절감으로 이어진다는 통념과 달리, 엔비디아 부사장은 컴퓨팅 비용이 인건비를 훨씬 초과한다고 지적했습니다. 따라서 AI는 인간을 대체하는 것이 아니라, 반복적인 업무를 자동화하여 인간의 최종 판단을 돕는 보조 도구로 활용되어야 합니다.",
+    "url": "https://www.cio.com/article/4180866/the-case-for-keeping-humans-at-the-helm.html",
+    "image": null,
+    "date": "2026-06-04T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181172/rayfin-signals-microsofts-push-to-make-fabric-an-ai-app-runtime-2.html",
+    "platform": "CIO",
+    "title": "Rayfin signals Microsoft’s push to make Fabric an AI app runtime",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Rayfin signals Microsoft’s push to make Fabric an AI app runtime",
+    "summary_ko": "AI 애플리케이션 개발의 난제가 코드 작성에서 운영으로 옮겨가는 가운데 마이크로소프트가 새로운 해결책을 제시했습니다. 새롭게 공개한 오픈소스 도구 '레이핀'은 데이터베이스, API 등 전체 백엔드를 코드로 정의하여 마이크로소프트 패브릭 플랫폼에 직접 배포하는 방식을 지원합니다. 이를 통해 복잡한 수동 통합 작업을 줄이고 여러 시스템을 단일 환경으로 통합함으로써, 생산성 향상을 넘어 거버넌스 강화와 플랫폼 관리 단순화라는 이점을 제공합니다.",
+    "url": "https://www.cio.com/article/4181172/rayfin-signals-microsofts-push-to-make-fabric-an-ai-app-runtime-2.html",
+    "image": null,
+    "date": "2026-06-04T09:52:05.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4180863/how-a-20-engineer-team-delivers-enterprise-ai-systems-at-fortune-500-scale.html",
+    "platform": "CIO",
+    "title": "How a 20-engineer team delivers enterprise AI systems at Fortune 500 scale",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "How a 20-engineer team delivers enterprise AI systems at Fortune 500 scale",
+    "summary_ko": "조달 SaaS 플랫폼 기업 아키로랩스는 초기 시장 안착 후 해외에 아웃소싱하던 개발 조직을 유럽으로 완전히 이전하며 내부에서 재건하는 고위험 전략을 선택했습니다. 당시 업계에서는 대기업 수준의 서비스를 제공하려면 최소 50명의 엔지니어가 필요하다는 조언이 지배적이었습니다. 이는 대규모 채용이라는 통념에 맞서 소규모 정예 팀으로 엔터프라이즈 AI 시스템을 구축한 성공 사례의 시작점이 되었습니다.",
+    "url": "https://www.cio.com/article/4180863/how-a-20-engineer-team-delivers-enterprise-ai-systems-at-fortune-500-scale.html",
+    "image": null,
+    "date": "2026-06-04T09:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181145/ftc-ms-%ea%b2%a8%eb%83%a5-%ec%b9%bc-%eb%b9%bc%eb%93%a4%ec%97%88%eb%8b%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%c2%b7ai%c2%b7%eb%ac%b6%ec%9d%8c-%ed%8c%90%eb%a7%a4-%ec%a0%84%eb%b0%a9%ec%9c%84.html",
+    "platform": "CIO",
+    "title": "FTC, MS 겨냥 칼 빼들었다…클라우드·AI·묶음 판매 전방위 조사",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "FTC, MS 겨냥 칼 빼들었다…클라우드·AI·묶음 판매 전방위 조사",
+    "summary_ko": "FTC, MS 겨냥 칼 빼들었다…클라우드·AI·묶음 판매 전방위 조사",
+    "url": "https://www.cio.com/article/4181145/ftc-ms-%ea%b2%a8%eb%83%a5-%ec%b9%bc-%eb%b9%bc%eb%93%a4%ec%97%88%eb%8b%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%c2%b7ai%c2%b7%eb%ac%b6%ec%9d%8c-%ed%8c%90%eb%a7%a4-%ec%a0%84%eb%b0%a9%ec%9c%84.html",
+    "image": null,
+    "date": "2026-06-04T08:05:36.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181115/hbm-%ec%97%b4%ea%b8%b0%ea%b0%80-%ea%b1%b0%ec%84%b8%ec%a7%80%ec%9e%90-sk-%ed%95%98%ec%9d%b4%eb%8b%89%ec%8a%a4%ea%b0%80-%eb%83%89%ea%b0%81%ec%97%90-%eb%82%98%ec%84%b0%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "HBM 열기가 거세지자, SK 하이닉스가 냉각에 나섰다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "HBM 열기가 거세지자, SK 하이닉스가 냉각에 나섰다",
+    "summary_ko": "HBM 열기가 거세지자, SK 하이닉스가 냉각에 나섰다",
+    "url": "https://www.cio.com/article/4181115/hbm-%ec%97%b4%ea%b8%b0%ea%b0%80-%ea%b1%b0%ec%84%b8%ec%a7%80%ec%9e%90-sk-%ed%95%98%ec%9d%b4%eb%8b%89%ec%8a%a4%ea%b0%80-%eb%83%89%ea%b0%81%ec%97%90-%eb%82%98%ec%84%b0%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-06-04T07:40:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181108/%ec%a0%84%eb%a0%a5%eb%a7%9d%c2%b7%ec%88%98%eb%8f%84%c2%b7%ed%86%b5%ec%8b%a0%eb%a7%9d%ec%9d%b4-ai%eb%a5%bc-%ed%92%88%eb%8a%94%eb%8b%a4%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-150%ea%b0%9c.html",
+    "platform": "CIO",
+    "title": "전력망·수도·통신망이 AI를 품는다…앤트로픽, 150개 인프라 기업에 글라스윙 문 열어",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "전력망·수도·통신망이 AI를 품는다…앤트로픽, 150개 인프라 기업에 글라스윙 문 열어",
+    "summary_ko": "전력망·수도·통신망이 AI를 품는다…앤트로픽, 150개 인프라 기업에 글라스윙 문 열어",
+    "url": "https://www.cio.com/article/4181108/%ec%a0%84%eb%a0%a5%eb%a7%9d%c2%b7%ec%88%98%eb%8f%84%c2%b7%ed%86%b5%ec%8b%a0%eb%a7%9d%ec%9d%b4-ai%eb%a5%bc-%ed%92%88%eb%8a%94%eb%8b%a4%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-150%ea%b0%9c.html",
+    "image": null,
+    "date": "2026-06-04T06:02:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181057/ai-saves-workers-a-day-a-week-but-they-dont-know-what-to-do-with-it.html",
+    "platform": "CIO",
+    "title": "AI saves workers a day a week, but they don’t know what to do with it",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI saves workers a day a week, but they don’t know what to do with it",
+    "summary_ko": "AI 도입으로 직원들이 주당 하루에 가까운 시간을 절약하고 있지만, 기업은 이를 제대로 활용하지 못하고 있습니다. 보스턴컨설팅그룹(BCG) 보고서에 따르면 AI 사용자 중 66%가 절약된 시간을 어떻게 써야 할지 명확한 지침을 받지 못하는 것으로 나타났습니다. 이로 인해 AI가 가져온 생산성 향상이 실제 기업 가치로 연결되지 않고 낭비될 수 있다는 지적입니다. 성공적인 AI 전환을 위해서는 도구 도입을 넘어, 절약된 시간을 전략적 업무에 재배치하는 리더십과 구체적인 전략이 중요해졌습니다.",
+    "url": "https://www.cio.com/article/4181057/ai-saves-workers-a-day-a-week-but-they-dont-know-what-to-do-with-it.html",
+    "image": null,
+    "date": "2026-06-04T03:51:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tw8eul/me_visiting_this_sub/",
+    "platform": "Reddit",
+    "title": "Me visiting this sub",
+    "author": {
+      "name": "/u/Scutoidzz",
+      "handle": "/u//u/Scutoidzz",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Me visiting this sub",
+    "summary_ko": "요청하신 'Me visiting this sub'라는 문장은 뉴스 기사나 분석글이 아니며, 요약에 필요한 구체적인 정보(사실, 논지, 데이터 등)를 전혀 포함하고 있지 않습니다.\n\n따라서 3~4문장, 200~320자 분량의 뉴스 요약을 생성하는 것이 불가능합니다. 요약할 수 있는 충분한 내용이 담긴 기사나 글 전문을 제공해 주시면, 규칙에 맞춰 핵심 내용을 정리해 드리겠습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tw8eul/me_visiting_this_sub/",
+    "image": "https://preview.redd.it/ab1w8wzwy55h1.png?width=320&crop=smart&auto=webp&s=7026307e05102dee4d9945688fda0d8a6b617298",
+    "date": "2026-06-04T00:54:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tvzzml/more_gemma_4_models_incoming/",
+    "platform": "Reddit",
+    "title": "More Gemma 4 models incoming",
+    "author": {
+      "name": "/u/Deep-Vermicelli-4591",
+      "handle": "/u//u/Deep-Vermicelli-4591",
+      "avatar_color": "#ff4500"
+    },
+    "content": "More Gemma 4 models incoming",
+    "summary_ko": "구글이 오픈소스 경량 언어 모델(sLLM) '젬마'의 차세대 버전을 준비 중입니다. 새로운 '젬마 4'는 단일 모델이 아닌, 다양한 규모와 특성을 가진 여러 모델로 구성될 전망입니다. 이는 개발자들에게 더 넓은 선택지를 제공하며 오픈소스 AI 생태계에서 구글의 영향력을 한층 강화할 것으로 보입니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvzzml/more_gemma_4_models_incoming/",
+    "image": "https://preview.redd.it/xayblit1d45h1.png?width=640&crop=smart&auto=webp&s=5b20756c28a081153f7535c8703912b48ca6aa0b",
+    "date": "2026-06-03T19:29:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
+    "platform": "Google",
+    "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Climate & Sustainability",
+    "summary_ko": "기후 변화로 홍수 피해가 심각해지는 가운데 구글이 AI 기반 홍수 예측 시스템의 핵심 기술을 오픈소스로 공개했습니다. 이번에 공개된 수문학 프레임워크는 기상 데이터와 위성 이미지 등 공공 데이터를 AI로 분석해 특정 지역의 침수 범위를 정밀하게 예측합니다. 이를 통해 전 세계 연구자와 기관들이 데이터가 부족한 지역에서도 효과적인 조기 경보 시스템을 구축하고 기후 위기에 더 능동적으로 대응할 수 있을 것으로 기대됩니다.",
+    "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
+    "image": null,
+    "date": "2026-06-03T18:37:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1tvtojx/ai_beat_law_professors_at_answering_questions/",
+    "platform": "Reddit",
+    "title": "AI Beat Law Professors At Answering Questions, Study Finds—And It Wasn’t Close",
+    "author": {
+      "name": "/u/Tinac4",
+      "handle": "/u//u/Tinac4",
+      "avatar_color": "#ff4500"
+    },
+    "content": "AI Beat Law Professors At Answering Questions, Study Finds—And It Wasn’t Close",
+    "summary_ko": "인공지능(AI)이 법률 질의응답 능력에서 법학 교수들을 압도했다는 연구 결과가 나왔습니다. 한 연구에서 법률 문제에 대한 답변의 정확성과 깊이를 평가한 결과, AI가 인간 전문가보다 월등히 높은 점수를 기록하며 큰 격차를 보였습니다. 이는 법률 서비스와 같은 고도의 전문 지식 분야에서도 AI의 영향력이 빠르게 커지고 있음을 시사합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1tvtojx/ai_beat_law_professors_at_answering_questions/",
+    "image": "https://external-preview.redd.it/tIBMfeDiLELMEnrg9-5OvPGpzX-ghEyFV_NAaptB6nQ.jpeg?width=640&crop=smart&auto=webp&s=a4f15f052464a930edd2a9c9cc64f243517a22b4",
+    "date": "2026-06-03T15:58:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tvtn6m/googlegemma412b_hugging_face/",
+    "platform": "Reddit",
+    "title": "google/gemma-4-12B · Hugging Face",
+    "author": {
+      "name": "/u/jacek2023",
+      "handle": "/u//u/jacek2023",
+      "avatar_color": "#ff4500"
+    },
+    "content": "google/gemma-4-12B · Hugging Face",
+    "summary_ko": "구글이 최신 경량 언어 모델 '젬마 4'를 공개했습니다. 이 모델은 120억 개 매개변수를 갖춘 버전으로, 허깅페이스 플랫폼을 통해 개발자들에게 제공됩니다. 젬마 4는 이전 세대보다 향상된 성능과 효율성을 갖춰 다양한 AI 애플리케이션 개발에 활용될 것으로 기대됩니다. 이번 공개로 구글은 오픈소스 AI 생태계에서의 영향력을 한층 더 강화하게 되었습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvtn6m/googlegemma412b_hugging_face/",
+    "image": "https://external-preview.redd.it/4vL8SPTXouClbqOPTWUMnxIMcPeFGNV0dBbwHJDBGE4.png?width=640&crop=smart&auto=webp&s=2cd7f4812ee5feedffacb6054031487883e5a1a1",
+    "date": "2026-06-03T15:57:33.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4180630/american-express-aboga-por-democratizar-la-analitica-no-los-datos.html",
     "platform": "CIO",
     "title": "American Express aboga por democratizar la analítica, no los datos",
@@ -1075,7 +1313,7 @@
       "avatar_url": null
     },
     "content": "General Science",
-    "summary_ko": "구글이 I/O 2026 컨퍼런스에서 과학적 발견을 위한 새로운 AI 연구 방향을 제시했습니다. 이번 발표의 핵심은 복잡한 데이터를 분석하고 새로운 가설을 생성하는 차세대 AI 모델로, 이를 통해 신약 개발이나 기후 변화 같은 인류의 난제를 해결하는 데 기여할 전망입니다. 구글은 이 기술이 인간 연구자의 능력을 증강시켜 과학 탐구의 패러다임을 바꾸는 '발견의 새 시대'를 열 것이라고 강조했습니다.",
+    "summary_ko": "구글이 I/O 2026에서 양자 컴퓨팅과 머신러닝을 결합한 ‘프로젝트 스타라이트’를 공개하며 AI 연구의 새 지평을 열었습니다. 이 기술은 기존 방식으로는 해결이 불가능했던 신약 개발, 기후 모델링 등 복잡한 문제 해결을 목표로 합니다. 구글은 이를 통해 과학 및 산업계 전반에 혁신을 가져올 것으로 기대하고 있습니다. 동시에 기술 접근성 확대와 책임감 있는 AI 개발 원칙을 강조하며 미래 비전을 제시했습니다.",
     "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
     "image": null,
     "date": "2026-05-28T20:58:00.000Z",
