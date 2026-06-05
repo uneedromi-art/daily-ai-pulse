@@ -1,5 +1,281 @@
 [
   {
+    "id": "https://www.cio.com/article/4181520/%ec%b9%bc%eb%9f%bc-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-20%eb%aa%85%ec%9c%bc%eb%a1%9c-%ed%8f%ac%ec%b6%98-500%ea%b8%89-%ea%b8%b0%ec%97%85%ec%9a%a9-ai%eb%a5%bc-%ea%b5%ac%ec%b6%95%ed%95%9c-%eb%b9%84.html",
+    "platform": "CIO",
+    "title": "칼럼 | 엔지니어 20명으로 포춘 500급 기업용 AI를 구축한 비결",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 엔지니어 20명으로 포춘 500급 기업용 AI를 구축한 비결",
+    "summary_ko": "칼럼 | 엔지니어 20명으로 포춘 500급 기업용 AI를 구축한 비결",
+    "url": "https://www.cio.com/article/4181520/%ec%b9%bc%eb%9f%bc-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-20%eb%aa%85%ec%9c%bc%eb%a1%9c-%ed%8f%ac%ec%b6%98-500%ea%b8%89-%ea%b8%b0%ec%97%85%ec%9a%a9-ai%eb%a5%bc-%ea%b5%ac%ec%b6%95%ed%95%9c-%eb%b9%84.html",
+    "image": null,
+    "date": "2026-06-05T05:27:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181500/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%c2%b7%ec%98%a4%ed%94%88ai-ipo%ea%b0%80-%ec%9d%98%eb%af%b8%ed%95%98%eb%8a%94-%ea%b2%83cio%ec%9d%98-ai-%ec%98%88%ec%82%b0%ec%9d%80-%eb%8d%94-%eb%8a%98.html",
+    "platform": "CIO",
+    "title": "앤트로픽·오픈AI IPO가 의미하는 것···IT리더의 AI 예산은 더 늘어날까",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "앤트로픽·오픈AI IPO가 의미하는 것···IT리더의 AI 예산은 더 늘어날까",
+    "summary_ko": "앤트로픽·오픈AI IPO가 의미하는 것···IT리더의 AI 예산은 더 늘어날까",
+    "url": "https://www.cio.com/article/4181500/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%c2%b7%ec%98%a4%ed%94%88ai-ipo%ea%b0%80-%ec%9d%98%eb%af%b8%ed%95%98%eb%8a%94-%ea%b2%83cio%ec%9d%98-ai-%ec%98%88%ec%82%b0%ec%9d%80-%eb%8d%94-%eb%8a%98.html",
+    "image": null,
+    "date": "2026-06-05T05:11:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181492/%ec%98%a4%ed%94%88ai-%ec%84%b8%ec%85%98-%ea%b0%80%ec%8b%9c%ec%84%b1-%eb%ac%b8%ec%a0%9c%eb%8a%94-%ed%95%b4%ea%b2%b0%ed%96%88%ec%a7%80%eb%a7%8cai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-%ea%b3%bc.html",
+    "platform": "CIO",
+    "title": "오픈AI, 세션 가시성 문제는 해결했지만…AI 거버넌스 과제는 여전",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "오픈AI, 세션 가시성 문제는 해결했지만…AI 거버넌스 과제는 여전",
+    "summary_ko": "오픈AI, 세션 가시성 문제는 해결했지만…AI 거버넌스 과제는 여전",
+    "url": "https://www.cio.com/article/4181492/%ec%98%a4%ed%94%88ai-%ec%84%b8%ec%85%98-%ea%b0%80%ec%8b%9c%ec%84%b1-%eb%ac%b8%ec%a0%9c%eb%8a%94-%ed%95%b4%ea%b2%b0%ed%96%88%ec%a7%80%eb%a7%8cai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-%ea%b3%bc.html",
+    "image": null,
+    "date": "2026-06-05T03:49:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181469/meta-wants-to-turn-a-billion-customer-chats-into-enterprise-ai-agents.html",
+    "platform": "CIO",
+    "title": "Meta wants to turn a billion customer chats into enterprise AI agents",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Meta wants to turn a billion customer chats into enterprise AI agents",
+    "summary_ko": "메타가 수십억 건의 고객 대화 데이터를 활용해 기업용 AI 에이전트 시장에 본격적으로 뛰어듭니다. 회사는 ‘메타 비즈니스 에이전트’를 확장하고 새로운 플랫폼을 출시하여, 기업들이 왓츠앱, 메신저 등에서 맞춤형 에이전트를 쉽게 구축하고 배포하도록 지원할 계획입니다. 하지만 구글, 마이크로소프트 등 기존 강자들이 선점한 치열한 시장에서 메타가 어떤 차별점을 증명할 수 있을지가 성공의 관건으로 떠올랐습니다.",
+    "url": "https://www.cio.com/article/4181469/meta-wants-to-turn-a-billion-customer-chats-into-enterprise-ai-agents.html",
+    "image": null,
+    "date": "2026-06-05T02:33:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4178945/ai%e6%8a%95%e8%b3%87%e3%81%8b%e3%82%89%e6%88%90%e6%9e%9c%e3%82%92%e3%81%86%e3%82%80%e3%81%9f%e3%82%81%e3%81%ab%e3%83%bc%e3%83%bcai-coe%e3%81%ae%e5%bf%85%e8%a6%81%e6%80%a7.html",
+    "platform": "CIO",
+    "title": "AI投資から成果をうむためにーーAI CoEの必要性",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI投資から成果をうむためにーーAI CoEの必要性",
+    "summary_ko": "다수 기업이 AI를 도입했으나 부서별로 파편화된 개발과 거버넌스 부재로 전사적 확산과 수익 창출에 어려움을 겪고 있습니다. 이에 대한 해결책으로 조직 전반의 AI 전략과 표준을 수립하고 관리하는 중앙 조직, AI CoE(AI 전문가 조직)의 필요성이 대두됩니다. AI CoE는 중복 투자를 막고 재사용 가능한 자산을 구축해 AI 도입의 질과 안전성을 높이며, 궁극적으로 투자 대비 수익률을 극대화하는 핵심 역할을 수행합니다.",
+    "url": "https://www.cio.com/article/4178945/ai%e6%8a%95%e8%b3%87%e3%81%8b%e3%82%89%e6%88%90%e6%9e%9c%e3%82%92%e3%81%86%e3%82%80%e3%81%9f%e3%82%81%e3%81%ab%e3%83%bc%e3%83%bcai-coe%e3%81%ae%e5%bf%85%e8%a6%81%e6%80%a7.html",
+    "image": null,
+    "date": "2026-06-04T23:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
+    "platform": "Google",
+    "title": "Towards passive heart health monitoring via smartphone camera",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Health & Bioscience",
+    "summary_ko": "스마트폰 카메라로 불규칙한 심장 박동인 심방세동을 진단하는 AI 기술이 개발됐습니다. 구글 연구진은 사용자의 얼굴 피부에서 나타나는 미세한 색상 변화를 분석해 심장 리듬 이상을 감지하는 딥러닝 모델을 공개했습니다. 임상 연구 결과, 이 기술은 의료용 심전도 패치와 비슷한 수준의 정확도를 기록했습니다. 이를 통해 별도 장비 없이 일상에서 간편하게 심장 건강을 모니터링할 수 있게 될 전망입니다.",
+    "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
+    "image": null,
+    "date": "2026-06-04T19:47:12.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181320/fighting-ai-with-ai-the-time-to-act-is-now.html",
+    "platform": "CIO",
+    "title": "Fight back faster: Why AI-powered defense is no longer optional for enterprise security",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Fight back faster: Why AI-powered defense is no longer optional for enterprise security",
+    "summary_ko": "AI 기술이 사이버 공격 환경을 급격히 변화시키면서 기업의 방어 체계가 시험대에 올랐습니다. 한 보고서에 따르면 공격자의 데이터 유출 시간은 72분으로 1년 만에 4배나 빨라졌고, 방어팀의 대응 시간은 수일에서 수 분 단위로 압축되었습니다. 이에 따라 정교해진 AI 공격에 맞서기 위한 AI 기반의 자동화된 방어 시스템 도입은 더 이상 선택이 아닌 필수가 되었습니다.",
+    "url": "https://www.cio.com/article/4181320/fighting-ai-with-ai-the-time-to-act-is-now.html",
+    "image": null,
+    "date": "2026-06-04T17:10:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1twsm5g/anthropic_our_internal_data_shows_claude_is/",
+    "platform": "Reddit",
+    "title": "Anthropic - Our internal data shows Claude is accelerating AI development—a possible path to recursive self-improvement, or AI autonomously building a more capable successor.",
+    "author": {
+      "name": "/u/Educational_Grab_473",
+      "handle": "/u//u/Educational_Grab_473",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Anthropic - Our internal data shows Claude is accelerating AI development—a possible path to recursive self-improvement, or AI autonomously building a more capable successor.",
+    "summary_ko": "앤트로픽이 자사 AI 클로드가 AI 개발 속도를 가속하고 있다는 내부 데이터를 공개했습니다. 이는 AI가 스스로 더 뛰어난 후속 모델을 자율적으로 구축하는 '재귀적 자기 개선'의 실현 가능성을 시사합니다. AI가 스스로 지능을 고도화하는 단계에 한 걸음 더 다가섰다는 분석이 나오며 기술 발전의 새로운 국면을 예고하고 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1twsm5g/anthropic_our_internal_data_shows_claude_is/",
+    "image": "https://preview.redd.it/9ph4lq42la5h1.jpeg?width=640&crop=smart&auto=webp&s=f54e6fff7fb1327d8759f885c2578038a42b725d",
+    "date": "2026-06-04T16:24:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181261/%ec%bd%94%eb%94%a9-ai-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%89%eb%8a%94%eb%8b%a4-ibm-%ec%9e%91%ec%97%85-%ec%aa%bc%ea%b0%9c-%ec%b5%9c%ec%a0%81-%eb%aa%a8%eb%8d%b8-%ea%b3%a8.html",
+    "platform": "CIO",
+    "title": "“코딩 AI 비용 폭탄 막는다” IBM 작업 쪼개 최적 모델 골라주는 ‘밥’으로 코딩 시장 정조준",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“코딩 AI 비용 폭탄 막는다” IBM 작업 쪼개 최적 모델 골라주는 ‘밥’으로 코딩 시장 정조준",
+    "summary_ko": "“코딩 AI 비용 폭탄 막는다” IBM 작업 쪼개 최적 모델 골라주는 ‘밥’으로 코딩 시장 정조준",
+    "url": "https://www.cio.com/article/4181261/%ec%bd%94%eb%94%a9-ai-%eb%b9%84%ec%9a%a9-%ed%8f%ad%ed%83%84-%eb%a7%89%eb%8a%94%eb%8b%a4-ibm-%ec%9e%91%ec%97%85-%ec%aa%bc%ea%b0%9c-%ec%b5%9c%ec%a0%81-%eb%aa%a8%eb%8d%b8-%ea%b3%a8.html",
+    "image": null,
+    "date": "2026-06-04T16:19:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1twrvts/nvidias_been_paying_shills_on_linkedin/",
+    "platform": "Reddit",
+    "title": "Nvidia's been paying shills on LinkedIn",
+    "author": {
+      "name": "/u/jotunck",
+      "handle": "/u//u/jotunck",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Nvidia's been paying shills on LinkedIn",
+    "summary_ko": "엔비디아가 링크드인에서 기술 전문가들에게 대가를 지급하며 자사를 홍보했다는 의혹이 제기되었습니다. 이들은 엔비디아로부터 금전적 지원을 받고도 유료 광고임을 명시하지 않은 채 긍정적인 내용의 게시물을 작성한 것으로 알려졌습니다. 이는 소비자를 기만하는 행위로, 빅테크 기업의 부적절한 바이럴 마케팅 전략에 대한 비판을 낳고 있습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twrvts/nvidias_been_paying_shills_on_linkedin/",
+    "image": "https://preview.redd.it/xjj6rznnfa5h1.jpeg?width=640&crop=smart&auto=webp&s=e9143fa814e2dbc59a123ffecb43bcb4028f6160",
+    "date": "2026-06-04T15:59:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181288/como-impactaran-en-los-presupuestos-de-ia-de-los-cio-las-salidas-a-bolsa-de-anthropic-y-openai.html",
+    "platform": "CIO",
+    "title": "¿Cómo impactarán en los presupuestos de IA de los CIO las salidas a bolsa de Anthropic y OpenAI?",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "¿Cómo impactarán en los presupuestos de IA de los CIO las salidas a bolsa de Anthropic y OpenAI?",
+    "summary_ko": "OpenAI와 앤트로픽의 기업공개(IPO) 가능성이 제기되면서 기업 고객들의 우려가 커지고 있습니다. 두 기업이 상장할 경우, 주주 이익을 위한 수익성 압박이 커지면서 기업용 AI 모델과 API 사용료가 크게 인상될 수 있다는 분석이 나옵니다. 특히 API와 코파일럿 등 AI 서비스 의존도가 높은 기업은 상당한 비용 증가에 직면할 수 있습니다. 이에 따라 두 기업의 상장 여부와 가격 정책 변화는 향후 CIO들의 AI 예산 책정에 중요한 변수가 될 전망입니다.",
+    "url": "https://www.cio.com/article/4181288/como-impactaran-en-los-presupuestos-de-ia-de-los-cio-las-salidas-a-bolsa-de-anthropic-y-openai.html",
+    "image": null,
+    "date": "2026-06-04T15:48:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1twptw2/kvarn_new_kvcache_quant_from_huawei_35_kv_cache/",
+    "platform": "Reddit",
+    "title": "KVarN: new KV-cache quant from Huawei. 3–5× KV cache compression with actual speed-up instead of slow-down, and unlike TurboQuant it holds up on reasoning (Apache 2.0, vLLM single flag)",
+    "author": {
+      "name": "/u/acluk90",
+      "handle": "/u//u/acluk90",
+      "avatar_color": "#ff4500"
+    },
+    "content": "KVarN: new KV-cache quant from Huawei. 3–5× KV cache compression with actual speed-up instead of slow-down, and unlike TurboQuant it holds up on reasoning (Apache 2.0, vLLM single flag)",
+    "summary_ko": "화웨이가 대규모 언어 모델(LLM)의 메모리 사용량을 획기적으로 줄이는 새로운 KV 캐시 양자화 기술 'KVarN'을 공개했습니다. 이 기술은 KV 캐시를 3~5배 압축하면서도 기존 방식과 달리 속도 저하 없이 오히려 실제 추론 속도를 높이는 것이 특징입니다. 특히 복잡한 추론 과제에서도 성능 저하가 거의 없어 주목받고 있습니다. 아파치 2.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1twptw2/kvarn_new_kvcache_quant_from_huawei_35_kv_cache/",
+    "image": "https://preview.redd.it/aeyuff7h2a5h1.png?width=140&height=64&auto=webp&s=81be16d8345bedbe6f87cfcc66cdfde9ec4905ec",
+    "date": "2026-06-04T14:47:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1two85g/sam_altman_dario_amodei_and_demis_hassabis_have/",
+    "platform": "Reddit",
+    "title": "Sam Altman, Dario Amodei, and Demis Hassabis have signed a joint open letter calling on Congress to mandate screening of synthetic nucleic acid orders",
+    "author": {
+      "name": "/u/TorturedPoet30",
+      "handle": "/u//u/TorturedPoet30",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Sam Altman, Dario Amodei, and Demis Hassabis have signed a joint open letter calling on Congress to mandate screening of synthetic nucleic acid orders",
+    "summary_ko": "오픈AI, 앤스로픽, 구글 딥마인드 등 세계적인 AI 기업 대표들이 미국 의회에 공동 서한을 보냈습니다. 이들은 AI 기술을 이용해 유해 병원체를 만들 수 있는 합성 핵산 주문에 대한 심사를 의무화해야 한다고 촉구했습니다. 이는 AI가 생물학적 위협 개발에 악용될 위험을 사전에 차단하려는 조치입니다. AI 안전성 확보를 위한 업계의 자발적 규제 요구라는 점에서 주목받고 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1two85g/sam_altman_dario_amodei_and_demis_hassabis_have/",
+    "image": "https://preview.redd.it/82dzben2s95h1.png?width=140&height=133&auto=webp&s=d19ada8bb78c44fa07f0f5be41747a90e7867c9a",
+    "date": "2026-06-04T13:48:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4180872/cybersecurity-maturity-is-now-a-proof-point-for-resilience.html",
+    "platform": "CIO",
+    "title": "Cybersecurity maturity is now a proof point for resilience",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Cybersecurity maturity is now a proof point for resilience",
+    "summary_ko": "사이버 보안 성숙도가 기업의 회복탄력성을 증명하는 핵심 지표가 되었습니다. 공격 기법이 고도화되고 AI가 등장하며 단순 방어를 넘어 시스템 이해도와 위기 대응 능력이 중요해졌습니다. 하지만 많은 경영진이 방화벽에 막히는 공격만 보고 실제 위험을 과소평가하는 경향이 있습니다. 따라서 CIO와 기술 리더가 전사적 위험을 연결하고 관리하는 역할이 더욱 중요해졌습니다.",
+    "url": "https://www.cio.com/article/4180872/cybersecurity-maturity-is-now-a-proof-point-for-resilience.html",
+    "image": null,
+    "date": "2026-06-04T12:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181187/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-it-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%a7%80%ed%82%a8%eb%8b%a4%ec%8b%9c%ec%8a%a4%ec%bd%94-%eb%a8%b8%ec%8b%a0-%ec%86%8d%eb%8f%84-%eb%b3%b4.html",
+    "platform": "CIO",
+    "title": "AI 에이전트가 IT 인프라 지킨다…시스코, 머신 속도 보안·에이전틱옵스 비전 구체화",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 에이전트가 IT 인프라 지킨다…시스코, 머신 속도 보안·에이전틱옵스 비전 구체화",
+    "summary_ko": "AI 에이전트가 IT 인프라 지킨다…시스코, 머신 속도 보안·에이전틱옵스 비전 구체화",
+    "url": "https://www.cio.com/article/4181187/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-it-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%a7%80%ed%82%a8%eb%8b%a4%ec%8b%9c%ec%8a%a4%ec%bd%94-%eb%a8%b8%ec%8b%a0-%ec%86%8d%eb%8f%84-%eb%b3%b4.html",
+    "image": null,
+    "date": "2026-06-04T11:57:54.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4181090/what-anthropic-and-openai-ipos-spell-for-cios-ai-budgets.html",
     "platform": "CIO",
     "title": "What Anthropic and OpenAI IPOs spell for CIOs’ AI budgets",
@@ -196,7 +472,7 @@
       "avatar_url": null
     },
     "content": "Climate & Sustainability",
-    "summary_ko": "기후 변화로 홍수 피해가 심각해지는 가운데 구글이 AI 기반 홍수 예측 시스템의 핵심 기술을 오픈소스로 공개했습니다. 이번에 공개된 수문학 프레임워크는 기상 데이터와 위성 이미지 등 공공 데이터를 AI로 분석해 특정 지역의 침수 범위를 정밀하게 예측합니다. 이를 통해 전 세계 연구자와 기관들이 데이터가 부족한 지역에서도 효과적인 조기 경보 시스템을 구축하고 기후 위기에 더 능동적으로 대응할 수 있을 것으로 기대됩니다.",
+    "summary_ko": "기후 변화로 심각해지는 홍수 문제에 대응하기 위해 구글이 자사의 AI 기술을 오픈소스로 공개했습니다. 80개국 이상에 홍수 경보를 제공하며 효과를 입증한 핵심 수문학 모델과 예측 시스템이 포함됩니다. 이를 통해 전 세계 연구자와 기관은 각 지역에 최적화된 맞춤형 홍수 예방 시스템을 직접 구축할 수 있게 됩니다. 이번 공개는 전 지구적 홍수 대응 능력 강화와 인명 피해 감소를 위한 중요한 전환점이 될 전망입니다.",
     "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
     "image": null,
     "date": "2026-06-03T18:37:32.000Z",
