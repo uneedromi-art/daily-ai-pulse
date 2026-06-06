@@ -1,5 +1,186 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1txve3j/google_has_entered_a_920_million_monthly_cloud/",
+    "platform": "Reddit",
+    "title": "Google has entered a $920 million monthly cloud compute deal with SpaceX",
+    "author": {
+      "name": "/u/FinancialMastodon916",
+      "handle": "/u//u/FinancialMastodon916",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Google has entered a $920 million monthly cloud compute deal with SpaceX",
+    "summary_ko": "구글이 스페이스X와 초대형 클라우드 컴퓨팅 계약을 체결했습니다. 계약 규모는 월 9억 2천만 달러(약 1조 2천억 원)에 달하며, 이는 클라우드 업계 역사상 최대 규모 중 하나로 평가됩니다. 이번 파트너십을 통해 스페이스X는 스타링크 위성 서비스와 AI 모델 개발에 필요한 막대한 컴퓨팅 자원을 안정적으로 확보하게 되었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1txve3j/google_has_entered_a_920_million_monthly_cloud/",
+    "image": "https://preview.redd.it/vn0s7sp4qi5h1.png?width=640&crop=smart&auto=webp&s=4e07090d5e086a944c59ce3882fcfc9d770bcf51",
+    "date": "2026-06-05T19:47:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1txufl9/dont_act_like_yall_aint_thinking_it_im_just/",
+    "platform": "Reddit",
+    "title": "Don’t act like y’all ain’t thinking it. I’m just saying the quiet part out loud. /s",
+    "author": {
+      "name": "/u/Porespellar",
+      "handle": "/u//u/Porespellar",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Don’t act like y’all ain’t thinking it. I’m just saying the quiet part out loud. /s",
+    "summary_ko": "최근 한 온라인 게시물이 논란의 중심에 섰습니다. 해당 게시물은 모두가 암묵적으로 생각하지만 말하지 않는 것을 짚어낸다는 취지의 발언을 담고 있습니다. 하지만 글 말미에 풍자를 의미하는 '/s'를 덧붙여, 이는 진솔한 고백이 아닌 현 상황에 대한 반어적 비판이나 조롱의 의미로 해석되며 파장을 낳고 있습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txufl9/dont_act_like_yall_aint_thinking_it_im_just/",
+    "image": "https://preview.redd.it/ssewi1ltji5h1.jpeg?width=640&crop=smart&auto=webp&s=88dbf9ec03584c0cb1e8fef0a9b3ca90c06060ee",
+    "date": "2026-06-05T19:11:50.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181317/tech-industry-cut-38242-jobs-in-may-worst-since-2024-2.html",
+    "platform": "CIO",
+    "title": "Tech industry cut 38,242 jobs in May, worst since 2024",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Tech industry cut 38,242 jobs in May, worst since 2024",
+    "summary_ko": "미국 기술 업계의 감원 칼바람이 거세지고 있습니다. 2026년 5월에만 38,242명이 해고되며 2024년 8월 이후 월간 최대치를 기록했습니다. 특히 인공지능(AI)이 일자리 감소의 핵심 원인으로 지목되는데, 5월 전체 산업 감원 사유의 40%를 차지하며 연초 대비 급증했습니다. 이처럼 AI가 노동 시장을 빠르게 재편하면서 기술 기업 중심의 구조조정 흐름은 계속될 전망입니다.",
+    "url": "https://www.cio.com/article/4181317/tech-industry-cut-38242-jobs-in-may-worst-since-2024-2.html",
+    "image": null,
+    "date": "2026-06-05T16:59:12.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/",
+    "platform": "Reddit",
+    "title": "Gemma 4 with quantization-aware training",
+    "author": {
+      "name": "/u/rerri",
+      "handle": "/u//u/rerri",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Gemma 4 with quantization-aware training",
+    "summary_ko": "구글이 최신 모델 젬마 4에 '양자화 인식 훈련(QAT)' 기법을 도입해 정확도 손실은 최소화하면서 모델 크기와 연산 비용을 획기적으로 줄였습니다. 이는 훈련 단계부터 양자화로 인한 성능 저하를 고려해 학습시키는 방식으로, 고성능 AI를 더 적은 자원으로 구동할 수 있게 합니다. 덕분에 강력한 LLM을 CPU나 엣지 디바이스 등 다양한 하드웨어 환경에 효율적으로 배포할 길이 열렸습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1txpeo0/gemma_4_with_quantizationaware_training/",
+    "image": "https://external-preview.redd.it/Kqa2WJRtSdbm_jz8LE3GDS5WzwWk70_7fBudWHrjqnI.png?width=640&crop=smart&auto=webp&s=09c2b823dd84dc8615ad8a34b147a6b75f0e3e81",
+    "date": "2026-06-05T16:11:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181777/anthropics-ai-services-are-too-expensive-says-microsoft-ai-head.html",
+    "platform": "CIO",
+    "title": "Anthropic’s AI services are too expensive, says Microsoft AI head",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Anthropic’s AI services are too expensive, says Microsoft AI head",
+    "summary_ko": "AI 도입 비용이 기업의 주요 과제로 떠오르는 가운데, 마이크로소프트 AI 책임자가 경쟁사 앤스로픽의 서비스가 너무 비싸다고 공개 비판했습니다. 실제로 마이크로소프트는 더 저렴한 자체 AI 모델을 발표하고 내부적으로도 앤스로픽 대신 자사 코파일럿으로 전환하며 가격 경쟁에 불을 붙였습니다. 이는 AI 시장의 성공 조건이 단순 성능을 넘어 투자수익률과 비용 효율성으로 옮겨가고 있음을 시사합니다.",
+    "url": "https://www.cio.com/article/4181777/anthropics-ai-services-are-too-expensive-says-microsoft-ai-head.html",
+    "image": null,
+    "date": "2026-06-05T16:10:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181763/multi-cloud-doesnt-need-another-tool.html",
+    "platform": "CIO",
+    "title": "Multi-cloud doesn’t need another tool",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Multi-cloud doesn’t need another tool",
+    "summary_ko": "멀티클라우드는 이제 주요 기업의 보편적인 운영 환경이 되었습니다. 인수합병, 규제, AI 워크로드 등 다양한 이유로 복잡성이 커지면서 효과적인 거버넌스가 핵심 과제로 부상했습니다. 하지만 많은 기업이 새로운 관리 도구를 추가하는 방식으로 대응하고 있어 근본적인 해결책이 되지 못합니다. 결국 해법은 또 다른 도구가 아닌, 기존 인프라를 통제할 명확한 원칙과 체계를 수립하는 데 있다는 지적입니다.",
+    "url": "https://www.cio.com/article/4181763/multi-cloud-doesnt-need-another-tool.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/Screenshot-2026-06-04-at-9.42.41-AM-1.png?w=1024",
+    "date": "2026-06-05T13:50:36.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181747/anthropic-suggests-slowing-ai-research-until-we-can-align-it-with-human-goals-2.html",
+    "platform": "CIO",
+    "title": "Anthropic suggests slowing AI research until we can align it with human goals",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Anthropic suggests slowing AI research until we can align it with human goals",
+    "summary_ko": "AI가 인간의 감독을 넘어 스스로를 개선하는 단계에 가까워지면서, AI를 인류의 목표에 맞게 통제하는 '정렬 문제'가 다시 핵심 과제로 떠올랐습니다. 오픈AI 출신들이 설립한 앤트로픽은 AI가 스스로 후속 모델을 만드는 '재귀적 자기 개선'이 현실화될 경우, AI 연구 속도를 늦출 준비를 해야 한다고 경고했습니다. 현재 모델의 사소한 오류나 불일치가 후속 AI에 의해 증폭되어, 결국 인간이 통제력을 완전히 상실하는 시나리오를 막아야 한다는 것입니다.",
+    "url": "https://www.cio.com/article/4181747/anthropic-suggests-slowing-ai-research-until-we-can-align-it-with-human-goals-2.html",
+    "image": null,
+    "date": "2026-06-05T12:55:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1txi7zj/youll_meet_many_people_like_raj_in_life_just/",
+    "platform": "Reddit",
+    "title": "You’ll meet many people like Raj in life. Just ignore them and move on.",
+    "author": {
+      "name": "/u/imfrom_mars_",
+      "handle": "/u//u/imfrom_mars_",
+      "avatar_color": "#ff4500"
+    },
+    "content": "You’ll meet many people like Raj in life. Just ignore them and move on.",
+    "summary_ko": "우리는 살면서 발전을 가로막거나 불필요한 논쟁을 일으키는 사람들을 마주하게 됩니다. 본문은 이러한 유형의 인물에 얽매이지 말고, 그저 무시한 채 자신의 길을 나아가라고 조언합니다. 결국 이들의 영향력에서 벗어나 목표에 집중하는 것이 현명한 삶의 자세라는 점을 강조하고 있습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1txi7zj/youll_meet_many_people_like_raj_in_life_just/",
+    "image": "https://preview.redd.it/m5zedkz39g5h1.jpeg?width=640&crop=smart&auto=webp&s=747f6ede4b22073df778e9d5da063fcdbcc5836b",
+    "date": "2026-06-05T11:28:15.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
+    "platform": "Google",
+    "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Data Management",
+    "summary_ko": "생성형 AI의 환각 현상을 해결하기 위해 검색증강생성(RAG) 기술이 널리 쓰이지만, 복잡한 질문에는 한계가 있었습니다. 이에 구글은 문제를 여러 단계로 분해하고 도구를 반복적으로 사용해 추론하는 '에이전틱 RAG'를 제미나이 엔터프라이즈 플랫폼에 도입했습니다. 이 새로운 접근법은 AI 에이전트가 마치 사람처럼 동적으로 문제를 해결하게 하여, 기업 환경에서 요구되는 더 정확하고 신뢰도 높은 답변 생성을 가능하게 합니다.",
+    "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
+    "image": null,
+    "date": "2026-06-05T11:26:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181663/cooling-down-the-heat-why-liquid-cooling-is-now-mission-critical-for-ai-datacenters.html",
+    "platform": "CIO",
+    "title": "Cooling down the heat: Why liquid cooling is now mission-critical for AI datacenters",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Cooling down the heat: Why liquid cooling is now mission-critical for AI datacenters",
+    "summary_ko": "AI와 고성능 컴퓨팅 수요가 급증하며 데이터센터 발열 문제가 심각해져 기존 공랭식 냉각은 한계에 도달했습니다. IDC 조사에 따르면 AI·HPC 인프라 지출은 향후 2년간 52% 증가하고, 2028년 데이터센터 에너지 소비는 3배 가까이 늘어날 전망입니다. 이에 따라 액체 냉각 기술이 AI 데이터센터의 핵심 과제로 떠올랐으며, 지속 가능한 AI 인프라 확장을 위한 필수 전략이 되었습니다.",
+    "url": "https://www.cio.com/article/4181663/cooling-down-the-heat-why-liquid-cooling-is-now-mission-critical-for-ai-datacenters.html",
+    "image": null,
+    "date": "2026-06-05T10:39:49.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4181520/%ec%b9%bc%eb%9f%bc-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-20%eb%aa%85%ec%9c%bc%eb%a1%9c-%ed%8f%ac%ec%b6%98-500%ea%b8%89-%ea%b8%b0%ec%97%85%ec%9a%a9-ai%eb%a5%bc-%ea%b5%ac%ec%b6%95%ed%95%9c-%eb%b9%84.html",
     "platform": "CIO",
     "title": "칼럼 | 엔지니어 20명으로 포춘 500급 기업용 AI를 구축한 비결",
@@ -105,7 +286,7 @@
       "avatar_url": null
     },
     "content": "Health & Bioscience",
-    "summary_ko": "스마트폰 카메라로 불규칙한 심장 박동인 심방세동을 진단하는 AI 기술이 개발됐습니다. 구글 연구진은 사용자의 얼굴 피부에서 나타나는 미세한 색상 변화를 분석해 심장 리듬 이상을 감지하는 딥러닝 모델을 공개했습니다. 임상 연구 결과, 이 기술은 의료용 심전도 패치와 비슷한 수준의 정확도를 기록했습니다. 이를 통해 별도 장비 없이 일상에서 간편하게 심장 건강을 모니터링할 수 있게 될 전망입니다.",
+    "summary_ko": "뇌졸중의 주요 원인인 심방세동은 증상이 없어 조기 발견이 어렵습니다. 이에 구글 연구팀이 스마트폰 카메라로 손가락 끝의 미세한 혈류 변화를 감지해 심방세동을 진단하는 기술을 개발했으며, 임상 연구에서 높은 정확도를 입증했습니다. 연구팀은 여기서 더 나아가 사용자가 인식하지 못하는 사이 안면을 촬영해 심장 리듬을 자동 측정하는 상시 모니터링 기술도 연구 중입니다. 이 기술은 웨어러블 기기 없이도 누구나 손쉽게 심장 건강을 관리하는 길을 열어줄 전망입니다.",
     "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
     "image": null,
     "date": "2026-06-04T19:47:12.000Z",
