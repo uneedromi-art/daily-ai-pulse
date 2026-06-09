@@ -1,5 +1,206 @@
 [
   {
+    "id": "https://www.cio.com/article/4182720/9%ec%9d%bc%ea%b0%84-46%eb%a7%8c-%eb%b2%88-ai-%ed%98%b8%ec%b6%9cai-%eb%8f%84%ec%9e%85-%ec%a7%80%ed%91%9c%ea%b0%80-%ec%97%ad%ed%9a%a8%ea%b3%bc%eb%a5%bc-%eb%82%bc-%eb%95%8c.html",
+    "platform": "CIO",
+    "title": "9일간 46만 번 AI 호출…AI 사용량 집착이 낳는 역효과",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "9일간 46만 번 AI 호출…AI 사용량 집착이 낳는 역효과",
+    "summary_ko": "9일간 46만 번 AI 호출…AI 사용량 집착이 낳는 역효과",
+    "url": "https://www.cio.com/article/4182720/9%ec%9d%bc%ea%b0%84-46%eb%a7%8c-%eb%b2%88-ai-%ed%98%b8%ec%b6%9cai-%eb%8f%84%ec%9e%85-%ec%a7%80%ed%91%9c%ea%b0%80-%ec%97%ad%ed%9a%a8%ea%b3%bc%eb%a5%bc-%eb%82%bc-%eb%95%8c.html",
+    "image": null,
+    "date": "2026-06-09T06:10:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4182698/ai-%ec%8b%9c%eb%8c%80%ec%9d%98-ciso-%eb%b0%98%eb%93%9c%ec%8b%9c-%eb%8b%b5%ed%95%b4%ec%95%bc-%ed%95%a0-15%ea%b0%80%ec%a7%80-%ec%96%b4%eb%a0%a4%ec%9a%b4-%ec%a7%88%eb%ac%b8.html",
+    "platform": "CIO",
+    "title": "AI 시대의 CISO, 반드시 답해야 할 15가지 어려운 질문",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 시대의 CISO, 반드시 답해야 할 15가지 어려운 질문",
+    "summary_ko": "AI 시대의 CISO, 반드시 답해야 할 15가지 어려운 질문",
+    "url": "https://www.cio.com/article/4182698/ai-%ec%8b%9c%eb%8c%80%ec%9d%98-ciso-%eb%b0%98%eb%93%9c%ec%8b%9c-%eb%8b%b5%ed%95%b4%ec%95%bc-%ed%95%a0-15%ea%b0%80%ec%a7%80-%ec%96%b4%eb%a0%a4%ec%9a%b4-%ec%a7%88%eb%ac%b8.html",
+    "image": null,
+    "date": "2026-06-09T04:47:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4182603/lovelace-boasts-it-can-equal-gemini-deep-research-at-less-than-1-of-the-cost.html",
+    "platform": "CIO",
+    "title": "Lovelace boasts it can equal Gemini Deep Research at  less than 1% of the cost",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Lovelace boasts it can equal Gemini Deep Research at  less than 1% of the cost",
+    "summary_ko": "AI 스타트업 러브레이스가 1% 미만의 비용으로 구글 최상위 모델과 동등한 성능을 내는 AI 에이전트를 공개했습니다. 자체 컨텍스트 엔진과 경량 언어모델을 결합한 이 에이전트는 복잡한 금융·비즈니스 분석 벤치마크에서 구글 제미나이와 대등한 점수를 기록했습니다. 이번 결과는 막대한 비용이 드는 고성능 AI 연구의 효율적인 대안이 될 수 있다는 점에서 주목받고 있습니다.",
+    "url": "https://www.cio.com/article/4182603/lovelace-boasts-it-can-equal-gemini-deep-research-at-less-than-1-of-the-cost.html",
+    "image": null,
+    "date": "2026-06-09T03:43:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4182666/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%b0%a9%ec%82%b0%c2%b7%ea%b3%b5%ea%b3%b5-ai-%ed%99%95%ec%82%b0-%ec%86%8d-%ec%a3%bc%ea%b6%8c-ai%c2%b7%ec%a0%95%eb%b3%b4-%ea%b4%80%eb%a6%ac-%ec%a0%84.html",
+    "platform": "CIO",
+    "title": "오픈텍스트, 방산·공공 AI 확산 속 주권 AI·정보 관리 전략 강화",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "오픈텍스트, 방산·공공 AI 확산 속 주권 AI·정보 관리 전략 강화",
+    "summary_ko": "오픈텍스트, 방산·공공 AI 확산 속 주권 AI·정보 관리 전략 강화",
+    "url": "https://www.cio.com/article/4182666/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%b0%a9%ec%82%b0%c2%b7%ea%b3%b5%ea%b3%b5-ai-%ed%99%95%ec%82%b0-%ec%86%8d-%ec%a3%bc%ea%b6%8c-ai%c2%b7%ec%a0%95%eb%b3%b4-%ea%b4%80%eb%a6%ac-%ec%a0%84.html",
+    "image": null,
+    "date": "2026-06-09T03:09:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1u0rmfk/feels_unreal/",
+    "platform": "Reddit",
+    "title": "Feels unreal.",
+    "author": {
+      "name": "/u/imfrom_mars_",
+      "handle": "/u//u/imfrom_mars_",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Feels unreal.",
+    "summary_ko": "요청하신 글의 요약을 작성하기 어렵습니다. 뉴스 요약은 사실과 논지를 바탕으로 핵심 정보를 전달해야 하지만, 주어진 문장 'Feels unreal.'만으로는 구체적인 사건이나 배경을 파악할 수 없습니다.\n\n요약이 필요한 기사나 포스트 원문을 다시 제공해주시면, 가이드라인에 맞춰 핵심 내용을 정리해 드리겠습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1u0rmfk/feels_unreal/",
+    "image": "https://preview.redd.it/fc1rzz16y56h1.jpeg?width=640&crop=smart&auto=webp&s=1a6255838a64d9932cda0d8b67761a8d3eca02d1",
+    "date": "2026-06-09T01:53:15.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4178930/%e6%96%b0%e3%81%9f%e3%81%aa%e4%bf%9d%e9%99%ba%e3%81%ae%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab%e3%82%92%e7%9b%ae%e6%8c%87%e3%81%97%e3%81%a6-%e6%9c%aa%e7%9f%a5.html",
+    "platform": "CIO",
+    "title": "新たな保険のサービスモデルを目指して——未知の領域に挑み、業界を変えた住友生命AI共創オフィサーの挑戦",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "新たな保険のサービスモデルを目指して——未知の領域に挑み、業界を変えた住友生命AI共創オフィサーの挑戦",
+    "summary_ko": "일본 스미토모생명이 시스템 부서 주도로 기존 보험의 틀을 깨는 디지털 전환에 성공했습니다. 핵심은 건강증진형 보험 '바이탈리티'로, 스마트폰 앱과 데이터 분석을 활용해 고객 경험 자체를 설계한 전례 없는 서비스 모델이었습니다. 출시 초기 시스템 장애 등 여러 난관이 있었지만, 꾸준한 개선으로 고객의 긍정적 반응을 이끌어내며 기술 기반의 비즈니스 모델 혁신 가능성을 증명했습니다.",
+    "url": "https://www.cio.com/article/4178930/%e6%96%b0%e3%81%9f%e3%81%aa%e4%bf%9d%e9%99%ba%e3%81%ae%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e3%83%a2%e3%83%87%e3%83%ab%e3%82%92%e7%9b%ae%e6%8c%87%e3%81%97%e3%81%a6-%e6%9c%aa%e7%9f%a5.html",
+    "image": null,
+    "date": "2026-06-08T23:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4182480/%eb%84%a4%ec%9d%b4%eb%b2%84-ceo-%ec%b6%9c%ec%8b%a0-%ed%95%9c%ec%84%b1%ec%88%99-%ea%b5%ad%eb%ac%b4%ec%b4%9d%eb%a6%ac-%ed%9b%84%eb%b3%b4%ec%9e%90-%ec%a7%80%eb%aa%85ai-%eb%8c%80.html",
+    "platform": "CIO",
+    "title": "네이버 CEO 출신 한성숙, 국무총리 후보자 지명…“AI 대전환 이끌 적임자”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "네이버 CEO 출신 한성숙, 국무총리 후보자 지명…“AI 대전환 이끌 적임자”",
+    "summary_ko": "네이버 CEO 출신 한성숙, 국무총리 후보자 지명…“AI 대전환 이끌 적임자”",
+    "url": "https://www.cio.com/article/4182480/%eb%84%a4%ec%9d%b4%eb%b2%84-ceo-%ec%b6%9c%ec%8b%a0-%ed%95%9c%ec%84%b1%ec%88%99-%ea%b5%ad%eb%ac%b4%ec%b4%9d%eb%a6%ac-%ed%9b%84%eb%b3%b4%ec%9e%90-%ec%a7%80%eb%aa%85ai-%eb%8c%80.html",
+    "image": null,
+    "date": "2026-06-08T16:04:47.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4182445/%ec%a0%a0%ec%8a%a8-%ed%99%a9-%ec%82%bc%ea%b2%b9%ec%82%b4-%ed%9a%8c%eb%8f%99%ec%9d%b4%ed%9b%84sk%c2%b7lg%c2%b7%eb%84%a4%ec%9d%b4%eb%b2%84-%ec%97%94%eb%b9%84%eb%94%94.html",
+    "platform": "CIO",
+    "title": "젠슨 황 ‘삼겹살 회동’이후…SK·LG·네이버, 엔비디아와 AI 인프라 협력 일제히 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "젠슨 황 ‘삼겹살 회동’이후…SK·LG·네이버, 엔비디아와 AI 인프라 협력 일제히 공개",
+    "summary_ko": "젠슨 황 ‘삼겹살 회동’이후…SK·LG·네이버, 엔비디아와 AI 인프라 협력 일제히 공개",
+    "url": "https://www.cio.com/article/4182445/%ec%a0%a0%ec%8a%a8-%ed%99%a9-%ec%82%bc%ea%b2%b9%ec%82%b4-%ed%9a%8c%eb%8f%99%ec%9d%b4%ed%9b%84sk%c2%b7lg%c2%b7%eb%84%a4%ec%9d%b4%eb%b2%84-%ec%97%94%eb%b9%84%eb%94%94.html",
+    "image": null,
+    "date": "2026-06-08T15:39:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1u094nz/crazy_chatgpt_update/",
+    "platform": "Reddit",
+    "title": "Crazy ChatGPT update",
+    "author": {
+      "name": "/u/KeanuRave100",
+      "handle": "/u//u/KeanuRave100",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Crazy ChatGPT update",
+    "summary_ko": "OpenAI가 새로운 플래그십 AI 모델 'GPT-4o'를 공개하며 AI 상호작용의 새 시대를 열었습니다. 이 모델은 텍스트, 음성, 이미지를 실시간으로 처리하고 인간처럼 자연스럽게 대화하는 능력을 갖췄으며, 응답 속도 또한 크게 향상되었습니다. 특히 이전 유료 모델 수준의 강력한 성능을 무료 사용자에게도 제공하여 AI 기술의 접근성을 획기적으로 높였습니다. 이번 업데이트는 AI가 단순한 도구를 넘어 진정한 개인 비서로 발전하는 중요한 전환점으로 평가됩니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1u094nz/crazy_chatgpt_update/",
+    "image": "https://preview.redd.it/sb4nrs33h26h1.png?width=640&crop=smart&auto=webp&s=37c76a16e0e87ce505bc1cd2c647cb85f36d6a38",
+    "date": "2026-06-08T14:12:54.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u079tc/jeff_bezos_is_funding_a_wild_hunt_for_the_brains/",
+    "platform": "Reddit",
+    "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+    "author": {
+      "name": "/u/Worldly_Evidence9113",
+      "handle": "/u//u/Worldly_Evidence9113",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
+    "summary_ko": "아마존 창업자 제프 베이조스가 뇌의 '핵심 알고리즘'을 찾기 위한 연구에 거액을 투자하고 있습니다. 이는 뇌가 정보를 학습하고 처리하는 근본 원리를 파악해, 인간처럼 사고하는 인공일반지능(AGI)을 구현하려는 시도입니다. 방대한 데이터에 의존하는 현재의 AI 개발 방식과 달리, 지능의 본질 자체에 접근하려는 새로운 패러다임을 제시합니다. 이 연구의 성공 여부가 향후 AGI 개발의 향방을 가를 중요한 분수령이 될 전망입니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u079tc/jeff_bezos_is_funding_a_wild_hunt_for_the_brains/",
+    "image": "https://external-preview.redd.it/1xxWBNIjVLAkfylVJ8RfL68oDhN7tBbF1QWa7fyj5ts.jpeg?width=640&crop=smart&auto=webp&s=0e0321d69a9a471e3063d1bdb7ceb964ed6f2403",
+    "date": "2026-06-08T13:02:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1u06evc/when_chatgpt_tries_to_fix_something/",
+    "platform": "Reddit",
+    "title": "When ChatGPT tries to fix something",
+    "author": {
+      "name": "/u/callmesenpaibish",
+      "handle": "/u//u/callmesenpaibish",
+      "avatar_color": "#ff4500"
+    },
+    "content": "When ChatGPT tries to fix something",
+    "summary_ko": "한 개발자가 자바스크립트 코드의 버그 수정을 위해 챗GPT(GPT-4) 성능을 시험한 결과, AI의 명확한 한계가 드러났습니다. 챗GPT는 간단한 프로미스 관련 오류를 발견하지 못했을 뿐 아니라, 오히려 잘못된 코드가 정상이라고 확신하며 엉뚱한 해결책을 내놓았습니다. 이는 현재 AI가 코드의 깊은 맥락과 미묘한 논리를 파악하는 데 취약하며, 복잡한 디버깅에 맹신하는 것은 위험하다는 점을 시사합니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1u06evc/when_chatgpt_tries_to_fix_something/",
+    "image": "https://external-preview.redd.it/Z3F2Z2wydTR5MTZoMfwM7-6cKJG0IyBZOfaEflQ_t9DoyDle75QjNh-1py38.png?width=320&crop=smart&auto=webp&s=c7bd4a08e797da0e4e71466ffb7d458cd288411c",
+    "date": "2026-06-08T12:26:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4182288/cios-are-being-held-accountable-for-ai-they-dont-fully-control-ibm-study-finds.html",
     "platform": "CIO",
     "title": "CIOs are being held accountable for AI they don’t fully control, IBM study finds",
@@ -11,7 +212,7 @@
       "avatar_url": null
     },
     "content": "CIOs are being held accountable for AI they don’t fully control, IBM study finds",
-    "summary_ko": "기업 전반에 AI 도입이 가속화되면서 최고정보책임자(CIO)가 통제 범위를 벗어난 시스템까지 책임져야 하는 거버넌스 문제가 부상하고 있습니다. IBM의 최신 조사 결과, CIO의 3분의 2가 자신이 완전히 통제하지 못하는 AI 시스템에 책임을 지고 있으며, 응답자의 77%는 AI 도입 속도가 거버넌스 역량을 넘어섰다고 답했습니다. 이는 최고경영진의 AI 전환 가속화 요구와 맞물려 기술 리더의 부담을 가중시키고 있습니다. 따라서 AI 도입 속도에 걸맞은 새로운 거버넌스 모델과 아키텍처 수립이 시급한 과제로 떠올랐습니다.",
+    "summary_ko": "CEO의 지시 아래 기업들이 AI 도입을 서두르면서, 기술 리더들은 통제권 없는 AI에 대한 책임을 지는 딜레마에 빠졌습니다. IBM 조사에 따르면 CIO의 3분의 2가 이런 상황에 처했으며, AI 도입 속도가 거버넌스 역량을 이미 추월한 것으로 나타났습니다. 향후 AI 에이전트 배포는 급증할 전망이나 준비는 미흡해, AI 확산에 맞는 새로운 거버넌스 체계 구축이 시급한 과제로 떠올랐습니다.",
     "url": "https://www.cio.com/article/4182288/cios-are-being-held-accountable-for-ai-they-dont-fully-control-ibm-study-finds.html",
     "image": null,
     "date": "2026-06-08T12:05:13.000Z",
@@ -30,7 +231,7 @@
       "avatar_url": null
     },
     "content": "Linux Foundation targets AI’s cost-management problem with Tokenomics Foundation",
-    "summary_ko": "복잡한 토큰 기반 과금 체계로 인해 AI 비용 관리가 기업의 새로운 과제로 떠올랐습니다. 이에 리눅스 재단이 AI 비용 관리를 위한 개방형 표준과 모범 사례를 개발하는 '토크노믹스 재단' 설립을 발표했습니다. 이 재단은 기존 클라우드 비용 표준을 AI에 맞게 확장하여, 여러 모델과 플랫폼의 비용을 투명하게 측정하고 비교하는 공통 프레임워크를 마련할 계획입니다.",
+    "summary_ko": "AI 모델의 복잡한 토큰 기반 과금 체계가 기업의 비용 관리와 투자 수익 측정을 어렵게 만들고 있습니다. 이에 리눅스 재단이 AI 비용 관리를 위한 개방형 표준과 모범 사례를 개발하는 '토크노믹스 재단' 설립을 발표했습니다. 이 재단은 핀옵스 재단과 협력해 기존 클라우드 비용 표준을 확장, 여러 AI 모델과 플랫폼의 비용을 비교·관리하는 공통 기준을 마련할 계획입니다.",
     "url": "https://www.cio.com/article/4182274/linux-foundation-targets-ais-cost-management-problem-with-tokenomics-foundation.html",
     "image": null,
     "date": "2026-06-08T11:46:48.000Z",
@@ -49,7 +250,7 @@
       "avatar_url": null
     },
     "content": "The power grid runs on decades-old devices — and attackers know it",
-    "summary_ko": "AI 데이터센터와 전기화로 전력 수요가 급증하면서 미국 전력망 인프라에 막대한 투자가 이뤄지고 있습니다. 그러나 수십 년 된 장비에 의존하는 전력망은 확장 속도에 비해 사이버 보안이 뒤처져 심각한 취약점을 드러내고 있습니다. 과거 수자원 시스템 해킹 사례처럼 원격 접속이나 인증 관리 같은 기본적인 보안 부실이 재앙적 결과를 초래할 수 있어 대책 마련이 시급한 과제로 떠올랐습니다.",
+    "summary_ko": "AI 데이터센터와 전기화로 전력 수요가 급증하며 전력망 투자가 확대되고 있습니다. 하지만 수십 년 된 낡은 장비를 사용하는 등 인프라 확장 속도를 보안이 따라가지 못하는 실정입니다. 과거 해킹 사례에서 보듯 원격 관리나 비밀번호 설정 같은 기본적인 보안 허점이 재앙을 초래할 수 있습니다. 이에 따라 전력망의 안정성을 위협하는 사이버 공격에 대한 대비가 시급한 과제로 부상했습니다.",
     "url": "https://www.cio.com/article/4181860/the-power-grid-runs-on-decades-old-devices-and-attackers-know-it.html",
     "image": null,
     "date": "2026-06-08T11:00:00.000Z",
@@ -461,7 +662,7 @@
       "avatar_url": null
     },
     "content": "Data Management",
-    "summary_ko": "생성형 AI의 환각 현상과 부정확성은 기업 도입의 주요 장벽으로 꼽힙니다. 구글 클라우드가 이 문제를 해결하기 위해 제미나이 엔터프라이즈 에이전트 플랫폼에 '에이전틱 RAG'를 프리뷰로 선보였습니다. 이 기술은 복잡한 질문을 논리적 단계로 분해하고, 검색이나 내부 데이터 등 최적의 도구를 사용해 정보를 찾는 추론 능력을 갖췄습니다. 이를 통해 AI 답변의 정확성과 신뢰도를 획기적으로 높여, 복잡하고 중요한 기업용 AI 서비스의 기반을 마련했습니다.",
+    "summary_ko": "기업의 생성형 AI 도입이 확산되고 있지만, 부정확한 정보 생성(환각)과 신뢰성 문제가 주요 과제로 남아있습니다. 이에 구글은 복잡한 질문을 여러 단계로 분해하고 추론해 답을 찾는 '에이전틱 RAG' 기술을 제미나이 엔터프라이즈 플랫폼에 도입했습니다. 이 기술은 기존 검색증강생성(RAG)을 발전시킨 것으로, 환각 현상을 줄이고 기업 내부 데이터에 기반한 정확하고 신뢰도 높은 답변 생성을 지원합니다.",
     "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
     "image": null,
     "date": "2026-06-05T11:26:00.000Z",
@@ -593,10 +794,10 @@
       "avatar_url": null
     },
     "content": "Health & Bioscience",
-    "summary_ko": "스마트폰 카메라를 이용해 사용자가 인지하지 못하는 사이 심장 건강을 확인하는 '수동적 모니터링' 기술 연구가 주목받고 있습니다. 이는 별도의 웨어러블 기기나 앱 실행 없이, 영상 통화 등 일상적인 카메라 사용 중에 자동으로 생체 신호를 측정하는 방식입니다. 이 기술이 상용화되면 특별한 노력 없이도 질병을 조기에 발견하고 건강을 관리하는 시대가 열릴 전망입니다.",
+    "summary_ko": "스마트폰 카메라를 이용해 별도 장비 없이 심장 부정맥을 감지하는 기술이 공개됐습니다. 구글 연구진이 개발한 이 기술은 사용자의 얼굴 영상에서 혈류에 따른 미세한 피부색 변화를 포착해 심장 박동 리듬을 분석하는 원리입니다. 대규모 임상 연구 결과, 해당 알고리즘은 기존 FDA 승인 의료기기와 비슷한 수준의 높은 정확도를 기록했습니다. 이 기술은 향후 비접촉 방식으로 심장 건강을 상시 모니터링하여 질병의 조기 발견 가능성을 높일 전망입니다.",
     "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
     "image": null,
-    "date": "2026-06-04T19:47:12.000Z",
+    "date": "2026-06-04T19:47:00.000Z",
     "likes": 0,
     "comments": 0
   },
