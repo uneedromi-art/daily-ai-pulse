@@ -42,3 +42,6 @@ $handler = [Windows.Foundation.TypedEventHandler[Windows.UI.Notifications.ToastN
 })
 $toast.Add_Activated($handler)
 $reg.Show($toast)
+
+# 클릭 이벤트 처리를 위해 잠시 대기 (예약 작업에서 프로세스가 바로 종료되면 URL이 안 열림)
+Start-Sleep -Seconds 45

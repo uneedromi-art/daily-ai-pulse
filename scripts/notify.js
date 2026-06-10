@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const os = require('os');
-const { execFileSync } = require('child_process');
+const { execFileSync, spawn } = require('child_process');
 const notifier = require('node-notifier');
 
 function formatKSTDate(dateInput) {
@@ -107,30 +107,9 @@ function buildToastBody(summary) {
     return `${date} · 오늘 ${count}건\n${lead}`;
 }
 
-function sendWindowsToast(title, body) {
-    if (process.platform !== 'win32') return false;
-    if (process.env.NOTIFY_WINDOWS === 'false') return false;
-
-    const siteUrl = getSiteUrl();
-
-    try {
-        notifier.notify({
-            title,
-            message: body,
-            icon: path.join(process.cwd(), 'public', 'favicon.ico'),
-            appID: 'Daily AI Pulse',
-            open: siteUrl,
-            wait: false,
-        });
-        return true;
-    } catch (primaryError) {
-        console.warn('[notify] node-notifier 실패, PowerShell 폴백 시도:', primaryError.message);
-    }
-
+function sendPowerShellToast(title, body, siteUrl) {
     const scriptPath = path.join(__dirname, 'show-windows-toast.ps1');
-    if (!fs.existsSync(scriptPath)) {
-        throw new Error('show-windows-toast.ps1 not found');
-    }
+    if (!fs.existsSync(scriptPath)) return false;
 
     const payloadPath = path.join(os.tmpdir(), `daily-ai-pulse-toast-${process.pid}.json`);
     fs.writeFileSync(
@@ -145,26 +124,53 @@ function sendWindowsToast(title, body) {
     );
 
     try {
-        execFileSync(
+        // 백그라운드로 띄워 클릭 이벤트가 살아 있게 함
+        const child = spawn(
             'powershell.exe',
             [
                 '-NoProfile',
                 '-ExecutionPolicy',
                 'Bypass',
+                '-WindowStyle',
+                'Hidden',
                 '-File',
                 scriptPath,
                 '-PayloadPath',
                 payloadPath,
             ],
-            { stdio: 'ignore', windowsHide: true }
+            { detached: true, stdio: 'ignore', windowsHide: true }
         );
+        child.unref();
         return true;
-    } finally {
-        try {
-            fs.unlinkSync(payloadPath);
-        } catch {
-            /* ignore */
-        }
+    } catch {
+        return false;
+    }
+}
+
+function sendWindowsToast(title, body) {
+    if (process.platform !== 'win32') return false;
+    if (process.env.NOTIFY_WINDOWS === 'false') return false;
+
+    const siteUrl = getSiteUrl();
+
+    // 클릭 시 URL 열기: PowerShell 토스트 우선 (node-notifier는 예약 작업에서 클릭이 불안정)
+    if (sendPowerShellToast(title, body, siteUrl)) {
+        return true;
+    }
+
+    try {
+        notifier.notify({
+            title,
+            message: body,
+            icon: path.join(process.cwd(), 'public', 'favicon.ico'),
+            appID: 'Daily AI Pulse',
+            open: siteUrl,
+            wait: false,
+        });
+        return true;
+    } catch (primaryError) {
+        console.warn('[notify] node-notifier 실패:', primaryError.message);
+        return false;
     }
 }
 
