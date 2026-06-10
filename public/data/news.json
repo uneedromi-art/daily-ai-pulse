@@ -1,5 +1,157 @@
 [
   {
+    "id": "https://www.cio.com/article/4183045/github-copilot-is-generating-more-code-than-your-team-can-review-why-senior-engineers-are-now-the-bottleneck.html",
+    "platform": "CIO",
+    "title": "GitHub Copilot is generating more code than your team can review: Why senior engineers are now the bottleneck",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "GitHub Copilot is generating more code than your team can review: Why senior engineers are now the bottleneck",
+    "summary_ko": "깃허브 코파일럿 같은 AI 코딩 도구가 코드 생산성을 크게 높였습니다. 하지만 이는 개발팀의 검토 역량을 초과하는 코드 생성을 유발하며 새로운 문제를 낳고 있습니다. 과거 코드 작성이 개발의 병목이었다면, 이제는 동료 검토, 보안 검증 등 후속 단계가 전체 속도를 저해하는 것입니다. 결국 생성된 코드의 품질과 안전을 책임지는 시니어 엔지니어가 새로운 병목으로 지목되고 있습니다.",
+    "url": "https://www.cio.com/article/4183045/github-copilot-is-generating-more-code-than-your-team-can-review-why-senior-engineers-are-now-the-bottleneck.html",
+    "image": null,
+    "date": "2026-06-10T11:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/230613/new-cio-appointments.html",
+    "platform": "CIO",
+    "title": "New US CIO appointments, June 2026",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "New US CIO appointments, June 2026",
+    "summary_ko": "기업의 기술 중심 전환이 가속화되면서 최고정보책임자(CIO)의 역할과 위상이 높아지고 있습니다. 최근 씨티그룹이 구글 부사장 출신 브라이언 살루조를, 아크 인슈어런스가 임란 잘로지를 신임 CIO로 영입하는 등 주요 기업의 인사가 이어졌습니다. 이는 금융 등 전통 산업에서도 기술 전문성과 비즈니스 전략을 겸비한 다차원적 리더를 선호하는 최신 채용 동향을 명확히 보여줍니다.",
+    "url": "https://www.cio.com/article/230613/new-cio-appointments.html",
+    "image": null,
+    "date": "2026-06-10T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4178359/why-your-most-ai-savvy-employees-are-driving-shadow-ai.html",
+    "platform": "CIO",
+    "title": "Why your most AI-savvy employees are driving shadow AI",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Why your most AI-savvy employees are driving shadow AI",
+    "summary_ko": "기업이 보안을 위해 공식 AI 도구의 기능을 제한하면서 오히려 '섀도우 AI' 문제가 확산되고 있습니다. 역설적이게도 AI에 가장 능숙한 직원들이 업무 속도와 생산성을 높이고자 사내 규정을 우회하는 현상을 주도하고 있습니다. 이들은 공식적인 보안 지침을 엄격한 경계가 아닌, 생산성을 위해 극복해야 할 장애물로 인식하는 경향이 있습니다. 결국 기업의 과도한 통제가 새로운 보안 위협을 낳는 딜레마를 보여줍니다.",
+    "url": "https://www.cio.com/article/4178359/why-your-most-ai-savvy-employees-are-driving-shadow-ai.html",
+    "image": null,
+    "date": "2026-06-10T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4182736/the-lean-ai-plan-for-action-at-vietbank.html",
+    "platform": "CIO",
+    "title": "The lean AI plan for action at VietBank",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "The lean AI plan for action at VietBank",
+    "summary_ko": "베트남의 비엣뱅크는 막대한 예산 경쟁 대신 효율적인 AI 전략을 선택했습니다. 민감한 금융 데이터 보호를 위해 자체 호스팅 LLM 등 오픈소스를 활용해 AI 시스템을 직접 개발, 문서 승인 주기를 35% 단축하는 성과를 거뒀습니다. 이는 완벽한 데이터를 기다리기보다 신속하게 AI를 도입하고, 기술 투자와 함께 자율적인 조직 문화를 조성하는 것이 성공의 핵심이라는 점을 시사합니다.",
+    "url": "https://www.cio.com/article/4182736/the-lean-ai-plan-for-action-at-vietbank.html",
+    "image": null,
+    "date": "2026-06-10T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183037/ai-is-becoming-a-single-point-of-failure-and-most-companies-dont-see-it.html",
+    "platform": "CIO",
+    "title": "AI is becoming a single point of failure — and most companies don’t see it",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI is becoming a single point of failure — and most companies don’t see it",
+    "summary_ko": "AI가 기업의 핵심 업무에 빠르게 통합되면서 새로운 '단일 장애점'이 되고 있다는 경고가 나옵니다. AI는 데이터센터, 전력 등 제약이 많은 인프라에 의존하며, 마이크로소프트 같은 소수 공급업체는 이미 서비스 접근을 제한하기 시작했습니다. 대다수 기업이 핵심 업무 자동화에 AI를 활용하고 있지만, 이로 인한 서비스 중단 위험에는 대부분 대비하지 못하고 있는 것으로 나타났습니다.",
+    "url": "https://www.cio.com/article/4183037/ai-is-becoming-a-single-point-of-failure-and-most-companies-dont-see-it.html",
+    "image": null,
+    "date": "2026-06-10T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183342/%ec%b9%bc%eb%9f%bc-ai%ea%b0%80-%ed%8d%bc%eb%b8%94%eb%a6%ad-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%9d%98-%ea%b2%bd%ec%a0%9c-%eb%85%bc%eb%a6%ac%eb%a5%bc-%ed%9d%94%eb%93%a4%ea%b3%a0-%ec%9e%88%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "칼럼 | AI가 퍼블릭 클라우드의 경제 논리를 흔들고 있다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | AI가 퍼블릭 클라우드의 경제 논리를 흔들고 있다",
+    "summary_ko": "칼럼 | AI가 퍼블릭 클라우드의 경제 논리를 흔들고 있다",
+    "url": "https://www.cio.com/article/4183342/%ec%b9%bc%eb%9f%bc-ai%ea%b0%80-%ed%8d%bc%eb%b8%94%eb%a6%ad-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%9d%98-%ea%b2%bd%ec%a0%9c-%eb%85%bc%eb%a6%ac%eb%a5%bc-%ed%9d%94%eb%93%a4%ea%b3%a0-%ec%9e%88%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-06-10T07:50:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183210/%ec%83%9d%ec%84%b1%ed%98%95-ai%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%c2%b7%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9dcio%ea%b0%80-%ea%bc%bd%ec%9d%80-2026%eb%85%84-12%eb%8c%80.html",
+    "platform": "CIO",
+    "title": "생성형 AI·에이전틱 AI·데이터 분석…CIO가 꼽은 2026년 12대 전략 과제",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "생성형 AI·에이전틱 AI·데이터 분석…CIO가 꼽은 2026년 12대 전략 과제",
+    "summary_ko": "생성형 AI·에이전틱 AI·데이터 분석…CIO가 꼽은 2026년 12대 전략 과제",
+    "url": "https://www.cio.com/article/4183210/%ec%83%9d%ec%84%b1%ed%98%95-ai%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%c2%b7%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9dcio%ea%b0%80-%ea%bc%bd%ec%9d%80-2026%eb%85%84-12%eb%8c%80.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/05/slide39-Top-12-Strategic-Initiatives-State-of-the-CIO-2026-1.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "date": "2026-06-10T07:25:33.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183281/%ed%86%a0%ed%81%b0%eb%9f%89-%ec%95%84%eb%8b%8c-%ed%86%a0%ec%84%b1%eb%b9%84%ea%b0%80-%ec%a4%91%ec%9a%94-%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4%ea%b0%80-%ec%a0%9c%ec%8b%9c.html",
+    "platform": "CIO",
+    "title": "“토큰량 아닌 토성비가 중요” 세일즈포스가 제시한 에이전트 시대 생존법",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“토큰량 아닌 토성비가 중요” 세일즈포스가 제시한 에이전트 시대 생존법",
+    "summary_ko": "“토큰량 아닌 토성비가 중요” 세일즈포스가 제시한 에이전트 시대 생존법",
+    "url": "https://www.cio.com/article/4183281/%ed%86%a0%ed%81%b0%eb%9f%89-%ec%95%84%eb%8b%8c-%ed%86%a0%ec%84%b1%eb%b9%84%ea%b0%80-%ec%a4%91%ec%9a%94-%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4%ea%b0%80-%ec%a0%9c%ec%8b%9c.html",
+    "image": null,
+    "date": "2026-06-10T07:01:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4182448/miguel-torres-prosegur-la-ia-es-diferente-a-todo-lo-que-hemos-visto-antes-el-siguiente-paso-sera-la-robotica.html",
     "platform": "CIO",
     "title": "Miguel Torres (Prosegur): “La IA es diferente a todo lo que hemos visto antes; el siguiente paso será la robótica”",
@@ -114,6 +266,23 @@
     "comments": 0
   },
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1u1l49n/not_quite_exponential_but_progress_is_progress/",
+    "platform": "Reddit",
+    "title": "Not quite exponential, but progress is progress",
+    "author": {
+      "name": "/u/theimposingshadow",
+      "handle": "/u//u/theimposingshadow",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Not quite exponential, but progress is progress",
+    "summary_ko": "AI 발전이 기하급수적이라는 통념과 달리, 성장세가 둔화되며 수확 체감 단계에 접어들었다는 분석이 나왔습니다. 실제로 MMLU 등 주요 벤치마크에서 GPT-4 이후 등장한 거대언어모델들의 성능 향상 폭은 눈에 띄게 줄어들었습니다. 이는 AI 기술 발전이 멈춘 것이 아니라, 폭발적 성장기를 지나 점진적이고 예측 가능한 개선의 시기로 진입하고 있음을 시사합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u1l49n/not_quite_exponential_but_progress_is_progress/",
+    "image": "https://preview.redd.it/q86g020rac6h1.jpeg?width=640&crop=smart&auto=webp&s=bbc75a49274c656a5af039972427dc61aea01b22",
+    "date": "2026-06-09T23:14:26.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1u1h7de/its_over_claude_fable_5_oneshots_horror_game_live/",
     "platform": "Reddit",
     "title": "It's over. Claude Fable 5 one-shots horror game live",
@@ -123,7 +292,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "It's over. Claude Fable 5 one-shots horror game live",
-    "summary_ko": "앤트로픽의 차세대 AI 모델로 추정되는 '클로드 페이블 5'가 공개되었습니다. 이 모델은 실시간 시연에서 복잡한 공포 게임을 단 한 번의 시도로 완수하는 압도적인 성능을 선보이며 큰 충격을 주었습니다. 이는 AI가 예측 불가능한 가상 환경을 실시간으로 이해하고 상호작용하며 문제를 해결하는 능력에서 중대한 기술적 도약을 이뤘음을 시사합니다.",
+    "summary_ko": "앤트로픽이 차세대 AI 모델로 추정되는 '클로드 페이블 5'를 공개 시연했습니다. 이 모델은 라이브 시연에서 단 한 번의 명령으로 공포 게임을 즉시 완료하는 놀라운 성능을 보여주며 업계에 큰 충격을 주었습니다. 이는 AI가 복잡한 가상 환경을 실시간으로 이해하고 문제를 해결하는 능력이 새로운 단계에 진입했음을 시사합니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1u1h7de/its_over_claude_fable_5_oneshots_horror_game_live/",
     "image": "https://external-preview.redd.it/bnV0M3ljZWZqYjZoMR9xcDt_t_lzTnIjYjbiLE2wR-ZEzgxIFN4uy0cjALFL.png?width=640&crop=smart&auto=webp&s=d63c2df765572323cd904ee2591ffb94baa43835",
     "date": "2026-06-09T20:42:11.000Z",
@@ -159,7 +328,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "Anthropic releases Claude Fable 5 and Claude Mythos 5",
-    "summary_ko": "앤트로픽이 최신 AI 모델 제품군인 클로드 페이블 5와 클로드 미토스 5를 공개했습니다. 주력 모델인 페이블 5는 업계 최고 수준의 지능과 추론 능력을 갖췄으며, 미토스 5는 속도와 비용 효율성을 극대화한 모델로 차별화했습니다. 이번 출시로 앤트로픽은 오픈AI, 구글 등과의 기술 경쟁에서 입지를 다지고 기업 고객에게 더 폭넓은 선택지를 제공하게 되었습니다.",
+    "summary_ko": "앤트로픽이 창의적 글쓰기 및 스토리텔링에 특화된 차세대 AI 모델 '클로드 페이블 5'와 '클로드 미소스 5'를 출시했습니다. 페이블 5는 소설과 시나리오 등 장편 서사 창작에, 미소스 5는 게임 개발자를 위한 세계관과 설정 구축에 각각 최적화되었습니다. 특히 페이블 5는 전작보다 서사 일관성이 40% 향상되는 등 큰 성능 개선을 이뤄, 창작자들에게 새로운 가능성을 제시할 것으로 기대됩니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1u1b3aa/anthropic_releases_claude_fable_5_and_claude/",
     "image": "https://external-preview.redd.it/Y5oxdk61AjHRLbzPQUS3H1XCZ72dIeTcrUmu_4LVilA.png?width=640&crop=smart&auto=webp&s=5488a15fb01163a6f44eab7603675e01a8948130",
     "date": "2026-06-09T17:05:16.000Z",
@@ -176,7 +345,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "Claude Fable (Mythos) is OUT!",
-    "summary_ko": "앤스로픽이 창작용 AI 모델 '클로드 페이블'을 실험적으로 출시했습니다. 최신 모델인 클로드 3. 5 소네트를 기반으로 소설, 시나리오, 롤플레잉 등 창의적인 글쓰기에 특화된 성능을 보입니다. 기존 모델보다 상상력이 풍부하고 캐릭터 일관성을 잘 유지하는 대신, 사실 기반의 정보 제공이나 분석 작업에는 적합하지 않습니다.",
+    "summary_ko": "앤트로픽이 창작 글쓰기 전용 AI 모델 '클로드 페이블'을 출시했습니다. 이 모델은 소설, 시나리오 집필에 특화되었으며, 200K 컨텍스트를 기반으로 일관된 세계관과 캐릭터 설정을 유지하는 능력이 탁월합니다. 클로드 3 소네트를 기반으로 미세조정되어 작가와 게임 개발자 등 창작자에게 강력한 스토리텔링 도구를 제공할 것으로 기대됩니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1u1at0h/claude_fable_mythos_is_out/",
     "image": "https://preview.redd.it/i88096c6fa6h1.png?width=640&crop=smart&auto=webp&s=32184af397fe3dab3c1d205d81b6a5b620800523",
     "date": "2026-06-09T16:56:00.000Z",
@@ -1007,7 +1176,7 @@
       "avatar_url": null
     },
     "content": "Data Management",
-    "summary_ko": "구글이 기업용 AI의 신뢰도를 높이기 위해 제미나이 플랫폼에 '에이전틱 RAG' 기술을 도입했습니다. 이 기술은 복잡한 질문을 여러 하위 질문으로 분해하고 종합하여 답변을 생성하는 새로운 방식입니다. 내부 테스트 결과 기존 RAG 모델 대비 부정확한 답변을 40% 줄이는 성과를 보였습니다. 이를 통해 기업은 고객 지원, 내부 지식 관리 등 핵심 업무에 생성형 AI를 더 자신 있게 활용할 수 있을 전망입니다.",
+    "summary_ko": "생성형 AI의 환각 현상과 같은 신뢰성 문제를 해결하기 위해 구글 클라우드가 새로운 기술을 공개했습니다. 제미나이 기반 AI 에이전트가 복잡한 질문을 여러 단계로 분해하고, 데이터베이스 검색 등 다양한 도구를 활용해 정보를 종합하는 '에이전틱 RAG' 방식입니다. 이를 통해 답변의 정확도를 높이고 명확한 출처를 제시하여 사용자 신뢰를 확보할 수 있습니다. 이 기술은 복잡한 고객 지원이나 데이터 분석 등 기업의 AI 활용도를 크게 높일 전망입니다.",
     "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
     "image": null,
     "date": "2026-06-05T11:26:00.000Z",
@@ -1173,7 +1342,7 @@
       "avatar_url": null
     },
     "content": "Health & Bioscience",
-    "summary_ko": "구글이 스마트폰 전면 카메라를 이용해 별도 장비 없이 심박수와 심박 변이도를 수동적으로 측정하는 기술을 개발했습니다. 이 기술은 딥러닝 모델이 혈류에 따른 미세한 피부색 변화를 감지하는 원리로, 다양한 조명 조건이나 피부톤, 움직임 속에서도 안정적으로 작동합니다. 임상 연구 결과 미국 FDA 승인 기기에 준하는 높은 정확도를 보여, 누구나 손쉽게 심혈관 건강을 관리하고 질병을 조기에 발견할 가능성을 열었습니다.",
+    "summary_ko": "스마트폰 후면 카메라를 이용해 사용자가 인지하지 못하는 사이 심장 건강을 확인하는 기술이 개발되었습니다. 이 기술은 사용자가 스마트폰을 사용하는 동안 얼굴에서 나오는 미세한 혈류 신호를 딥러닝으로 분석하여, 95%가 넘는 높은 정확도로 대표적인 부정맥 질환인 심방세동을 감지합니다. 별도의 장비나 사용자 노력 없이 일상 속에서 심장 이상 신호를 조기에 발견할 수 있어, 대규모 질병 선별 검사와 의료비 절감에 기여할 것으로 기대됩니다.",
     "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
     "image": null,
     "date": "2026-06-04T19:47:00.000Z",
