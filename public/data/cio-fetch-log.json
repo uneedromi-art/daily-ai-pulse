@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T23:00:06.644Z",
+  "generatedAt": "2026-06-10T06:59:14.651Z",
   "feedUrl": "https://www.cio.com/kr/feed/",
   "keywords": [
     "artificial intelligence",
@@ -16,29 +16,34 @@
   "keywordMode": "any",
   "included": [
     {
-      "title": "Anthropic releases Mythos-class Fable 5 with safeguards for cyber risks",
+      "title": "Miguel Torres (Prosegur): “La IA es diferente a todo lo que hemos visto antes; el siguiente paso será la robótica”",
       "lang": "en",
-      "url": "https://www.cio.com/article/4183101/anthropic-releases-mythos-class-fable-5-with-safeguards-for-cyber-risks.html"
+      "url": "https://www.cio.com/article/4182448/miguel-torres-prosegur-la-ia-es-diferente-a-todo-lo-que-hemos-visto-antes-el-siguiente-paso-sera-la-robotica.html"
     },
     {
-      "title": "The next frontier isn’t AI",
+      "title": "AWS adds FinOps Agent to bring cloud cost management into engineering workflows",
       "lang": "en",
-      "url": "https://www.cio.com/article/4182449/the-next-frontier-isnt-ai.html"
+      "url": "https://www.cio.com/article/4182890/aws-adds-finops-agent-to-bring-cloud-cost-management-into-engineering-workflows.html"
     },
     {
-      "title": "Adopting AI models is easy — scaling them requires shared open standards",
+      "title": "Enterprises know AI-generated code is vulnerable; they’re shipping it anyway",
       "lang": "en",
-      "url": "https://www.cio.com/article/4182450/adopting-ai-models-is-easy-scaling-them-requires-shared-open-standards.html"
+      "url": "https://www.cio.com/article/4183209/enterprises-know-ai-generated-code-is-vulnerable-theyre-shipping-it-anyway.html"
     },
     {
-      "title": "7 sources of AI debt and how to avoid them",
-      "lang": "en",
-      "url": "https://www.cio.com/article/4178324/7-sources-of-ai-debt-and-how-to-avoid-them.html"
+      "title": "미토스급 AI ‘페이블 5’ 공개한 앤트로픽…편의보다 안전 선택한 이유는?",
+      "lang": "ko",
+      "url": "https://www.cio.com/article/4183190/%eb%af%b8%ed%86%a0%ec%8a%a4%ea%b8%89-ai-%ed%8e%98%ec%9d%b4%eb%b8%94-5-%ea%b3%b5%ea%b0%9c%ed%95%9c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ed%8e%b8%ec%9d%98%eb%b3%b4%eb%8b%a4.html"
     },
     {
-      "title": "It’s the year of AI transformation for these three industries. Here’s why",
+      "title": "Working group formed to develop standard for AI-native docs",
       "lang": "en",
-      "url": "https://www.cio.com/article/4182439/its-the-year-of-ai-transformation-for-these-three-industries-heres-why.html"
+      "url": "https://www.cio.com/article/4183187/working-group-formed-to-develop-standard-for-ai-native-docs.html"
+    },
+    {
+      "title": "地政学リスクに、CIOはどこまで向き合うべきか",
+      "lang": "en",
+      "url": "https://www.cio.com/article/4181983/%e5%9c%b0%e6%94%bf%e5%ad%a6%e3%83%aa%e3%82%b9%e3%82%af%e3%81%ab%e3%80%81cio%e3%81%af%e3%81%a9%e3%81%93%e3%81%be%e3%81%a7%e5%90%91%e3%81%8d%e5%90%88%e3%81%86%e3%81%b9%e3%81%8d%e3%81%8b.html"
     },
     {
       "title": "9일간 46만 번 AI 호출…AI 사용량 집착이 낳는 역효과",
@@ -54,19 +59,34 @@
       "title": "오픈텍스트, 방산·공공 AI 확산 속 주권 AI·정보 관리 전략 강화",
       "lang": "ko",
       "url": "https://www.cio.com/article/4182666/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%b0%a9%ec%82%b0%c2%b7%ea%b3%b5%ea%b3%b5-ai-%ed%99%95%ec%82%b0-%ec%86%8d-%ec%a3%bc%ea%b6%8c-ai%c2%b7%ec%a0%95%eb%b3%b4-%ea%b4%80%eb%a6%ac-%ec%a0%84.html"
-    },
-    {
-      "title": "네이버 CEO 출신 한성숙, 국무총리 후보자 지명…“AI 대전환 이끌 적임자”",
-      "lang": "ko",
-      "url": "https://www.cio.com/article/4182480/%eb%84%a4%ec%9d%b4%eb%b2%84-ceo-%ec%b6%9c%ec%8b%a0-%ed%95%9c%ec%84%b1%ec%88%99-%ea%b5%ad%eb%ac%b4%ec%b4%9d%eb%a6%ac-%ed%9b%84%eb%b3%b4%ec%9e%90-%ec%a7%80%eb%aa%85ai-%eb%8c%80.html"
-    },
-    {
-      "title": "젠슨 황 ‘삼겹살 회동’이후…SK·LG·네이버, 엔비디아와 AI 인프라 협력 일제히 공개",
-      "lang": "ko",
-      "url": "https://www.cio.com/article/4182445/%ec%a0%a0%ec%8a%a8-%ed%99%a9-%ec%82%bc%ea%b2%b9%ec%82%b4-%ed%9a%8c%eb%8f%99%ec%9d%b4%ed%9b%84sk%c2%b7lg%c2%b7%eb%84%a4%ec%9d%b4%eb%b2%84-%ec%97%94%eb%b9%84%eb%94%94.html"
     }
   ],
   "skipped": [
+    {
+      "title": "Anthropic releases Mythos-class Fable 5 with safeguards for cyber risks",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "The next frontier isn’t AI",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Adopting AI models is easy — scaling them requires shared open standards",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "7 sources of AI debt and how to avoid them",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "It’s the year of AI transformation for these three industries. Here’s why",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
     {
       "title": "CIOs get temporary relief as US court blocks $100,000 H-1B fee",
       "lang": "en",
@@ -96,31 +116,11 @@
       "title": "新たな保険のサービスモデルを目指して——未知の領域に挑み、業界を変えた住友生命AI共創オフィサーの挑戦",
       "lang": "en",
       "reason": "englishLimit"
-    },
-    {
-      "title": "CIOs are being held accountable for AI they don’t fully control, IBM study finds",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "Linux Foundation targets AI’s cost-management problem with Tokenomics Foundation",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "The power grid runs on decades-old devices — and attackers know it",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "The 12 most strategically important IT initiatives today",
-      "lang": "en",
-      "reason": "englishLimit"
     }
   ],
   "summary": {
-    "korean": 5,
+    "korean": 4,
     "english": 5,
-    "total": 10
+    "total": 9
   }
 }
