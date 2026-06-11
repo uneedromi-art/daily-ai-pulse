@@ -1,7 +1,6 @@
 {
-  "push": "failed",
+  "push": "success",
   "branch": "main",
-  "error": "Command failed: git pull --rebase origin main",
-  "hint": "GIT_PUSH_TOKEN을 .env.local에 추가하세요 (repo 권한 PAT)",
-  "at": "2026-06-10T06:33:40.694Z"
+  "usedToken": true,
+  "at": "2026-06-10T07:01:00.679Z"
 }

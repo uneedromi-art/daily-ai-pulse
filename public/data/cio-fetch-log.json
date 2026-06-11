@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T06:59:14.651Z",
+  "generatedAt": "2026-06-11T23:00:06.994Z",
   "feedUrl": "https://www.cio.com/kr/feed/",
   "keywords": [
     "artificial intelligence",
@@ -16,111 +16,111 @@
   "keywordMode": "any",
   "included": [
     {
-      "title": "Miguel Torres (Prosegur): “La IA es diferente a todo lo que hemos visto antes; el siguiente paso será la robótica”",
+      "title": "Google is held liable for false information from its AI",
       "lang": "en",
-      "url": "https://www.cio.com/article/4182448/miguel-torres-prosegur-la-ia-es-diferente-a-todo-lo-que-hemos-visto-antes-el-siguiente-paso-sera-la-robotica.html"
+      "url": "https://www.cio.com/article/4184236/google-is-held-liable-for-false-information-from-its-ai-2.html"
     },
     {
-      "title": "AWS adds FinOps Agent to bring cloud cost management into engineering workflows",
+      "title": "CIOs plagued by growing AI accountability gap",
       "lang": "en",
-      "url": "https://www.cio.com/article/4182890/aws-adds-finops-agent-to-bring-cloud-cost-management-into-engineering-workflows.html"
+      "url": "https://www.cio.com/article/4183249/cios-plagued-by-a-growing-ai-accountability-gap.html"
     },
     {
-      "title": "Enterprises know AI-generated code is vulnerable; they’re shipping it anyway",
+      "title": "From AI-assisted to AI-native: Rethinking the software delivery model",
       "lang": "en",
-      "url": "https://www.cio.com/article/4183209/enterprises-know-ai-generated-code-is-vulnerable-theyre-shipping-it-anyway.html"
+      "url": "https://www.cio.com/article/4183703/from-ai-assisted-to-ai-native-rethinking-the-software-delivery-model.html"
     },
     {
-      "title": "미토스급 AI ‘페이블 5’ 공개한 앤트로픽…편의보다 안전 선택한 이유는?",
+      "title": "AI experience is the hottest IT hiring need. What if you don’t have much?",
+      "lang": "en",
+      "url": "https://www.cio.com/article/4183254/ai-experience-is-the-hottest-it-hiring-need-what-if-you-dont-have-much.html"
+    },
+    {
+      "title": "Who authorized the AI agent? Breaking the blame loop in agentic AI",
+      "lang": "en",
+      "url": "https://www.cio.com/article/4184151/who-authorized-the-ai-agent-breaking-the-blame-loop-in-agentic-ai.html"
+    },
+    {
+      "title": "“강요 대신 환경을 만든다” AI 네이티브 기업은 리더십이 어떻게 다른가 ③",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4183190/%eb%af%b8%ed%86%a0%ec%8a%a4%ea%b8%89-ai-%ed%8e%98%ec%9d%b4%eb%b8%94-5-%ea%b3%b5%ea%b0%9c%ed%95%9c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ed%8e%b8%ec%9d%98%eb%b3%b4%eb%8b%a4.html"
+      "url": "https://www.cio.com/article/4183904/%ea%b0%95%ec%9a%94-%eb%8c%80%ec%8b%a0-%ed%99%98%ea%b2%bd%ec%9d%84-%eb%a7%8c%eb%93%a0%eb%8b%a4-ai-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c-%ea%b8%b0%ec%97%85%ec%9d%80-%eb%a6%ac%eb%8d%94.html"
     },
     {
-      "title": "Working group formed to develop standard for AI-native docs",
-      "lang": "en",
-      "url": "https://www.cio.com/article/4183187/working-group-formed-to-develop-standard-for-ai-native-docs.html"
-    },
-    {
-      "title": "地政学リスクに、CIOはどこまで向き合うべきか",
-      "lang": "en",
-      "url": "https://www.cio.com/article/4181983/%e5%9c%b0%e6%94%bf%e5%ad%a6%e3%83%aa%e3%82%b9%e3%82%af%e3%81%ab%e3%80%81cio%e3%81%af%e3%81%a9%e3%81%93%e3%81%be%e3%81%a7%e5%90%91%e3%81%8d%e5%90%88%e3%81%86%e3%81%b9%e3%81%8d%e3%81%8b.html"
-    },
-    {
-      "title": "9일간 46만 번 AI 호출…AI 사용량 집착이 낳는 역효과",
+      "title": "“지식보다 에이전시, 정답보다 사고방식” AI 네이티브 기업은 어떤 인재를 뽑는가 ②",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4182720/9%ec%9d%bc%ea%b0%84-46%eb%a7%8c-%eb%b2%88-ai-%ed%98%b8%ec%b6%9cai-%eb%8f%84%ec%9e%85-%ec%a7%80%ed%91%9c%ea%b0%80-%ec%97%ad%ed%9a%a8%ea%b3%bc%eb%a5%bc-%eb%82%bc-%eb%95%8c.html"
+      "url": "https://www.cio.com/article/4183900/%ec%a7%80%ec%8b%9d%eb%b3%b4%eb%8b%a4-%ec%97%90%ec%9d%b4%ec%a0%84%ec%8b%9c-%ec%a0%95%eb%8b%b5%eb%b3%b4%eb%8b%a4-%ec%82%ac%ea%b3%a0%eb%b0%a9%ec%8b%9d-ai-%eb%84%a4%ec%9d%b4%ed%8b%b0.html"
     },
     {
-      "title": "AI 시대의 CISO, 반드시 답해야 할 15가지 어려운 질문",
+      "title": "“틀리더라도 빨리 틀려라” AI 네이티브 기업은 어떻게 일하는가 ①",
       "lang": "ko",
-      "url": "https://www.cio.com/article/4182698/ai-%ec%8b%9c%eb%8c%80%ec%9d%98-ciso-%eb%b0%98%eb%93%9c%ec%8b%9c-%eb%8b%b5%ed%95%b4%ec%95%bc-%ed%95%a0-15%ea%b0%80%ec%a7%80-%ec%96%b4%eb%a0%a4%ec%9a%b4-%ec%a7%88%eb%ac%b8.html"
-    },
-    {
-      "title": "오픈텍스트, 방산·공공 AI 확산 속 주권 AI·정보 관리 전략 강화",
-      "lang": "ko",
-      "url": "https://www.cio.com/article/4182666/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%b0%a9%ec%82%b0%c2%b7%ea%b3%b5%ea%b3%b5-ai-%ed%99%95%ec%82%b0-%ec%86%8d-%ec%a3%bc%ea%b6%8c-ai%c2%b7%ec%a0%95%eb%b3%b4-%ea%b4%80%eb%a6%ac-%ec%a0%84.html"
+      "url": "https://www.cio.com/article/4183897/%ed%8b%80%eb%a6%ac%eb%8d%94%eb%9d%bc%eb%8f%84-%eb%b9%a8%eb%a6%ac-%ed%8b%80%eb%a0%a4%eb%9d%bc-ai-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c-%ea%b8%b0%ec%97%85%ec%9d%80-%ec%96%b4%eb%96%bb.html"
     }
   ],
   "skipped": [
     {
-      "title": "Anthropic releases Mythos-class Fable 5 with safeguards for cyber risks",
+      "title": "Las nuevas normas de la UE para asegurar los productos TI entran en vigor hoy sin que las empresas estén preparadas",
       "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "The next frontier isn’t AI",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "Adopting AI models is easy — scaling them requires shared open standards",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "7 sources of AI debt and how to avoid them",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "It’s the year of AI transformation for these three industries. Here’s why",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "CIOs get temporary relief as US court blocks $100,000 H-1B fee",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "How IKEA turned a €13 million chatbot into a €1.3 billion business",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "The overlooked leadership skill holding back AI value",
-      "lang": "en",
-      "reason": "englishLimit"
-    },
-    {
-      "title": "칼럼 | ERP 구축 실패의 원흉은 벤더가 아니다",
-      "lang": "ko",
       "reason": "keyword"
     },
     {
-      "title": "Lovelace boasts it can equal Gemini Deep Research at  less than 1% of the cost",
+      "title": "Why employee experience is now a revenue driver",
+      "lang": "en",
+      "reason": "keyword"
+    },
+    {
+      "title": "El coste oculto de la IA empresarial: 6,4 horas semanales cuidando ‘bots’",
       "lang": "en",
       "reason": "englishLimit"
     },
     {
-      "title": "新たな保険のサービスモデルを目指して——未知の領域に挑み、業界を変えた住友生命AI共創オフィサーの挑戦",
+      "title": "The hidden cost of enterprise AI: 6.4 hours a week babysitting bots",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "「内部通報＝密告」という誤解を超えて—企業を守る「スピークアップ文化」とGRCの本質",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Security, skills, and AI: Why mainframe security is putting IT leaders under more pressure than ever",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "From “try restarting it” to real-time intelligence: Conversational AI for IT operations and mainframe modernization",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Salesforce to acquire usage-based billing specialist m3ter",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "GitHub Copilot is generating more code than your team can review: Why senior engineers are now the bottleneck",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "New US CIO appointments, June 2026",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "Why your most AI-savvy employees are driving shadow AI",
+      "lang": "en",
+      "reason": "englishLimit"
+    },
+    {
+      "title": "The lean AI plan for action at VietBank",
       "lang": "en",
       "reason": "englishLimit"
     }
   ],
   "summary": {
-    "korean": 4,
+    "korean": 3,
     "english": 5,
-    "total": 9
+    "total": 8
   }
 }
