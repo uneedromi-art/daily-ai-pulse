@@ -1,5 +1,243 @@
 [
   {
+    "id": "https://www.cio.com/article/4183249/cios-plagued-by-a-growing-ai-accountability-gap.html",
+    "platform": "CIO",
+    "title": "CIOs plagued by growing AI accountability gap",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "CIOs plagued by growing AI accountability gap",
+    "summary_ko": "기업 내 AI 도입이 확산되면서 최고정보책임자(CIO)가 통제할 수 없는 AI에 대한 책임을 져야 하는 '책임 격차' 문제가 심화되고 있습니다. IBM 조사에 따르면, CIO의 3분의 2는 현업 부서가 자체 생성한 AI 에이전트를 완전히 통제하지 못하는 상황에 놓여있습니다. 내년 AI 에이전트 수가 38% 급증할 것으로 예상되지만, 이에 대비된 IT 리더는 10%에 불과해 AI 거버넌스 공백에 대한 우려가 커지고 있습니다.",
+    "url": "https://www.cio.com/article/4183249/cios-plagued-by-a-growing-ai-accountability-gap.html",
+    "image": null,
+    "date": "2026-06-11T10:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183703/from-ai-assisted-to-ai-native-rethinking-the-software-delivery-model.html",
+    "platform": "CIO",
+    "title": "From AI-assisted to AI-native: Rethinking the software delivery model",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "From AI-assisted to AI-native: Rethinking the software delivery model",
+    "summary_ko": "많은 기업이 코딩 속도 향상을 위해 AI를 도입하지만, 기존 개발 방식에 AI를 덧붙이는 수준에 그쳐 생산성 한계에 부딪히고 있습니다. 맥킨지 조사 결과, AI에 맞춰 운영 모델을 재구축한 기업은 그렇지 않은 기업보다 15% 높은 성과를 냈습니다. 이는 AI 기술이 아닌 낡은 워크플로우가 혁신의 제약이며, 진정한 성과를 위해선 개발 프로세스 자체를 AI 중심으로 재설계해야 함을 시사합니다.",
+    "url": "https://www.cio.com/article/4183703/from-ai-assisted-to-ai-native-rethinking-the-software-delivery-model.html",
+    "image": null,
+    "date": "2026-06-11T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183254/ai-experience-is-the-hottest-it-hiring-need-what-if-you-dont-have-much.html",
+    "platform": "CIO",
+    "title": "AI experience is the hottest IT hiring need. What if you don’t have much?",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI experience is the hottest IT hiring need. What if you don’t have much?",
+    "summary_ko": "IT 업계에서 AI 인재 수요가 폭발적으로 증가하며 심각한 인력난이 발생하고 있습니다. 한 조사에 따르면 IT 리더의 91%가 AI 전문성을 채용 1순위로 꼽지만, 80%의 기업은 인력 부족으로 AI 프로젝트 추진에 어려움을 겪는 것으로 나타났습니다. 이에 따라 기업들은 순수 기술 역량 외에 비즈니스 이해도와 소통 능력을 겸비한 융합형 인재를 대안으로 찾고 있습니다. 이는 AI 기술의 결과물을 실제 사업 성과로 연결하는 능력이 중요해졌기 때문입니다.",
+    "url": "https://www.cio.com/article/4183254/ai-experience-is-the-hottest-it-hiring-need-what-if-you-dont-have-much.html",
+    "image": null,
+    "date": "2026-06-11T09:30:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184001/el-coste-oculto-de-la-ia-empresarial-64-horas-semanales-cuidando-bots.html",
+    "platform": "CIO",
+    "title": "El coste oculto de la IA empresarial: 6,4 horas semanales cuidando ‘bots’",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "El coste oculto de la IA empresarial: 6,4 horas semanales cuidando ‘bots’",
+    "summary_ko": "기업의 생성형 AI 도입이 오히려 생산성을 저해하는 역설을 낳고 있습니다. 직원이 AI를 제대로 활용하기 위해 맥락을 제공하고 결과물을 검수하는 '봇 돌보기'와 같은 보이지 않는 노동에 많은 시간을 쓰고 있기 때문입니다. 이러한 부담은 검증되지 않은 AI 결과물을 그대로 제출하는 부작용으로 이어져, 결국 업무의 질을 떨어뜨리는 악순환을 유발한다는 지적입니다.",
+    "url": "https://www.cio.com/article/4184001/el-coste-oculto-de-la-ia-empresarial-64-horas-semanales-cuidando-bots.html",
+    "image": null,
+    "date": "2026-06-11T08:12:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183904/%ea%b0%95%ec%9a%94-%eb%8c%80%ec%8b%a0-%ed%99%98%ea%b2%bd%ec%9d%84-%eb%a7%8c%eb%93%a0%eb%8b%a4-ai-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c-%ea%b8%b0%ec%97%85%ec%9d%80-%eb%a6%ac%eb%8d%94.html",
+    "platform": "CIO",
+    "title": "“강요 대신 환경을 만든다” AI 네이티브 기업은 리더십이 어떻게 다른가 ③",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“강요 대신 환경을 만든다” AI 네이티브 기업은 리더십이 어떻게 다른가 ③",
+    "summary_ko": "“강요 대신 환경을 만든다” AI 네이티브 기업은 리더십이 어떻게 다른가 ③",
+    "url": "https://www.cio.com/article/4183904/%ea%b0%95%ec%9a%94-%eb%8c%80%ec%8b%a0-%ed%99%98%ea%b2%bd%ec%9d%84-%eb%a7%8c%eb%93%a0%eb%8b%a4-ai-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c-%ea%b8%b0%ec%97%85%ec%9d%80-%eb%a6%ac%eb%8d%94.html",
+    "image": null,
+    "date": "2026-06-11T05:16:28.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183900/%ec%a7%80%ec%8b%9d%eb%b3%b4%eb%8b%a4-%ec%97%90%ec%9d%b4%ec%a0%84%ec%8b%9c-%ec%a0%95%eb%8b%b5%eb%b3%b4%eb%8b%a4-%ec%82%ac%ea%b3%a0%eb%b0%a9%ec%8b%9d-ai-%eb%84%a4%ec%9d%b4%ed%8b%b0.html",
+    "platform": "CIO",
+    "title": "“지식보다 에이전시, 정답보다 사고방식” AI 네이티브 기업은 어떤 인재를 뽑는가 ②",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“지식보다 에이전시, 정답보다 사고방식” AI 네이티브 기업은 어떤 인재를 뽑는가 ②",
+    "summary_ko": "“지식보다 에이전시, 정답보다 사고방식” AI 네이티브 기업은 어떤 인재를 뽑는가 ②",
+    "url": "https://www.cio.com/article/4183900/%ec%a7%80%ec%8b%9d%eb%b3%b4%eb%8b%a4-%ec%97%90%ec%9d%b4%ec%a0%84%ec%8b%9c-%ec%a0%95%eb%8b%b5%eb%b3%b4%eb%8b%a4-%ec%82%ac%ea%b3%a0%eb%b0%a9%ec%8b%9d-ai-%eb%84%a4%ec%9d%b4%ed%8b%b0.html",
+    "image": null,
+    "date": "2026-06-11T05:16:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183897/%ed%8b%80%eb%a6%ac%eb%8d%94%eb%9d%bc%eb%8f%84-%eb%b9%a8%eb%a6%ac-%ed%8b%80%eb%a0%a4%eb%9d%bc-ai-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c-%ea%b8%b0%ec%97%85%ec%9d%80-%ec%96%b4%eb%96%bb.html",
+    "platform": "CIO",
+    "title": "“틀리더라도 빨리 틀려라” AI 네이티브 기업은 어떻게 일하는가 ①",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“틀리더라도 빨리 틀려라” AI 네이티브 기업은 어떻게 일하는가 ①",
+    "summary_ko": "“틀리더라도 빨리 틀려라” AI 네이티브 기업은 어떻게 일하는가 ①",
+    "url": "https://www.cio.com/article/4183897/%ed%8b%80%eb%a6%ac%eb%8d%94%eb%9d%bc%eb%8f%84-%eb%b9%a8%eb%a6%ac-%ed%8b%80%eb%a0%a4%eb%9d%bc-ai-%eb%84%a4%ec%9d%b4%ed%8b%b0%eb%b8%8c-%ea%b8%b0%ec%97%85%ec%9d%80-%ec%96%b4%eb%96%bb.html",
+    "image": null,
+    "date": "2026-06-11T05:15:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u2oof2/know_the_claude_rules/",
+    "platform": "Reddit",
+    "title": "know the Claude rules",
+    "author": {
+      "name": "/u/Saerain",
+      "handle": "/u//u/Saerain",
+      "avatar_color": "#ff4500"
+    },
+    "content": "know the Claude rules",
+    "summary_ko": "앤스로픽이 자사 AI 모델 클로드의 핵심 작동 원리인 '헌법 AI'를 공개했습니다. 이는 인간이 모든 답변을 직접 교정하는 대신, 유해성·편향성 등을 피하도록 설계된 핵심 원칙을 AI가 스스로 학습하고 따르게 하는 방식입니다. 이를 통해 AI의 잠재적 위험을 최소화하고 윤리적이며 신뢰할 수 있는 응답을 생성하는 것을 목표로 합니다. 결국 이 기술은 AI 안전성과 책임성을 확보하기 위한 앤스로픽의 핵심 전략입니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u2oof2/know_the_claude_rules/",
+    "image": "https://preview.redd.it/ucqoqqcdxk6h1.png?width=640&crop=smart&auto=webp&s=02ee750ee5d1c28d1ed8d959e7e7e2b02bd2ac5e",
+    "date": "2026-06-11T04:16:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183804/the-hidden-cost-of-enterprise-ai-6-4-hours-a-week-babysitting-bots.html",
+    "platform": "CIO",
+    "title": "The hidden cost of enterprise AI: 6.4 hours a week babysitting bots",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "The hidden cost of enterprise AI: 6.4 hours a week babysitting bots",
+    "summary_ko": "기업에 AI 도입이 확산되고 있지만, 오히려 직원들의 숨은 노동을 유발하는 '생산성 역설'이 나타나고 있습니다. 글린 워크 AI 연구소에 따르면, 직장인들은 AI를 감독하고 수정하는 '봇시팅'에 주 평균 6.4시간을 소요하며, 이는 검증되지 않은 결과물을 낳는 악순환으로 이어집니다. 따라서 성공적인 AI 활용을 위해서는 기술 이면에 가려진 막대한 인간의 노동을 이해하고 해결하는 것이 기업의 중요 과제로 떠올랐습니다.",
+    "url": "https://www.cio.com/article/4183804/the-hidden-cost-of-enterprise-ai-6-4-hours-a-week-babysitting-bots.html",
+    "image": null,
+    "date": "2026-06-11T00:05:17.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u2flqe/anthropic_closing_the_path_to_life_science/",
+    "platform": "Reddit",
+    "title": "Anthropic closing the path to life science research",
+    "author": {
+      "name": "/u/thecosmicskye",
+      "handle": "/u//u/thecosmicskye",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Anthropic closing the path to life science research",
+    "summary_ko": "AI 기업 앤트로픽이 자사 모델의 생명 과학 연구 활용을 제한하는 강력한 조치를 내놓았습니다. 개정된 사용 정책은 생물학 무기 개발 및 확산과 관련된 모든 연구에 자사 AI 모델 사용을 명시적으로 금지합니다. 이는 AI 기술 고도화에 따른 잠재적 위험을 선제적으로 차단하려는 의도로, 업계에 중요한 안전 기준을 제시했다는 평가를 받습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u2flqe/anthropic_closing_the_path_to_life_science/",
+    "image": "https://preview.redd.it/3wky909axi6h1.png?width=640&crop=smart&auto=webp&s=558668b66632fa4bb7fa65537dd642af6d087414",
+    "date": "2026-06-10T21:31:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u2dg2f/agi_2030/",
+    "platform": "Reddit",
+    "title": "AGI 2030",
+    "author": {
+      "name": "/u/Automatic_Cancel_545",
+      "handle": "/u//u/Automatic_Cancel_545",
+      "avatar_color": "#ff4500"
+    },
+    "content": "AGI 2030",
+    "summary_ko": "인공일반지능(AGI)이 2030년까지 등장할 것이라는 구체적인 전망이 나왔습니다. 이는 AI 기술 발전이 선형이 아닌 기하급수적 속도를 보이고 있으며, 막대한 자본과 인재가 집중되고 있기 때문입니다. 필자는 현재의 스케일링 법칙 한계를 넘어 새로운 아키텍처 혁신이 나타날 것으로 예측했습니다. 따라서 AGI 개발은 단순한 기술 경쟁을 넘어, 안전과 윤리 등 사회기술적 과제를 해결하기 위한 공동의 노력이 필요한 중대 과제가 될 것입니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u2dg2f/agi_2030/",
+    "image": "https://preview.redd.it/g11ezzquii6h1.png?width=640&crop=smart&auto=webp&s=cda1fc06a7197b7d51746cd41efa0e329397aa4e",
+    "date": "2026-06-10T20:10:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
+    "platform": "Google",
+    "title": "New framework for auditing machine unlearning",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Algorithms & Theory",
+    "summary_ko": "개인정보보호 규제가 강화되면서 AI 모델에서 특정 데이터를 삭제하는 '머신 언러닝' 기술의 중요성이 커지고 있습니다. 하지만 데이터가 실제로 제거되었는지 검증하기 어려웠는데, 최근 이를 체계적으로 감사할 수 있는 새로운 프레임워크가 등장해 주목받고 있습니다. 이 프레임워크는 기업이 '잊힐 권리'와 같은 규제를 준수하고 AI 시스템의 신뢰도를 높이는 데 기여할 전망입니다.",
+    "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
+    "image": null,
+    "date": "2026-06-10T17:34:55.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u25uy6/dario_amodei_says_he_started_anthropic_because/",
+    "platform": "Reddit",
+    "title": "Dario Amodei says he started Anthropic because Altman is liar not because of safety reasons.",
+    "author": {
+      "name": "/u/llelouchh",
+      "handle": "/u//u/llelouchh",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Dario Amodei says he started Anthropic because Altman is liar not because of safety reasons.",
+    "summary_ko": "AI 기업 앤스로픽의 다리오 아모데이 CEO가 회사를 설립한 진짜 이유를 밝혔습니다. 그는 그동안 알려진 AI 안전에 대한 이견 때문이 아니라, 샘 알트만 오픈AI CEO가 거짓말쟁이라고 생각했기 때문에 회사를 나왔다고 주장했습니다. 이는 앤스로픽의 창업 배경이 기술 철학의 차이가 아닌 경영진 간의 신뢰 문제에서 비롯되었음을 시사합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u25uy6/dario_amodei_says_he_started_anthropic_because/",
+    "image": "https://external-preview.redd.it/OWg3am02ajQ3aDZoMVhyt_3ZwEQ5eL5tjWxV9dS3Eit8bs7-qOdkmQ-jZ-JD.png?width=640&crop=smart&auto=webp&s=bdd022e267682c6b17901e2b2e3aa62d583c1ddb",
+    "date": "2026-06-10T15:43:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4183045/github-copilot-is-generating-more-code-than-your-team-can-review-why-senior-engineers-are-now-the-bottleneck.html",
     "platform": "CIO",
     "title": "GitHub Copilot is generating more code than your team can review: Why senior engineers are now the bottleneck",
@@ -1176,7 +1414,7 @@
       "avatar_url": null
     },
     "content": "Data Management",
-    "summary_ko": "생성형 AI의 환각 현상과 같은 신뢰성 문제를 해결하기 위해 구글 클라우드가 새로운 기술을 공개했습니다. 제미나이 기반 AI 에이전트가 복잡한 질문을 여러 단계로 분해하고, 데이터베이스 검색 등 다양한 도구를 활용해 정보를 종합하는 '에이전틱 RAG' 방식입니다. 이를 통해 답변의 정확도를 높이고 명확한 출처를 제시하여 사용자 신뢰를 확보할 수 있습니다. 이 기술은 복잡한 고객 지원이나 데이터 분석 등 기업의 AI 활용도를 크게 높일 전망입니다.",
+    "summary_ko": "생성형 AI의 '환각' 현상은 신뢰도가 중요한 기업 환경의 큰 걸림돌입니다. 구글은 이 문제를 해결하기 위해 기존 검색증강생성(RAG)을 발전시킨 '에이전틱 RAG' 기술을 공개했습니다. 이 기술은 AI 에이전트가 복잡한 질문을 여러 하위 질문으로 분해하고, 각 단계별 검색과 추론을 거쳐 종합적인 답변을 생성하는 것이 핵심입니다. 이를 통해 기업은 더 정확하고 신뢰도 높은 AI 응답을 확보할 수 있게 되었습니다.",
     "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
     "image": null,
     "date": "2026-06-05T11:26:00.000Z",
