@@ -30,7 +30,7 @@
       "avatar_url": null
     },
     "content": "CIOs plagued by growing AI accountability gap",
-    "summary_ko": "기업 내 AI 에이전트가 통제 없이 확산되며 IT 리더의 '책임 격차'가 심화되고 있습니다. IBM 조사 결과, CIO 3분의 2가 통제권 밖의 AI에 책임을 지고 있으며, 기술 도입 속도를 IT 부서가 따라가지 못하는 것으로 나타났습니다. 내년 AI 에이전트가 38% 급증할 전망이지만 준비된 리더는 10%에 불과해, 거버넌스 부재로 인한 보안 위험이 중대한 과제로 떠올랐습니다.",
+    "summary_ko": "기업 내 AI 도입이 확산되면서 최고정보책임자(CIO)가 통제할 수 없는 AI에 대한 책임을 져야 하는 '책임 격차' 문제가 심화되고 있습니다. IBM 조사에 따르면, CIO의 3분의 2는 현업 부서가 자체 생성한 AI 에이전트를 완전히 통제하지 못하는 상황에 놓여있습니다. 내년 AI 에이전트 수가 38% 급증할 것으로 예상되지만, 이에 대비된 IT 리더는 10%에 불과해 AI 거버넌스 공백에 대한 우려가 커지고 있습니다.",
     "url": "https://www.cio.com/article/4183249/cios-plagued-by-a-growing-ai-accountability-gap.html",
     "image": null,
     "date": "2026-06-11T10:01:00.000Z",
@@ -49,7 +49,7 @@
       "avatar_url": null
     },
     "content": "From AI-assisted to AI-native: Rethinking the software delivery model",
-    "summary_ko": "많은 기업이 코딩 속도를 높이려 AI를 도입하지만, 기존 개발 방식을 바꾸지 않아 단기적 성과에 그치고 있습니다. 맥킨지 조사에 따르면 AI에 맞춰 운영 모델을 재구축한 기업은 단순히 도구를 도입한 곳보다 15% 높은 성과를 냈습니다. 이는 AI 기술의 한계가 아니라, AI의 잠재력을 가로막는 낡은 워크플로우가 성장의 진짜 제약임을 보여줍니다. 따라서 AI의 진정한 가치를 실현하려면 도구 도입을 넘어 AI 중심으로 개발 프로세스 자체를 재설계해야 합니다.",
+    "summary_ko": "많은 기업이 코딩 속도 향상을 위해 AI를 도입하지만, 기존 개발 방식에 AI를 덧붙이는 수준에 그쳐 생산성 한계에 부딪히고 있습니다. 맥킨지 조사 결과, AI에 맞춰 운영 모델을 재구축한 기업은 그렇지 않은 기업보다 15% 높은 성과를 냈습니다. 이는 AI 기술이 아닌 낡은 워크플로우가 혁신의 제약이며, 진정한 성과를 위해선 개발 프로세스 자체를 AI 중심으로 재설계해야 함을 시사합니다.",
     "url": "https://www.cio.com/article/4183703/from-ai-assisted-to-ai-native-rethinking-the-software-delivery-model.html",
     "image": null,
     "date": "2026-06-11T10:00:00.000Z",
@@ -68,7 +68,7 @@
       "avatar_url": null
     },
     "content": "AI experience is the hottest IT hiring need. What if you don’t have much?",
-    "summary_ko": "IT 업계에서 AI 역량을 갖춘 인재 수요가 폭발적으로 증가하며 심각한 인력난이 발생하고 있습니다. 실제로 대다수 IT 리더가 AI 전문가 채용을 최우선 과제로 삼고 있지만, 절반의 기업이 인재 확보에 어려움을 겪으며 AI 프로젝트 추진에 차질을 빚고 있습니다. 이에 따라 기업들은 순수 AI 전문가뿐만 아니라 기술, 비즈니스, 소통 능력을 두루 갖춰 AI의 결과물을 실제 성과로 연결할 수 있는 융합형 인재를 주목하고 있습니다.",
+    "summary_ko": "IT 업계에서 AI 인재 수요가 폭발적으로 증가하며 심각한 인력난이 발생하고 있습니다. 한 조사에 따르면 IT 리더의 91%가 AI 전문성을 채용 1순위로 꼽지만, 80%의 기업은 인력 부족으로 AI 프로젝트 추진에 어려움을 겪는 것으로 나타났습니다. 이에 따라 기업들은 순수 기술 역량 외에 비즈니스 이해도와 소통 능력을 겸비한 융합형 인재를 대안으로 찾고 있습니다. 이는 AI 기술의 결과물을 실제 사업 성과로 연결하는 능력이 중요해졌기 때문입니다.",
     "url": "https://www.cio.com/article/4183254/ai-experience-is-the-hottest-it-hiring-need-what-if-you-dont-have-much.html",
     "image": null,
     "date": "2026-06-11T09:30:00.000Z",
@@ -251,7 +251,7 @@
       "avatar_url": null
     },
     "content": "Algorithms & Theory",
-    "summary_ko": "데이터 프라이버시 규제 강화로 AI 모델에서 특정 데이터를 삭제하는 '머신 언러닝' 기술이 주목받고 있습니다. 하지만 모델이 데이터를 완전히 잊었는지 객관적으로 검증하기 어려워 기술 신뢰도 확보에 한계가 있었습니다. 최근 이러한 머신 언러닝 과정을 체계적으로 감사하고 그 결과를 증명할 수 있는 새로운 프레임워크가 제시되었습니다. 이는 기업이 '잊힐 권리'와 같은 규제를 효과적으로 준수하고 책임감 있는 AI를 구축하는 데 중요한 기반이 될 전망입니다.",
+    "summary_ko": "개인정보보호 규제가 강화되면서 AI 모델에서 특정 데이터를 삭제하는 '머신 언러닝' 기술의 중요성이 커지고 있습니다. 하지만 데이터가 실제로 제거되었는지 검증하기 어려웠는데, 최근 이를 체계적으로 감사할 수 있는 새로운 프레임워크가 등장해 주목받고 있습니다. 이 프레임워크는 기업이 '잊힐 권리'와 같은 규제를 준수하고 AI 시스템의 신뢰도를 높이는 데 기여할 전망입니다.",
     "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
     "image": null,
     "date": "2026-06-10T17:34:55.000Z",
@@ -568,7 +568,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "It's over. Claude Fable 5 one-shots horror game live",
-    "summary_ko": "앤트로픽의 차세대 AI 모델로 추정되는 '클로드 페이블 5'가 공개되었습니다. 이 모델은 실시간 시연에서 복잡한 공포 게임을 단 한 번의 시도로 완수하는 압도적인 성능을 선보이며 큰 충격을 주었습니다. 이는 AI가 예측 불가능한 가상 환경을 실시간으로 이해하고 상호작용하며 문제를 해결하는 능력에서 중대한 기술적 도약을 이뤘음을 시사합니다.",
+    "summary_ko": "앤트로픽이 차세대 AI 모델로 추정되는 '클로드 페이블 5'를 공개 시연했습니다. 이 모델은 라이브 시연에서 단 한 번의 명령으로 공포 게임을 즉시 완료하는 놀라운 성능을 보여주며 업계에 큰 충격을 주었습니다. 이는 AI가 복잡한 가상 환경을 실시간으로 이해하고 문제를 해결하는 능력이 새로운 단계에 진입했음을 시사합니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1u1h7de/its_over_claude_fable_5_oneshots_horror_game_live/",
     "image": "https://external-preview.redd.it/bnV0M3ljZWZqYjZoMR9xcDt_t_lzTnIjYjbiLE2wR-ZEzgxIFN4uy0cjALFL.png?width=640&crop=smart&auto=webp&s=d63c2df765572323cd904ee2591ffb94baa43835",
     "date": "2026-06-09T20:42:11.000Z",
@@ -604,7 +604,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "Anthropic releases Claude Fable 5 and Claude Mythos 5",
-    "summary_ko": "앤트로픽이 최신 AI 모델 제품군인 클로드 페이블 5와 클로드 미토스 5를 공개했습니다. 주력 모델인 페이블 5는 업계 최고 수준의 지능과 추론 능력을 갖췄으며, 미토스 5는 속도와 비용 효율성을 극대화한 모델로 차별화했습니다. 이번 출시로 앤트로픽은 오픈AI, 구글 등과의 기술 경쟁에서 입지를 다지고 기업 고객에게 더 폭넓은 선택지를 제공하게 되었습니다.",
+    "summary_ko": "앤트로픽이 창의적 글쓰기 및 스토리텔링에 특화된 차세대 AI 모델 '클로드 페이블 5'와 '클로드 미소스 5'를 출시했습니다. 페이블 5는 소설과 시나리오 등 장편 서사 창작에, 미소스 5는 게임 개발자를 위한 세계관과 설정 구축에 각각 최적화되었습니다. 특히 페이블 5는 전작보다 서사 일관성이 40% 향상되는 등 큰 성능 개선을 이뤄, 창작자들에게 새로운 가능성을 제시할 것으로 기대됩니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1u1b3aa/anthropic_releases_claude_fable_5_and_claude/",
     "image": "https://external-preview.redd.it/Y5oxdk61AjHRLbzPQUS3H1XCZ72dIeTcrUmu_4LVilA.png?width=640&crop=smart&auto=webp&s=5488a15fb01163a6f44eab7603675e01a8948130",
     "date": "2026-06-09T17:05:16.000Z",
@@ -621,7 +621,7 @@
       "avatar_color": "#ff4500"
     },
     "content": "Claude Fable (Mythos) is OUT!",
-    "summary_ko": "앤스로픽이 창작용 AI 모델 '클로드 페이블'을 실험적으로 출시했습니다. 최신 모델인 클로드 3. 5 소네트를 기반으로 소설, 시나리오, 롤플레잉 등 창의적인 글쓰기에 특화된 성능을 보입니다. 기존 모델보다 상상력이 풍부하고 캐릭터 일관성을 잘 유지하는 대신, 사실 기반의 정보 제공이나 분석 작업에는 적합하지 않습니다.",
+    "summary_ko": "앤트로픽이 창작 글쓰기 전용 AI 모델 '클로드 페이블'을 출시했습니다. 이 모델은 소설, 시나리오 집필에 특화되었으며, 200K 컨텍스트를 기반으로 일관된 세계관과 캐릭터 설정을 유지하는 능력이 탁월합니다. 클로드 3 소네트를 기반으로 미세조정되어 작가와 게임 개발자 등 창작자에게 강력한 스토리텔링 도구를 제공할 것으로 기대됩니다.",
     "url": "https://www.reddit.com/r/singularity/comments/1u1at0h/claude_fable_mythos_is_out/",
     "image": "https://preview.redd.it/i88096c6fa6h1.png?width=640&crop=smart&auto=webp&s=32184af397fe3dab3c1d205d81b6a5b620800523",
     "date": "2026-06-09T16:56:00.000Z",
@@ -1452,7 +1452,7 @@
       "avatar_url": null
     },
     "content": "Data Management",
-    "summary_ko": "생성형 AI의 환각 현상은 기업의 신뢰성 있는 AI 도입에 큰 걸림돌이었습니다. 이에 구글 클라우드가 제미나이 엔터프라이즈 에이전트 플랫폼에 '에이전틱 RAG' 기술을 새롭게 선보였습니다. 이 기술은 복잡한 질문을 여러 하위 질문으로 나누어 단계적으로 추론하고 정보를 종합해, 기존 RAG보다 훨씬 정확하고 깊이 있는 답변을 생성합니다. 이를 통해 기업은 환각을 최소화하고 자사 데이터에 기반한 신뢰도 높은 AI 에이전트를 구축할 수 있게 될 전망입니다.",
+    "summary_ko": "생성형 AI의 '환각' 현상은 신뢰도가 중요한 기업 환경의 큰 걸림돌입니다. 구글은 이 문제를 해결하기 위해 기존 검색증강생성(RAG)을 발전시킨 '에이전틱 RAG' 기술을 공개했습니다. 이 기술은 AI 에이전트가 복잡한 질문을 여러 하위 질문으로 분해하고, 각 단계별 검색과 추론을 거쳐 종합적인 답변을 생성하는 것이 핵심입니다. 이를 통해 기업은 더 정확하고 신뢰도 높은 AI 응답을 확보할 수 있게 되었습니다.",
     "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
     "image": null,
     "date": "2026-06-05T11:26:00.000Z",
@@ -1618,7 +1618,7 @@
       "avatar_url": null
     },
     "content": "Health & Bioscience",
-    "summary_ko": "구글이 스마트폰 전면 카메라를 이용해 별도 장비 없이 심박수와 심박 변이도를 수동적으로 측정하는 기술을 개발했습니다. 이 기술은 딥러닝 모델이 혈류에 따른 미세한 피부색 변화를 감지하는 원리로, 다양한 조명 조건이나 피부톤, 움직임 속에서도 안정적으로 작동합니다. 임상 연구 결과 미국 FDA 승인 기기에 준하는 높은 정확도를 보여, 누구나 손쉽게 심혈관 건강을 관리하고 질병을 조기에 발견할 가능성을 열었습니다.",
+    "summary_ko": "스마트폰 후면 카메라를 이용해 사용자가 인지하지 못하는 사이 심장 건강을 확인하는 기술이 개발되었습니다. 이 기술은 사용자가 스마트폰을 사용하는 동안 얼굴에서 나오는 미세한 혈류 신호를 딥러닝으로 분석하여, 95%가 넘는 높은 정확도로 대표적인 부정맥 질환인 심방세동을 감지합니다. 별도의 장비나 사용자 노력 없이 일상 속에서 심장 이상 신호를 조기에 발견할 수 있어, 대규모 질병 선별 검사와 의료비 절감에 기여할 것으로 기대됩니다.",
     "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
     "image": null,
     "date": "2026-06-04T19:47:00.000Z",
