@@ -134,6 +134,50 @@ function stageDataFiles() {
     }
 }
 
+function stashDirtyWorkingTree() {
+    try {
+        execGit('git diff --quiet');
+        execGit('git diff --cached --quiet');
+        return false;
+    } catch {
+        execGit('git stash push -u -m "daily-ai-pulse-auto-stash"', { stdio: 'inherit' });
+        return true;
+    }
+}
+
+function realignCommitOnOrigin(branch, date) {
+    console.warn('[push] origin과 병합 충돌 — news.json ID 병합 후 origin 위에 재커밋');
+    try {
+        execGit('git merge --abort');
+    } catch {
+        /* ignore */
+    }
+    try {
+        execGit('git rebase --abort');
+    } catch {
+        /* ignore */
+    }
+
+    syncWithRemote(branch);
+    stageDataFiles();
+    execGit(`git reset --soft origin/${branch}`);
+    stageDataFiles();
+    execGit(`git commit -m "chore(data): update daily news (local ${date})"`, { stdio: 'inherit' });
+}
+
+function integrateOrigin(branch, date) {
+    execGit('git fetch origin', { stdio: 'inherit' });
+
+    const behind = parseInt(execGit(`git rev-list --count HEAD..origin/${branch}`) || '0', 10);
+    if (behind === 0) return;
+
+    try {
+        execGit(`git pull origin ${branch} --no-rebase --no-edit`, { stdio: 'inherit' });
+    } catch {
+        realignCommitOnOrigin(branch, date);
+    }
+}
+
 function pushNewsData() {
     if (!isPushEnabled()) {
         const log = writeJobLog({ push: 'skipped', reason: 'PUSH_NEWS=false' });
@@ -163,36 +207,13 @@ function pushNewsData() {
             return { pushed: false, reason: 'no-changes', log };
         }
 
+        const stashed = stashDirtyWorkingTree();
         stageDataFiles();
 
         const date = new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' });
         execGit(`git commit -m "chore(data): update daily news (local ${date})"`, { stdio: 'inherit' });
 
-        let stashed = false;
-        try {
-            execGit('git diff --quiet');
-            execGit('git diff --cached --quiet');
-        } catch {
-            execGit('git stash push -u -m "daily-ai-pulse-auto-stash"', { stdio: 'inherit' });
-            stashed = true;
-        }
-
-        try {
-            execGit(`git pull --rebase origin ${branch}`, { stdio: 'inherit' });
-        } catch {
-            console.warn('[push] rebase 충돌 — news.json 재병합');
-            try {
-                execGit('git rebase --abort');
-            } catch {
-                /* ignore */
-            }
-            syncWithRemote(branch);
-            if (hasDataChanges()) {
-                stageDataFiles();
-                execGit(`git commit -m "chore(data): update daily news (local merge ${date})"`, { stdio: 'inherit' });
-            }
-            execGit(`git pull --rebase origin ${branch}`, { stdio: 'inherit' });
-        }
+        integrateOrigin(branch, date);
 
         if (stashed) {
             try {
@@ -216,7 +237,10 @@ function pushNewsData() {
             push: 'failed',
             branch,
             error: e.message,
-            hint: 'GIT_PUSH_TOKEN을 .env.local에 추가하세요 (repo 권한 PAT)',
+            usedToken: Boolean(authRemote),
+            hint: authRemote
+                ? 'git pull/push 충돌 또는 네트워크 문제일 수 있습니다.'
+                : 'GIT_PUSH_TOKEN을 .env.local에 추가하세요 (repo 권한 PAT)',
         });
         throw Object.assign(new Error(e.message), { log });
     }
