@@ -1,5 +1,195 @@
 [
   {
+    "id": "https://www.cio.com/article/4184165/ai-is-the-new-cloud-and-were-repeating-the-same-mistakes.html",
+    "platform": "CIO",
+    "title": "AI is the new cloud — and we’re repeating the same mistakes",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI is the new cloud — and we’re repeating the same mistakes",
+    "summary_ko": "많은 기업이 과거 클라우드 도입 때처럼 AI를 기술 문제로만 접근하는 실수를 반복하고 있습니다. 하지만 성공적인 기술 전환의 핵심은 기술 자체가 아니라 사람, 프로세스, 운영 방식의 변화에 있습니다. 따라서 AI 도입은 단순히 새로운 기술을 시도하는 프로젝트가 아니라 조직 운영 전반을 혁신하는 과제로 다뤄져야 합니다. 진정한 성공은 기술이 아닌 운영의 전환에 달려있기 때문입니다.",
+    "url": "https://www.cio.com/article/4184165/ai-is-the-new-cloud-and-were-repeating-the-same-mistakes.html",
+    "image": null,
+    "date": "2026-06-12T11:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184468/estamos-asistiendo-a-la-desaparicion-de-sap-como-lo-conociamos.html",
+    "platform": "CIO",
+    "title": "¿Estamos asistiendo a la desaparición de SAP como lo conocíamos?",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "¿Estamos asistiendo a la desaparición de SAP como lo conocíamos?",
+    "summary_ko": "독일 소프트웨어 기업 SAP가 최근 연례 행사에서 중대한 비전 변화를 선언했습니다. 앞으로 SAP는 단순히 업무를 기록하는 소프트웨어가 아니라, 기업 경영을 자율적으로 실행하는 플랫폼으로 거듭나겠다는 것입니다. 이는 기술적 변화를 넘어 CEO와 CFO의 경영 전략에 직접적인 영향을 미치는 전환점입니다. 결국 SAP는 단순 ERP를 넘어 인력 부족과 느린 의사결정 문제를 해결하는 자율 경영 엔진으로 진화하고 있습니다.",
+    "url": "https://www.cio.com/article/4184468/estamos-asistiendo-a-la-desaparicion-de-sap-como-lo-conociamos.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/HOP_Imagen-Felix-Nota-de-presna.png?w=1024",
+    "date": "2026-06-12T10:16:24.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183263/the-ai-adoption-spree-is-over-time-to-focus-on-value.html",
+    "platform": "CIO",
+    "title": "The AI adoption spending spree is over. Time to focus on value.",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "The AI adoption spending spree is over. Time to focus on value.",
+    "summary_ko": "기업들의 무분별한 AI 도입 실험이 끝나고 비용 통제에 대한 목소리가 커지고 있습니다. 일부 기업에서는 직원들이 AI 사용량을 경쟁적으로 늘리면서 몇 년 치 예산을 단 몇 달 만에 소진하는 등 심각한 비용 문제가 발생했습니다. 이에 따라 이제는 단순 생산성 향상을 넘어, AI 지출에 대한 가시성과 거버넌스를 확보해 실질적인 사업 가치를 창출하는 방향으로 전략이 전환되고 있습니다.",
+    "url": "https://www.cio.com/article/4183263/the-ai-adoption-spree-is-over-time-to-focus-on-value.html",
+    "image": null,
+    "date": "2026-06-12T10:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181680/why-cios-should-reopen-the-build-vs-buy-question.html",
+    "platform": "CIO",
+    "title": "Why CIOs should reopen the build vs. buy question",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Why CIOs should reopen the build vs. buy question",
+    "summary_ko": "지난 20년간 기업들은 비용과 리스크 관리를 위해 상용 소프트웨어를 구매하는 것을 표준으로 삼았습니다. 하지만 이러한 '구매 우선' 전략은 이제 기업 고유의 경쟁력을 획일화시키는 부작용을 낳고 있습니다. 기술 환경이 급변하면서 과거의 합리적 선택이 더 이상 유효하지 않게 된 것입니다. 따라서 최고정보책임자(CIO)는 소프트웨어 직접 개발과 구매라는 오래된 질문을 원점에서 재검토해야 합니다.",
+    "url": "https://www.cio.com/article/4181680/why-cios-should-reopen-the-build-vs-buy-question.html",
+    "image": null,
+    "date": "2026-06-12T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184158/why-most-enterprise-ai-programs-fail-and-how-to-turn-them-around.html",
+    "platform": "CIO",
+    "title": "Why most enterprise AI programs fail — and how to turn them around",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Why most enterprise AI programs fail — and how to turn them around",
+    "summary_ko": "기업들이 AI에 막대한 투자를 하지만, 대다수 프로젝트는 개념 증명 단계에 머물러 있습니다. 이는 기술이 아닌 파편화된 데이터와 조직 문제 때문으로, 실제로 기업 데이터의 최대 90%가 분석에 쓰이지 못하는 실정입니다. 따라서 AI 프로젝트의 성공을 위해서는 기술 도입을 넘어, 통합된 데이터 기반을 구축하고 AI를 비즈니스 핵심 역량으로 다루는 전략적 전환이 필요합니다.",
+    "url": "https://www.cio.com/article/4184158/why-most-enterprise-ai-programs-fail-and-how-to-turn-them-around.html",
+    "image": null,
+    "date": "2026-06-12T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184349/%ec%b1%97gpt-%eb%a7%89%ec%95%98%eb%8d%98-%ec%82%bc%ec%84%b1-3%eb%85%84-%eb%a7%8c%ec%97%90-%ec%a0%84%eb%a9%b4-%eb%8f%84%ec%9e%85-ai-%eb%8c%80%ec%a0%84%ed%99%98-%eb%b3%b8%ea%b2%a9%ed%99%94.html",
+    "platform": "CIO",
+    "title": "챗GPT 막았던 삼성, 생성형 AI 3종 전면 도입… AX 속도 낸다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "챗GPT 막았던 삼성, 생성형 AI 3종 전면 도입… AX 속도 낸다",
+    "summary_ko": "챗GPT 막았던 삼성, 생성형 AI 3종 전면 도입… AX 속도 낸다",
+    "url": "https://www.cio.com/article/4184349/%ec%b1%97gpt-%eb%a7%89%ec%95%98%eb%8d%98-%ec%82%bc%ec%84%b1-3%eb%85%84-%eb%a7%8c%ec%97%90-%ec%a0%84%eb%a9%b4-%eb%8f%84%ec%9e%85-ai-%eb%8c%80%ec%a0%84%ed%99%98-%eb%b3%b8%ea%b2%a9%ed%99%94.html",
+    "image": null,
+    "date": "2026-06-12T07:21:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184341/%ea%b0%80%ed%8a%b8%eb%84%88-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%a0%84%eb%a0%a5-%ec%86%8c%eb%b9%84-%ec%98%ac%ed%95%b4-26-%ed%8f%ad%ec%a6%9d-2030%eb%85%84%ec%97%94.html",
+    "platform": "CIO",
+    "title": "가트너 “데이터센터 전력 소비, 올해 26% 폭증… 2030년엔 지금의 3배”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "가트너 “데이터센터 전력 소비, 올해 26% 폭증… 2030년엔 지금의 3배”",
+    "summary_ko": "가트너 “데이터센터 전력 소비, 올해 26% 폭증… 2030년엔 지금의 3배”",
+    "url": "https://www.cio.com/article/4184341/%ea%b0%80%ed%8a%b8%eb%84%88-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%a0%84%eb%a0%a5-%ec%86%8c%eb%b9%84-%ec%98%ac%ed%95%b4-26-%ed%8f%ad%ec%a6%9d-2030%eb%85%84%ec%97%94.html",
+    "image": null,
+    "date": "2026-06-12T06:21:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184338/%ec%b9%bc%eb%9f%bc-%ed%86%a0%ed%81%b0%eb%a7%a5%ec%8b%b1-%ec%8b%9c%eb%8c%80-exe-%eb%b0%b0%ed%8f%ac-%ec%8b%9c%ec%a0%88%ec%9d%98-%ec%8b%a4%ec%88%98-%eb%b0%98%eb%b3%b5%ed%95%98%eb%82%98.html",
+    "platform": "CIO",
+    "title": "칼럼 | 토큰맥싱 시대, .exe 배포 시절의 실수 반복하나",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 토큰맥싱 시대, .exe 배포 시절의 실수 반복하나",
+    "summary_ko": "칼럼 | 토큰맥싱 시대, .exe 배포 시절의 실수 반복하나",
+    "url": "https://www.cio.com/article/4184338/%ec%b9%bc%eb%9f%bc-%ed%86%a0%ed%81%b0%eb%a7%a5%ec%8b%b1-%ec%8b%9c%eb%8c%80-exe-%eb%b0%b0%ed%8f%ac-%ec%8b%9c%ec%a0%88%ec%9d%98-%ec%8b%a4%ec%88%98-%eb%b0%98%eb%b3%b5%ed%95%98%eb%82%98.html",
+    "image": null,
+    "date": "2026-06-12T06:02:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184335/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b8%b0%eb%b0%98-%ea%b3%bc%ea%b8%88-%ec%a0%84%eb%ac%b8%ec%97%85%ec%b2%b4-%eb%af%b8%ed%84%b0-%ec%9d%b8.html",
+    "platform": "CIO",
+    "title": "세일즈포스, 사용량 기반 과금 전문업체 ‘미터’ 인수 추진",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "세일즈포스, 사용량 기반 과금 전문업체 ‘미터’ 인수 추진",
+    "summary_ko": "세일즈포스, 사용량 기반 과금 전문업체 ‘미터’ 인수 추진",
+    "url": "https://www.cio.com/article/4184335/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b8%b0%eb%b0%98-%ea%b3%bc%ea%b8%88-%ec%a0%84%eb%ac%b8%ec%97%85%ec%b2%b4-%eb%af%b8%ed%84%b0-%ec%9d%b8.html",
+    "image": null,
+    "date": "2026-06-12T05:54:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184316/ai-%ea%b5%90%ec%9c%a1%eb%b0%9b%ec%9d%80-%ec%a7%81%ec%9b%90-74-%eb%b9%84%ec%8a%b9%ec%9d%b8-%ed%88%b4-%ec%82%ac%ec%9a%a9%ec%95%84%eb%8a%94-%eb%a7%8c%ed%81%bc-%ea%b7%9c%ec%b9%99%eb%8f%84.html",
+    "platform": "CIO",
+    "title": "AI 교육받은 직원 74%, 비승인 툴 사용…아는 만큼 규칙도 어긴다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 교육받은 직원 74%, 비승인 툴 사용…아는 만큼 규칙도 어긴다",
+    "summary_ko": "AI 교육받은 직원 74%, 비승인 툴 사용…아는 만큼 규칙도 어긴다",
+    "url": "https://www.cio.com/article/4184316/ai-%ea%b5%90%ec%9c%a1%eb%b0%9b%ec%9d%80-%ec%a7%81%ec%9b%90-74-%eb%b9%84%ec%8a%b9%ec%9d%b8-%ed%88%b4-%ec%82%ac%ec%9a%a9%ec%95%84%eb%8a%94-%eb%a7%8c%ed%81%bc-%ea%b7%9c%ec%b9%99%eb%8f%84.html",
+    "image": null,
+    "date": "2026-06-12T05:25:56.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4184236/google-is-held-liable-for-false-information-from-its-ai-2.html",
     "platform": "CIO",
     "title": "Google is held liable for false information from its AI",
@@ -15,6 +205,74 @@
     "url": "https://www.cio.com/article/4184236/google-is-held-liable-for-false-information-from-its-ai-2.html",
     "image": null,
     "date": "2026-06-11T22:38:25.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u35fjw/differences_between_claude_opus_48_and_claude/",
+    "platform": "Reddit",
+    "title": "Differences Between Claude Opus 4.8 and Claude Fable 5 on MineBench",
+    "author": {
+      "name": "/u/ENT_Alam",
+      "handle": "/u//u/ENT_Alam",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Differences Between Claude Opus 4.8 and Claude Fable 5 on MineBench",
+    "summary_ko": "앤트로픽의 새 플래그십 모델 클로드 페이블 5가 특정 작업 수행 능력에서는 오히려 이전보다 퇴보했다는 분석이 나왔습니다. 복잡한 지시 이행 능력을 측정하는 마인벤치 테스트 결과, 페이블 5의 성공률은 8. 4%로 이전 모델인 오푸스 4. 8의 20.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u35fjw/differences_between_claude_opus_48_and_claude/",
+    "image": "https://preview.redd.it/1804akdkto6h1.gif?frame=1&width=140&height=140&crop=1:1,smart&auto=webp&s=69167e94d08f71111f8248a47ce390933167df9b",
+    "date": "2026-06-11T17:23:46.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u33h6v/jeff_bezos_reveals_his_new_startup_prometheus_is/",
+    "platform": "Reddit",
+    "title": "Jeff Bezos Reveals His New Startup Prometheus Is Building an “Artificial General Engineer”",
+    "author": {
+      "name": "/u/BuildwithVignesh",
+      "handle": "/u//u/BuildwithVignesh",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Jeff Bezos Reveals His New Startup Prometheus Is Building an “Artificial General Engineer”",
+    "summary_ko": "아마존 창업자 제프 베이조스가 새로운 AI 스타트업 '프로메테우스'를 공개했습니다. 이 회사는 범용 인공지능(AGI)과 달리 공학 분야에 특화된 '인공 일반 엔지니어(AGE)' 개발을 목표로 합니다. AGE는 복잡한 공학 문제를 자율적으로 설계하고 구축하는 시스템으로, 단순 자동화를 넘어 창의적 문제 해결까지 수행할 전망입니다. 이는 제조업, 건설, 소프트웨어 개발 등 산업 전반의 패러다임을 바꿀 혁신으로 주목받고 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u33h6v/jeff_bezos_reveals_his_new_startup_prometheus_is/",
+    "image": "https://external-preview.redd.it/PaB3OgQ1MzlywR7F_zhs1wmpjKD78FfA2QETSmBgNaE.jpeg?width=640&crop=smart&auto=webp&s=f6315b2718220ea7764eb9f5d0647a9ad6478acf",
+    "date": "2026-06-11T16:12:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u32njc/indian_woman_earns_260hr_recording_household/",
+    "platform": "Reddit",
+    "title": "Indian woman earns $2.60/hr recording household chores to train AI robots.",
+    "author": {
+      "name": "/u/am-98",
+      "handle": "/u//u/am-98",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Indian woman earns $2.60/hr recording household chores to train AI robots.",
+    "summary_ko": "첨단 AI 로봇 기술 발전의 이면에는 저임금 데이터 노동이 자리하고 있습니다. 최근 인도의 한 여성이 로봇 훈련을 위해 요리나 청소 등 가사노동을 영상으로 기록하고 시간당 약 2. 6달러를 버는 사례가 알려졌습니다. 이처럼 인간의 일상 행동 데이터는 로봇이 실제 환경에 적응하는 데 필수적이지만, 그 노동의 가치는 제대로 평가받지 못하는 실정입니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u32njc/indian_woman_earns_260hr_recording_household/",
+    "image": null,
+    "date": "2026-06-11T15:42:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u2wks2/qwen_who_diffusiongemma_running_at_1500_tks_on_a/",
+    "platform": "Reddit",
+    "title": "Qwen Who? DiffusionGemma running at 1,500 tk/s on a Digital Pregnancy Test.",
+    "author": {
+      "name": "/u/Porespellar",
+      "handle": "/u//u/Porespellar",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Qwen Who? DiffusionGemma running at 1,500 tk/s on a Digital Pregnancy Test.",
+    "summary_ko": "구글의 이미지 생성 AI 모델인 디퓨전젬마가 디지털 임신 테스트기에서 구동되는 놀라운 사례가 등장했습니다. 이 모델은 초당 1,500 토큰이라는 인상적인 속도로 작동하며 저사양 기기에서의 AI 실행 가능성을 입증했습니다. 이번 성공은 AI 모델의 경량화와 최적화 기술이 발전하면서, 고성능 하드웨어 없이도 다양한 소형 기기에 AI를 탑재할 수 있음을 시사합니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u2wks2/qwen_who_diffusiongemma_running_at_1500_tks_on_a/",
+    "image": "https://preview.redd.it/dxgkcvd94n6h1.jpeg?width=640&crop=smart&auto=webp&s=c9e3b328984acef2e6f439815a9b65b392b99c61",
+    "date": "2026-06-11T11:37:40.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -251,7 +509,7 @@
       "avatar_url": null
     },
     "content": "Algorithms & Theory",
-    "summary_ko": "개인정보보호 규제가 강화되면서 AI 모델에서 특정 데이터를 삭제하는 '머신 언러닝' 기술의 중요성이 커지고 있습니다. 하지만 데이터가 실제로 제거되었는지 검증하기 어려웠는데, 최근 이를 체계적으로 감사할 수 있는 새로운 프레임워크가 등장해 주목받고 있습니다. 이 프레임워크는 기업이 '잊힐 권리'와 같은 규제를 준수하고 AI 시스템의 신뢰도를 높이는 데 기여할 전망입니다.",
+    "summary_ko": "AI 모델에서 특정 데이터를 제거하는 '머신 언러닝' 기술의 중요성이 커지고 있지만, 모델이 데이터를 완전히 잊었는지 검증하는 것은 어려운 과제였습니다. 최근 연구팀이 머신 언러닝의 효과를 체계적으로 감사하고 증명할 수 있는 새로운 프레임워크를 개발했습니다. 이 기술은 기업이 개인정보보호 규제를 준수하고 AI 모델의 신뢰성을 높이는 데 핵심적인 역할을 할 전망입니다.",
     "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
     "image": null,
     "date": "2026-06-10T17:34:55.000Z",
@@ -1452,7 +1710,7 @@
       "avatar_url": null
     },
     "content": "Data Management",
-    "summary_ko": "생성형 AI의 '환각' 현상은 신뢰도가 중요한 기업 환경의 큰 걸림돌입니다. 구글은 이 문제를 해결하기 위해 기존 검색증강생성(RAG)을 발전시킨 '에이전틱 RAG' 기술을 공개했습니다. 이 기술은 AI 에이전트가 복잡한 질문을 여러 하위 질문으로 분해하고, 각 단계별 검색과 추론을 거쳐 종합적인 답변을 생성하는 것이 핵심입니다. 이를 통해 기업은 더 정확하고 신뢰도 높은 AI 응답을 확보할 수 있게 되었습니다.",
+    "summary_ko": "생성 AI의 환각 현상은 기업 도입의 큰 걸림돌이었습니다. 구글이 이 문제를 해결하기 위해 기존 검색증강생성(RAG)을 발전시킨 '에이전틱 RAG' 기술을 제미나이 엔터프라이즈 플랫폼에 도입했습니다. 이 기술은 단순 정보 검색을 넘어, 스스로 질문을 분석하고 코드를 생성해 복잡한 데이터 속에서 정확한 답을 찾아냅니다. 이를 통해 개발자들은 더 정교하고 신뢰도 높은 기업용 AI 에이전트를 구축할 수 있게 됐습니다.",
     "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
     "image": null,
     "date": "2026-06-05T11:26:00.000Z",
