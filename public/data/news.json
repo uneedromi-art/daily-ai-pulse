@@ -1,5 +1,168 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1u4cxr8/us_government_directive_to_suspend_access_to/",
+    "platform": "Reddit",
+    "title": "US government directive to suspend access to Fable 5 and Mythos 5",
+    "author": {
+      "name": "/u/Dylan1312",
+      "handle": "/u//u/Dylan1312",
+      "avatar_color": "#ff4500"
+    },
+    "content": "US government directive to suspend access to Fable 5 and Mythos 5",
+    "summary_ko": "미국 정부가 특정 AI 모델로 추정되는 '페이블 5'와 '미토스 5'에 대한 접근을 중단하라는 이례적인 지침을 내렸습니다. 이번 조치는 고성능 AI 기술이 초래할 수 있는 잠재적 위험을 통제하려는 정부 차원의 본격적인 규제 신호탄으로 해석됩니다. 이에 따라 향후 AI 개발과 배포에 있어 정부의 감독이 강화될 것으로 보이며, 기술 업계의 대응에 귀추가 주목됩니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u4cxr8/us_government_directive_to_suspend_access_to/",
+    "image": "https://external-preview.redd.it/bDNNrAtGcz_k7GUnoK2WyrBSfzRlhklxmiyn3CPffdE.png?width=640&crop=smart&auto=webp&s=91ef5d835f44ad4fde5e41b830d9b54c3b4f3faf",
+    "date": "2026-06-13T00:53:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184660/samsung-which-previously-blocked-chatgpt-is-now-fully-adopting-three-generative-ai-models-and-accelerating-its-ax-initiative.html",
+    "platform": "CIO",
+    "title": "Samsung reverses years-long ban on external gen AI use",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Samsung reverses years-long ban on external gen AI use",
+    "summary_ko": "삼성전자가 과거 정보 유출 우려로 금지했던 외부 생성형 AI의 사내 사용을 허용합니다. 이에 따라 임직원들은 챗GPT, 제미나이, 클로드 등 외부 AI 서비스를 업무에 공식적으로 활용할 수 있게 되었습니다. 이번 결정은 이재용 회장이 연초 주문한 전사적 'AI 전환(AX)'의 후속 조치로 풀이됩니다. 이를 통해 삼성전자는 업무 방식을 AI 중심으로 혁신하고 전 사업의 AI 전환을 본격화할 계획입니다.",
+    "url": "https://www.cio.com/article/4184660/samsung-which-previously-blocked-chatgpt-is-now-fully-adopting-three-generative-ai-models-and-accelerating-its-ax-initiative.html",
+    "image": null,
+    "date": "2026-06-12T20:44:28.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184655/openai-buys-ona-to-help-rein-in-ai-agents-2.html",
+    "platform": "CIO",
+    "title": "OpenAI buys Ona to help rein in AI agents",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "OpenAI buys Ona to help rein in AI agents",
+    "summary_ko": "자율적으로 작동하는 AI 에이전트는 파일 삭제나 악성 행위 등 예측 불가능한 위험 때문에 기업 도입에 어려움이 있었습니다. 이에 오픈AI가 클라우드 개발 환경 제공사 오나(Ona)를 인수하며 문제 해결에 나섰습니다. 오나의 기술은 AI 에이전트가 통제된 보안 환경 내에서만 안전하게 작업을 수행하도록 지원합니다. 이번 인수를 통해 오픈AI는 기업용 에이전트 AI 기술의 신뢰성과 안정성을 높여 도입을 가속화할 전망입니다.",
+    "url": "https://www.cio.com/article/4184655/openai-buys-ona-to-help-rein-in-ai-agents-2.html",
+    "image": null,
+    "date": "2026-06-12T20:07:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u42n1y/happy_9th_birthday_to_the_paper_that_set_all_this/",
+    "platform": "Reddit",
+    "title": "Happy 9th Birthday to the Paper That Set All This Off",
+    "author": {
+      "name": "/u/CatInAComa",
+      "handle": "/u//u/CatInAComa",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Happy 9th Birthday to the Paper That Set All This Off",
+    "summary_ko": "9년 전 발표된 구글의 논문 'Attention Is All You Need'가 오늘날 AI 혁명의 기폭제로 재조명받고 있습니다. 이 논문은 '트랜스포머'라는 혁신적인 아키텍처를 제시하며 기존 자연어 처리 모델의 한계를 돌파했습니다. 챗GPT를 비롯한 거의 모든 현대 대규모 언어 모델(LLM)이 바로 이 트랜스포머 기술을 기반으로 작동하며, 현재 AI 시대의 근간을 이루고 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u42n1y/happy_9th_birthday_to_the_paper_that_set_all_this/",
+    "image": "https://preview.redd.it/5943v5hq4w6h1.jpeg?width=640&crop=smart&auto=webp&s=2eb6fc82d955f76c91ed3434e9627ee8907a7556",
+    "date": "2026-06-12T17:56:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
+    "platform": "Google",
+    "title": "Research into how AI can help users understand skin conditions",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Health & Bioscience",
+    "summary_ko": "구글이 스마트폰 카메라로 피부 질환을 더 잘 이해하도록 돕는 새로운 AI 연구를 발표했습니다. 이 기술은 사용자의 사진을 피부과 전문의가 검증한 방대한 이미지 데이터베이스와 비교해 시각적으로 가장 유사한 사례들을 제시하는 방식입니다. 단순히 병명을 알려주는 대신 실제 사례를 보여줌으로써 비전문가도 AI의 판단 근거를 직관적으로 파악하고 신뢰도를 높일 수 있습니다. 이 방식은 전문의 평가와 높은 일치율을 보여, 더 유용하고 해석 가능한 AI 헬스케어 도구의 가능성을 열었습니다.",
+    "url": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
+    "image": null,
+    "date": "2026-06-12T17:52:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+    "platform": "Google",
+    "title": "A low-carbon computing platform from your retired phones",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Climate & Sustainability",
+    "summary_ko": "매년 수십억 대씩 버려지는 폐스마트폰을 활용해 저탄소 컴퓨팅 플랫폼을 구축하는 프로젝트가 주목받고 있습니다. 사용자가 구형 스마트폰에 특정 앱을 설치하면, 기기의 유휴 처리 능력이 네트워크를 통해 모여 복잡한 연산에 사용됩니다. 이는 과학 연구나 AI 모델 훈련 등에 필요한 막대한 컴퓨팅 자원을 친환경적으로 확보하는 새로운 방식입니다. 이 기술은 전자 폐기물 문제 해결과 데이터센터의 전력 소비량 감축에 기여할 지속가능한 대안으로 평가받습니다.",
+    "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+    "image": null,
+    "date": "2026-06-12T17:37:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u4018a/forbes_declares_elon_musk_as_the_worlds_first/",
+    "platform": "Reddit",
+    "title": "Forbes Declares Elon Musk As The World’s First Trillionaire",
+    "author": {
+      "name": "/u/SnoozeDoggyDog",
+      "handle": "/u//u/SnoozeDoggyDog",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Forbes Declares Elon Musk As The World’s First Trillionaire",
+    "summary_ko": "미국 경제 전문지 포브스가 일론 머스크를 세계 최초의 조만장자로 공식 선언했습니다. 조만장자는 순자산 1조 달러, 우리 돈으로 약 1,300조 원 이상을 보유한 인물을 의미하며 이는 인류 역사상 전례 없는 부의 이정표입니다. 이번 발표는 기술 혁신이 창출하는 막대한 부의 규모를 상징적으로 보여주며 향후 세계 경제 지형에 미칠 영향에 관심이 쏠리고 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u4018a/forbes_declares_elon_musk_as_the_worlds_first/",
+    "image": "https://external-preview.redd.it/FRDRE4reCuc7UAjz6-ClF1B4gGwPA9rXqoj_lHO_n_A.jpeg?width=640&crop=smart&auto=webp&s=0ae12b20585a4c34f1b08e20c626e008e3435ff5",
+    "date": "2026-06-12T16:22:28.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184565/microsoft-president-responds-to-students-distrust-for-ai-2.html",
+    "platform": "CIO",
+    "title": "Microsoft president responds to students’ distrust for AI",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Microsoft president responds to students’ distrust for AI",
+    "summary_ko": "AI가 일자리를 위협할 것이라는 학생들의 불안감이 커지자 마이크로소프트(MS) 사장이 입장을 내놨습니다. 그는 사진 기술 등장에도 회화가 살아남았듯 AI 시대에도 인간의 창의성은 건재할 것이라며 학생들을 위로했습니다. 그러나 동시에 AI로 인한 초급 직무 자동화와 기업의 감원 압박을 인정했습니다. 이는 실제 기술 업계의 감원 추세와 맞물려 학생들의 우려를 해소하기엔 역부족이라는 평가입니다.",
+    "url": "https://www.cio.com/article/4184565/microsoft-president-responds-to-students-distrust-for-ai-2.html",
+    "image": null,
+    "date": "2026-06-12T15:34:58.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184539/cuando-la-ia-se-cuela-hasta-la-cocina-el-caso-de-cosentino.html",
+    "platform": "CIO",
+    "title": "Cuando la IA se cuela hasta la cocina: el caso de Cosentino",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Cuando la IA se cuela hasta la cocina: el caso de Cosentino",
+    "summary_ko": "스페인의 건축자재 기업 코센티노는 전통적인 대리석 산업을 넘어선 혁신으로 세계적인 성공을 거뒀습니다. 이들은 주변 광물과 안료를 활용해 세계 최초로 주방에 다채로운 색을 도입한 인조석 '사일스톤'을 개발하며 시장의 판도를 바꿨습니다. 이후에도 초밀도 표면재 '데크톤'과 재활용 소재 기반의 '에클로스' 등 기술 중심의 신소재 개발을 지속하며 혁신을 이어가고 있습니다.",
+    "url": "https://www.cio.com/article/4184539/cuando-la-ia-se-cuela-hasta-la-cocina-el-caso-de-cosentino.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/Cosentino-7.jpeg?quality=50&amp;strip=all&amp;w=1024",
+    "date": "2026-06-12T13:29:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4184165/ai-is-the-new-cloud-and-were-repeating-the-same-mistakes.html",
     "platform": "CIO",
     "title": "AI is the new cloud — and we’re repeating the same mistakes",
@@ -11,10 +174,27 @@
       "avatar_url": null
     },
     "content": "AI is the new cloud — and we’re repeating the same mistakes",
-    "summary_ko": "많은 기업이 과거 클라우드 도입 때처럼 AI를 기술 문제로만 접근하는 실수를 반복하고 있습니다. 하지만 성공적인 기술 전환의 핵심은 기술 자체가 아니라 사람, 프로세스, 운영 방식의 변화에 있습니다. 따라서 AI 도입은 단순히 새로운 기술을 시도하는 프로젝트가 아니라 조직 운영 전반을 혁신하는 과제로 다뤄져야 합니다. 진정한 성공은 기술이 아닌 운영의 전환에 달려있기 때문입니다.",
+    "summary_ko": "AI 도입 경쟁이 치열해지면서 과거 클라우드 전환기에 범했던 실수가 반복되고 있습니다. 많은 기업이 AI를 기술 문제로만 보고 모델 평가나 시범 운영에만 집중하는 경향을 보입니다. 하지만 성공적인 기술 전환의 핵심은 기술 자체가 아니라 사람, 프로세스, 운영 방식의 변화에 있습니다. 따라서 AI를 단순한 기술 도입이 아닌 조직의 운영을 혁신하는 관점에서 접근해야 합니다.",
     "url": "https://www.cio.com/article/4184165/ai-is-the-new-cloud-and-were-repeating-the-same-mistakes.html",
     "image": null,
     "date": "2026-06-12T11:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u3rdk9/moonshotaikimik27code_hugging_face/",
+    "platform": "Reddit",
+    "title": "moonshotai/Kimi-K2.7-Code · Hugging Face",
+    "author": {
+      "name": "/u/Dark_Fire_12",
+      "handle": "/u//u/Dark_Fire_12",
+      "avatar_color": "#ff4500"
+    },
+    "content": "moonshotai/Kimi-K2.7-Code · Hugging Face",
+    "summary_ko": "중국 AI 스타트업 문샷AI가 새로운 오픈소스 코드 거대언어모델(LLM) 'Kimi-K2. 7-Code'를 공개했습니다. 이 모델은 27억 개라는 비교적 작은 파라미터 규모에도 불구하고, 코드라마-7B와 같은 더 큰 경쟁 모델을 주요 벤치마크에서 능가하는 성능을 보였습니다. 특히 128K에 달하는 긴 컨텍스트 창을 지원하며 아파치 2.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3rdk9/moonshotaikimik27code_hugging_face/",
+    "image": "https://external-preview.redd.it/pVmezHpABseLB4Mj65CMgrY-rZ98C677exRe269R3YY.png?width=640&crop=smart&auto=webp&s=5c85a8488889ccc6bd1a1d9b2aad2aac9ef82ba1",
+    "date": "2026-06-12T10:22:07.000Z",
     "likes": 0,
     "comments": 0
   },
