@@ -1,5 +1,193 @@
 [
   {
+    "id": "https://www.cio.com/article/4185175/anthropic-locks-enterprises-out-of-fable-and-mythos-following-government-order.html",
+    "platform": "CIO",
+    "title": "Anthropic locks enterprises out of Fable and Mythos following government order",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Anthropic locks enterprises out of Fable and Mythos following government order",
+    "summary_ko": "Anthropic은 정부 명령에 따라 기업을 Fable 및 Mythos에서 차단합니다. Anthropic에서 CIO는 자신의 모델이 군사 킬 체인이나 대량 감시에서 자율적으로 사용되는 것을 허용하지 않는 윤리적인 AI 공급업체를 인수하고 있다고 생각했습니다. 이제 이러한 고객은 Anthropic의 가장 강력한 AI 모델에 대한 액세스가 회사가 허술한 구실이라고 주장하는 미국 정부에 의해 차단될 수 있음을 알게 되었습니다.",
+    "url": "https://www.cio.com/article/4185175/anthropic-locks-enterprises-out-of-fable-and-mythos-following-government-order.html",
+    "image": null,
+    "date": "2026-06-15T16:09:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184685/the-11-hardest-it-roles-to-fill-in-2026-and-whats-changed.html",
+    "platform": "CIO",
+    "title": "The 11 hardest IT roles to fill in 2026 — and what’s changed",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "The 11 hardest IT roles to fill in 2026 — and what’s changed",
+    "summary_ko": "2026년에 수행해야 할 가장 어려운 IT 역할 11가지와 변경된 사항 요즘에는 SOC 분석가, ML 연구원, 클라우드 설계자 등 전문가를 고용하는 것이 상대적으로 쉽습니다. 해당 요청은 몇 주 안에 마감됩니다. 6~9개월 동안 공석으로 남아 있는 것은 하이브리드 역할입니다. 즉, AI에 능숙하고 코드를 깊이 있게 분석하고 비즈니스도 이해할 수 있는 엔지니어입니다.",
+    "url": "https://www.cio.com/article/4184685/the-11-hardest-it-roles-to-fill-in-2026-and-whats-changed.html",
+    "image": null,
+    "date": "2026-06-15T10:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4177840/universal-semantic-layers-critical-infrastructure-or-the-next-data-fabric.html",
+    "platform": "CIO",
+    "title": "Universal semantic layers: critical infrastructure or the next data fabric?",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Universal semantic layers: critical infrastructure or the next data fabric?",
+    "summary_ko": "범용 의미 계층: 중요한 인프라인가 아니면 차세대 데이터 패브릭인가?. 우리는 성공적인 엔터프라이즈 AI 배포에 있어 컨텍스트가 가장 중요하다는 사실을 깨닫고 있습니다. 에이전트 AI가 더욱 자율화되기 시작하면 모호함을 제거하고 합의된 정의 및 어휘를 해결하는 것이 필수적입니다. 최근 데이터 및 분석 서밋에서 Gartner는 2030년까지 USL이 데이터 플랫폼 및 사이버 보안과 함께 중요한 인프라로 취급될 것이며 데이터 및 분석 리더의 44%가 이미 의미 계층을 구현했으며 48%는 2027년까지 추가로 구현할 계획이라고 예측했습니다.",
+    "url": "https://www.cio.com/article/4177840/universal-semantic-layers-critical-infrastructure-or-the-next-data-fabric.html",
+    "image": null,
+    "date": "2026-06-15T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184596/tokenomics-in-enterprise-ai.html",
+    "platform": "CIO",
+    "title": "Tokenomics in enterprise AI",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Tokenomics in enterprise AI",
+    "summary_ko": "엔터프라이즈 AI의 토큰경제학. 토큰경제학은 엔터프라이즈 AI에서 가장 실용적인 주제 중 하나로 빠르게 자리 잡았습니다. 간단히 말해서 토큰이 소비되는 방식, 소비가 비용으로 전환되는 방식, 조직이 사용 패턴을 형성하여 AI가 재정적으로 예측할 수 없게 되는 일 없이 가치를 유지할 수 있는 방법을 이해하는 규율입니다. 대부분의 대규모 언어 모델 서비스에서는 모든 프롬프트, 검색된 모든 컨텍스트 블록, 모든 도구 설명, 모든 시스템 지침 및 생성된 모든 응답이 토큰 청구서에 반영됩니다.",
+    "url": "https://www.cio.com/article/4184596/tokenomics-in-enterprise-ai.html",
+    "image": null,
+    "date": "2026-06-15T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184666/ai-is-on-its-way-to-becoming-a-dirty-word.html",
+    "platform": "CIO",
+    "title": "AI is becoming a dirty word",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI is becoming a dirty word",
+    "summary_ko": "AI는 더러운 단어가 되어가고 있습니다. 눈치채셨겠지만 사람들은 AI를 별로 좋아하지 않습니다. 물론 소속된 서클에 따라 다르지만, 조사를 거듭할수록 전반적인 인식이 점점 부정적으로 변하고 있는 것으로 나타났습니다. 이에 대한 일화적인 증거는 IT 분야 외부의 사람들과 대화하거나 인터넷에서 어울릴 때에도 찾을 수 있습니다.",
+    "url": "https://www.cio.com/article/4184666/ai-is-on-its-way-to-becoming-a-dirty-word.html",
+    "image": null,
+    "date": "2026-06-15T09:03:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u6azol/whats_the_lesson_chat/",
+    "platform": "Reddit",
+    "title": "What's the lesson chat?",
+    "author": {
+      "name": "/u/ill_be_productive",
+      "handle": "/u//u/ill_be_productive",
+      "avatar_color": "#ff4500"
+    },
+    "content": "What's the lesson chat?",
+    "summary_ko": "레슨채팅이 뭔가요?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u6azol/whats_the_lesson_chat/",
+    "image": "https://preview.redd.it/vzgzgbzwte7h1.png?width=640&crop=smart&auto=webp&s=88e5ea93eef77ed8fd4e9456eeedc3e502f8872e",
+    "date": "2026-06-15T08:50:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184910/%ed%86%a0%ed%81%b0-%ec%95%84%eb%8b%8c-%ec%84%b1%ea%b3%bc%ec%97%90-%ea%b0%80%ea%b2%a9-%eb%a7%a4%ea%b8%b4%eb%8b%a4%ec%98%a4%eb%9d%bc%ed%81%b4%ec%9d%98-ai.html",
+    "platform": "CIO",
+    "title": "‘토큰’ 아닌 ‘성과’에 가격 매긴다…오라클의 AI 과금 실험",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "‘토큰’ 아닌 ‘성과’에 가격 매긴다…오라클의 AI 과금 실험",
+    "summary_ko": "이번 주 발표된 오라클의 4분기 실적에 따르면 클라우드 매출이 급성장하는 동시에 인프라 투자 비용도 크게 증가한 것으로 나타났다. 애널리스트 대상 컨퍼런스콜에서 최근 최고재무책임자(CFO)로 선임된 힐러리 맥슨은 클라우드 인프라 매출이 전년 대비 93% 증가했다고 밝혔다. 맥슨은 이러한 성장세가 AI 워크로드와 데이터베이스 서비스 수요 확대를 반영한 결과라고 설명했다. 이에 따라 오라클은 이미 확보한 고객 수요를 바탕으로 내년 자본지출(CAPEX)을 700억 달러(약 105조 원) 이상으로 확대할 계획이다.",
+    "url": "https://www.cio.com/article/4184910/%ed%86%a0%ed%81%b0-%ec%95%84%eb%8b%8c-%ec%84%b1%ea%b3%bc%ec%97%90-%ea%b0%80%ea%b2%a9-%eb%a7%a4%ea%b8%b4%eb%8b%a4%ec%98%a4%eb%9d%bc%ed%81%b4%ec%9d%98-ai.html",
+    "image": null,
+    "date": "2026-06-15T06:45:54.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184904/ai-%ec%8b%9c%eb%8c%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%9d%b4%ec%a0%9c-%eb%ac%bc%eb%8f%84-%ea%b2%bd%ec%9f%81%ec%9d%b4%eb%8b%a4%ec%95%84%eb%a7%88%ec%a1%b4-7%eb%b0%b0.html",
+    "platform": "CIO",
+    "title": "AI 시대 데이터센터, 이제 물도 경쟁이다…아마존 “7배 효율” 수치 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 시대 데이터센터, 이제 물도 경쟁이다…아마존 “7배 효율” 수치 공개",
+    "summary_ko": "자원 소비에 대한 비판이 거세지는 가운데, 주요 데이터센터 운영 기업들은 자사가 환경에 과도한 부담을 주지 않는다는 점을 입증하기 위해 분주히 움직이고 있다. 적어도 경쟁사보다는 환경 영향이 적다는 사실을 보여주려는 경쟁이 벌어지고 있는 셈이다. 이러한 흐름 속에서 아마존은 주목할 만한 수치를 공개했다. 아마존은 지난 5년 동안 물 사용 효율을 52% 개선했으며, 자사 데이터센터의 물 사용 효율이 업계 평균보다 7배 높다고 밝혔다.",
+    "url": "https://www.cio.com/article/4184904/ai-%ec%8b%9c%eb%8c%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%9d%b4%ec%a0%9c-%eb%ac%bc%eb%8f%84-%ea%b2%bd%ec%9f%81%ec%9d%b4%eb%8b%a4%ec%95%84%eb%a7%88%ec%a1%b4-7%eb%b0%b0.html",
+    "image": null,
+    "date": "2026-06-15T06:28:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184893/%ec%bd%94%eb%94%a9-ai-%eb%84%98%ec%96%b4-%ea%b8%b0%ec%97%85-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%a1%9c%ec%98%a4%ed%94%88ai-%ec%98%a4%eb%82%98-%ec%9d%b8%ec%88%98%eb%a1%9c-%ec%bd%94%eb%8d%b1.html",
+    "platform": "CIO",
+    "title": "코딩 AI 넘어 기업 인프라로…오픈AI, 오나 인수로 코덱스 확장 나서",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "코딩 AI 넘어 기업 인프라로…오픈AI, 오나 인수로 코덱스 확장 나서",
+    "summary_ko": "CIO와 CISO는 완전 자율형 AI 에이전트에 업무를 맡긴 뒤 모든 것이 문제없이 진행되기를 기대하는 상황에 대해 다양한 전략적·운영적 우려를 갖고 있다. 에이전트가 중요한 파일을 삭제하기 시작하면 어떻게 될까? 에이전트가 본래 업무에서 벗어나 밤새 불필요한 작업을 수행해 다음 날 아침 팀에 막대한 토큰 사용 비용을 안긴다면 어떨까? 국가 차원의 공격자에게 속아 악의적인 행동을 하게 될 가능성은 없을까? 이러한 우려를 완화하기 위해 오픈AI는 12일 클라우드 개발 환경(CDE) 제공업체 오나(Ona)를 인수하기로 합의했다고 발표했다.",
+    "url": "https://www.cio.com/article/4184893/%ec%bd%94%eb%94%a9-ai-%eb%84%98%ec%96%b4-%ea%b8%b0%ec%97%85-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%a1%9c%ec%98%a4%ed%94%88ai-%ec%98%a4%eb%82%98-%ec%9d%b8%ec%88%98%eb%a1%9c-%ec%bd%94%eb%8d%b1.html",
+    "image": null,
+    "date": "2026-06-15T06:15:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184857/ai%ea%b0%80-%eb%91%90%eb%a0%b5%eb%8b%a4%eb%8a%94-%ed%95%99%ec%83%9d%eb%93%a4ms-%ec%82%ac%ec%9e%a5%ec%9d%b4-%ea%ba%bc%eb%82%b8-%eb%a7%90%ec%9d%80.html",
+    "platform": "CIO",
+    "title": "‘AI가 두렵다’는 학생들…MS 사장이 꺼낸 말은",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "‘AI가 두렵다’는 학생들…MS 사장이 꺼낸 말은",
+    "summary_ko": "마이크로소프트(MS) 사장 브래드 스미스가 AI에 대한 학생들의 반감을 두고 입장을 밝혔다. 그는 최근 졸업생들에게 인간의 창의성은 앞으로도 여전히 중요한 역할을 할 것이라고 말했다. 최근 몇 달 동안 미국 전역의 졸업식에서는 AI의 장점을 강조하는 연사들을 향해 야유가 쏟아졌다. 야유를 받은 연사에는 구글 전 CEO 에릭 슈미트, 음반사 CEO, 부동산 업계 임원 등이 포함됐다.",
+    "url": "https://www.cio.com/article/4184857/ai%ea%b0%80-%eb%91%90%eb%a0%b5%eb%8b%a4%eb%8a%94-%ed%95%99%ec%83%9d%eb%93%a4ms-%ec%82%ac%ec%9e%a5%ec%9d%b4-%ea%ba%bc%eb%82%b8-%eb%a7%90%ec%9d%80.html",
+    "image": null,
+    "date": "2026-06-15T02:47:05.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4181993/ai%e6%99%82%e4%bb%a3%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e9%a1%a7%e5%ae%a2%e3%81%a8%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%e9%96%a2%e4%bf%82%e3%81%ae%e4%be%a1%e5%80%a4%e3%81%af%e3%81%a9%e3%81%86%e3%81%82.html",
     "platform": "CIO",
     "title": "AI時代における顧客とベンダー関係の価値はどうあるべきか？",
@@ -15,6 +203,57 @@
     "url": "https://www.cio.com/article/4181993/ai%e6%99%82%e4%bb%a3%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e9%a1%a7%e5%ae%a2%e3%81%a8%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%e9%96%a2%e4%bf%82%e3%81%ae%e4%be%a1%e5%80%a4%e3%81%af%e3%81%a9%e3%81%86%e3%81%82.html",
     "image": null,
     "date": "2026-06-14T23:45:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u5wous/zai_poll_on_x_mitlicensed_open_weights_are_losing/",
+    "platform": "Reddit",
+    "title": "z.ai Poll on X: MIT-licensed open weights are losing",
+    "author": {
+      "name": "/u/MadPelmewka",
+      "handle": "/u//u/MadPelmewka",
+      "avatar_color": "#ff4500"
+    },
+    "content": "z.ai Poll on X: MIT-licensed open weights are losing",
+    "summary_ko": "z.ai X에 대한 여론 조사: MIT 라이선스 개방형 가중치가 감소하고 있습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5wous/zai_poll_on_x_mitlicensed_open_weights_are_losing/",
+    "image": "https://preview.redd.it/rtm5a98mbb7h1.png?width=640&crop=smart&auto=webp&s=e71c815af8a913e465888e76bae21f8e6bdcc740",
+    "date": "2026-06-14T21:03:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u5tvoo/chinas_universities_cut_12000_obsolete_degrees/",
+    "platform": "Reddit",
+    "title": "China's universities cut 12,000 'obsolete' degrees amid race to embrace AI era",
+    "author": {
+      "name": "/u/SnoozeDoggyDog",
+      "handle": "/u//u/SnoozeDoggyDog",
+      "avatar_color": "#ff4500"
+    },
+    "content": "China's universities cut 12,000 'obsolete' degrees amid race to embrace AI era",
+    "summary_ko": "중국 대학, AI 시대 수용 경쟁 속에서 '구식' 학위 12,000개 감축",
+    "url": "https://www.reddit.com/r/singularity/comments/1u5tvoo/chinas_universities_cut_12000_obsolete_degrees/",
+    "image": "https://external-preview.redd.it/WJydaKwd5GRyI4EyaQVYmxtpiKxhQ3SKeCyy-fRdbRo.jpeg?width=640&crop=smart&auto=webp&s=c35f364f393320ff5775fc0ea8d0c7a2a83e2504",
+    "date": "2026-06-14T19:12:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1u5tdvf/senior_anthropic_staffs_are_in_washington_meeting/",
+    "platform": "Reddit",
+    "title": "Senior Anthropic staffs are in Washington meeting White House officials to resolve the Fable 5 and Mythos dispute",
+    "author": {
+      "name": "/u/BuildwithVignesh",
+      "handle": "/u//u/BuildwithVignesh",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Senior Anthropic staffs are in Washington meeting White House officials to resolve the Fable 5 and Mythos dispute",
+    "summary_ko": "고위 인류학 직원들은 우화 5와 신화 분쟁을 해결하기 위해 워싱턴에서 백악관 관리들을 만나고 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1u5tdvf/senior_anthropic_staffs_are_in_washington_meeting/",
+    "image": "https://external-preview.redd.it/JJ2j8KY5hgamPAWTp1nJ8op0x7KfuWj49ppooj20rHs.jpeg?width=640&crop=smart&auto=webp&s=3f110a753949b74cb7dc6537b20c64ac47ff59bd",
+    "date": "2026-06-14T18:53:34.000Z",
     "likes": 0,
     "comments": 0
   },
