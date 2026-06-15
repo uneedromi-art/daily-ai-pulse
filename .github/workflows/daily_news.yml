@@ -27,7 +27,7 @@ jobs:
 
       - name: Run Fetch Script
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          USE_FREE_TRANSLATE: 'true'
           ENABLE_TWITTER: 'false'
         run: node scripts/fetch_news.js
 

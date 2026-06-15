@@ -130,6 +130,15 @@ function clipToMaxChars(text, maxChars = SUMMARY_TARGET_MAX) {
     return result || trimLongSentence(raw, maxChars);
 }
 
+function isMostlyKorean(text) {
+    const trimmed = (text || '').trim();
+    if (!trimmed) return false;
+    const hangul = (trimmed.match(/[\uAC00-\uD7A3]/g) || []).length;
+    if (hangul >= 24) return true;
+    const letters = trimmed.replace(/\s+/g, '').length;
+    return letters > 0 && hangul / letters >= 0.25;
+}
+
 function polishKoreanSummary(ko, sourceExcerpt) {
     if (!ko) return '';
     let text = ko.trim();
@@ -153,6 +162,13 @@ function polishKoreanSummary(ko, sourceExcerpt) {
     return text;
 }
 
+function shouldRetrySummary(polished, isTitle) {
+    if (isTitle) return false;
+    if (process.env.SUMMARY_RETRY === 'false') return false;
+    if (process.env.USE_FREE_TRANSLATE === 'true') return false;
+    return polished.length < SUMMARY_TARGET_MIN;
+}
+
 function createSummaryBuilder(safeTranslate) {
     return async function buildKoreanSummary(sourceText, options = {}) {
         const { isTitle = false, maxChars = SUMMARY_INPUT_CHARS } = options;
@@ -164,10 +180,14 @@ function createSummaryBuilder(safeTranslate) {
 
         if (!excerpt) return '';
 
+        if (isMostlyKorean(excerpt)) {
+            return polishKoreanSummary(clipToMaxChars(excerpt), excerpt);
+        }
+
         let ko = await safeTranslate(excerpt);
         let polished = polishKoreanSummary(ko, excerpt);
 
-        if (!isTitle && polished.length < SUMMARY_TARGET_MIN) {
+        if (shouldRetrySummary(polished, isTitle)) {
             const retryText = `${excerpt}\n\n[필수: 3~4문장, 200~320자 한국어 뉴스 요약. 320자를 넘기지 마세요.]`;
             ko = await safeTranslate(retryText);
             polished = polishKoreanSummary(ko, excerpt);
@@ -183,6 +203,7 @@ module.exports = {
     polishKoreanSummary,
     clipToMaxChars,
     createSummaryBuilder,
+    isMostlyKorean,
     SUMMARY_INPUT_CHARS,
     SUMMARY_TARGET_MIN,
     SUMMARY_TARGET_MAX,

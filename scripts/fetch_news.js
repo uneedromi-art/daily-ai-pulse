@@ -27,6 +27,25 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 const ENABLE_TWITTER = process.env.ENABLE_TWITTER === 'true';
 const buildKoreanSummary = createSummaryBuilder(summarizeToKorean);
 
+let existingSummaryById = new Map();
+
+function loadExistingPosts(outputPath) {
+    if (!fs.existsSync(outputPath)) return [];
+    try {
+        return JSON.parse(fs.readFileSync(outputPath, 'utf8'));
+    } catch (e) {
+        console.warn('Could not read existing news.json', e.message);
+        return [];
+    }
+}
+
+async function summaryFor(postId, sourceText, options = {}) {
+    if (postId && existingSummaryById.has(postId) && process.env.REFRESH_SUMMARIES !== 'true') {
+        return existingSummaryById.get(postId);
+    }
+    return buildKoreanSummary(sourceText, options);
+}
+
 function shouldIncludeItem(itemText, sourceConfig, config) {
     if (!sourceConfig.filterByKeywords) return true;
     return matchesKeywords(itemText, config.keywords, config.keywordMode);
@@ -68,8 +87,9 @@ async function fetchReddit(config) {
             const imgMatch = content.match(/<img[^>]+src="([^">]+)"/);
             if (imgMatch) imageUrl = imgMatch[1].replace(/&amp;/g, '&');
 
+            const postId = item.guid || item.link;
             results.push({
-                id: item.guid || item.link,
+                id: postId,
                 platform: 'Reddit',
                 title: item.title,
                 author: {
@@ -78,7 +98,7 @@ async function fetchReddit(config) {
                     avatar_color: '#ff4500',
                 },
                 content: item.title,
-                summary_ko: await buildKoreanSummary(item.title, { isTitle: true, maxChars: SUMMARY_INPUT_CHARS }),
+                summary_ko: await summaryFor(postId, item.title, { isTitle: true, maxChars: SUMMARY_INPUT_CHARS }),
                 url: item.link,
                 image: imageUrl,
                 date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
@@ -140,15 +160,17 @@ async function fetchCio(config) {
             const imgMatch = html.match(/<img[^>]+src="([^">]+)"/);
             if (imgMatch) imageUrl = imgMatch[1];
 
+            const postId = item.link || item.guid || `cio-${title}`;
             const summaryKo = isKo
-                ? (description && description.length <= 280 ? description : title)
-                : await buildKoreanSummary(
+                ? clipToMaxChars(description && description.length > 40 ? description : title)
+                : await summaryFor(
+                    postId,
                     description.length > 80 ? `${title}. ${description}` : title,
                     { maxChars: SUMMARY_INPUT_CHARS }
                 );
 
             results.push({
-                id: item.link || item.guid || `cio-${title}`,
+                id: postId,
                 platform: 'CIO',
                 title,
                 lang: isKo ? 'ko' : 'en',
@@ -230,8 +252,9 @@ async function fetchMedium(config) {
             const imgMatch = html.match(/<img[^>]+src="([^">]+)"/);
             if (imgMatch) imageUrl = imgMatch[1];
 
+            const postId = item.link || item.guid || `medium-${title}`;
             results.push({
-                id: item.link || item.guid || `medium-${title}`,
+                id: postId,
                 platform: 'Medium',
                 title,
                 author: {
@@ -241,7 +264,7 @@ async function fetchMedium(config) {
                     avatar_url: null,
                 },
                 content: body,
-                summary_ko: await buildKoreanSummary(body, { maxChars: SUMMARY_INPUT_CHARS }),
+                summary_ko: await summaryFor(postId, body, { maxChars: SUMMARY_INPUT_CHARS }),
                 url: item.link,
                 image: imageUrl,
                 date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
@@ -295,8 +318,9 @@ async function fetchRssFeed(config, sourceKey, platformMeta) {
                     ? `${title}. ${description}`
                     : title;
 
+            const postId = item.link || item.guid || `${sourceKey}-${item.title}`;
             results.push({
-                id: item.link || item.guid || `${sourceKey}-${item.title}`,
+                id: postId,
                 platform: platformMeta.platform,
                 title,
                 author: {
@@ -306,7 +330,7 @@ async function fetchRssFeed(config, sourceKey, platformMeta) {
                     avatar_url: platformMeta.avatarUrl || null,
                 },
                 content: body || title,
-                summary_ko: await buildKoreanSummary(sourceForSummary, { maxChars: SUMMARY_INPUT_CHARS }),
+                summary_ko: await summaryFor(postId, sourceForSummary, { maxChars: SUMMARY_INPUT_CHARS }),
                 url: item.link,
                 image: imageUrl,
                 date: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
@@ -340,7 +364,7 @@ async function fetchTwitter() {
                 if (jsonStartIndex === -1) throw new Error('No JSON array found');
                 const posts = JSON.parse(output.substring(jsonStartIndex, jsonEndIndex + 1));
                 for (const post of posts) {
-                    post.summary_ko = await buildKoreanSummary(post.content, { maxChars: SUMMARY_INPUT_CHARS });
+                    post.summary_ko = await summaryFor(post.id, post.content, { maxChars: SUMMARY_INPUT_CHARS });
                 }
                 resolve(posts);
             } catch (e) {
@@ -353,8 +377,20 @@ async function fetchTwitter() {
 
 async function main() {
     const config = loadFeedConfig();
+    const outputPath = path.join(process.cwd(), 'public', 'data', 'news.json');
+    const existingPosts = loadExistingPosts(outputPath);
+    existingSummaryById = new Map(
+        existingPosts.filter((p) => p.summary_ko).map((p) => [p.id, p.summary_ko])
+    );
+
     console.log('Starting Daily News Fetch...');
     console.log(`Keywords (${config.keywordMode}): ${config.keywords.join(', ')}`);
+    if (process.env.USE_FREE_TRANSLATE === 'true') {
+        console.log('[fetch] USE_FREE_TRANSLATE=true — 무료 번역 모드 (Gemini/OpenAI 미사용)');
+    }
+    if (existingPosts.length > 0) {
+        console.log(`Loaded ${existingPosts.length} existing items (${existingSummaryById.size} summaries cached).`);
+    }
 
     const fetchTasks = [
         fetchWithTimeout(fetchReddit(config), 'Reddit', 180000),
@@ -391,18 +427,6 @@ async function main() {
             console.error(`[fetch] ${name} failed:`, res.reason?.message || res.reason);
         }
     });
-
-    const outputPath = path.join(process.cwd(), 'public', 'data', 'news.json');
-    let existingPosts = [];
-
-    if (fs.existsSync(outputPath)) {
-        try {
-            existingPosts = JSON.parse(fs.readFileSync(outputPath, 'utf8'));
-            console.log(`Loaded ${existingPosts.length} existing items for history merging.`);
-        } catch (e) {
-            console.warn('Could not read existing news.json', e.message);
-        }
-    }
 
     const combinedPosts = [...existingPosts, ...allPosts];
     const uniquePosts = Array.from(new Map(combinedPosts.map((item) => [item.id, item])).values())

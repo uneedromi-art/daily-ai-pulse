@@ -58,7 +58,18 @@ function loadEnvLocal() {
 
 loadEnvLocal();
 
+function isFreeTranslateMode() {
+    if (process.env.USE_FREE_TRANSLATE === 'true') return true;
+    if (process.env.TRANSLATE_PROVIDER === 'google') return true;
+    return false;
+}
+
 function detectProvider() {
+    const forced = process.env.TRANSLATE_PROVIDER?.trim().toLowerCase();
+    if (forced) return forced;
+
+    if (isFreeTranslateMode()) return 'google';
+
     if (process.env.OPENAI_API_KEY) return 'openai';
     if (process.env.GEMINI_API_KEY) return 'gemini';
     if (process.env.DEEPL_AUTH_KEY) return 'deepl';
@@ -284,6 +295,9 @@ async function translateToKorean(text) {
 }
 
 async function summarizeToKorean(text) {
+    if (isFreeTranslateMode()) {
+        return translateToKorean(text);
+    }
     return runTranslation(text, { summary: true });
 }
 
@@ -291,5 +305,6 @@ module.exports = {
     translateToKorean,
     summarizeToKorean,
     getProvider,
+    isFreeTranslateMode,
     loadEnvLocal,
 };

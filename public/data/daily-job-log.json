@@ -1,6 +1,8 @@
 {
-  "push": "skipped",
-  "reason": "no-changes",
+  "push": "failed",
   "branch": "main",
-  "at": "2026-06-12T00:31:01.168Z"
+  "error": "Command failed: git commit -m \"chore(data): update daily news (local 2026. 6. 15. AM 8:01:32)\"",
+  "usedToken": true,
+  "hint": "git pull/push 충돌 또는 네트워크 문제일 수 있습니다.",
+  "at": "2026-06-14T23:01:32.917Z"
 }
