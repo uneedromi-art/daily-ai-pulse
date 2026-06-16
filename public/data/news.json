@@ -1,5 +1,225 @@
 [
   {
+    "id": "https://www.cio.com/article/4185253/ai-found-2000-vulnerabilities-in-7-weeks-weve-patched-almost-none-of-them.html",
+    "platform": "CIO",
+    "title": "AI found 2,000 vulnerabilities in 7 weeks. We’ve patched almost none of them",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI found 2,000 vulnerabilities in 7 weeks. We’ve patched almost none of them",
+    "summary_ko": "AI는 7주 만에 2,000개의 취약점을 발견했습니다. 우리는 그 중 거의 아무것도 패치하지 않았습니다. 사이버 보안에는 암묵적인 규칙이 있었습니다. 연구원이 취약점을 발견하면 영향을 받은 회사가 패치를 적용할 수 있을 만큼 모든 사람이 침묵을 지켰습니다.",
+    "url": "https://www.cio.com/article/4185253/ai-found-2000-vulnerabilities-in-7-weeks-weve-patched-almost-none-of-them.html",
+    "image": null,
+    "date": "2026-06-16T12:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4185249/beyond-the-erp-system-the-autonomous-value-chain.html",
+    "platform": "CIO",
+    "title": "Beyond the ERP system: The autonomous value chain",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Beyond the ERP system: The autonomous value chain",
+    "summary_ko": "ERP 시스템 너머: 자율적 가치 사슬. 국가로서 우리는 여전히 냉전 시대의 서류 정리를 반영하는 행정 시스템을 사용하여 6세대 전투기와 극초음속 미사일을 설계하고 납품하고 있다는 역설과 씨름하고 있습니다. 고객과 공급업체의 연결이 끊어지고 디지털 혁신에 수십억 달러를 지출했음에도 불구하고 우리의 가치 사슬은 수동 조정과 업계에 수십억 달러의 지연 비용을 초래하는 데이터 대기 시간 세금으로 묶여 반응을 유지합니다. 솔루션은 더 이상 더 이상 더 많은 데이터에 액세스하거나 가치 흐름에서 기존 시스템을 연결하는 것이 아닙니다.",
+    "url": "https://www.cio.com/article/4185249/beyond-the-erp-system-the-autonomous-value-chain.html",
+    "image": null,
+    "date": "2026-06-16T11:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4185549/la-banca-se-enfrenta-al-reto-de-llevar-la-ia-a-produccion-con-gobernanza-y-datos-solidos.html",
+    "platform": "CIO",
+    "title": "La banca se enfrenta al reto de llevar la IA a producción con gobernanza y datos sólidos",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "La banca se enfrenta al reto de llevar la IA a producción con gobernanza y datos sólidos",
+    "summary_ko": "은행은 강력한 데이터와 거버넌스를 통해 AI를 프로덕션에 도입해야 하는 과제에 직면해 있습니다. Babel은 Digit Institute와 협력하여 Babel Banking Radar: Agentic Financial Crime 보고서의 결과를 발표했습니다. 이 보고서는 은행에서 AI의 주요 과제는 더 이상 기술에 대한 접근이 아니라 제어, 추적성 및 거버넌스를 갖춘 생산에서의 실제 구현이라는 결론을 내렸습니다. 보고서는 많은 기업이 아직 테스트 단계에 있는 반면, 사이버 범죄자들은 ​​이미 고급 자동화를 사용하여 사기를 교묘하게 처리하고 있음을 강조합니다.",
+    "url": "https://www.cio.com/article/4185549/la-banca-se-enfrenta-al-reto-de-llevar-la-ia-a-produccion-con-gobernanza-y-datos-solidos.html",
+    "image": null,
+    "date": "2026-06-16T10:29:54.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184688/it-hurtles-toward-the-great-enterprise-pricing-reset.html",
+    "platform": "CIO",
+    "title": "IT hurtles toward the ‘Great Enterprise Pricing Reset’",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "IT hurtles toward the ‘Great Enterprise Pricing Reset’",
+    "summary_ko": "IT는 'Great Enterprise Pricing Reset'을 향해 돌진하고 있습니다. SaaS 및 AI 소프트웨어 시장은 IT 리더에게 도움이 될 수 있는 일부 새로운 가격 모델과 예산을 소진할 수 있는 일부 새로운 가격 모델로 인해 가격 격변의 시대에 들어섰습니다. 많은 관찰자들은 전통적인 Saa S 제품과 경쟁하는 AI 제품으로 인해 공급업체가 좌석당 가격을 다시 생각하게 되면서 글로벌 소프트웨어 시장이 광범위한 가격 재설정으로 향할 수 있다고 말합니다.",
+    "url": "https://www.cio.com/article/4184688/it-hurtles-toward-the-great-enterprise-pricing-reset.html",
+    "image": null,
+    "date": "2026-06-16T10:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4185231/a-personal-journey-to-the-next-era-of-10x.html",
+    "platform": "CIO",
+    "title": "A personal journey to the next era of 10X",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "A personal journey to the next era of 10X",
+    "summary_ko": "10X의 다음 시대를 향한 개인적인 여정. 지난 20년 동안 저는 엔터프라이즈 소프트웨어 개발의 발전을 목격했을 뿐만 아니라 그 일부를 직접 형성하는 데 도움을 줄 수 있는 기회도 누렸습니다. 그 여정 전반에 걸쳐 모든 혁신의 물결에서 한 가지 목표는 매우 일관되게 유지되었습니다. 바로 아이디어와 실제 솔루션 사이의 거리를 줄이는 것입니다.",
+    "url": "https://www.cio.com/article/4185231/a-personal-journey-to-the-next-era-of-10x.html",
+    "image": null,
+    "date": "2026-06-16T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u795pb/donate_your_coding_sessions_to_an_open_ccby40/",
+    "platform": "Reddit",
+    "title": "Donate your coding sessions to an open CC-BY-4.0 dataset to help train open-weight and open source models",
+    "author": {
+      "name": "/u/mon-simas",
+      "handle": "/u//u/mon-simas",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Donate your coding sessions to an open CC-BY-4.0 dataset to help train open-weight and open source models",
+    "summary_ko": "개방형 CC-BY-4.0 데이터세트에 코딩 세션을 기부하여 개방형 및 오픈 소스 모델을 훈련하는 데 도움을 주세요.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u795pb/donate_your_coding_sessions_to_an_open_ccby40/",
+    "image": "https://preview.redd.it/j2yb9wo4bm7h1.jpeg?width=640&crop=smart&auto=webp&s=87bfb890be9e6b070e386f0b6500c503fd79616a",
+    "date": "2026-06-16T09:58:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1u74l7i/openais_leaked_2025_financials_13b_revenue_38b_in/",
+    "platform": "Reddit",
+    "title": "openai's leaked 2025 financials: $13b revenue, $38b in losses",
+    "author": {
+      "name": "/u/Gullible-Tale9114",
+      "handle": "/u//u/Gullible-Tale9114",
+      "avatar_color": "#ff4500"
+    },
+    "content": "openai's leaked 2025 financials: $13b revenue, $38b in losses",
+    "summary_ko": "openai의 2025년 재무 정보 유출: 매출 130억 달러, 손실 380억 달러",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1u74l7i/openais_leaked_2025_financials_13b_revenue_38b_in/",
+    "image": null,
+    "date": "2026-06-16T05:29:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4185362/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8a%94-%eb%8a%98%ec%96%b4%eb%82%98%eb%8a%94%eb%8d%b0-%ed%86%b5%ec%a0%9c%eb%8a%94-%ec%97%86%eb%8b%a4cio-%eb%8d%ae%ec%b9%9c-%ea%b1%b0%eb%b2%84%eb%84%8c.html",
+    "platform": "CIO",
+    "title": "AI 에이전트는 늘어나는데 통제는 없다…CIO 덮친 거버넌스 공백",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 에이전트는 늘어나는데 통제는 없다…CIO 덮친 거버넌스 공백",
+    "summary_ko": "IT 리더들은 에이전트 시대의 거버넌스가 어떤 모습일지 미리 경험하고 있다. 그리고 그 모습은 결코 밝지 않다. IBM 기업가치연구소(IBM Institute for Business Value)가 CIO와 CTO를 대상으로 실시한 조사에 따르면 응답자의 3분의 2는 자신이 완전히 통제하지 못하는 AI 시스템에 대한 책임을 지고 있다고 답했다. 직원과 각 사업부가 새로운 AI 에이전트를 자체적으로 구축·배포하고 있기 때문이다. 또한 응답한 IT 리더의 70%는 자사 조직이 IT 부서가 추적할 수 있는 속도보다 더 빠르게 기술 시스템을 도입하고 있다고 밝혔다.",
+    "url": "https://www.cio.com/article/4185362/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8a%94-%eb%8a%98%ec%96%b4%eb%82%98%eb%8a%94%eb%8d%b0-%ed%86%b5%ec%a0%9c%eb%8a%94-%ec%97%86%eb%8b%a4cio-%eb%8d%ae%ec%b9%9c-%ea%b1%b0%eb%b2%84%eb%84%8c.html",
+    "image": null,
+    "date": "2026-06-16T05:03:29.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4185356/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai%c2%b7sast-%ea%b2%b0%ed%95%a9%ed%95%9c-%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%b3%b4.html",
+    "platform": "CIO",
+    "title": "오픈텍스트, AI·SAST 결합한 하이브리드 애플리케이션 보안 제안",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "오픈텍스트, AI·SAST 결합한 하이브리드 애플리케이션 보안 제안",
+    "summary_ko": "오픈텍스트는 AI가 애플리케이션 보안 테스팅을 대체하는 것이 아니라 AI 시대일수록 기존 보안 테스팅의 역할이 더욱 중요해지고 있다고 밝혔다. 오픈텍스트에 따르면 AI 기반 코드 분석은 기존 정적 애플리케이션 보안 테스트(Static Application Security Testing, SAST)가 발견하기 어려운 설계 단계의 취약점이나 복합적인 데이터 흐름 문제를 탐지하는 데 강점이 있다. 반면 전체 코드베이스를 일관되게 분석하고 반복 가능한 결과를 제공하는 데는 기존 SAST가 여전히 핵심적인 역할을 수행한다.",
+    "url": "https://www.cio.com/article/4185356/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai%c2%b7sast-%ea%b2%b0%ed%95%a9%ed%95%9c-%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%b3%b4.html",
+    "image": null,
+    "date": "2026-06-16T04:53:26.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4185352/%eb%8b%a8%ec%9d%bc-ai-%eb%aa%a8%eb%8d%b8%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8b%a8%ec%9d%bc-%ec%9e%a5%ec%95%a0-%ec%a7%80%ec%a0%90%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%a0%91.html",
+    "platform": "CIO",
+    "title": "“단일 AI 모델=새로운 단일 장애 지점”…앤트로픽 접근 차단이 던진 경고",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“단일 AI 모델=새로운 단일 장애 지점”…앤트로픽 접근 차단이 던진 경고",
+    "summary_ko": "앤트로픽을 선택한 CIO들은 그동안 자사 AI 모델이 군사적 살상 체계(kill chain)나 대규모 감시 시스템에 자율적으로 활용되지 않도록 제한하는 윤리적 AI 공급업체와 협력하고 있다고 생각했다. 그러나 이제 이들 고객은 앤트로픽이 가장 강력한 AI 모델에 대한 접근 권한이 회사 측이 “근거가 빈약하다”고 주장하는 이유만으로도 미국 정부에 의해 차단될 수 있다는 사실을 마주하게 됐다. 앤트로픽은 지난 금요일 블로그를 통해 미국 정부가 자사 직원을 포함한 외국 국적자의 최상위 AI 모델 사용을 금지하도록 명령했다고 밝혔다.",
+    "url": "https://www.cio.com/article/4185352/%eb%8b%a8%ec%9d%bc-ai-%eb%aa%a8%eb%8d%b8%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8b%a8%ec%9d%bc-%ec%9e%a5%ec%95%a0-%ec%a7%80%ec%a0%90%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%a0%91.html",
+    "image": null,
+    "date": "2026-06-16T04:44:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u6s6pm/stop_using_ollama/",
+    "platform": "Reddit",
+    "title": "Stop using Ollama",
+    "author": {
+      "name": "/u/zxyzyxz",
+      "handle": "/u//u/zxyzyxz",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Stop using Ollama",
+    "summary_ko": "올라마 사용을 중단하세요",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u6s6pm/stop_using_ollama/",
+    "image": "https://external-preview.redd.it/HY3hvbRxXorFRK4WaWileVR3R6VHBm9SLPgRvhVoFeg.png?width=640&crop=smart&auto=webp&s=2a1627b04461a30c5a5ce7084587983df97fb432",
+    "date": "2026-06-15T20:22:26.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1u6rstg/openclaw_the_hype_train_has_moved_on/",
+    "platform": "Reddit",
+    "title": "OpenClaw - the hype train has moved on",
+    "author": {
+      "name": "/u/CartographerFeisty66",
+      "handle": "/u//u/CartographerFeisty66",
+      "avatar_color": "#ff4500"
+    },
+    "content": "OpenClaw - the hype train has moved on",
+    "summary_ko": "OpenClaw - 과대 광고 열차가 움직였습니다",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1u6rstg/openclaw_the_hype_train_has_moved_on/",
+    "image": "https://preview.redd.it/cxys55c86i7h1.png?width=640&crop=smart&auto=webp&s=9e7f49d06976e0dbd3f6537ffa7bf85784979cdd",
+    "date": "2026-06-15T20:08:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4185175/anthropic-locks-enterprises-out-of-fable-and-mythos-following-government-order.html",
     "platform": "CIO",
     "title": "Anthropic locks enterprises out of Fable and Mythos following government order",
