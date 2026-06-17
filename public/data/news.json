@@ -1,5 +1,213 @@
 [
   {
+    "id": "https://www.cio.com/article/4186154/from-rag-to-ontology-databricks-bets-on-context-as-the-key-to-trusted-ai-agents-2.html",
+    "platform": "CIO",
+    "title": "From RAG to ontology: Databricks bets on context as the key to trusted AI agents",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "From RAG to ontology: Databricks bets on context as the key to trusted AI agents",
+    "summary_ko": "From RAG to ontology: Databricks bets on context as the key to trusted AI agents. 먼저 벡터 데이터베이스가 나왔고 그 다음에는 RAG가 나왔습니다. Now, the next frontier in enterprise AI is taking shape: context layers that give autonomous agents a shared understanding of the business, a vision Databricks is advancing with Genie Ontology.",
+    "url": "https://www.cio.com/article/4186154/from-rag-to-ontology-databricks-bets-on-context-as-the-key-to-trusted-ai-agents-2.html",
+    "image": null,
+    "date": "2026-06-17T10:51:48.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4178779/5-things-cios-must-do-as-sovereignty-becomes-a-design-constraint.html",
+    "platform": "CIO",
+    "title": "5 things CIOs must do as sovereignty becomes a design constraint",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "5 things CIOs must do as sovereignty becomes a design constraint",
+    "summary_ko": "5 things CIOs must do as sovereignty becomes a design constraint. For years, enterprise IT strategy operated on three assumptions: infrastructure could be global, vendors could be consolidated, and location had little impact on risk or compliance. 그 모델이 무너지고 있어요.",
+    "url": "https://www.cio.com/article/4178779/5-things-cios-must-do-as-sovereignty-becomes-a-design-constraint.html",
+    "image": null,
+    "date": "2026-06-17T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4182957/at-academy-sports-outdoors-ai-is-a-team-effort.html",
+    "platform": "CIO",
+    "title": "At Academy Sports + Outdoors, AI is a team effort",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "At Academy Sports + Outdoors, AI is a team effort",
+    "summary_ko": "Academy Sports + Outdoors에서 AI는 팀 노력입니다. Academy Sports + Outdoors의 CIO 겸 EVP인 Sumit Anand는 다기능 AI 협의회, 에이전트 기반 도구, 데이터 아키텍처에 대한 규율 있는 접근 방식이 60억 달러 규모의 소매업체가 분기마다 가치를 창출하는 데 어떻게 도움이 되는지, 그리고 전용 AI 예산을 기다리는 CIO가 핵심을 놓치고 있는 이유를 설명합니다. AI는 Academy Sports + Outdoors의 성장 및 혁신 전략에 어떤 영향을 미치나요?",
+    "url": "https://www.cio.com/article/4182957/at-academy-sports-outdoors-ai-is-a-team-effort.html",
+    "image": null,
+    "date": "2026-06-17T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4185819/flash-pricing-the-elephant-in-the-room-for-enterprise-storage.html",
+    "platform": "CIO",
+    "title": "Flash pricing — the elephant in the room for enterprise storage",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Flash pricing — the elephant in the room for enterprise storage",
+    "summary_ko": "플래시 가격 — 엔터프라이즈 스토리지 공간의 코끼리입니다. 지난 10년 동안 올플래시 스토리지 시장은 해당 기술이 HDD 경제성과 꾸준히 수렴하고 있다는 주장을 밀어붙였습니다. 특히 압축, 중복 제거, 데이터 감소와 같은 요소가 총 비용 계산에 통합되면서 더욱 그렇습니다. 이 메시지는 기업 인프라 계획에 깊이 포함될 만큼 설득력이 있었습니다.",
+    "url": "https://www.cio.com/article/4185819/flash-pricing-the-elephant-in-the-room-for-enterprise-storage.html",
+    "image": null,
+    "date": "2026-06-17T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4185908/63-of-workers-see-ai-making-the-workplace-less-human.html",
+    "platform": "CIO",
+    "title": "63% of workers see AI making the workplace ‘less human’",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "63% of workers see AI making the workplace ‘less human’",
+    "summary_ko": "근로자의 63%는 AI가 직장을 '덜 인간적'으로 만드는 것으로 보고 있습니다. IT 및 비즈니스 리더는 효율성과 생산성 향상을 목표로 AI 분야에서 전력을 다하고 있습니다. 그러나 직원들은 AI 사용이 직장 문화에 영향을 미칠 것으로 예상합니다. Resume Now의 AI 및 직장 인간성 보고서에 따르면 63%는 AI가 \"직장을 덜 인간적인 느낌으로 만들 것\"이라고 말하고 57%는 AI가 인간 기술을 감소시킬 것이라고 말합니다.",
+    "url": "https://www.cio.com/article/4185908/63-of-workers-see-ai-making-the-workplace-less-human.html",
+    "image": null,
+    "date": "2026-06-17T09:30:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186057/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b8%8c%eb%a6%ad%ec%8a%a4-%ea%b8%b0%ec%97%85-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%ec%a7%80%ec%9b%90-ai-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%a7%80%eb%8b%88.html",
+    "platform": "CIO",
+    "title": "데이터브릭스, 기업 업무 자동화 지원 AI 플랫폼 ‘지니 원’ 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "데이터브릭스, 기업 업무 자동화 지원 AI 플랫폼 ‘지니 원’ 공개",
+    "summary_ko": "지니 원은 데이터브릭스의 AI 제품군인 ‘지니(Genie)’의 일부로, 기업 데이터를 기반으로 답변 생성과 업무 수행을 지원한다. 데이터브릭스에 따르면, 지니의 핵심은 조직 내 데이터, 문서, 애플리케이션, 사람 등에서 축적되는 지식을 연결하는 ‘지니 온톨로지(Genie Ontology)’다. 데이터브릭스는 이를 통해 데이터브릭스 환경은 물론 파일, 채팅, 회의, 티켓 등 다양한 업무 시스템에서 비즈니스 맥락을 자동으로 수집·업데이트한다고 설명했다.",
+    "url": "https://www.cio.com/article/4186057/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b8%8c%eb%a6%ad%ec%8a%a4-%ea%b8%b0%ec%97%85-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94-%ec%a7%80%ec%9b%90-ai-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%a7%80%eb%8b%88.html",
+    "image": null,
+    "date": "2026-06-17T07:53:08.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186020/%ea%b0%80%ed%8a%b8%eb%84%88-2030%eb%85%84-%ea%b8%b0%ec%97%85-10-%ec%9d%b4%ec%83%81-ai-%ed%8d%bc%ec%8a%a4%ed%8a%b8-%ec%a0%84%ed%99%98%eb%8d%b0%ec%9d%b4%ed%84%b0%c2%b7%eb%b6%84%ec%84%9d.html",
+    "platform": "CIO",
+    "title": "가트너 “2030년 기업 10% 이상 AI 퍼스트 전환”…데이터·분석 분야 트렌드 6가지 제시",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "가트너 “2030년 기업 10% 이상 AI 퍼스트 전환”…데이터·분석 분야 트렌드 6가지 제시",
+    "summary_ko": "시장조사업체 가트너의 VP 애널리스트 칼리 이도인은 “기업은 AI를 모든 비즈니스 의사결정과 업무 프로세스, 투자 판단의 핵심 기준으로 삼는 AI 퍼스트 운영 모델로 빠르게 이동하고 있다”라며 “전사적 차원의 명확한 의지와 지원이 없다면 AI의 잠재력을 지속적으로 실현하기 어려울 것”이라고 설명했다. 가트너는 향후 2년 동안 기업이 주목해야 할 주요 D&A 트렌드로 소버린 AI, 의사결정 거버넌스, AI 거버넌스 플랫폼, 에이전틱 데이터 스트리밍, 에이전틱 데이터 관리, 그래프RAG(Graph RAG)을 제시했다. 1.",
+    "url": "https://www.cio.com/article/4186020/%ea%b0%80%ed%8a%b8%eb%84%88-2030%eb%85%84-%ea%b8%b0%ec%97%85-10-%ec%9d%b4%ec%83%81-ai-%ed%8d%bc%ec%8a%a4%ed%8a%b8-%ec%a0%84%ed%99%98%eb%8d%b0%ec%9d%b4%ed%84%b0%c2%b7%eb%b6%84%ec%84%9d.html",
+    "image": null,
+    "date": "2026-06-17T05:01:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186015/%ed%9a%a8%ec%84%b1%ec%a4%91%ea%b3%b5%ec%97%85%c2%b7stt-gdc-%ed%95%a9%ec%9e%91%eb%b2%95%ec%9d%b8-ai%c2%b7%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%88%98%ec%9a%94-%ea%b2%a8%eb%83%a5%ed%95%9c-%eb%8d%b0.html",
+    "platform": "CIO",
+    "title": "효성중공업·STT GDC 합작법인, AI·클라우드 수요 겨냥한 데이터센터 서울에 개소",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "효성중공업·STT GDC 합작법인, AI·클라우드 수요 겨냥한 데이터센터 서울에 개소",
+    "summary_ko": "STT GDC는 16일 서울 금천구 가산동에 위치한 STT 서울 1의 개관을 발표했다. 해당 시설은 2021년 STT GDC(지분 60%)와 효성중공업(지분 40%)이 설립한 합작법인 STT GDC 코리아가 개발·운영한다. 회사는 STT 서울 1을 한국 시장 진출의 전략적 거점으로 활용해 동북아 지역 고객의 AI 및 클라우드 인프라 구축 수요에 대응한다는 계획이다.",
+    "url": "https://www.cio.com/article/4186015/%ed%9a%a8%ec%84%b1%ec%a4%91%ea%b3%b5%ec%97%85%c2%b7stt-gdc-%ed%95%a9%ec%9e%91%eb%b2%95%ec%9d%b8-ai%c2%b7%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%88%98%ec%9a%94-%ea%b2%a8%eb%83%a5%ed%95%9c-%eb%8d%b0.html",
+    "image": null,
+    "date": "2026-06-17T04:50:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186011/ai-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%ea%b0%80-%ec%95%84%eb%8b%88%ec%96%b4%eb%8f%84-%ea%b8%b0%ed%9a%8c%eb%8a%94-%ec%9e%88%eb%8b%a4ai-%ec%8b%9c%eb%8c%80-%ec%9d%b4%eb%a0%a5%ec%84%9c-%ea%b2%bd.html",
+    "platform": "CIO",
+    "title": "AI 엔지니어가 아니어도 기회는 있다…AI 시대 이력서 경쟁력 높이는 법",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 엔지니어가 아니어도 기회는 있다…AI 시대 이력서 경쟁력 높이는 법",
+    "summary_ko": "AI 분석 소프트웨어 기업 리빌(Reveal)가 4월 공개한 설문결과에 따르면 AI는 빠르게 IT 인재 시장의 핵심 역량으로 자리 잡고 있다. 올해 IT 리더의 91%는 채용 과정에서 AI 전문성을 우선적으로 고려한다고 답했다. 또한 기술 리더의 80%는 소프트웨어 개발에 AI를 활용하고 있다고 밝혔으며, 77%는 2026년 조직 전반으로 AI 활용을 확대하는 것을 최우선 전략 과제로 꼽았다. 하지만 새로운 기술 도입이 급속도로 확산될 때마다 나타나는 현상처럼, 인재 시장은 수요 증가 속도를 따라가지 못하는 경우가 많다.",
+    "url": "https://www.cio.com/article/4186011/ai-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%ea%b0%80-%ec%95%84%eb%8b%88%ec%96%b4%eb%8f%84-%ea%b8%b0%ed%9a%8c%eb%8a%94-%ec%9e%88%eb%8b%a4ai-%ec%8b%9c%eb%8c%80-%ec%9d%b4%eb%a0%a5%ec%84%9c-%ea%b2%bd.html",
+    "image": null,
+    "date": "2026-06-17T04:23:05.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186004/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4%ea%b0%80-%ec%82%b0-%ea%b2%83%ec%9d%80-ai%ea%b0%80-%ec%95%84%eb%8b%88%eb%9d%bc-%ec%88%98%ec%9d%b5%eb%aa%a8%eb%8d%b8-%ed%95%80-%ec%9d%b8.html",
+    "platform": "CIO",
+    "title": "“세일즈포스가 산 것은 AI가 아니라 수익모델” 핀 인수의 진짜 의미",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“세일즈포스가 산 것은 AI가 아니라 수익모델” 핀 인수의 진짜 의미",
+    "summary_ko": "세일즈포스는 16일 에이전트형 AI 기업 핀(Fin) 인수 계획을 발표했다. 핀은 불과 몇 주 전까지만 해도 인터컴(Intercom)이라는 이름으로 알려져 있던 기업이다. 세일즈포스는 핀이 라이브 채팅, 이메일, 왓츠앱, SMS, 전화, 슬랙 등 다양한 채널에서 복잡한 고객 문의를 처음부터 끝까지 처리할 수 있다고 설명했다. 하지만 업계 분석가와 컨설턴트들은 이번 거래가 세일즈포스의 제품 기능 개발 일정을 앞당길지, 아니면 오히려 제품 전략에 혼란을 초래할지를 두고 의문을 제기했다.",
+    "url": "https://www.cio.com/article/4186004/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4%ea%b0%80-%ec%82%b0-%ea%b2%83%ec%9d%80-ai%ea%b0%80-%ec%95%84%eb%8b%88%eb%9d%bc-%ec%88%98%ec%9d%b5%eb%aa%a8%eb%8d%b8-%ed%95%80-%ec%9d%b8.html",
+    "image": null,
+    "date": "2026-06-17T04:07:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
+    "platform": "Google",
+    "title": "From pixels to planning: Earth AI for nature restoration",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Climate & Sustainability",
+    "summary_ko": "픽셀에서 계획까지: 자연 복원을 위한 Earth AI",
+    "url": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
+    "image": null,
+    "date": "2026-06-16T17:30:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4185253/ai-found-2000-vulnerabilities-in-7-weeks-weve-patched-almost-none-of-them.html",
     "platform": "CIO",
     "title": "AI found 2,000 vulnerabilities in 7 weeks. We’ve patched almost none of them",
@@ -5660,22 +5868,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgrpqc/qwen_cant_wait_to_release_37_models/",
     "image": "https://preview.redd.it/os2dyrbn9x1h1.jpeg?width=640&crop=smart&auto=webp&s=6d278db2c380c7dc3b22022b30ef511e715977ee",
     "date": "2026-05-18T16:25:14.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1tgl9fl/jokes_aside_this_just_looks_and_sounds_way_too/",
-    "platform": "Reddit",
-    "author": {
-      "name": "/u/TheDeadlyPretzel",
-      "handle": "/u//u/TheDeadlyPretzel",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Jokes aside this just looks and sounds way too well done",
-    "summary_ko": "농담은 제쳐두고 이건 비정상적으로 정교해 보입니다 들리는 것 같아요.",
-    "url": "https://www.reddit.com/r/singularity/comments/1tgl9fl/jokes_aside_this_just_looks_and_sounds_way_too/",
-    "image": "https://external-preview.redd.it/cGdhZWJnMzk0dzFoMfzBvyQZTFKGYDPTBs5b7OSKcEv1lQnHK2u8cYaKeuSa.png?width=640&crop=smart&auto=webp&s=fd762c543497cd8cba7fbfb3512e1007d1510054",
-    "date": "2026-05-18T12:33:37.000Z",
     "likes": 0,
     "comments": 0
   }
