@@ -1,5 +1,157 @@
 [
   {
+    "id": "https://www.cio.com/article/4185912/why-agentic-architecture-is-still-so-puzzling.html",
+    "platform": "CIO",
+    "title": "Why agentic architecture is still so puzzling",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Why agentic architecture is still so puzzling",
+    "summary_ko": "에이전트 아키텍처가 여전히 수수께끼인 이유 에이전트 AI의 가능성을 활용하려는 많은 IT 리더는 수십 또는 수백 개의 에이전트를 출시하더라도 에이전트 아키텍처 구축이라는 기본 단계에서 여전히 어려움을 겪고 있습니다. IDC는 올해 말까지 대기업의 에이전트 사용이 10배 증가할 것으로 예상하면서 AI 에이전트 배포는 내년에 급증할 것으로 예상합니다. 그러나 어떤 경우에는 CIO가 대규모 에이전트 팀을 운영하는 데 필요한 구성 요소에 초점을 맞추지 않았다고 전문가들은 말합니다.",
+    "url": "https://www.cio.com/article/4185912/why-agentic-architecture-is-still-so-puzzling.html",
+    "image": null,
+    "date": "2026-06-18T10:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4181722/how-to-put-a-clear-ai-strategy-into-focus.html",
+    "platform": "CIO",
+    "title": "How to put a clear AI strategy into focus",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "How to put a clear AI strategy into focus",
+    "summary_ko": "명확한 AI 전략에 초점을 맞추는 방법. 대부분의 전문가와 최고 IT 경영진은 AI 비전 선언문이나 가이드를 수립하는 것이 기업의 AI 채택을 위한 전반적인 전략을 개발하는 데 있어 중요한 첫 단계라는 데 동의합니다. 이러한 성명서를 개발하면 기업이 AI 목표를 비즈니스 목표에 더 잘 맞추고, AI 도구 및 내부 개발 프로젝트에 대한 투자의 우선순위를 정하고, 조직 내에서 AI가 사용되는 이유와 방법에 대한 공유 이해를 촉진하는 데 도움이 될 수 있습니다. AI 풀에 먼저 뛰어들기 전에 논리적이고 책임감 있는 실사 측면에서 생각할 필요도 없는 것처럼 들리죠?",
+    "url": "https://www.cio.com/article/4181722/how-to-put-a-clear-ai-strategy-into-focus.html",
+    "image": null,
+    "date": "2026-06-18T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186406/cios-want-strategic-pmos-im-not-sure-they-know-what-theyre-asking.html",
+    "platform": "CIO",
+    "title": "CIOs want strategic PMOs. I’m not sure they know what they’re asking",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "CIOs want strategic PMOs. I’m not sure they know what they’re asking",
+    "summary_ko": "CIO는 전략적 PMO를 원합니다. 그들이 무엇을 요구하는지 잘 모르겠습니다. 15년간 PMO 컨설팅을 하면서 나와 함께 일한 거의 모든 CIO는 '보다 전략적인' PMO를 원했습니다. 그리고 그 기간 동안 그것이 실제로 어떻게 보일지 나에게 설명할 수 있는 사람은 거의 없었습니다.",
+    "url": "https://www.cio.com/article/4186406/cios-want-strategic-pmos-im-not-sure-they-know-what-theyre-asking.html",
+    "image": null,
+    "date": "2026-06-18T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4185905/mastering-the-chess-of-it-leadership-today.html",
+    "platform": "CIO",
+    "title": "Mastering the chess of IT leadership today",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Mastering the chess of IT leadership today",
+    "summary_ko": "오늘날 IT 리더십의 체스를 마스터하세요. 오늘날의 AI 중심 세계에서 CIO가 내리는 모든 결정은 기업 전체에 파급되는 결과를 가져오는 중추적인 움직임입니다. 비즈니스 성과, 투자자 신뢰, 조직의 경쟁 능력은 모두 이러한 움직임에 영향을 받습니다. 이것이 바로 Cushman & Wakefield의 최고 디지털 및 정보 책임자인 Salumeh Companieh가 이러한 환경에서 리더십은 체커라기보다는 체스에 더 가깝다고 말하는 이유입니다.",
+    "url": "https://www.cio.com/article/4185905/mastering-the-chess-of-it-leadership-today.html",
+    "image": null,
+    "date": "2026-06-18T09:30:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186404/the-future-of-insurance-is-contextual-conversational-and-customer-first-thanks-to-ai.html",
+    "platform": "CIO",
+    "title": "The future of insurance is contextual, conversational and customer-first – thanks to AI",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "The future of insurance is contextual, conversational and customer-first – thanks to AI",
+    "summary_ko": "보험의 미래는 AI 덕분에 상황에 맞춰 대화하고 고객을 최우선으로 생각하는 것입니다. 보험 산업은 오랫동안 규제가 엄격하고 느리게 움직이는 단일체로 간주되어 왔습니다. 그러나 자세히 살펴보면 소비자 경험을 최우선으로 생각하는 중요한 변화와 기한이 지난 최적화의 새로운 단계에 진입하고 있음을 알 수 있습니다. 나는 오랫동안 이러한 전환을 예상해 왔습니다.",
+    "url": "https://www.cio.com/article/4186404/the-future-of-insurance-is-contextual-conversational-and-customer-first-thanks-to-ai.html",
+    "image": null,
+    "date": "2026-06-18T09:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186639/ai-%eb%8f%84%ec%9e%85-%eb%ac%bb%ec%a7%80%eb%a7%88-%ed%88%ac%ec%9e%90-%ec%8b%9c%eb%8c%80-%eb%81%9d%eb%82%ac%eb%8b%a4%ea%b8%b0%ec%97%85%eb%93%a4-%eb%b2%a8%eb%a5%98.html",
+    "platform": "CIO",
+    "title": "AI 도입 ‘묻지마 투자’ 시대 끝났다…기업들, ‘벨류맥싱’으로 투자 성과 높인다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 도입 ‘묻지마 투자’ 시대 끝났다…기업들, ‘벨류맥싱’으로 투자 성과 높인다",
+    "summary_ko": "업계 관계자들에 따르면 CIO와 CFO들은 조직 내 무분별한 AI 지출에 제동을 걸기 시작했으며, 많은 기업이 자동화 도구 투자에서 더 높은 가치를 끌어낼 수 있는 방안을 모색하고 있다. 최근 몇 달 동안 여러 기업은 직원들의 AI 실험을 장려하는 과정에서 AI 토큰 예산을 예상보다 훨씬 빠르게 소진했다. 일부 기업은 AI 도입을 확대하기 위해 토큰 사용량 순위표를 운영했지만, 이는 오히려 직원들의 과도한 토큰 사용 경쟁을 부추기는 결과를 낳았다. 실제로 디즈니의 한 직원은 9일 동안 클로드(Claude) AI와 46만 회 상호작용한 것으로 알려졌다.",
+    "url": "https://www.cio.com/article/4186639/ai-%eb%8f%84%ec%9e%85-%eb%ac%bb%ec%a7%80%eb%a7%88-%ed%88%ac%ec%9e%90-%ec%8b%9c%eb%8c%80-%eb%81%9d%eb%82%ac%eb%8b%a4%ea%b8%b0%ec%97%85%eb%93%a4-%eb%b2%a8%eb%a5%98.html",
+    "image": null,
+    "date": "2026-06-18T07:13:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186581/%ec%86%8c%ec%8a%a4%ec%bd%94%eb%93%9c-%ec%95%84%eb%8b%8c-ai-%ec%97%ad%eb%9f%89%ec%9d%b4-%ea%b7%9c%ec%a0%9c-%eb%8c%80%ec%83%81%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%b6%84%ec%9f%81%ec%9d%b4.html",
+    "platform": "CIO",
+    "title": "소스코드 아닌 AI 역량이 규제 대상…앤트로픽 분쟁이 바꾼 ‘수출’의 개념",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "소스코드 아닌 AI 역량이 규제 대상…앤트로픽 분쟁이 바꾼 ‘수출’의 개념",
+    "summary_ko": "수십 년 동안 기술 수출 통제는 소스코드를 다른 국가로 이전하는 행위를 의미했다. 그러나 최근 앤트로픽과 미국 상무부 간 갈등은 이러한 개념이 더 이상 현실에 부합하지 않음을 보여준다. 앤트로픽은 6월 12일 미국 상무부로부터 “미국 내외를 불문하고 모든 외국 국적자에 대한 페이블 5와 미토스 5 접근을 중단하라”는 지침을 받았다고 밝혔다. 여기에는 외국 국적의 앤트로픽 직원도 포함된다.",
+    "url": "https://www.cio.com/article/4186581/%ec%86%8c%ec%8a%a4%ec%bd%94%eb%93%9c-%ec%95%84%eb%8b%8c-ai-%ec%97%ad%eb%9f%89%ec%9d%b4-%ea%b7%9c%ec%a0%9c-%eb%8c%80%ec%83%81%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%b6%84%ec%9f%81%ec%9d%b4.html",
+    "image": null,
+    "date": "2026-06-18T04:02:05.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186572/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%95%9c%ea%b5%ad-%ea%b3%b5%eb%9e%b5-%eb%b3%b8%ea%b2%a9%ed%99%94ai-%ec%95%88%ec%a0%84%ec%84%b1%ea%b3%bc-%eb%b9%84%ec%9a%a9-%ed%9a%a8%ec%9c%a8.html",
+    "platform": "CIO",
+    "title": "앤트로픽, 한국 공략 본격화 “AI 안전성과 비용 효율 모두 잡겠다”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "앤트로픽, 한국 공략 본격화 “AI 안전성과 비용 효율 모두 잡겠다”",
+    "summary_ko": "크리스 차우리(Chris Ciuri) 앤트로픽 인터내셔널 총괄은 17일 서울에서 열린 기자간담회에서 “앤트로픽의 한국 사업 공식 출범을 발표하게 돼 매우 기쁘다”며 “한국은 AI 혁신과 안전성을 동시에 추구하는 국가로, 앤트로픽이 중요하게 생각하는 가치와 방향성이 일치한다”고 말했다. 앤트로픽은 AI 안전성과 연구를 핵심 가치로 내세우고 있다.",
+    "url": "https://www.cio.com/article/4186572/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%95%9c%ea%b5%ad-%ea%b3%b5%eb%9e%b5-%eb%b3%b8%ea%b2%a9%ed%99%94ai-%ec%95%88%ec%a0%84%ec%84%b1%ea%b3%bc-%eb%b9%84%ec%9a%a9-%ed%9a%a8%ec%9c%a8.html",
+    "image": null,
+    "date": "2026-06-18T03:41:17.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4186154/from-rag-to-ontology-databricks-bets-on-context-as-the-key-to-trusted-ai-agents-2.html",
     "platform": "CIO",
     "title": "From RAG to ontology: Databricks bets on context as the key to trusted AI agents",
@@ -5690,184 +5842,6 @@
     "url": "https://www.cio.com/article/4172532/solving-healthcares-unique-security-challenges-the-role-of-zero-trust-and-sase.html",
     "image": null,
     "date": "2026-05-19T13:26:17.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4172558/the-next-digital-divide-ai-owners-vs-ai-renters.html",
-    "platform": "CIO",
-    "title": "The next digital divide: AI owners vs. AI renters",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "The next digital divide: AI owners vs. AI renters",
-    "summary_ko": "지난 2년간 인공지능(AI)에 대한 논의는 주로 도입과 활용에 집중되어 왔습니다. 어떤 기업이 생성형 AI를 업무에 통합하고 생산성을 높이는지가 핵심 화두였습니다. 하지만 AI 도입이라는 표면적 흐름 아래 더 근본적인 구조적 변화가 일어나고 있습니다. 이는 기술을 직접 소유하는 'AI 소유자'와 빌려 쓰는 'AI 임차인' 간의 새로운 격차입니다. 단순한 AI 도입 여부를 넘어, 이 새로운 구도가 향후 10년간 기업 기술의 판도를 결정할 전망입니다.",
-    "url": "https://www.cio.com/article/4172558/the-next-digital-divide-ai-owners-vs-ai-renters.html",
-    "image": null,
-    "date": "2026-05-19T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4168669/7-signs-your-data-isnt-ready-for-ai.html",
-    "platform": "CIO",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "7 signs your data isn’t ready for AI",
-    "summary_ko": "데이터가 AI에 사용할 준비가 되지 않았다는 7가지 징후 풍부하고 정확한 데이터에 접근하지 않으면 AI는 무용지물이다. 불행하게도 많은 기업은 AI 애플리케이션에 사용할 수 없는 방식으로 저장된 데이터로 인해 어려움을 겪고 있습니다. 비즈니스 자문 회사인 EY Americas의 세무 기술 및 혁신 리더인 Daren Campbell은 AI 데이터 비호환성은 AI에 적극적으로 투자하는 조직 사이에도 널리 퍼져 있다고 말합니다.",
-    "url": "https://www.cio.com/article/4168669/7-signs-your-data-isnt-ready-for-ai.html",
-    "image": null,
-    "date": "2026-05-19T10:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4172904/cio%ec%bd%94%eb%a6%ac%ec%95%84%c2%b7ibm-ai-%ec%84%b1%ed%8c%a8-%ec%a2%8c%ec%9a%b0%ed%95%98%eb%8a%94-%ea%b1%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%8b%a4%ec%8b%9c%ea%b0%84%c2%b7.html",
-    "platform": "CIO",
-    "title": "CIO코리아·IBM, “AI 성패 좌우하는 건 데이터”…AI 레디 데이터 전략 제시",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "CIO코리아·IBM, “AI 성패 좌우하는 건 데이터”…AI 레디 데이터 전략 제시",
-    "summary_ko": "CIO코리아·IBM, “AI 성패 좌우하는 건 데이터”…AI 레디 데이터 전략 제시",
-    "url": "https://www.cio.com/article/4172904/cio%ec%bd%94%eb%a6%ac%ec%95%84%c2%b7ibm-ai-%ec%84%b1%ed%8c%a8-%ec%a2%8c%ec%9a%b0%ed%95%98%eb%8a%94-%ea%b1%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%8b%a4%ec%8b%9c%ea%b0%84%c2%b7.html",
-    "image": null,
-    "date": "2026-05-19T09:31:36.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1thg4n1/gemini_35_confirmed_by_google_deepmind_employee/",
-    "platform": "Reddit",
-    "title": "Gemini 3.5 confirmed by google deepmind employee",
-    "author": {
-      "name": "/u/Snoo26837",
-      "handle": "/u//u/Snoo26837",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Gemini 3.5 confirmed by google deepmind employee",
-    "summary_ko": "구글 딥마인드 직원이 차세대 모델인 제미나이 3.5의 존재를 확인했다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1thg4n1/gemini_35_confirmed_by_google_deepmind_employee/",
-    "image": "https://preview.redd.it/dbusqca2x12h1.jpeg?width=640&crop=smart&auto=webp&s=8295104fbc900727c26f60237e9cf12325c6d3a5",
-    "date": "2026-05-19T08:03:23.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4172702/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%b2%84%ed%8b%b0%ec%b9%b4-%ec%82%ac%ec%97%85%eb%b6%80-%eb%a7%a4%ea%b0%81-%ec%99%84%eb%a3%8c-ai%c2%b7%ec%a0%95%eb%b3%b4%ea%b4%80%eb%a6%ac-%eb%b6%84.html",
-    "platform": "CIO",
-    "title": "오픈텍스트, 버티카 사업부 매각 완료…AI·정보관리 분야 집중 확대",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "오픈텍스트, 버티카 사업부 매각 완료…AI·정보관리 분야 집중 확대",
-    "summary_ko": "오픈텍스트, 버티카 사업부 매각 완료…AI·정보관리 분야 집중 확대",
-    "url": "https://www.cio.com/article/4172702/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%b2%84%ed%8b%b0%ec%b9%b4-%ec%82%ac%ec%97%85%eb%b6%80-%eb%a7%a4%ea%b0%81-%ec%99%84%eb%a3%8c-ai%c2%b7%ec%a0%95%eb%b3%b4%ea%b4%80%eb%a6%ac-%eb%b6%84.html",
-    "image": null,
-    "date": "2026-05-19T03:16:14.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4172139/%ec%97%91%ec%8a%a8%eb%aa%a8%eb%b9%8c-%ea%b8%b0%ec%b4%88%eb%b6%80%ed%84%b0-vs-%eb%a6%ac%eb%b0%94%ec%9d%b4%ec%8a%a4-1000%ea%b0%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
-    "platform": "CIO",
-    "title": "엑슨모빌 ‘기초부터’ vs 리바이스 ‘1000개 에이전트’···SAP 고객 사례로 본 AI 전략",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "엑슨모빌 ‘기초부터’ vs 리바이스 ‘1000개 에이전트’···SAP 고객 사례로 본 AI 전략",
-    "summary_ko": "엑슨모빌 ‘기초부터’ vs 리바이스 ‘1000개 에이전트’···SAP 고객 사례로 본 AI 전략",
-    "url": "https://www.cio.com/article/4172139/%ec%97%91%ec%8a%a8%eb%aa%a8%eb%b9%8c-%ea%b8%b0%ec%b4%88%eb%b6%80%ed%84%b0-vs-%eb%a6%ac%eb%b0%94%ec%9d%b4%ec%8a%a4-1000%ea%b0%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
-    "image": null,
-    "date": "2026-05-19T02:27:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4172133/%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b8%b0%ec%97%85%ec%9d%b4-%eb%a8%bc%ec%a0%80-%ea%b2%bd%ed%97%98%ed%95%9c-%eb%b3%80%ed%99%94ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a7%a4%ec%b6%9c%ec%9d%84.html",
-    "platform": "CIO",
-    "title": "글로벌 기업이 먼저 경험한 변화…AI 에이전트, 매출을 증명하다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "글로벌 기업이 먼저 경험한 변화…AI 에이전트, 매출을 증명하다",
-    "summary_ko": "글로벌 기업이 먼저 경험한 변화…AI 에이전트, 매출을 증명하다",
-    "url": "https://www.cio.com/article/4172133/%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b8%b0%ec%97%85%ec%9d%b4-%eb%a8%bc%ec%a0%80-%ea%b2%bd%ed%97%98%ed%95%9c-%eb%b3%80%ed%99%94ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a7%a4%ec%b6%9c%ec%9d%84.html",
-    "image": null,
-    "date": "2026-05-19T02:25:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1tgung8/elon_musk_loses_court_battle_against_sam_altman/",
-    "platform": "Reddit",
-    "author": {
-      "name": "/u/socoolandawesome",
-      "handle": "/u//u/socoolandawesome",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Elon Musk loses court battle against Sam Altman and OpenAI after 3-week trial",
-    "summary_ko": "Elon Musk는 3주간의 재판 끝에 Sam Altman 및 OpenAI와의 법정에서 패배했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1tgung8/elon_musk_loses_court_battle_against_sam_altman/",
-    "image": "https://external-preview.redd.it/Kigpks4bQzsecQwJtUmi8nOLI9rHPC8zraqQURigQfw.jpeg?width=640&crop=smart&auto=webp&s=f644f63052c819194e0d332409524fdfc6708af6",
-    "date": "2026-05-18T17:50:40.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1tgub2o/elon_musk_loses_landmark_lawsuit_against_openai/",
-    "platform": "Reddit",
-    "author": {
-      "name": "/u/wiredmagazine",
-      "handle": "/u//u/wiredmagazine",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-    "summary_ko": "Elon Musk, OpenAI에 대한 소송에서 패소",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1tgub2o/elon_musk_loses_landmark_lawsuit_against_openai/",
-    "image": "https://external-preview.redd.it/qUAzQPneMX92GZiWsHEJmervy-O8bU5-azqCxOjdMyE.jpeg?width=640&crop=smart&auto=webp&s=96672b76d08e62125a61a0110bcdfdfad70015f3",
-    "date": "2026-05-18T17:42:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tgrpqc/qwen_cant_wait_to_release_37_models/",
-    "platform": "Reddit",
-    "author": {
-      "name": "/u/GotHereLateNameTaken",
-      "handle": "/u//u/GotHereLateNameTaken",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Qwen cant wait to release 3.7 models",
-    "summary_ko": "Qwen은 3.7 모델, 곧 새 버전을 내놓을 조짐입니다",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tgrpqc/qwen_cant_wait_to_release_37_models/",
-    "image": "https://preview.redd.it/os2dyrbn9x1h1.jpeg?width=640&crop=smart&auto=webp&s=6d278db2c380c7dc3b22022b30ef511e715977ee",
-    "date": "2026-05-18T16:25:14.000Z",
     "likes": 0,
     "comments": 0
   }
