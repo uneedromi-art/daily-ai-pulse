@@ -1,5 +1,132 @@
 [
   {
+    "id": "https://www.cio.com/article/4187303/una-mirada-al-futuro-del-liderazgo-en-ti-la-vision-del-cio-executive.html",
+    "platform": "CIO",
+    "title": "Una mirada al futuro del liderazgo en TI: la visión del CIO Executive",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Una mirada al futuro del liderazgo en TI: la visión del CIO Executive",
+    "summary_ko": "IT 리더십의 미래 살펴보기: CIO 경영진의 비전. 스페인 파운드리(Foundry Spain)의 IT 관리자 커뮤니티인 CIO Executive는 5년 연속 리베라 델 두에로(Ribera del Duero) 중심부, 특히 자연스럽고 고립된 와인 재배 지역인 보스케 데 마타스노스(Bosque de Matasnos)에 높은 수준의 시스템 및 기술 혁신 임원들을 모아 강력한 국제 및 경제적 긴장으로 특징지어지는 복잡한 지정학적 맥락과 인공 지능의 민주화와 함께 CIO 기능이 경험하고 있는 진화에 대해 차분하고 깊이 있게 성찰했습니다.",
+    "url": "https://www.cio.com/article/4187303/una-mirada-al-futuro-del-liderazgo-en-ti-la-vision-del-cio-executive.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/Image-8.jpg?quality=50&amp;strip=all",
+    "date": "2026-06-19T16:45:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187306/solving-an-ard-problem-in-ai-agentic-resource-discovery-3.html",
+    "platform": "CIO",
+    "title": "Solving an ARD problem in AI: Agentic Resource Discovery",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Solving an ARD problem in AI: Agentic Resource Discovery",
+    "summary_ko": "AI의 ARD 문제 해결: Agentic Resource Discovery. 에이전트 AI를 구현하는 기업은 에이전트가 어떤 도구를 사용하도록 허용해야 하며, 어디서 찾을 수 있으며, 어떻게 안전하게 사용할 수 있는지에 대한 과제에 직면합니다. 새로운 프로토콜인 Agentic Resource Discovery(ARD)는 에이전트가 이러한 질문에 스스로 답할 수 있도록 하는 것을 목표로 합니다. 그 뒤에는 Google, Microsoft, Cisco, Nvidia, Salesforce 등이 있습니다.",
+    "url": "https://www.cio.com/article/4187306/solving-an-ard-problem-in-ai-agentic-resource-discovery-3.html",
+    "image": null,
+    "date": "2026-06-19T16:39:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1ua6gv6/in_the_span_of_3_days_noam_shazeer_transformer/",
+    "platform": "Reddit",
+    "title": "In the span of 3 days: Noam Shazeer (Transformer co-author) leaves Google for OpenAI, and John Jumper (Nobel laureate, AlphaFold lead) leaves Google DeepMind for Anthropic",
+    "author": {
+      "name": "/u/TorturedPoet30",
+      "handle": "/u//u/TorturedPoet30",
+      "avatar_color": "#ff4500"
+    },
+    "content": "In the span of 3 days: Noam Shazeer (Transformer co-author) leaves Google for OpenAI, and John Jumper (Nobel laureate, AlphaFold lead) leaves Google DeepMind for Anthropic",
+    "summary_ko": "3일 동안: Noam Shazeer(Transformer 공동 저자)는 OpenAI를 위해 Google을 떠났고 John Jumper(노벨상 수상자, AlphaFold 리드)는 Google DeepMind를 떠나 Anthropic을 위해 떠났습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1ua6gv6/in_the_span_of_3_days_noam_shazeer_transformer/",
+    "image": "https://preview.redd.it/o8483h9cm98h1.png?width=320&crop=smart&auto=webp&s=7df2fcab62b80e25f6534abbfe79c54a2017fef4",
+    "date": "2026-06-19T16:23:15.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1ua5gj5/yet_another_beautifull_aheadfrom_face_revealed/",
+    "platform": "Reddit",
+    "title": "Yet another beautifull AheadFrom face revealed",
+    "author": {
+      "name": "/u/Distinct-Question-16",
+      "handle": "/u//u/Distinct-Question-16",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Yet another beautifull AheadFrom face revealed",
+    "summary_ko": "또 다른 아름다운 AheadFrom 얼굴 공개",
+    "url": "https://www.reddit.com/r/singularity/comments/1ua5gj5/yet_another_beautifull_aheadfrom_face_revealed/",
+    "image": "https://external-preview.redd.it/NWYzbjR5dW1mOThoMf3wqquBnWaUYEptrvoP2rcFTJ57t7hxwG20GB8Y3LFx.png?width=640&crop=smart&auto=webp&s=236a30b4536d7ca908e71282d69932aee20869aa",
+    "date": "2026-06-19T15:44:46.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187280/google-microsoft-offer-specs-to-help-you-prove-your-ai-is-behaving-nicely.html",
+    "platform": "CIO",
+    "title": "Google, Microsoft offer specs to help you prove your AI is behaving nicely",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Google, Microsoft offer specs to help you prove your AI is behaving nicely",
+    "summary_ko": "Google, Microsoft는 AI가 훌륭하게 작동하는지 입증하는 데 도움이 되는 사양을 제공합니다. Google, Microsoft, Open AI 등은 기업이 새로운 기반 구축을 통해 AI 애플리케이션이 스스로 작동하고 있음을 입증할 수 있도록 돕고 싶어합니다. Appia 재단은 \"글로벌 AI 가치 사슬 전반에 걸쳐 실용적이고 신뢰할 수 있는 평가와 기초 글로벌 표준을 연결하는 연결 계층을 제공하는 모듈식 사양을 확립\"할 것이라고 다소 난해하게 설명했습니다.",
+    "url": "https://www.cio.com/article/4187280/google-microsoft-offer-specs-to-help-you-prove-your-ai-is-behaving-nicely.html",
+    "image": null,
+    "date": "2026-06-19T14:52:24.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187252/openai-adds-spend-controls-and-usage-analytics-to-chatgpt-enterprise.html",
+    "platform": "CIO",
+    "title": "OpenAI adds spend controls and usage analytics to ChatGPT Enterprise",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "OpenAI adds spend controls and usage analytics to ChatGPT Enterprise",
+    "summary_ko": "Open AI는 Chat GPT Enterprise에 지출 제어 및 사용 분석을 추가합니다. Open AI는 조직이 AI 도입을 모니터링하고, 팀 전체의 소비를 추적하고, AI 사용에 대한 예산을 설정할 수 있도록 Chat GPT Enterprise에 대한 지출 제어 및 향상된 사용 분석을 도입했습니다. 그러나 분석가들은 이러한 비용이 어떻게 비즈니스 이점으로 이어지는지 아직 보여줄 수 없다고 경고했습니다.",
+    "url": "https://www.cio.com/article/4187252/openai-adds-spend-controls-and-usage-analytics-to-chatgpt-enterprise.html",
+    "image": null,
+    "date": "2026-06-19T13:55:36.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
+    "platform": "Reddit",
+    "title": "What's more impressive, GLM 5.1 -> 5.2 or Qwen 3.5 -> 3.6?",
+    "author": {
+      "name": "/u/Excellent_Jelly2788",
+      "handle": "/u//u/Excellent_Jelly2788",
+      "avatar_color": "#ff4500"
+    },
+    "content": "What's more impressive, GLM 5.1 -> 5.2 or Qwen 3.5 -> 3.6?",
+    "summary_ko": "GLM 5. 1 -> 5. 2 또는 Qwen 3. 5 -> 3.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ua1na0/whats_more_impressive_glm_51_52_or_qwen_35_36/",
+    "image": "https://external-preview.redd.it/bTlkb201OXdnODhoMQLQ6d8st2IrmTL5uQgLqD1jsi8M4GPgep8nN9rI7Gyc.png?width=640&crop=smart&auto=webp&s=86a321c57a17f7b93df56245ae8bd12bb9b6d892",
+    "date": "2026-06-19T13:11:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4187212/la-carrera-por-abaratar-la-ia-asi-intentan-las-empresas-bajar-el-coste-de-los-tokens.html",
     "platform": "CIO",
     "title": "La carrera por abaratar la IA: así intentan las empresas bajar el coste de los ‘tokens’",
@@ -91,6 +218,23 @@
     "url": "https://www.cio.com/article/4186890/your-next-data-center-could-soon-be-in-space-heres-why-you-should-care.html",
     "image": null,
     "date": "2026-06-19T09:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u9w6my/researchers_trained_a_deep_research_agent_with_32/",
+    "platform": "Reddit",
+    "title": "Researchers trained a Deep Research agent with 32 H100s and open-sourced everything",
+    "author": {
+      "name": "/u/BuildwithVignesh",
+      "handle": "/u//u/BuildwithVignesh",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Researchers trained a Deep Research agent with 32 H100s and open-sourced everything",
+    "summary_ko": "연구원들은 32개의 H100으로 Deep Research 에이전트를 교육하고 모든 것을 오픈 소스로 제공했습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u9w6my/researchers_trained_a_deep_research_agent_with_32/",
+    "image": "https://preview.redd.it/hdrqhare878h1.png?width=640&crop=smart&auto=webp&s=1207b6e96b3fa00c41dc3254251976b3a01467cb",
+    "date": "2026-06-19T08:20:43.000Z",
     "likes": 0,
     "comments": 0
   },
