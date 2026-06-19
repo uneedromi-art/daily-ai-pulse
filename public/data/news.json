@@ -1,5 +1,195 @@
 [
   {
+    "id": "https://www.cio.com/article/4187212/la-carrera-por-abaratar-la-ia-asi-intentan-las-empresas-bajar-el-coste-de-los-tokens.html",
+    "platform": "CIO",
+    "title": "La carrera por abaratar la IA: así intentan las empresas bajar el coste de los ‘tokens’",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "La carrera por abaratar la IA: así intentan las empresas bajar el coste de los ‘tokens’",
+    "summary_ko": "AI를 더 저렴하게 만들기 위한 경쟁: 이것이 기업이 토큰 비용을 낮추려고 노력하는 방법입니다. 생성적 AI 도구와 서비스가 매우 보편화되고 대중화되었기 때문에 이를 사용하는 데 드는 비용이 급등하여 토큰에 대한 만족할 수 없는 식욕을 불러일으킵니다. 이는 AI 사용량을 측정하고 가격을 책정하는 일반적인 방법을 나타냅니다. 영어의 문자 및 단어와 마찬가지로 LLM(대형 언어 모델)은 단어를 토큰으로 분해하여 구문이나 쿼리를 이해합니다.",
+    "url": "https://www.cio.com/article/4187212/la-carrera-por-abaratar-la-ia-asi-intentan-las-empresas-bajar-el-coste-de-los-tokens.html",
+    "image": null,
+    "date": "2026-06-19T12:12:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187186/gracia-sanchez-vizcaino-securitas-el-cio-que-solo-gestiona-sistemas-va-a-perder-relevancia-frente-al-que-lidera-la-transformacion-del-modelo-operativo-completo.html",
+    "platform": "CIO",
+    "title": "Gracia Sánchez-Vizcaíno (Securitas): “El CIO que solo gestiona sistemas va a perder relevancia frente al que lidera la transformación del modelo operativo completo”",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Gracia Sánchez-Vizcaíno (Securitas): “El CIO que solo gestiona sistemas va a perder relevancia frente al que lidera la transformación del modelo operativo completo”",
+    "summary_ko": "Gracia Sánchez-Vizcaíno(Securitas): \"시스템만 관리하는 CIO는 전체 운영 모델의 변화를 주도하는 CIO에 비해 관련성을 잃을 것입니다. \" 컴퓨터 엔지니어 Gracia Sánchez-Vizcaíno는 2020년부터 스페인과 라틴 아메리카에서 보안 다국적 기업인 Securitas의 디지털 및 기술 혁신을 주도하는 책임을 맡고 있는 스페인의 저명한 임원입니다. 올해 CIO는 최고의 정보 시스템 관리자(CIO)와 가장 혁신적인 IT 프로젝트를 구별하고자 하는 스페인 최고의 시상 대회인 CIO 50 Awards의 심사위원단의 일원입니다.",
+    "url": "https://www.cio.com/article/4187186/gracia-sanchez-vizcaino-securitas-el-cio-que-solo-gestiona-sistemas-va-a-perder-relevancia-frente-al-que-lidera-la-transformacion-del-modelo-operativo-completo.html",
+    "image": null,
+    "date": "2026-06-19T10:12:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4179381/cios-tear-down-the-wall-between-resilience-and-data-security.html",
+    "platform": "CIO",
+    "title": "CIOs: tear down the wall between resilience and data security",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "CIOs: tear down the wall between resilience and data security",
+    "summary_ko": "CIO: 탄력성과 데이터 보안 사이의 벽을 허물어보세요. 수년 동안 복원력과 데이터 보안은 별도의 조직 사일로에서 운영되었습니다. 복원력 팀은 시스템 실행을 유지하는 데 중점을 두었고, 보안 팀은 데이터를 안전하게 유지하는 데 중점을 두었습니다. 그들은 서로 다른 브리핑에 참석했고, 서로 다른 지휘 체계를 통해 보고되었으며, 대부분의 기업에서는 서로 거의 대화하지 않았습니다.",
+    "url": "https://www.cio.com/article/4179381/cios-tear-down-the-wall-between-resilience-and-data-security.html",
+    "image": null,
+    "date": "2026-06-19T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186830/mclaren-f1-embraces-ai-powered-itsm-to-build-race-day-infrastructure.html",
+    "platform": "CIO",
+    "title": "McLaren F1 embraces AI-powered ITSM to build race-day infrastructure",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "McLaren F1 embraces AI-powered ITSM to build race-day infrastructure",
+    "summary_ko": "Mc Laren F1은 AI 기반 ITSM을 채택하여 경주용 인프라를 구축합니다. 76년 동안 Formula 1은 자동차 엔지니어링의 정점을 추구해 왔습니다. 모터스포츠의 각 시즌은 여러 국가에서 특수 제작된 서킷과 폐쇄 도로에서 진행되는 일련의 경주 또는 그랑프리로 구성됩니다. 이제 데이터와 AI가 모든 F1 레이싱 팀 운영의 중심이 되면서 IT 부서는 각 이벤트 며칠 전에 각 레이스 장소에서 필요한 인프라를 조립하기 위해 경쟁합니다.",
+    "url": "https://www.cio.com/article/4186830/mclaren-f1-embraces-ai-powered-itsm-to-build-race-day-infrastructure.html",
+    "image": null,
+    "date": "2026-06-19T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4186890/your-next-data-center-could-soon-be-in-space-heres-why-you-should-care.html",
+    "platform": "CIO",
+    "title": "Your next data center could soon be in space. Here’s why you should care",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Your next data center could soon be in space. Here’s why you should care",
+    "summary_ko": "귀하의 다음 데이터 센터는 곧 우주에 있을 수 있습니다. 당신이 관심을 가져야 하는 이유는 다음과 같습니다. 지난 20년 동안 기업 인프라 전략은 하나의 지배적인 가정에 의해 형성되었습니다. 즉, 클라우드는 최신 컴퓨팅이 이루어지는 곳입니다.",
+    "url": "https://www.cio.com/article/4186890/your-next-data-center-could-soon-be-in-space-heres-why-you-should-care.html",
+    "image": null,
+    "date": "2026-06-19T09:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187134/%ec%9d%b8%ed%85%94-sk%ed%95%98%ec%9d%b4%eb%8b%89%ec%8a%a4-%eb%8c%80%ed%91%9c-%ec%b6%9c%ec%8b%a0-%ec%9d%b4%ec%84%9d%ed%9d%ac-%ec%88%98%ec%84%9d-%eb%b6%80%ec%82%ac%ec%9e%a5-%ec%84%a0%ec%9e%84.html",
+    "platform": "CIO",
+    "title": "인텔, SK하이닉스 대표 출신 이석희 수석 부사장 선임…립부 탄 CEO에 직보",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "인텔, SK하이닉스 대표 출신 이석희 수석 부사장 선임…립부 탄 CEO에 직보",
+    "summary_ko": "인텔은 19일 이석희 수석 부사장이 인텔 CEO 립부 탄에게 직접 보고하는 체계 아래 첨단 패키징, 시스템 통합, 백엔드 기술 개발 및 백엔드 제조 조직을 총괄하게 된다고 밝혔다. 이번 인사는 인텔 파운드리 사업의 경쟁력 강화를 위한 조직 개편의 일환이다. 인텔은 첨단 패키징을 전략적 핵심 사업 분야로 육성하기 위해 전담 경영 체계를 구축하고 있다. 인텔은 보도자료를 통해 인텔 파운드리 전략 고도화의 일환으로 첨단 패키징을 핵심 사업 분야로 육성하기 위해 전담 경영 체계를 구축했다고 밝혔다.",
+    "url": "https://www.cio.com/article/4187134/%ec%9d%b8%ed%85%94-sk%ed%95%98%ec%9d%b4%eb%8b%89%ec%8a%a4-%eb%8c%80%ed%91%9c-%ec%b6%9c%ec%8b%a0-%ec%9d%b4%ec%84%9d%ed%9d%ac-%ec%88%98%ec%84%9d-%eb%b6%80%ec%82%ac%ec%9e%a5-%ec%84%a0%ec%9e%84.html",
+    "image": null,
+    "date": "2026-06-19T08:04:34.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187130/%ec%b9%bc%eb%9f%bc-%eb%af%b8%ed%86%a0%ec%8a%a4%ea%b0%80-%eb%b0%94%ea%be%bc-%ea%b2%83%ec%9d%80-%ea%b3%b5%ea%b2%a9-%eb%b0%a9%ec%8b%9d%ec%9d%b4-%ec%95%84%eb%8b%88%eb%8b%a4-%eb%8c%80%ec%9d%91-%ec%8b%9c.html",
+    "platform": "CIO",
+    "title": "칼럼 | 미토스가 바꾼 것은 공격 방식이 아니다, 대응 시간이다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 미토스가 바꾼 것은 공격 방식이 아니다, 대응 시간이다",
+    "summary_ko": "사이버보안 업계에는 오랫동안 암묵적인 규칙이 있었다. 연구자가 취약점을 발견하면 해당 기업이 이를 패치할 수 있도록 일정 기간 관련 정보를 공개하지 않는 관행이다. 이후 익스플로잇 정보는 CVE(Common Vulnerabilities and Exposures) 채널에 등록되고 보안 커뮤니티가 대응에 나섰지만, 그전까지는 문제를 수정할 수 있는 시간이 존재했다. 방어를 준비할 수 있는 여유가 있었던 것이다. 하지만 이제 그런 시간적 여유는 사라졌다. 미토스(Mythos)가 그것을 없애버렸다.",
+    "url": "https://www.cio.com/article/4187130/%ec%b9%bc%eb%9f%bc-%eb%af%b8%ed%86%a0%ec%8a%a4%ea%b0%80-%eb%b0%94%ea%be%bc-%ea%b2%83%ec%9d%80-%ea%b3%b5%ea%b2%a9-%eb%b0%a9%ec%8b%9d%ec%9d%b4-%ec%95%84%eb%8b%88%eb%8b%a4-%eb%8c%80%ec%9d%91-%ec%8b%9c.html",
+    "image": null,
+    "date": "2026-06-19T07:41:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187109/%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%ec%97%b4%ed%92%8d%ec%9d%80-%eb%81%9d%eb%82%ac%eb%8b%a42026%eb%85%84-%ea%b0%80%ec%9e%a5-%ea%b5%ac%ed%95%98.html",
+    "platform": "CIO",
+    "title": "‘프롬프트 엔지니어’ 열풍은 끝났다…2026년 가장 구하기 어려운 IT 인재 11선",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "‘프롬프트 엔지니어’ 열풍은 끝났다…2026년 가장 구하기 어려운 IT 인재 11선",
+    "summary_ko": "요즘은 특정 전문 인력을 채용하는 일이 비교적 수월하다. SOC 분석가, 머신러닝(ML) 연구원, 클라우드 아키텍트 등이 대표적이다. 이런 직무는 몇 주 안에 채용이 완료되는 경우가 많다. 반면 6~9개월 동안 공석으로 남는 자리는 하이브리드 직무다. AI를 능숙하게 활용하면서도 깊이 있는 개발 역량을 갖추고 비즈니스까지 이해하는 엔지니어가 이에 해당한다.",
+    "url": "https://www.cio.com/article/4187109/%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%ec%97%b4%ed%92%8d%ec%9d%80-%eb%81%9d%eb%82%ac%eb%8b%a42026%eb%85%84-%ea%b0%80%ec%9e%a5-%ea%b5%ac%ed%95%98.html",
+    "image": null,
+    "date": "2026-06-19T07:28:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187102/%eb%af%b8%ea%b5%ad-ai-%ec%88%98%ec%b6%9c-%ea%b7%9c%ec%a0%9c%ec%97%90-%eb%a7%89%ed%9e%8c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%8b%a0%eb%b6%84%ec%a6%9d-%ec%9d%b8%ec%a6%9d%ec%9c%bc%eb%a1%9c-%eb%8f%8c.html",
+    "platform": "CIO",
+    "title": "미국 AI 수출 규제에 막힌 앤트로픽, 신분증 인증으로 돌파구 찾나",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "미국 AI 수출 규제에 막힌 앤트로픽, 신분증 인증으로 돌파구 찾나",
+    "summary_ko": "앤트로픽이 자사 서비스 이용자 가운데 외국 국적자를 식별하지 못하는 것으로 보이면서, 미국 정부의 최고 성능 AI 모델 수출 제한 조치가 예상치 못한 부작용을 낳고 있다. 다만 일부 사용자에게는 이를 우회할 수 있는 방법이 존재할 가능성이 제기된다. 미국 정부는 지난 금요일 국가 안보를 이유로 앤트로픽에 미국 국적자가 아닌 이용자의 페이블과 미토스 접근을 중단하라고 명령했다. 두 모델은 불과 며칠 전 공개된 최신 AI 모델이다.",
+    "url": "https://www.cio.com/article/4187102/%eb%af%b8%ea%b5%ad-ai-%ec%88%98%ec%b6%9c-%ea%b7%9c%ec%a0%9c%ec%97%90-%eb%a7%89%ed%9e%8c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%8b%a0%eb%b6%84%ec%a6%9d-%ec%9d%b8%ec%a6%9d%ec%9c%bc%eb%a1%9c-%eb%8f%8c.html",
+    "image": null,
+    "date": "2026-06-19T06:39:36.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187085/%ec%88%98%ec%84%b8-%ec%86%8c%eb%b2%84%eb%a6%b0-ai-%ed%95%b5%ec%8b%ac%ec%9d%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%95%84%eb%8b%8c-%ec%84%a0%ed%83%9d%ea%b6%8cai-%ec%8b%9c%eb%8c%80-%ec%98%a4.html",
+    "platform": "CIO",
+    "title": "수세 “소버린 AI 핵심은 기술 선택권…AI 시대 오픈소스 역할 더 커진다”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "수세 “소버린 AI 핵심은 기술 선택권…AI 시대 오픈소스 역할 더 커진다”",
+    "summary_ko": "수수세는 소버린 AI를 단순히 데이터나 AI 모델에 대한 통제권이 아닌, 클라우드와 운영체제(OS), AI 모델, 쿠버네티스 플랫폼 등 인프라 전반에서 벤더 종속성을 최소화하고 기업이 자율적으로 기술을 활용할 수 있는 환경으로 정의했다. 이날 수세는 이를 뒷받침하기 위한 오픈소스 기반 인프라 전략과 AI 포트폴리오를 소개했다. 특히 수세는 최근 기업들이 주목하는 소버린 AI를 단순히 데이터의 물리적 위치나 국가별 AI 모델 개발 관점으로만 해석해서는 안 된다고 보고 있다.",
+    "url": "https://www.cio.com/article/4187085/%ec%88%98%ec%84%b8-%ec%86%8c%eb%b2%84%eb%a6%b0-ai-%ed%95%b5%ec%8b%ac%ec%9d%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%95%84%eb%8b%8c-%ec%84%a0%ed%83%9d%ea%b6%8cai-%ec%8b%9c%eb%8c%80-%ec%98%a4.html",
+    "image": null,
+    "date": "2026-06-19T05:59:36.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4185912/why-agentic-architecture-is-still-so-puzzling.html",
     "platform": "CIO",
     "title": "Why agentic architecture is still so puzzling",
@@ -5643,205 +5833,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1tntdui/users_who_rage_quit_my_software/",
     "image": null,
     "date": "2026-05-26T02:20:15.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://medium.com/the-structure-of-seeing/to-exist-is-a-verb-not-a-noun-586319ba7be1?source=rss------artificial_intelligence-5",
-    "platform": "Medium",
-    "title": "To Exist Is a Verb, Not a Noun",
-    "author": {
-      "name": "Paolo Calvi",
-      "handle": "@medium",
-      "avatar_color": "#000000",
-      "avatar_url": null
-    },
-    "content": "Where aesthetics meets power. Where the eye meets the system. The Structure of Seeing explores how perception is shaped by systems of power, valuation, and meaning — not as expression, but as structure. — To exist is to be a difference doing work to avoid dissolution. Perfectly still. Perfectly uniform. Water everywhere, identical, without a single difference anywhere. In that lake, nothing exists. Not because there is no water — but because there is no difference. And without difference you cannot point to anything, name anything, see anything. It hits the water and creates a wave. The wave is different from the rest of the lake — it moves, it has a shape, it has a centre. It has a boundary that separates it from what it is not. To exist means to be different from everything else — and to sustain that difference. Everything I want to propose is contained in this. The rest is working out what it means, and what follows. Philosophy has spent centuries trying to answer the question what exists? by starting from substances — things, atoms, essences, the fundamental properties of reality. An entity — any entity — is not a substance, not a property, not an atomic fact. It is a difference that has found a way to perpetuate itself in a field that tends toward indifferentiation. Difference — every entity is defined not by what it is in itself, but by what it is not. A boundary, not a content. An apple is an apple because it is not air, not branch, not juice. Identity is always relational — it does not exist in isolation. Stability — not every difference constitutes an entity. A random fluctuation is not an entity. An entity is a difference that has an internal structure capable of resisting perturbation — at least for a detectable duration. Maintenance — stability is not static. It is dynamic. Every entity continuously does work to remain itself against the pressure of the surrounding field. To exist is a verb, not a noun. The problem with most ontologies is that they treat all entities as though they exist in the same way. They do not. There are five radically different ways of being a stable difference in the world. Five kinds of ontological work. A stone exists because the laws of physics hold together the atoms that compose it. It does not participate in its own maintenance. It decides nothing. The laws work on its behalf. This is the most solid way of existing. And the most impoverished: it exists completely, but not for itself. A tree is different from a stone. If you cut it, it tries to seal the wound. If there is no rain, it extends its roots. It participates actively in its own maintenance — it does not wait for the laws to hold it together, it collaborates. Here something ontologically new appears: internal normativity. For the first time, an entity can exist well or badly relative to its own structure. A healthy tree and a sick tree do not exist in the same way. A mind does not maintain itself only through physical structures or biological programmes. It maintains itself by constructing models of the world and of itself — and using those models to anticipate, correct, adapt. Here the distance from the present emerges. A physical entity exists only now. A biological entity reacts to the present. A mental entity exists in relation to what is not present — the remembered past, the anticipated future, the imagined possible. Subjective time — the felt arrow of time, the sense of duration — begins at this level. Not before. The fourth mode — things that exist because we believe in them A twenty-euro note is physically a piece of paper with ink on it. And yet it has real power. Because millions of people have collectively decided that it does. The day everyone stopped believing this, that paper would be worth nothing. Not because it had changed physically — because the agreement that made it exist as money had dissolved. This is how they exist: borders between nations, laws, crimes, promises, institutions, markets. They are real — they produce causal effects in the world — but they exist only as long as someone sustains them through belief and behaviour. They are simultaneously the most fragile and the most powerful things there are. The Roman Empire no longer exists not because it was physically destroyed. Because no one sustains the agreements that constituted it. And if there were no one to count — no human being, no animal, no mind in the universe — would two plus two still equal four? Numbers, mathematical relations, logical truths do not depend on physical laws, biology, minds, or agreements. They could not be otherwise without contradiction. They need no work to exist — they exist by necessity. Where are they? No one knows with certainty. They are the necessary structures of any possible difference — the forms that any system of distinctions must have to be coherent. They are not in the world. They are the conditions of possibility of any world. The five levels are not separate. They are traversed by the same founding principle — difference that maintains itself — realised through different means and with increasing degrees of reflexive complexity. Each level presupposes the levels below it but is not reducible to them. A mind presupposes biology — but thoughts are not neurons. A social entity presupposes minds — but money is not an individual thought. A formal entity presupposes the possibility of distinctions — but the number seven is not a social agreement. This is the answer to the long dispute between reductionism and dualism: neither. The levels are real and irreducible — but they are not separate substances. They are different modes of realising the same principle. Leibniz called this the question: why is there something rather than nothing? Every answer that has been attempted generates a new problem. God created everything — but then why does God exist? The Big Bang — but what was there before the Big Bang? Something has always existed — but why? What prevented nothing? The theory proposed here offers a structural response. Absolute nothing is ontologically impossible — not contingently, but necessarily. Absolute nothing would require the absence of any distinction whatsoever, including the distinction between nothing and being. A nothing that distinguishes itself from being is already something. A nothing that does not distinguish itself from being is not nothing: it is the undifferentiated, which is the condition of possibility for differences, not their absence. We return to the lake. The perfectly uniform lake is not nothing — it is the undifferentiated field. Absolute nothing would be something still more impossible: the absence even of that field. The right question is not why is there something rather than nothing . It is: Why did the original undifferentiated field produce stable differences? This is a scientific question — cosmology, the physics of quantum fluctuations — not only a philosophical one. Philosophy establishes that the question has this form. Science attempts to answer it. A general theory of ontology must say where the subject who constructs it is located. You are an entity of the third kind that has developed the capacity to observe the system of levels of which it is a part — without being able to step outside it. You cannot do ontology from outside ontology. No one can. Like an eye that cannot see itself seeing — but can build progressively more precise models of itself, without ever completing them. You are a wave that knows it is a wave. That asks why it exists. That thinks about other waves. That invents theories about how the lake is made. If the entire theory had to condense into a single formulation: To exist means to be a difference doing work to avoid dissolution — and ontology is the map of all the ways in which this work is done. The stone does it with physics. The tree does it with biology. You do it with mind. The promise does it with trust. The number seven does not need to do it — it exists already, by necessity, without effort. The hard problem of consciousness — why at the mental level there is something it is like to exist — remains without explanation. The functional structure is describable. Subjective experience is not. The status of formal entities — is logical necessity a form of existence or a property of thought? The tension between Platonism and mathematical constructivism is not resolved. The origin of the undifferentiated field — the theory explains why absolute nothing is impossible, but does not explain why the original field has the structure it has: the one capable of producing stable differences. These three gaps are not eliminable defects. They are the structural limits of any possible ontology — the points where thought touches its own boundary and must stop, not from laziness, but from honesty. This is the first of three essays on ontology. The second turns from being to classification and power. The third examines artificial intelligence as a mirror of human ontological structures. Published in The Structure of Seeing 16 followers · Last published just now Where aesthetics meets power. Where the eye meets the system. The Structure of Seeing explores how perception is shaped by systems of power, valuation, and meaning — not as expression, but as structure. What actors can sustain matters more than what they say. Mapping power systems, systemic risk and Europe& ;s structural position.",
-    "summary_ko": "미학과 힘이 만나는 곳. 눈이 시스템과 만나는 곳. The Structure of Seeing은 표현이 아닌 구조로서 권력, 가치 평가 및 의미 시스템에 의해 인식이 어떻게 형성되는지 탐구합니다. — 존재한다는 것은 해체를 피하기 위해 노력하는 차이가 되는 것입니다. 완벽하게 조용합니다.",
-    "url": "https://medium.com/the-structure-of-seeing/to-exist-is-a-verb-not-a-noun-586319ba7be1?source=rss------artificial_intelligence-5",
-    "image": "https://cdn-images-1.medium.com/max/2600/1*J2hwPC7i1-GJlaMslw0V9g.jpeg",
-    "date": "2026-05-20T06:54:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://medium.com/dev-simplified/the-ai-shift-is-happening-are-you-part-of-it-or-falling-behind-bf60c2c71fbb?source=rss------machine_learning-5",
-    "platform": "Medium",
-    "title": "The AI Shift Is Happening — Are You Part of It or Falling Behind?",
-    "author": {
-      "name": "Neha Gupta",
-      "handle": "@medium",
-      "avatar_color": "#000000",
-      "avatar_url": null
-    },
-    "content": "Dev Simplified is a go-to hub for the world of software development. From the newest frameworks, and best practices to building efficient solutions, we simplify difficult ideas into clear tutorials and guidelines. Join us Newsletter Image A few months ago, most developers were asking: “How do I work with AI without becoming irrelevant?” Over the last few months, I’ve been spending a lot of time experimenting with AI tools, workflows, prompt engineering, and real-world implementations — not just watching tutorials, but actually building with AI. The developers getting ahead aren’t necessarily the ones who know the most AI buzzwords. They’re the ones who are building small real-world projects , experimenting, failing fast, and learning how AI fits into actual workflows. Because watching AI tutorials alone won’t make someone AI-ready. That’s one of the biggest reasons we continue sharing practical AI content through Dev Simplified — to break down complex concepts into beginner-friendly, real-world learning. 🔹 I Stopped Coding the Old Way After Trying These 10 AI Tools in 2026 Explore 10 AI tools for “10x productivity” [ Medium Story Link] 🔹 Most Developers Use Chat GPT Wrong Stop treating Chat GPT like Google — The Workflow That Actually Saves Me Hours. [Medium Story Link] 🔹 Complete Lang Graph Roadmap The 18 Concepts You Actually Need to Learn to Build AI Agents [Medium Story Link] ✅ AI engineering roadmaps ✅ Lang Chain & agentic workflows ✅ Prompt engineering ✅ Full-stack AI integrations ✅ Career opportunities in AI Make AI easier to understand and easier to build with. If AI feels overwhelming right now, don’t overthink it. If you’re writing technical content, sharing developer experiences, or documenting your AI journey — Slide us a private DM on any of our stories with your article link , and let’s explore publishing it with the community. Published in Dev Simplified 509 followers · Last published just now Dev Simplified is a go-to hub for the world of software development. From the newest frameworks, and best practices to building efficient solutions, we simplify difficult ideas into clear tutorials and guidelines. Join us Full Stack Developer | AI Enthusiast | Freelancer | Tech Career Coach | Writer | Artist",
-    "summary_ko": "Dev Simplified는 소프트웨어 개발 세계를 위한 허브입니다. 최신 프레임워크와 모범 사례부터 효율적인 솔루션 구축에 이르기까지 어려운 아이디어를 명확한 튜토리얼과 지침으로 단순화합니다. 뉴스레터 이미지 몇 달 전, 대부분의 개발자들은 “어떻게 하면 무관심하지 않고 AI로 작업할 수 있나요?”라고 묻고 있었습니다.",
-    "url": "https://medium.com/dev-simplified/the-ai-shift-is-happening-are-you-part-of-it-or-falling-behind-bf60c2c71fbb?source=rss------machine_learning-5",
-    "image": "https://cdn-images-1.medium.com/max/1986/1*FL6w5AWspJqOhHXRjjsEvw.png",
-    "date": "2026-05-20T05:50:35.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://medium.com/activated-thinker/i-forced-chatgpt-to-disagree-with-me-for-30-days-7ee3fe604bf0?source=rss------generative_ai-5",
-    "platform": "Medium",
-    "title": "What Happened Was Beyond My Imagination (I Forced ChatGPT to Disagree With Me for 30 Days)",
-    "author": {
-      "name": "Kainat",
-      "handle": "@medium",
-      "avatar_color": "#000000",
-      "avatar_url": null
-    },
-    "content": "I was shocked enough to pass out when I realized I wasn’t learning anything. Most of us only use Chat GPT for VALIDATION not THINKING . I Forced Chat GPT to Disagree With Me for 30 Days (Generated by Chat GPT) For months, I thought I was “getting better” with Chat GPT. My prompts were cleaner. My outputs looked smarter. My content felt more polished. But something was still off. Suddenly, everything I wrote started sounding the same. Safe. Predictable. Agreeable. I wasn’t using AI to think better. I was using it to feel right. So, I decided to try something uncomfortable. I gave Chat GPT one rule for 30 days: I have to admit that the first few responses were frustrating. Instead of helping me, Chat GPT started: I started to feel like the tool got worse. But psychologically, something deeper was happening: “We don’t use AI for intelligence. We use it for validation.” Write an engaging intro for an article about Chat GPT productivity hacks. Proof of Conversation with Chat GPT Chat GPT’s response was clean, polished, and completely forgettable. Here is the new prompt I used during the experiment. Write an intro for this topic. Then critique it harshly like an editor who rejects average content. Rewrite it to be more original and psychologically engaging. Proof .1 of Conversation with Chat GPT So, what does that one change give me? It give the response with: Whenever Chat GPT disagreed with me, I felt resistance. It was not because it was wrong. But because I didn’t like being challenged. That’s when I wrote this in my notes: “If AI always agrees with you, it’s not helping you, it’s enabling you.” This time my original idea was that I should write more list-based articles because they perform well. So, old me gave the prompt: Proof of Conversation with Chat GPT See again, it’s just validation. Challenge this idea like a brutal strategist. Why might relying on list-based articles hurt long-term growth? Proof .1 of Conversation with Chat GPT Now, see that difference. This response changed my entire content strategy because it forced me to think beyond surface success metrics. I finally realized that this wasn’t about prompts. It was about how I relate to intelligence. This time I was deciding between whether I should double down on SEO blogs or shift towards opinion-based content. So, I asked Chat GPT: Simulate both decisions. Show me outcomes in 3 months, 1 year, and worst-case scenario. Then argue against both choices. Proof of Conversation with Chat GPT Let me simplify the complete output for you. Proof .1 of Conversation with Chat GPT It finally told me the truth I was avoiding. “Your real problem isn’t choosing a path. It’s avoiding the risk of being wrong publicly.” That last line hit me harder than any “tip”. Because it exposed my fear, something deeper than strategy. Well I know this for a fact. Most of you people will not use this because it’s uncomfortable. I had been there. The AI Mirror That Fights Back (Generated by Chat GPT) Disagreement feels like: Challenge my thinking. Don’t agree with me. Find blind spots, weak logic, and hidden assumptions. It’s not about people who use AI vs those who don’t. It’s about: PEOPLE WHO WANT TO BE RIGHT VS PEOPLE WHO WANT TO THINK BETTER. Published in Activated Thinker 36K followers · Last published 2 hours ago You have the thought, but you need to turn it on. A Tech Storyteller of the Future! Let me break down AI & future tech for you... before it breaks you⚡",
-    "summary_ko": "나는 아무것도 배우지 못했다는 것을 깨달았을 때 기절할 만큼 충격을 받았습니다. 우리 대부분은 생각이 아닌 확인을 위해 채팅 GPT만 사용합니다. 30일 동안 Chat GPT가 나와 동의하지 않도록 강제했습니다. (Chat GPT에서 생성) 몇 달 동안 저는 Chat GPT가 '더 나아지고 있다'고 생각했습니다. 내 메시지가 더 깨끗했습니다. 내 결과가 더 똑똑해 보였습니다. 내 콘텐츠가 더 세련되게 느껴졌습니다. 하지만 아직 뭔가가 꺼져 있었습니다. 갑자기 내가 쓴 모든 것이 똑같이 들리기 시작했습니다. 안전한. 예측 가능합니다. 기분 좋은.",
-    "url": "https://medium.com/activated-thinker/i-forced-chatgpt-to-disagree-with-me-for-30-days-7ee3fe604bf0?source=rss------generative_ai-5",
-    "image": "https://cdn-images-1.medium.com/max/1448/1*EbmPPWIbmfAiFXmhhMx1Xg.png",
-    "date": "2026-05-20T04:40:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4173405/enterpriseclaw-wants-to-bring-governance-to-the-openclaw-era.html",
-    "platform": "CIO",
-    "title": "EnterpriseClaw wants to bring governance to the OpenClaw era",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "EnterpriseClaw wants to bring governance to the OpenClaw era",
-    "summary_ko": "Enterprise Claw는 Open Claw 시대에 거버넌스를 도입하고자 합니다. 자율 에이전트 오케스트레이션 도구인 Open Claw는 지난 11월에 등장해 즉시 입소문이 났지만 그 극적인 결함도 빠르게 드러났습니다. 그럼에도 불구하고 이는 에이전트 AI 시대의 중추적인 단계였으며 기업은 그 이후로 자율 에이전트 함대를 안전하고 안전하게 배포하는 방법을 모색해 왔습니다. Automation Anywhere는 화요일에 Cisco, Nvidia, Okta 및 Open AI와 협력하여 이 과제에 대한 해답인 Enterprise Claw를 출시했습니다.",
-    "url": "https://www.cio.com/article/4173405/enterpriseclaw-wants-to-bring-governance-to-the-openclaw-era.html",
-    "image": null,
-    "date": "2026-05-20T01:27:44.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4172518/ai%e3%81%af%e3%83%86%e3%83%83%e3%82%af%e4%ba%ba%e6%9d%90%e4%b8%8d%e8%b6%b3%e3%82%92%e8%a7%a3%e6%b1%ba%e3%81%97%e3%81%aa%e3%81%84-%e8%a7%a3%e6%b1%ba%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%ae.html",
-    "platform": "CIO",
-    "title": "AIはテック人材不足を解決しない——解決できるのはリーダーだ",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AIはテック人材不足を解決しない——解決できるのはリーダーだ",
-    "summary_ko": "AI는 테크 인력 부족을 해결하지 않는다. 해결할 수 있는 것은 리더다. AI가 채용 프로세스의 많은 단계에 통합되고 있는 현재 기술에 기대하는 목소리도 있다. 그러나 현실은 그렇지 않다. AI는 채용의 의사결정을 빠르게 할 수 있지만, 그 의사결정을 지원하는 시스템의 문제는 해결할 수 없기 때문이다. 학력 요건의 철폐는 진행되었지만, 많은 조직은 여전히 ​​실수를 저지르고 있다. 그리고 AI는 그 실수에 스피드와 데이터 드리븐이라는 이름의 정당성을 부여해 버리고 있다.",
-    "url": "https://www.cio.com/article/4172518/ai%e3%81%af%e3%83%86%e3%83%83%e3%82%af%e4%ba%ba%e6%9d%90%e4%b8%8d%e8%b6%b3%e3%82%92%e8%a7%a3%e6%b1%ba%e3%81%97%e3%81%aa%e3%81%84-%e8%a7%a3%e6%b1%ba%e3%81%a7%e3%81%8d%e3%82%8b%e3%81%ae.html",
-    "image": null,
-    "date": "2026-05-19T23:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
-    "platform": "Google",
-    "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "General Science",
-    "summary_ko": "IT·AI 뉴스 데스크 에디터입니다.\n\n요청하신 글의 요약을 작성해 드리려 했으나, 현재 제목만 있고 요약할 본문 내용이 없습니다. 정확하고 깊이 있는 요약을 위해서는 기사나 포스트의 전문이 필요합니다.\n\n내용을 제공해주시면 규칙에 맞춰 핵심을 담은 뉴스 요약을 작성해 드리겠습니다.",
-    "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
-    "image": null,
-    "date": "2026-05-19T17:52:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1thug7n/googles_antigravity_20_creates_an_operating/",
-    "platform": "Reddit",
-    "title": "Google's Antigravity 2.0 creates an operating system from scratch using 96 agents in 12 hours for under $1K in token costs - and it runs Doom",
-    "author": {
-      "name": "/u/Distinct-Question-16",
-      "handle": "/u//u/Distinct-Question-16",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Google's Antigravity 2.0 creates an operating system from scratch using 96 agents in 12 hours for under $1K in token costs - and it runs Doom",
-    "summary_ko": "Google의 Antigravity 2.0은 1,000달러 미만의 토큰 비용으로 12시간 안에 96개의 에이전트를 사용하여 운영 체제를 처음부터 생성하고 Doom을 실행합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1thug7n/googles_antigravity_20_creates_an_operating/",
-    "image": "https://external-preview.redd.it/M2xjZ2luZ2VzNDJoMQs6UOHVHVRCxhXkdEw0g3RjIg_G-YludTVnhW0HAdYQ.png?width=640&crop=smart&auto=webp&s=be616742b14560a9ac24166661568ccbf413575d",
-    "date": "2026-05-19T17:46:18.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1thtxs8/behold_gemini_35_flash/",
-    "platform": "Reddit",
-    "title": "Behold, Gemini 3.5 Flash!",
-    "author": {
-      "name": "/u/Rare_Bunch4348",
-      "handle": "/u//u/Rare_Bunch4348",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Behold, Gemini 3.5 Flash!",
-    "summary_ko": "보라, Gemini 3.5 플래시!",
-    "url": "https://www.reddit.com/r/singularity/comments/1thtxs8/behold_gemini_35_flash/",
-    "image": "https://preview.redd.it/5s28hi11q42h1.jpg?width=140&height=104&auto=webp&s=69c954bd0705682400681bfb528b6e6bc270a713",
-    "date": "2026-05-19T17:29:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1thq8ag/karpathy_is_a_founding_member_of_openai_and_now/",
-    "platform": "Reddit",
-    "title": "Karpathy is a founding member of OpenAI and now joining Anthropic. I wonder why",
-    "author": {
-      "name": "/u/py-net",
-      "handle": "/u//u/py-net",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Karpathy is a founding member of OpenAI and now joining Anthropic. I wonder why",
-    "summary_ko": "Karpathy는 OpenAI의 창립 멤버였으며 현재 Anthropic에 합류했습니다. 왜인지 궁금해요.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1thq8ag/karpathy_is_a_founding_member_of_openai_and_now/",
-    "image": "https://preview.redd.it/qs7pz33k342h1.jpeg?width=640&crop=smart&auto=webp&s=8876f0ed540c142acbfbe227e26ad840f3442647",
-    "date": "2026-05-19T15:23:22.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4173213/agentic-ai-wont-scale-on-ambition-it-will-scale-on-infrastructure.html",
-    "platform": "CIO",
-    "title": "Agentic AI won’t scale on ambition. It will scale on infrastructure.",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Agentic AI won’t scale on ambition. It will scale on infrastructure.",
-    "summary_ko": "에이전틱 AI가 기업에 빠르게 도입되고 있지만, 기술 발전 속도를 인프라가 따라가지 못하는 문제가 발생하고 있습니다. 시스코와 옴디아의 공동 조사에 따르면, 대다수 경영진이 에이전틱 AI의 전략적 중요성을 인정하면서도 네트워크 보안과 데이터 보호 등 기반 마련에 어려움을 겪고 있습니다. 이에 따라 AI 도입에 따른 리스크 증가를 막는 것이 기업의 중요 과제로 떠올랐습니다. 결국 에이전틱 AI의 성공적인 확장은 견고한 인프라와 보안, 거버넌스 구축에 달려있으며 이는 최고정보책임자(CIO)의 핵심 역할이 되었습니다.",
-    "url": "https://www.cio.com/article/4173213/agentic-ai-wont-scale-on-ambition-it-will-scale-on-infrastructure.html",
-    "image": null,
-    "date": "2026-05-19T15:09:48.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4172532/solving-healthcares-unique-security-challenges-the-role-of-zero-trust-and-sase.html",
-    "platform": "CIO",
-    "title": "Solving healthcare’s unique security challenges: The role of zero trust and SASE",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Solving healthcare’s unique security challenges: The role of zero trust and SASE",
-    "summary_ko": "헬스케어 분야의 보안 위협이 그 어느 때보다 커지고 있습니다. 의료진이 다양한 장소와 기기에서 환자 데이터에 접근하면서 공격에 노출될 지점이 크게 늘어났기 때문입니다. 실제로 헬스케어 분야의 데이터 유출 사고는 막대한 피해로 이어집니다. 크라우드스트라이크 보고서에 따르면 관련 피해액은 평균 977만 달러로 전 산업군 중 가장 높은 수준입니다. 이에 따라 복잡하고 분산된 환경의 보안 문제를 해결할 방안으로 제로 트러스트와 SASE 모델이 주목받고 있습니다.",
-    "url": "https://www.cio.com/article/4172532/solving-healthcares-unique-security-challenges-the-role-of-zero-trust-and-sase.html",
-    "image": null,
-    "date": "2026-05-19T13:26:17.000Z",
     "likes": 0,
     "comments": 0
   }
