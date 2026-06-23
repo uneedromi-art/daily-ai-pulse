@@ -1,5 +1,119 @@
 [
   {
+    "id": "https://www.cio.com/article/4188470/the-agentic-blueprint-engineering-autonomous-enterprises.html",
+    "platform": "CIO",
+    "title": "The agentic blueprint: Engineering autonomous enterprises",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "The agentic blueprint: Engineering autonomous enterprises",
+    "summary_ko": "에이전트 청사진: 엔지니어링 자율 기업. 에이전트 AI의 등장은 조직이 자동화에 대해 생각하는 방식과 완전히 자율적인 기업이 되는 길로 나아가는 방식을 바꾸고 있습니다. Agentic AI는 일상적인 작업 실행을 인간에서 독립적으로 워크플로를 관리할 수 있는 지능형 시스템으로 전환하여 기존 IT 모델을 혁신합니다. 예를 들어, AI 에이전트가 반품 상품 승인과 같은 요청을 자율적으로 처리할 수 있는 고객 서비스 사용 사례에서는 이미 효과적인 것으로 입증되었습니다.",
+    "url": "https://www.cio.com/article/4188470/the-agentic-blueprint-engineering-autonomous-enterprises.html",
+    "image": null,
+    "date": "2026-06-23T20:05:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4188478/jose-maria-fuster-van-bendegem-un-error-tipico-es-reducir-la-funcion-del-cio-a-la-del-cto.html",
+    "platform": "CIO",
+    "title": "José María Fuster van Bendegem: “Es un error reducir la función del CIO a la de CTO”",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "José María Fuster van Bendegem: “Es un error reducir la función del CIO a la de CTO”",
+    "summary_ko": "José María Fuster van Bendegem: \"CIO의 기능을 CTO의 기능으로 축소하는 것은 실수입니다. \" 엔지니어, 전 은행 최고 경영자, 스페인 학자... 의심할 여지 없이 José María Fuster van Bendegem은 스페인의 기술, 비즈니스 및 과학 현장에서 가장 다재다능하고 흥미로운 프로필 중 하나입니다.",
+    "url": "https://www.cio.com/article/4188478/jose-maria-fuster-van-bendegem-un-error-tipico-es-reducir-la-funcion-del-cio-a-la-del-cto.html",
+    "image": null,
+    "date": "2026-06-23T16:18:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187993/rewire-or-rebuild-the-ai-decision-every-cio-needs-to-get-right.html",
+    "platform": "CIO",
+    "title": "Rewire or rebuild? The AI decision every CIO needs to get right",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Rewire or rebuild? The AI decision every CIO needs to get right",
+    "summary_ko": "다시 배선할 것인가, 아니면 재구축할 것인가? 모든 CIO가 올바른 AI 결정을 내려야 합니다. 2026년에 모든 이사회, CEO, CIO가 대답해야 할 질문은 AI 사용 여부가 아닙니다. 보유한 것을 개선하기 위해 AI를 사용할지, 아니면 다시 시작할지 여부입니다.",
+    "url": "https://www.cio.com/article/4187993/rewire-or-rebuild-the-ai-decision-every-cio-needs-to-get-right.html",
+    "image": null,
+    "date": "2026-06-23T13:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187989/preventing-organizational-amnesia-in-the-age-of-ai.html",
+    "platform": "CIO",
+    "title": "Preventing organizational amnesia in the age of AI",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Preventing organizational amnesia in the age of AI",
+    "summary_ko": "AI 시대의 조직 기억상실을 예방합니다. 오늘날 많은 조직에 너무 익숙해진 현상인 조직 기억상실을 정의하는 것부터 시작하겠습니다. 대규모 해고로 인해 조직이 제도적 지식을 잃어가고 있는 것을 직접 목격했습니다. AI가 주류로 자리잡은 이후 기업이 더 적은 수의 직원으로 중간 사무실과 운영 기능을 실행할 수 있는 AI 시스템을 선택함에 따라 문제는 규모와 속도 면에서 더욱 악화되었습니다.",
+    "url": "https://www.cio.com/article/4187989/preventing-organizational-amnesia-in-the-age-of-ai.html",
+    "image": null,
+    "date": "2026-06-23T12:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187968/the-hidden-cost-of-becoming-ai-ready.html",
+    "platform": "CIO",
+    "title": "The hidden cost of becoming AI-ready?",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "The hidden cost of becoming AI-ready?",
+    "summary_ko": "AI 준비에 따른 숨겨진 비용?. 거버넌스 부채 레거시 시스템의 현대화는 새로운 현상이 아닙니다. 저는 개인적으로 레거시 시스템을 보다 효율적이고 현대적인 소프트웨어로 마이그레이션하는 데 참여해 왔습니다. 효율성 달성이라는 목표에 따라 마이그레이션이 다른 단계에서 계속되는 동안 초기 결과가 표시되는 데 몇 달이 걸릴 수 있습니다.",
+    "url": "https://www.cio.com/article/4187968/the-hidden-cost-of-becoming-ai-ready.html",
+    "image": null,
+    "date": "2026-06-23T11:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4187609/%ea%b8%88%ec%9c%b5%ea%b6%8c-96-ai-%eb%8f%84%ec%9e%85-%ec%8b%9c%eb%8f%84%ec%9a%b4%ec%98%81-%ec%a0%84%ed%99%98%ec%9d%80-19-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
+    "platform": "CIO",
+    "title": "“금융권 96% AI 도입 시도…운영 전환은 19%” 오픈텍스트 조사결과",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“금융권 96% AI 도입 시도…운영 전환은 19%” 오픈텍스트 조사결과",
+    "summary_ko": "이번 조사에서는 상당수 금융기관이 에이전틱 AI를 실제 운영 환경에 적용할 준비가 충분하지 않은 것으로 진단됐다. 콘텐츠, 커뮤니케이션, 거래 데이터를 실시간으로 연결할 수 있다고 응답한 금융기관은 9%에 불과했다. 또한 전체 응답자의 52%는 자사의 거버넌스 체계가 규제를 준수하는 에이전틱 AI 도입을 지원할 준비가 되어 있는지 확신하지 못한다고 답했다. 조사 결과 금융기관의 데이터는 여전히 여러 시스템에 분산돼 있었으며, 거버넌스 체계도 일관성이 부족한 것으로 나타났다. AI 의사결정에 대한 책임 구조 역시 명확하지 않은 경우가 많다고 보고서는 분석했다.",
+    "url": "https://www.cio.com/article/4187609/%ea%b8%88%ec%9c%b5%ea%b6%8c-96-ai-%eb%8f%84%ec%9e%85-%ec%8b%9c%eb%8f%84%ec%9a%b4%ec%98%81-%ec%a0%84%ed%99%98%ec%9d%80-19-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
+    "image": null,
+    "date": "2026-06-23T00:30:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1ucq463/bernie_sanders_unveils_7_trillion_plan_to_give/",
     "platform": "Reddit",
     "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
