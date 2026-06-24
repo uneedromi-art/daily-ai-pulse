@@ -1,5 +1,194 @@
 [
   {
+    "id": "https://www.cio.com/article/4189063/anthropics-claude-tag-aims-to-turn-workplace-ai-from-a-personal-assistant-into-a-teammate-3.html",
+    "platform": "CIO",
+    "title": "Anthropic’s Claude Tag aims to turn workplace AI from a personal assistant into a teammate",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Anthropic’s Claude Tag aims to turn workplace AI from a personal assistant into a teammate",
+    "summary_ko": "Anthropic의 Claude Tag는 직장 AI를 개인 비서에서 팀 동료로 바꾸는 것을 목표로 합니다. Claude Tag는 Claude를 DM에서 팀의 Slack 채널로 끌어들이려는 Anthropic의 최신 시도입니다. 연구, 코딩, 글쓰기, 분석을 수행하기 위해 AI 보조원이 직장에 점점 더 많이 등장하고 있지만, 이러한 상호 작용의 결과는 일반적으로 프로젝트와 팀 간에 공유되기보다는 개별 대화에 묶여 있습니다. 이러한 제한은 Anthropic이 기업 및 팀 고객을 위한 새로운 Slack 채널 기반 경험인 Claude Tag를 통해 해결하고 있는 것입니다.",
+    "url": "https://www.cio.com/article/4189063/anthropics-claude-tag-aims-to-turn-workplace-ai-from-a-personal-assistant-into-a-teammate-3.html",
+    "image": null,
+    "date": "2026-06-24T17:59:28.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
+    "platform": "Google",
+    "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Generative AI",
+    "summary_ko": "회상에 대한 생각: 추론이 LLM에서 매개변수적 지식을 잠금 해제하는 방법",
+    "url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
+    "image": null,
+    "date": "2026-06-24T16:51:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4188336/the-ai-readiness-gap-why-networks-matter-more-than-ever.html",
+    "platform": "CIO",
+    "title": "The AI readiness gap: Why networks matter more than ever",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "The AI readiness gap: Why networks matter more than ever",
+    "summary_ko": "AI 준비 격차: 네트워크가 그 어느 때보다 중요한 이유. 기업 리더들에게 AI에 대해 물어보면 흥미진진한 반응을 얻을 가능성이 높습니다. BCG 조사에 따르면 글로벌 CEO의 3분의 2가 AI 가속화를 3대 우선순위 중 하나로 꼽았으며, CIO는 이러한 야망을 비즈니스 가치로 전환해야 한다는 압력을 받고 있는 것으로 나타났습니다. 하지만 문제가 있습니다.",
+    "url": "https://www.cio.com/article/4188336/the-ai-readiness-gap-why-networks-matter-more-than-ever.html",
+    "image": null,
+    "date": "2026-06-24T13:24:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/2128415/generative-ai-certifications-and-certificate-programs.html",
+    "platform": "CIO",
+    "title": "8 generative AI certifications to grow your skills",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "8 generative AI certifications to grow your skills",
+    "summary_ko": "기술을 향상시키기 위한 8가지 생성 AI 인증. 기업이 디지털 및 운영 이니셔티브를 위해 기술을 활용하려고 함에 따라 생성적 AI는 거의 모든 산업을 계속해서 혼란에 빠뜨리고 있습니다. 결과적으로, 많이 요구되는 Gen AI 기술을 갖춘 IT 전문가에 대한 수요가 높습니다. Deloitte의 2026년 기업 내 생성 AI 현황 보고서에 따르면 조직의 75%가 Gen AI 기술이 향후 2년 이내에 인재 전략에 영향을 미칠 것으로 예상하고 있으며, 32%의 조직은 매우 높은 수준의 Gen AI 전문 지식이 이미 이러한 변화를 가져오는 과정에 있다고 보고했습니다.",
+    "url": "https://www.cio.com/article/2128415/generative-ai-certifications-and-certificate-programs.html",
+    "image": null,
+    "date": "2026-06-24T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4184051/data-lakehouses-are-becoming-foundations-for-enterprise-ai.html",
+    "platform": "CIO",
+    "title": "Data lakehouses are becoming foundations for enterprise AI",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Data lakehouses are becoming foundations for enterprise AI",
+    "summary_ko": "데이터 레이크하우스는 엔터프라이즈 AI의 기반이 되고 있습니다. 데이터 레이크하우스는 저렴한 비용으로 다양한 유형의 데이터를 지원하는 데이터 레이크의 기능과 기존 데이터 웨어하우스의 안정성, 구조 및 거버넌스를 결합했기 때문에 엔터프라이즈 데이터 플랫폼의 표준이 되었습니다. 보안 및 감사 도구와 함께 회사의 여러 위치에서 올 수 있는 정보의 중앙 저장소를 제공한다는 사실은 엔터프라이즈 AI 시스템에도 완벽하게 적합합니다. 실제로 모든 주요 데이터 레이크 및 데이터 웨어하우스 공급업체가 데이터 레이크하우스 공급업체로 통합될 정도로 대중화되고 유용해졌습니다.",
+    "url": "https://www.cio.com/article/4184051/data-lakehouses-are-becoming-foundations-for-enterprise-ai.html",
+    "image": null,
+    "date": "2026-06-24T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4188503/choosing-your-ai-stack-the-benefits-of-vendor-lock-in.html",
+    "platform": "CIO",
+    "title": "Choosing your AI stack: The benefits of vendor lock-in",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Choosing your AI stack: The benefits of vendor lock-in",
+    "summary_ko": "AI 스택 선택: 공급업체 종속의 이점 Accenture 연구에서 입증된 것처럼 AI는 비즈니스의 최우선 순위이자 변화를 위한 수단으로 부상했습니다. 97%의 경영진은 AI가 회사와 산업을 변화시킬 것이라고 믿습니다. 그러나 기업이 AI 파일럿에서 기업 전체로 AI 확장으로 전환함에 따라 우리는 CIO 및 기술 리더와 반복적으로 대화를 나누었으며 이들은 AI 스택 결정은 쉽게 되돌릴 수 없다는 동일한 불편한 깨달음을 얻었습니다.",
+    "url": "https://www.cio.com/article/4188503/choosing-your-ai-stack-the-benefits-of-vendor-lock-in.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/ai-systems-as-a-layered-structure.png?w=1024",
+    "date": "2026-06-24T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4188744/%ed%8c%8c%ec%9d%b4%eb%b8%8c-%ec%95%84%ec%9d%b4%ec%a6%88-ai-%ec%8b%9c%eb%8c%80%ec%97%94-%ec%82%ac%ec%9d%b4%eb%b2%84-%ec%9c%84%ed%97%98%eb%8f%84-%ea%b2%bd%ec%98%81-%ea%b3%bc%ec%a0%9c.html",
+    "platform": "CIO",
+    "title": "파이브 아이즈 “AI 시대엔 사이버 위험도 경영 과제”…기업 리더 역할 확대 주문",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "파이브 아이즈 “AI 시대엔 사이버 위험도 경영 과제”…기업 리더 역할 확대 주문",
+    "summary_ko": "국가 사이버보안 기관들로 구성된 파이브 아이즈(Five Eyes)가 AI를 활용해 보안 방어 체계를 우회하는 공격이 증가하고 있다며 기업 최고정보보호책임자(CSO)들에게 사이버 위험 전략을 전면 재검토할 것을 촉구했다. 다만 일부 전문가는 이번 권고가 지나치게 포괄적이어서 실질적인 도움이 되지 않는다고 비판했다.",
+    "url": "https://www.cio.com/article/4188744/%ed%8c%8c%ec%9d%b4%eb%b8%8c-%ec%95%84%ec%9d%b4%ec%a6%88-ai-%ec%8b%9c%eb%8c%80%ec%97%94-%ec%82%ac%ec%9d%b4%eb%b2%84-%ec%9c%84%ed%97%98%eb%8f%84-%ea%b2%bd%ec%98%81-%ea%b3%bc%ec%a0%9c.html",
+    "image": null,
+    "date": "2026-06-24T08:12:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4188733/%ec%98%a4%ed%94%88ai-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%b3%b4%ec%95%88-%ea%b0%95%ed%99%94-%eb%82%98%ec%84%a0%eb%8b%a4%ed%8c%a8%ec%b9%98-%eb%8d%94-%ed%94%8c%eb%9e%98%eb%8b%9b.html",
+    "platform": "CIO",
+    "title": "오픈AI, 오픈소스 보안 강화 나선다…‘패치 더 플래닛’ 프로젝트 출범",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "오픈AI, 오픈소스 보안 강화 나선다…‘패치 더 플래닛’ 프로젝트 출범",
+    "summary_ko": "오픈AI가 사이버보안 기업 트레일 오브 비츠(Trail of Bits)와 협력해 널리 사용되는 오픈소스 소프트웨어의 취약점을 찾아 수정하는 AI 기반 프로그램을 출범했다. 소프트웨어 공급망 깊숙이 존재하는 결함으로 인해 기업이 직면하는 보안 위험이 커지는 상황에 대응하기 위한 조치다. ‘패치 더 플래닛(Patch the Planet)’으로 명명된 이 프로젝트는 AI 기반 취약점 연구와 인간 전문가의 검토를 결합해 보안 문제를 식별하고, 이를 검증된 패치로 발전시켜 기존 프로젝트의 공개 절차를 통해 배포할 수 있도록 지원한다.",
+    "url": "https://www.cio.com/article/4188733/%ec%98%a4%ed%94%88ai-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%b3%b4%ec%95%88-%ea%b0%95%ed%99%94-%eb%82%98%ec%84%a0%eb%8b%a4%ed%8c%a8%ec%b9%98-%eb%8d%94-%ed%94%8c%eb%9e%98%eb%8b%9b.html",
+    "image": null,
+    "date": "2026-06-24T07:47:12.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4188714/%ec%a7%81%ec%9b%90-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8a%94-%eb%aa%a8%ec%9c%bc%ea%b3%a0-%eb%b3%b4%ed%98%b8%eb%8a%94-%eb%aa%bb%ed%96%88%eb%8b%a4%eb%a9%94%ed%83%80-ai-%ec%8b%a4%ed%97%98.html",
+    "platform": "CIO",
+    "title": "“직원 데이터는 모으고 보호는 못했다”…메타 AI 실험에 경고음",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“직원 데이터는 모으고 보호는 못했다”…메타 AI 실험에 경고음",
+    "summary_ko": "메타(Meta)가 직원들의 다양한 업무 데이터를 수집해 AI 모델 학습에 활용하려던 대규모 프로그램이 중단됐다. 직원들이 접근 제한 장치를 우회해 민감한 데이터에 접근한 데 이어, 메타가 취약점을 수정했다고 밝힌 이후에도 같은 일이 다시 발생한 것으로 알려졌기 때문이다. 페이스북 모회사인 메타의 데이터 수집 방식이 적절했는지 여부와 별개로, 업계 분석가들은 수집된 데이터의 민감성을 고려할 때 메타가 적용한 보호 조치가 턱없이 부족했다고 지적했다.",
+    "url": "https://www.cio.com/article/4188714/%ec%a7%81%ec%9b%90-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8a%94-%eb%aa%a8%ec%9c%bc%ea%b3%a0-%eb%b3%b4%ed%98%b8%eb%8a%94-%eb%aa%bb%ed%96%88%eb%8b%a4%eb%a9%94%ed%83%80-ai-%ec%8b%a4%ed%97%98.html",
+    "image": null,
+    "date": "2026-06-24T07:39:40.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4188648/aim-b2b-%ed%95%9c%ea%b5%ad-%ec%98%a4%ed%94%bc%ec%8a%a4-%ec%b6%9c%eb%b2%94%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b8%b0%ec%97%85-%ed%95%9c%ea%b5%ad-%ec%a7%84%ec%b6%9c-%ec%a7%80%ec%9b%90-%ea%b0%95.html",
+    "platform": "CIO",
+    "title": "AIM B2B, 한국 오피스 출범…글로벌 기업 한국 진출 지원 강화",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AIM B2B, 한국 오피스 출범…글로벌 기업 한국 진출 지원 강화",
+    "summary_ko": "에임B2B는 일본을 비롯해 미국, 유럽 등 글로벌 고객의 한국 시장 진출 수요가 증가함에 따라 서울 강남구에 한국 오피스를 설립했다. 회사는 AI, 반도체, 첨단 제조, IT, 모빌리티 등 분야에서 해외 기업의 한국 시장 진출과 사업 확대를 지원할 계획이다. 에임B2B는 전략적 PR, 미디어 관계 구축, 콘텐츠 마케팅, 디지털 마케팅, 브랜딩, 리드 발굴(Lead Generation), 고객 행사 및 세미나 기획, 전시회 마케팅 등을 제공하는 B2B 전문 에이전시다.",
+    "url": "https://www.cio.com/article/4188648/aim-b2b-%ed%95%9c%ea%b5%ad-%ec%98%a4%ed%94%bc%ec%8a%a4-%ec%b6%9c%eb%b2%94%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b8%b0%ec%97%85-%ed%95%9c%ea%b5%ad-%ec%a7%84%ec%b6%9c-%ec%a7%80%ec%9b%90-%ea%b0%95.html",
+    "image": null,
+    "date": "2026-06-24T01:46:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4188470/the-agentic-blueprint-engineering-autonomous-enterprises.html",
     "platform": "CIO",
     "title": "The agentic blueprint: Engineering autonomous enterprises",
