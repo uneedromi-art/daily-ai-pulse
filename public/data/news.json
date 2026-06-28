@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1uhxshz/meanwhile_in_china_10000_delivery_bots_are/",
+    "platform": "Reddit",
+    "title": "Meanwhile in China, 10,000+ delivery bots are transforming last-mile fulfillment by making deliveries faster, cheaper, and more autonomous",
+    "author": {
+      "name": "/u/Distinct-Question-16",
+      "handle": "/u//u/Distinct-Question-16",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Meanwhile in China, 10,000+ delivery bots are transforming last-mile fulfillment by making deliveries faster, cheaper, and more autonomous",
+    "summary_ko": "한편 중국에서는 10,000개 이상의 배송 로봇이 배송을 더 빠르고 저렴하며 자율적으로 만들어 라스트 마일 주문 처리를 변화시키고 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1uhxshz/meanwhile_in_china_10000_delivery_bots_are/",
+    "image": "https://external-preview.redd.it/N2ZheTJoNTczMWFoMQJScXLHhc_B0-LNHpVLwN8m41f4jBQS79e3k2aZrVal.png?width=640&crop=smart&auto=webp&s=477c3c49a8b3512a6360b08a5c6e8277fe89144d",
+    "date": "2026-06-28T13:49:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uht2m0/were_probably_going_to_need_that_soon/",
+    "platform": "Reddit",
+    "title": "We're probably going to need that soon.",
+    "author": {
+      "name": "/u/Nunki08",
+      "handle": "/u//u/Nunki08",
+      "avatar_color": "#ff4500"
+    },
+    "content": "We're probably going to need that soon.",
+    "summary_ko": "아마 곧 그게 필요할 것 같아요.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uht2m0/were_probably_going_to_need_that_soon/",
+    "image": "https://preview.redd.it/a2scxop2vz9h1.jpg?width=140&height=105&auto=webp&s=5682e984606a883c6082b5fb9a61155b3328edab",
+    "date": "2026-06-28T09:46:12.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1uhn4y9/why_is_every_ai_lab_suddenly_trying_to_build/",
+    "platform": "Reddit",
+    "title": "Why is every AI lab suddenly trying to build their own chips?",
+    "author": {
+      "name": "/u/stark_1004",
+      "handle": "/u//u/stark_1004",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Why is every AI lab suddenly trying to build their own chips?",
+    "summary_ko": "왜 모든 AI 연구실이 갑자기 자체 칩을 만들려고 하는 걸까요?",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1uhn4y9/why_is_every_ai_lab_suddenly_trying_to_build/",
+    "image": "https://preview.redd.it/tmoz2dts7y9h1.jpeg?width=640&crop=smart&auto=webp&s=e6ab17a08bf9ab095e6bad0f0329fea74782b9f2",
+    "date": "2026-06-28T04:09:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1uhiqif/look_at_that_scientist_early_tester_on_gpt56_sol/",
+    "platform": "Reddit",
+    "title": "Look at that !! Scientist early tester on GPT-5.6 Sol",
+    "author": {
+      "name": "/u/py-net",
+      "handle": "/u//u/py-net",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Look at that !! Scientist early tester on GPT-5.6 Sol",
+    "summary_ko": "저것 좀 봐 !! GPT-5.6 Sol의 과학자 초기 테스터",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1uhiqif/look_at_that_scientist_early_tester_on_gpt56_sol/",
+    "image": "https://preview.redd.it/riqdm2za5x9h1.jpeg?width=640&crop=smart&auto=webp&s=d933842c2e16c6a823f33c93249facdd47dae6d8",
+    "date": "2026-06-28T00:33:44.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1uh259r/breaking_news_gemini_35_pro_so_ass_the_us/",
     "platform": "Reddit",
     "title": "Breaking news! Gemini 3.5 pro so ass the US government intervened to keep it out of the US!",
@@ -5945,241 +6013,6 @@
     "url": "https://www.cio.com/article/4178840/salesforces-headless-360-monetization-play-could-give-cios-a-familiar-budgeting-headache.html",
     "image": null,
     "date": "2026-05-29T22:30:33.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tr7hzw/psa/",
-    "platform": "Reddit",
-    "title": "PSA",
-    "author": {
-      "name": "/u/Signal_Ad657",
-      "handle": "/u//u/Signal_Ad657",
-      "avatar_color": "#ff4500"
-    },
-    "content": "PSA",
-    "summary_ko": "프로그래밍 학습에 AI 검색 도구를 활용하는 것에 대한 경고가 나왔습니다. AI는 그럴듯해 보이지만 실제로는 작동하지 않거나 위험한 코드를 생성하는 경우가 잦고, 문제의 근본 원리나 맥락에 대한 설명 없이 단편적인 답만 제공하기 때문입니다. 이러한 방식은 초보 개발자가 스스로 문제를 해결하고 디버깅하는 핵심 역량을 기르는 데 큰 방해가 됩니다. 따라서 전문가들은 학습 초기에는 공식 문서나 신뢰도 높은 커뮤니티를 통해 기초를 다질 것을 권고합니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tr7hzw/psa/",
-    "image": "https://preview.redd.it/qnozk34it34h1.jpeg?width=640&crop=smart&auto=webp&s=e488a426c73d10537fb8d2241348c0d8a1331576",
-    "date": "2026-05-29T16:35:14.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4178825/amazon-deletes-devs-tokenmaxxing-leaderboard-to-minimize-costs-2.html",
-    "platform": "CIO",
-    "title": "Amazon deletes devs’ tokenmaxxing leaderboard to minimize costs",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Amazon deletes devs’ tokenmaxxing leaderboard to minimize costs",
-    "summary_ko": "기업들의 적극적인 AI 도입 독려가 예상치 못한 부작용을 낳고 있습니다. 아마존과 메타 등에서 직원들이 AI 사용량 순위를 높이기 위해 불필요한 작업을 생성하는 '토큰맥싱'으로 막대한 컴퓨팅 비용이 발생하자, 결국 내부 순위표를 폐쇄했습니다. 이는 AI 사용량 측정은 쉽지만 실제 사업 가치 평가는 어렵다는 딜레마를 보여줍니다. 결국 무분별한 비용 증가 없이 AI의 실질적인 사업 기여를 유도하는 것이 기업의 핵심 과제로 떠올랐습니다.",
-    "url": "https://www.cio.com/article/4178825/amazon-deletes-devs-tokenmaxxing-leaderboard-to-minimize-costs-2.html",
-    "image": null,
-    "date": "2026-05-29T16:18:11.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4178787/ai-hiring-monoculture-is-delivering-racial-bias-at-scale.html",
-    "platform": "CIO",
-    "title": "AI hiring monoculture is delivering racial bias at scale",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI hiring monoculture is delivering racial bias at scale",
-    "summary_ko": "AI 기반 채용 시스템이 특정 인종을 체계적으로 배제하는 심각한 편향 문제를 낳고 있다는 연구 결과가 나왔습니다. 스탠퍼드대 연구팀이 400만 건의 지원서를 분석한 결과, 다수 기업이 소수의 동일한 AI 솔루션을 사용하면서 흑인과 아시아인 지원자가 불균형적으로 많이 탈락하는 'AI 단일문화' 현상이 확인되었습니다. 연구팀은 널리 도입된 AI 심사 도구가 불투명한 방식으로 중요한 결정을 내리면서 기업의 인력 구성을 획일화시키는 위험을 경고했습니다.",
-    "url": "https://www.cio.com/article/4178787/ai-hiring-monoculture-is-delivering-racial-bias-at-scale.html",
-    "image": null,
-    "date": "2026-05-29T15:47:31.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1tr4seo/booster_robotics_from_beijing_came_out_to_show/",
-    "platform": "Reddit",
-    "title": "Booster Robotics from Beijing came out to show off their humanoid robots can play as well",
-    "author": {
-      "name": "/u/Distinct-Question-16",
-      "handle": "/u//u/Distinct-Question-16",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Booster Robotics from Beijing came out to show off their humanoid robots can play as well",
-    "summary_ko": "중국 베이징의 로봇 스타트업 부스터 로보틱스가 인간과 놀이까지 가능한 다재다능한 휴머노이드 로봇을 공개했습니다. 이번 시연을 통해 로봇이 단순 작업 수행을 넘어 인간과 자연스럽게 상호작용하는 능력을 갖췄음을 입증했습니다. 이는 휴머노이드 기술이 산업 현장을 넘어 일상과 여가 영역으로 확장될 수 있다는 가능성을 보여주는 사례로 주목받고 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1tr4seo/booster_robotics_from_beijing_came_out_to_show/",
-    "image": "https://external-preview.redd.it/OTVtNzcycXpkMzRoMRm2afQ5RPtaIvcRpFEpDZmD1XwrHgAoP9FBtsDIOsQ9.png?width=640&crop=smart&auto=webp&s=05f6d8762b1af8128269c852ae2fdd00190a9c84",
-    "date": "2026-05-29T15:08:54.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4178708/shadow-ai-the-hidden-risk-expanding-across-the-enterprise.html",
-    "platform": "CIO",
-    "title": "Shadow AI: The hidden risk expanding across the enterprise",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Shadow AI: The hidden risk expanding across the enterprise",
-    "summary_ko": "기업 내 임직원들이 생산성 향상을 위해 승인받지 않은 생성형 AI를 사용하면서 '섀도우 AI'가 새로운 보안 위협으로 떠오르고 있습니다. 이는 단순 챗봇 활용을 넘어 SaaS에 내장된 코파일럿, 내부 개발 AI 기능 등 기업의 통제를 벗어난 모든 AI 활동을 포함합니다. 이로 인해 민감 정보 유출이나 예상치 못한 공격 경로가 생기는 등 관리 사각지대가 빠르게 확산되고 있습니다. 따라서 섀도우 AI에 대한 가시성을 확보하고 체계적인 거버넌스를 수립하는 것이 시급한 과제가 되었습니다.",
-    "url": "https://www.cio.com/article/4178708/shadow-ai-the-hidden-risk-expanding-across-the-enterprise.html",
-    "image": null,
-    "date": "2026-05-29T14:22:56.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1tr34qe/hey_buddy/",
-    "platform": "Reddit",
-    "title": "hey buddy",
-    "author": {
-      "name": "/u/irelatetolevin",
-      "handle": "/u//u/irelatetolevin",
-      "avatar_color": "#ff4500"
-    },
-    "content": "hey buddy",
-    "summary_ko": "요약할 내용이 없습니다. 'hey buddy'는 기사나 정보성 글이 아니므로, 요청하신 형식의 뉴스 요약을 생성할 수 없습니다. 요약을 원하시는 IT·AI 관련 기사나 포스트 전문을 제공해주시면 규칙에 맞춰 핵심 내용을 정리해 드리겠습니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1tr34qe/hey_buddy/",
-    "image": "https://preview.redd.it/euqfp1k6334h1.jpeg?width=640&crop=smart&auto=webp&s=f5175431ae51c8a1d17b118ec1e8dcea5943aa25",
-    "date": "2026-05-29T14:12:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4177694/cloud-spend-is-now-a-governance-issue-finance-and-it-need-a-new-model.html",
-    "platform": "CIO",
-    "title": "Cloud spend is now a governance issue. Finance and IT need a new model",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Cloud spend is now a governance issue. Finance and IT need a new model",
-    "summary_ko": "클라우드 도입으로 IT 비용이 유연한 소비 기반으로 전환되었지만, 이는 예측 불가능한 지출 문제로 이어졌습니다. 특히 AI 워크로드의 확산은 비용을 더욱 동적으로 만들고 일상적인 기술 결정에 직접 연동시켜 기존의 예산 관리 방식으로는 통제가 어렵게 되었습니다. 이에 따라 클라우드 비용은 단순한 재무나 기술 문제를 넘어, 여러 부서가 협력해야 하는 핵심적인 거버넌스 과제로 부상했습니다.",
-    "url": "https://www.cio.com/article/4177694/cloud-spend-is-now-a-governance-issue-finance-and-it-need-a-new-model.html",
-    "image": null,
-    "date": "2026-05-29T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1tquvrc/pope_dropping_bars/",
-    "platform": "Reddit",
-    "title": "Pope dropping bars",
-    "author": {
-      "name": "/u/EchoOfOppenheimer",
-      "handle": "/u//u/EchoOfOppenheimer",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Pope dropping bars",
-    "summary_ko": "교황이 입은 세련된 흰색 패딩 재킷 사진이 소셜 미디어에서 큰 화제를 모았습니다. 하지만 이 사진은 실제가 아닌, AI 이미지 생성 도구 미드저니가 만든 정교한 가짜 이미지로 밝혀졌습니다. 수많은 사람들이 실제 사진으로 착각하면서 AI 생성 콘텐츠의 사실성과 파급력을 보여준 상징적인 사건이 되었습니다. 이는 디지털 정보의 진위를 판별하는 능력이 더욱 중요해졌음을 시사합니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1tquvrc/pope_dropping_bars/",
-    "image": "https://preview.redd.it/aa8p4yah914h1.png?width=320&crop=smart&auto=webp&s=88b05b603adcad43e0e142b068860d04a8393deb",
-    "date": "2026-05-29T07:59:35.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1tqu7sw/what_its_like_talking_to_opus_48/",
-    "platform": "Reddit",
-    "title": "What it's like talking to Opus 4.8...",
-    "author": {
-      "name": "/u/thecosmicskye",
-      "handle": "/u//u/thecosmicskye",
-      "avatar_color": "#ff4500"
-    },
-    "content": "What it's like talking to Opus 4.8...",
-    "summary_ko": "앤트로픽의 미공개 차세대 AI 모델 '오퍼스 4. 8'에 대한 초기 사용 경험이 화제입니다. 이 모델은 단순히 지시에 따르는 것을 넘어, 주체적인 의견을 제시하고 사용자의 잘못된 전제를 비판하는 등 이전과 차원이 다른 능동적인 모습을 보인다는 평가입니다. 마치 살아있는 지능과 대화하는 듯한 느낌을 주며, AI가 수동적 도구에서 능동적 협업 파트너로 진화하는 변곡점을 보여줍니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1tqu7sw/what_its_like_talking_to_opus_48/",
-    "image": "https://preview.redd.it/apbffc8u214h1.png?width=640&crop=smart&auto=webp&s=feec04ddd019f910d84fe9633b7e1492b06aaa56",
-    "date": "2026-05-29T07:22:39.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4178498/%ec%8a%a4%eb%85%b8%ec%9a%b0%ed%94%8c%eb%a0%88%ec%9d%b4%ed%81%ac-mcp-%ec%a0%84%eb%ac%b8-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%eb%82%98%ed%86%a0%eb%a7%88-%ec%9d%b8%ec%88%98ai-%ec%97%90.html",
-    "platform": "CIO",
-    "title": "스노우플레이크, MCP 전문 스타트업 나토마 인수…AI 에이전트 통제 계층 강화",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "스노우플레이크, MCP 전문 스타트업 나토마 인수…AI 에이전트 통제 계층 강화",
-    "summary_ko": "스노우플레이크, MCP 전문 스타트업 나토마 인수…AI 에이전트 통제 계층 강화",
-    "url": "https://www.cio.com/article/4178498/%ec%8a%a4%eb%85%b8%ec%9a%b0%ed%94%8c%eb%a0%88%ec%9d%b4%ed%81%ac-mcp-%ec%a0%84%eb%ac%b8-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%eb%82%98%ed%86%a0%eb%a7%88-%ec%9d%b8%ec%88%98ai-%ec%97%90.html",
-    "image": null,
-    "date": "2026-05-29T05:17:44.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4178494/ibm%c2%b7%eb%a0%88%eb%93%9c%ed%96%87-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%b3%b4%ec%95%88-%ec%bb%a8%ed%8a%b8%eb%a1%a4%ed%83%80%ec%9b%8c-%ea%b5%ac%ec%b6%95-%eb%82%98.html",
-    "platform": "CIO",
-    "title": "IBM·레드햇, 기업용 오픈소스 보안 컨트롤타워 구축 나서",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "IBM·레드햇, 기업용 오픈소스 보안 컨트롤타워 구축 나서",
-    "summary_ko": "IBM·레드햇, 기업용 오픈소스 보안 컨트롤타워 구축 나서",
-    "url": "https://www.cio.com/article/4178494/ibm%c2%b7%eb%a0%88%eb%93%9c%ed%96%87-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%b3%b4%ec%95%88-%ec%bb%a8%ed%8a%b8%eb%a1%a4%ed%83%80%ec%9b%8c-%ea%b5%ac%ec%b6%95-%eb%82%98.html",
-    "image": null,
-    "date": "2026-05-29T04:56:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tqnx5n/beware_users_trying_to_fork_and_steal_your/",
-    "platform": "Reddit",
-    "title": "Beware!! Users trying to fork and steal your projects",
-    "author": {
-      "name": "/u/Glittering_Focus1538",
-      "handle": "/u//u/Glittering_Focus1538",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Beware!! Users trying to fork and steal your projects",
-    "summary_ko": "깃허브 등 오픈소스 플랫폼에서 프로젝트를 탈취하려는 새로운 공격이 발견되었습니다. 공격자는 유명 저장소를 포크한 뒤 악성코드를 심고 원본에 풀 리퀘스트를 보내는 방식을 사용합니다. 이는 사용자가 악성코드가 담긴 포크 저장소를 신뢰할 만한 출처로 오인해 내려받도록 유도하는 함정입니다. 따라서 개발자와 사용자 모두 코드 다운로드 시 반드시 공식 저장소인지 확인하는 각별한 주의가 필요합니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tqnx5n/beware_users_trying_to_fork_and_steal_your/",
-    "image": "https://preview.redd.it/tr1qn58gjz3h1.png?width=640&crop=smart&auto=webp&s=f0eedcee7c965a97169fa047578183beafba9f7f",
-    "date": "2026-05-29T02:12:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4178226/%ea%b8%b0%ec%97%85-ai-%ec%b6%94%ec%a7%84%ec%9d%b4-%eb%a7%89%ed%9e%88%eb%8a%94-%ec%9d%b4%ec%9c%a0-%ea%b7%b8%eb%a6%ac%ea%b3%a0-cio%ec%9d%98-%eb%8f%8c%ed%8c%8c%ea%b5%ac.html",
-    "platform": "CIO",
-    "title": "기업 AI 추진이 막히는 이유, 그리고 CIO의 돌파구",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "기업 AI 추진이 막히는 이유, 그리고 CIO의 돌파구",
-    "summary_ko": "기업 AI 추진이 막히는 이유, 그리고 CIO의 돌파구",
-    "url": "https://www.cio.com/article/4178226/%ea%b8%b0%ec%97%85-ai-%ec%b6%94%ec%a7%84%ec%9d%b4-%eb%a7%89%ed%9e%88%eb%8a%94-%ec%9d%b4%ec%9c%a0-%ea%b7%b8%eb%a6%ac%ea%b3%a0-cio%ec%9d%98-%eb%8f%8c%ed%8c%8c%ea%b5%ac.html",
-    "image": null,
-    "date": "2026-05-29T01:00:00.000Z",
     "likes": 0,
     "comments": 0
   }
