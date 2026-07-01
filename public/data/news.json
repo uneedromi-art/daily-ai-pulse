@@ -1,5 +1,244 @@
 [
   {
+    "id": "https://www.cio.com/article/4191805/aws-aims-to-lower-log-analytics-costs-with-new-analytics-engine-for-managed-opensearch-2.html",
+    "platform": "CIO",
+    "title": "AWS aims to lower log analytics costs with new analytics engine for managed OpenSearch",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AWS aims to lower log analytics costs with new analytics engine for managed OpenSearch",
+    "summary_ko": "AWS는 관리형 Open Search를 위한 새로운 분석 엔진을 통해 로그 분석 비용을 낮추는 것을 목표로 합니다. AWS는 로그 분석에 최적화된 관리형 Amazon Open Search Service를 위한 새로운 엔진을 통해 기업이 대화형 AI 애플리케이션에 대한 원격 측정을 유지하는 데 드는 비용 증가를 해결할 수 있도록 지원합니다. 이 엔진은 스토리지 비용을 70% 절감하는 동시에 더 나은 가격 대비 성능을 제공할 수 있다고 주장합니다.",
+    "url": "https://www.cio.com/article/4191805/aws-aims-to-lower-log-analytics-costs-with-new-analytics-engine-for-managed-opensearch-2.html",
+    "image": null,
+    "date": "2026-07-01T20:39:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1ukuahd/anthropic_is_on_a_mission_rn_to_make_agi_team/",
+    "platform": "Reddit",
+    "title": "Anthropic is on a mission rn to make AGI team",
+    "author": {
+      "name": "/u/Independent-Wind4462",
+      "handle": "/u//u/Independent-Wind4462",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Anthropic is on a mission rn to make AGI team",
+    "summary_ko": "Anthropic은 AGI 팀을 만드는 임무를 수행하고 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1ukuahd/anthropic_is_on_a_mission_rn_to_make_agi_team/",
+    "image": "https://preview.redd.it/3514i28yynah1.jpeg?width=640&crop=smart&auto=webp&s=e4d1b36bf23e41a6488d270e96e728c7b093daba",
+    "date": "2026-07-01T18:46:14.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ukp2bu/the_gap_between_closed_and_open_models_might_be/",
+    "platform": "Reddit",
+    "title": "The gap between closed and open models might be much smaller than commonly assumed, because we don’t know what closed model providers do *in addition to* model inference",
+    "author": {
+      "name": "/u/-p-e-w-",
+      "handle": "/u//u/-p-e-w-",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The gap between closed and open models might be much smaller than commonly assumed, because we don’t know what closed model providers do *in addition to* model inference",
+    "summary_ko": "폐쇄형 모델과 개방형 모델 사이의 격차는 일반적으로 가정하는 것보다 훨씬 작을 수 있습니다. 왜냐하면 폐쇄형 모델 제공자가 모델 추론 *외에* 무엇을 하는지 모르기 때문입니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ukp2bu/the_gap_between_closed_and_open_models_might_be/",
+    "image": null,
+    "date": "2026-07-01T15:35:24.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4191605/%ec%a7%80%ec%b9%a8-%eb%82%b4%eb%a6%ac%eb%8a%94-%ec%a1%b0%ec%a7%81%ec%97%90%ec%84%9c-%eb%ac%b8%ed%99%94-%ec%a0%84%ed%8c%8c%ed%95%98%eb%8a%94-%ec%a1%b0%ec%a7%81%ec%9c%bc%eb%a1%9c-aws.html",
+    "platform": "CIO",
+    "title": "“지침 내리는 조직에서 문화 전파하는 조직으로” AWS·LG CNS가 진단한 AI 시대 보안 조직의 미래",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“지침 내리는 조직에서 문화 전파하는 조직으로” AWS·LG CNS가 진단한 AI 시대 보안 조직의 미래",
+    "summary_ko": "신은수 AWS 수석 보안전문 솔루션즈 아키텍트는 미토스 등으로 대표되는 고성능 AI가 몰고 온 위협의 변화를 세 가지로 정리했다. 첫째는 규모다. 과거 중대 취약점 발견은 대부분 전문가 집단의 영역이었으나, 이제는 AI를 활용해 손쉽게 취약점을 찾아낼 수 있어 기업이 처리해야 할 취약점의 수 자체가 급증한다. 둘째는 속도로, 취약점 발견과 익스플로잇 개발에 필요한 시간이 과거 대비 현저히 줄었다. 셋째는 접근성이다. 특정 해커 집단이나 전문 지식 보유자에게 국한됐던 고위험 취약점 발견이, 누구나 접근 가능한 AI 도구의 등장으로 문턱이 크게 낮아졌다.",
+    "url": "https://www.cio.com/article/4191605/%ec%a7%80%ec%b9%a8-%eb%82%b4%eb%a6%ac%eb%8a%94-%ec%a1%b0%ec%a7%81%ec%97%90%ec%84%9c-%eb%ac%b8%ed%99%94-%ec%a0%84%ed%8c%8c%ed%95%98%eb%8a%94-%ec%a1%b0%ec%a7%81%ec%9c%bc%eb%a1%9c-aws.html",
+    "image": null,
+    "date": "2026-07-01T12:42:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4191593/%ec%b9%bc%eb%9f%bc-%eb%aa%a8%eb%8d%b8%ec%9d%80-%eb%b9%8c%eb%a6%ac%ea%b3%a0-%ea%b7%b8%eb%9d%bc%ec%9a%b4%eb%94%a9%ec%9d%80-%ec%86%8c%ec%9c%a0%ed%95%9c%eb%8b%a4%c2%b7%c2%b7%c2%b7ai-%ea%b2%bd%ec%9f%81.html",
+    "platform": "CIO",
+    "title": "칼럼 | 모델은 빌리고 그라운딩은 소유한다···AI 경쟁력의 새로운 공식",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 모델은 빌리고 그라운딩은 소유한다···AI 경쟁력의 새로운 공식",
+    "summary_ko": "지난 2년간 기업 AI 인프라 분야에서 일하며 업계의 흐름을 지켜본 결과, 필자는 같은 질문이 반복해서 제기되는 것을 목격했다. ‘우리도 자체 LLM을 구축해야 할까? ’라는 질문이다. 이런 생각이 드는 이유는 충분히 이해할 수 있다. 모델은 AI의 핵심이자 엔진이며 두뇌이고, 반드시 확보해야 할 자산처럼 보이기 때문이다. 하지만 고객 경험과 데이터 그라운딩 인프라 분야에서 AI 제품 관리자로 오랜 기간 일하며 내린 결론은 다르다. 다소 의외로 들릴 수 있지만, 모델은 AI 전략에서 가장 오래 지속되지 않는 요소다.",
+    "url": "https://www.cio.com/article/4191593/%ec%b9%bc%eb%9f%bc-%eb%aa%a8%eb%8d%b8%ec%9d%80-%eb%b9%8c%eb%a6%ac%ea%b3%a0-%ea%b7%b8%eb%9d%bc%ec%9a%b4%eb%94%a9%ec%9d%80-%ec%86%8c%ec%9c%a0%ed%95%9c%eb%8b%a4%c2%b7%c2%b7%c2%b7ai-%ea%b2%bd%ec%9f%81.html",
+    "image": null,
+    "date": "2026-07-01T11:44:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4191554/ai%ea%b0%80-%ec%97%86%ec%95%a4-%ec%a3%bc%eb%8b%88%ec%96%b4-%eb%88%84%ea%b0%80-%eb%af%b8%eb%9e%98%ec%9d%98-%ec%8b%9c%eb%8b%88%ec%96%b4%eb%a5%bc-%ed%82%a4%ec%9a%b0%eb%82%98.html",
+    "platform": "CIO",
+    "title": "AI가 없앤 주니어, 누가 미래의 시니어를 키우나",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI가 없앤 주니어, 누가 미래의 시니어를 키우나",
+    "summary_ko": "AI가 가져온 혁신의 물결은 많은 IT 리더가 인정하고 싶어 하는 것보다 훨씬 빠른 속도로 IT 인재 육성 체계를 중대한 갈림길로 몰아가고 있다. 그동안 기업들은 신입 직급부터 인재를 육성해 내부에서 IT 전문성을 키워왔지만, 이제는 AI 활용 경험을 갖춘 인재에 대한 수요가 커지고 AI 자동화가 초급 직무를 대체하면서 이러한 전통적인 인재 육성 방식이 흔들리고 있다.",
+    "url": "https://www.cio.com/article/4191554/ai%ea%b0%80-%ec%97%86%ec%95%a4-%ec%a3%bc%eb%8b%88%ec%96%b4-%eb%88%84%ea%b0%80-%eb%af%b8%eb%9e%98%ec%9d%98-%ec%8b%9c%eb%8b%88%ec%96%b4%eb%a5%bc-%ed%82%a4%ec%9a%b0%eb%82%98.html",
+    "image": null,
+    "date": "2026-07-01T11:32:58.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4191550/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models.html",
+    "platform": "CIO",
+    "title": "US reverses export restrictions on Anthropic’s Fable 5, Mythos 5 AI models",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "US reverses export restrictions on Anthropic’s Fable 5, Mythos 5 AI models",
+    "summary_ko": "미국이 Anthropic의 Fable 5, Mythos 5 AI 모델에 대한 수출 제한을 철회했습니다. 미국 정부는 Anthropic의 최첨단 AI 모델 Fable 5 및 Mythos 5에 대한 수출 제한을 취소하여 해당 모델의 사이버 보안 기능에 대한 우려로 인해 거의 3주 동안 중단된 후 회사가 글로벌 액세스를 재개할 수 있도록 허용했습니다. Anthropic은 블로그 게시물을 통해 “6월 30일 오늘부터 Fable 5와 Mythos 5에 대한 수출 통제가 해제되었습니다. ”라고 밝혔습니다.",
+    "url": "https://www.cio.com/article/4191550/us-reverses-export-restrictions-on-anthropics-fable-5-mythos-5-ai-models.html",
+    "image": null,
+    "date": "2026-07-01T11:09:38.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4191545/%ec%9b%94%eb%93%9c%ec%bb%b5%ec%9d%84-%ec%9b%80%ec%a7%81%ec%9d%b4%eb%8a%94-ai%eb%a0%88%eb%85%b8%eb%b2%84%c2%b7%ea%b5%ac%ea%b8%80%c2%b7%ec%98%a4%ed%94%88ai%ea%b0%80-%ed%8e%bc%ec%b9%98%eb%8a%94.html",
+    "platform": "CIO",
+    "title": "월드컵을 움직이는 AI…레노버·구글·오픈AI가 펼치는 기술 경쟁",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "월드컵을 움직이는 AI…레노버·구글·오픈AI가 펼치는 기술 경쟁",
+    "summary_ko": "FIFA 월드컵은 세계에서 가장 강력한 광고 무대로 꼽힌다. 올해 초 열린 미국 프로풋볼(NFL) 슈퍼볼의 시청자는 약 1억 2,500만 명이었지만, 2022년 카타르 월드컵은 전 세계에서 최소 28억 명이 대회 일부를 시청했다. 올해는 이 수치가 최소 60억 명까지 늘어날 것으로 전망된다. 하지만 이러한 시청자 수조차 세계적인 기업들이 막대한 마케팅 예산을 투입하는 규모에 비하면 일부에 불과하다. 탄산음료와 스포츠웨어, 자동차, 컴퓨터 등 다양한 제품을 홍보하기 위해 글로벌 기업들은 월드컵을 무대로 대규모 광고 경쟁을 벌이고 있다.",
+    "url": "https://www.cio.com/article/4191545/%ec%9b%94%eb%93%9c%ec%bb%b5%ec%9d%84-%ec%9b%80%ec%a7%81%ec%9d%b4%eb%8a%94-ai%eb%a0%88%eb%85%b8%eb%b2%84%c2%b7%ea%b5%ac%ea%b8%80%c2%b7%ec%98%a4%ed%94%88ai%ea%b0%80-%ed%8e%bc%ec%b9%98%eb%8a%94.html",
+    "image": null,
+    "date": "2026-07-01T11:03:54.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4183574/7-ways-to-ensure-effective-digital-leadership-in-the-age-of-agentic-ai.html",
+    "platform": "CIO",
+    "title": "7 ways to ensure effective digital leadership in the age of agentic AI",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "7 ways to ensure effective digital leadership in the age of agentic AI",
+    "summary_ko": "에이전트 AI 시대에 효과적인 디지털 리더십을 보장하는 7가지 방법 연구에 따르면 선구적인 CIO는 AI 에이전트와 인간 기술을 결합해야 합니다. 그렇다면 디지털 리더는 어떻게 대리인 역량과 전문 역량 사이의 효과적인 균형을 확립하고 직원을 대리인이 활성화된 미래로 성공적으로 이끌 수 있을까요? 전문가가 전하는 7가지 모범 사례 팁은 다음과 같습니다. 1.",
+    "url": "https://www.cio.com/article/4183574/7-ways-to-ensure-effective-digital-leadership-in-the-age-of-agentic-ai.html",
+    "image": null,
+    "date": "2026-07-01T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4185740/using-ai-to-reinvent-care-delivery-at-novant-health.html",
+    "platform": "CIO",
+    "title": "Using AI to reinvent care delivery at Novant Health",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Using AI to reinvent care delivery at Novant Health",
+    "summary_ko": "AI를 사용하여 Novant Health에서 의료 서비스 제공을 재창조합니다. 의료 분야에서는 비용을 줄이면서 결과를 개선해야 한다는 압박이 그 어느 때보다 커졌습니다. 그러나 많은 조직에서는 AI를 사용하여 근본적으로 변경하기보다는 여전히 기존 시스템에 AI를 적용하고 있습니다. Novant Health에서 이러한 변화는 작년에 Vijay Sankararaman이 그 이후로 맡았던 최고 AI 책임자 역할을 확립함으로써 부분적으로 추진되고 있습니다.",
+    "url": "https://www.cio.com/article/4185740/using-ai-to-reinvent-care-delivery-at-novant-health.html",
+    "image": null,
+    "date": "2026-07-01T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4191250/shadow-agents-how-it-leaders-must-govern-headless-ai-before-it-breaks-the-enterprise.html",
+    "platform": "CIO",
+    "title": "Shadow agents: How IT leaders must govern ‘headless’ AI before it breaks the enterprise",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Shadow agents: How IT leaders must govern ‘headless’ AI before it breaks the enterprise",
+    "summary_ko": "섀도우 에이전트: IT 리더가 '헤드리스' AI가 기업을 무너뜨리기 전에 이를 관리해야 하는 방법 올해 초 저는 자체 로컬 AI 에이전트, 즉 노트북 AI-Agent라는 시스템을 실행하고 있었습니다. 이 시스템은 Lang Graph 추론 루프, 로컬 Ollama 모델 및 파일을 읽고, git 저장소를 쿼리하고, 시스템 프로세스를 모니터링할 수 있는 도구 세트를 사용하며, 모두 클라우드 호출 없이 전적으로 내 노트북에서 실행됩니다. 나는 그에게 광범위한 임무를 부여하고 떠났습니다. 내가 돌아왔을 땐 이미 작업이 완료된 상태였다.",
+    "url": "https://www.cio.com/article/4191250/shadow-agents-how-it-leaders-must-govern-headless-ai-before-it-breaks-the-enterprise.html",
+    "image": null,
+    "date": "2026-07-01T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1ukbtjm/fable_5_will_divert_coding_to_opus_48_according/",
+    "platform": "Reddit",
+    "title": "Fable 5 will divert coding to Opus 4.8 according to Anthropic",
+    "author": {
+      "name": "/u/Mr_Hyper_Focus",
+      "handle": "/u//u/Mr_Hyper_Focus",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Fable 5 will divert coding to Opus 4.8 according to Anthropic",
+    "summary_ko": "Fable 5는 Anthropic에 따라 코딩을 Opus 4.8로 전환합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1ukbtjm/fable_5_will_divert_coding_to_opus_48_according/",
+    "image": "https://preview.redd.it/b200anypsjah1.jpeg?width=640&crop=smart&auto=webp&s=eb0e783675339ccf7da5a1829315fb6c597c120c",
+    "date": "2026-07-01T04:44:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1uk4gwa/the_accuracy_is_tripping_me/",
+    "platform": "Reddit",
+    "title": "The Accuracy Is Tripping Me",
+    "author": {
+      "name": "/u/SaintedTainted",
+      "handle": "/u//u/SaintedTainted",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The Accuracy Is Tripping Me",
+    "summary_ko": "정확성이 나를 넘어뜨리고 있다",
+    "url": "https://www.reddit.com/r/singularity/comments/1uk4gwa/the_accuracy_is_tripping_me/",
+    "image": "https://external-preview.redd.it/aHNpNDhrcjMzaWFoMSJrsKteYXTUPXL3ysG_dbh6qYpiRFb1y4Zlej1CQXtp.png?width=640&crop=smart&auto=webp&s=42ca8eccb7f1893e1462bd1729300a93ef366823",
+    "date": "2026-06-30T22:59:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
     "platform": "Google",
     "title": "Expanding our Heat Resilience data to 50+ global cities",
@@ -13,7 +252,7 @@
     "summary_ko": "열 탄력성 데이터를 50개 이상의 글로벌 도시로 확장",
     "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
     "image": null,
-    "date": "2026-06-30T17:03:10.000Z",
+    "date": "2026-06-30T17:03:00.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -5942,317 +6181,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tu82wi/stop_asking_what_model_to_run_there_are_literally/",
     "image": null,
     "date": "2026-06-01T22:29:23.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1tu5wse/security_robots_ready_to_patrol_att_stadium/",
-    "platform": "Reddit",
-    "title": "Security robots ready to patrol AT&T Stadium during the FIFA World Cup 2026 in Arlington, Texas",
-    "author": {
-      "name": "/u/Distinct-Question-16",
-      "handle": "/u//u/Distinct-Question-16",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Security robots ready to patrol AT&T Stadium during the FIFA World Cup 2026 in Arlington, Texas",
-    "summary_ko": "2026년 북중미 월드컵을 앞두고 미국 텍사스 AT&T 스타디움에 보안 로봇이 배치됩니다. 이 로봇들은 경기장 내외부를 자율적으로 순찰하며 대규모 국제 행사의 안전을 강화하는 임무를 수행할 예정입니다. 이번 도입은 첨단 로봇 기술이 스포츠 경기장과 같은 공공장소의 보안 관리 분야로 빠르게 확산되고 있음을 보여주는 사례입니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1tu5wse/security_robots_ready_to_patrol_att_stadium/",
-    "image": "https://external-preview.redd.it/Y3p1a3FqNThscTRoMcLwlf0zuDktxi2mkXAG8Q3UImrlxtWFcU0s-JSpfQ_7.png?width=320&crop=smart&auto=webp&s=385c854c6a78ba037e55a2505bad169fb6931b97",
-    "date": "2026-06-01T21:10:02.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4179537/nvidia-stacks-up-agentic-ai-infrastructure.html",
-    "platform": "CIO",
-    "title": "Nvidia stacks up agentic AI infrastructure",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Nvidia stacks up agentic AI infrastructure",
-    "summary_ko": "엔비디아가 기업의 에이전틱 AI 도입을 지원하는 포괄적인 소프트웨어 및 인프라 스택을 공개했습니다. 이는 단순 생성형 AI를 넘어 자율적으로 작업을 수행하는 AI 에이전트를 실험 단계에서 실제 운영 환경으로 전환하는 것을 목표로 합니다. 특히 새로운 보안 런타임 '오픈 셸'은 모델 외부에서 거버넌스와 보안을 제어해 기업의 도입 장벽을 낮추는 핵심 기술로 주목받습니다.",
-    "url": "https://www.cio.com/article/4179537/nvidia-stacks-up-agentic-ai-infrastructure.html",
-    "image": null,
-    "date": "2026-06-01T19:57:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4179512/oracles-first-monthly-patch-release-fixes-35-flaws-including-11-rated-critical-2.html",
-    "platform": "CIO",
-    "title": "Oracle’s first monthly patch release fixes 35 flaws, including 11 rated ‘critical’",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Oracle’s first monthly patch release fixes 35 flaws, including 11 rated ‘critical’",
-    "summary_ko": "오라클이 기존 분기별 업데이트를 보완하는 첫 월간 긴급 보안 패치를 공개했습니다. 이번 패치는 총 35개의 보안 취약점을 해결하며, 이 중 11개는 최고 위험 등급인 '심각(critical)'으로 분류되었습니다. 특히 이미 공격 코드가 외부에 공개된 취약점들이 포함되어 있어 즉각적인 대응이 중요합니다. 이는 제품에 내장된 오픈소스 구성 요소의 취약점을 해결하는 공급망 보안 관리의 어려움을 보여줍니다.",
-    "url": "https://www.cio.com/article/4179512/oracles-first-monthly-patch-release-fixes-35-flaws-including-11-rated-critical-2.html",
-    "image": null,
-    "date": "2026-06-01T18:03:53.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4178293/aws-transform-migration-how-clearscale-compresses-enterprise-modernization.html",
-    "platform": "CIO",
-    "title": "AWS Transform migration: How Clearscale compresses enterprise modernization",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AWS Transform migration: How Clearscale compresses enterprise modernization",
-    "summary_ko": "기업의 레거시 시스템 현대화는 막대한 인력과 시간이 소요되는 고질적 과제입니다. AWS의 에이전틱 AI 서비스 'AWS 트랜스폼'은 VM웨어, 닷넷 등 복잡한 워크로드의 클라우드 마이그레이션을 자동화하여 이 문제를 해결합니다. 파트너사 클리어스케일은 이를 통해 수동 방식 대비 최대 5배 빠른 현대화와 80%의 실행 시간 단축을 구현했습니다. AI 기반 자동화가 기업의 기술 부채를 줄이고 혁신을 가속하는 핵심 열쇠가 되고 있습니다.",
-    "url": "https://www.cio.com/article/4178293/aws-transform-migration-how-clearscale-compresses-enterprise-modernization.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/05/Clearscale-Blog-2_IN-TEXT-Image_AWS-Transform-Migration.png?w=1024",
-    "date": "2026-06-01T17:47:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ttz558/i_trusted_random_person_on_this_subreddit_and/",
-    "platform": "Reddit",
-    "title": "I trusted random person on this subreddit and bought 3080 20gb made of chinesium",
-    "author": {
-      "name": "/u/SwimmerJazzlike",
-      "handle": "/u//u/SwimmerJazzlike",
-      "avatar_color": "#ff4500"
-    },
-    "content": "I trusted random person on this subreddit and bought 3080 20gb made of chinesium",
-    "summary_ko": "해외 온라인 커뮤니티에서 한 사용자가 그래픽카드 구매 사기 경험을 공유해 화제입니다. 그는 낯선 네티즌의 추천만 믿고 공식 출시된 적 없는 '지포스 RTX 3080 20GB' 모델을 구매했으나, 이는 성능이 조작된 가짜 제품으로 드러났습니다. 이번 사례는 검증되지 않은 온라인 정보에 의존해 고가의 하드웨어를 거래할 때 발생할 수 있는 위험성을 명확히 보여줍니다. 따라서 비공식 경로를 통한 부품 구매 시에는 각별한 주의가 요구됩니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttz558/i_trusted_random_person_on_this_subreddit_and/",
-    "image": "https://preview.redd.it/4r6t2yykgp4h1.png?width=640&crop=smart&auto=webp&s=aa2f80c000f5d6c64eda63506e1b0a1d8f5823ad",
-    "date": "2026-06-01T17:22:58.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4179462/ai-innovation-moves-fast-security-must-help-it-move-faster.html",
-    "platform": "CIO",
-    "title": "AI innovation moves fast. Security must help it move faster.",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI innovation moves fast. Security must help it move faster.",
-    "summary_ko": "기업들이 생산성 향상을 위해 코파일럿, 자율 에이전트 등 AI 도입을 서두르고 있습니다. 하지만 이 AI 에이전트들은 시스템과 민감 데이터에 접근하는 새로운 '비인간 신원'으로 작동하며 기존에 없던 보안 리스크를 야기합니다. 이에 AI 혁신을 늦추지 않으면서도 리스크를 관리하는 것이 기업의 핵심 과제로 부상했습니다. 결국 보안은 AI 도입의 장애물이 아닌, 더 빠르고 자신감 있는 혁신을 가능하게 하는 기반이 되어야 합니다.",
-    "url": "https://www.cio.com/article/4179462/ai-innovation-moves-fast-security-must-help-it-move-faster.html",
-    "image": null,
-    "date": "2026-06-01T16:10:34.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1ttwvf1/anthropic_confidentially_submits_draft_s1_to_the/",
-    "platform": "Reddit",
-    "title": "Anthropic confidentially submits draft S-1 to the SEC",
-    "author": {
-      "name": "/u/WhyLifeIs4",
-      "handle": "/u//u/WhyLifeIs4",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anthropic confidentially submits draft S-1 to the SEC",
-    "summary_ko": "OpenAI의 경쟁사 앤트로픽이 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 S-1 서류 초안을 비공개로 제출했습니다. 이는 생성형 AI 분야의 경쟁이 심화되는 가운데 대규모 자금 조달을 통해 기술 개발을 가속화하려는 움직임으로 풀이됩니다. 아마존, 구글 등 빅테크의 막대한 투자를 받은 앤트로픽의 상장은 AI 업계의 중요한 이정표가 될 전망입니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1ttwvf1/anthropic_confidentially_submits_draft_s1_to_the/",
-    "image": "https://preview.redd.it/pq9rklga3p4h1.jpeg?width=640&crop=smart&auto=webp&s=2e3b247e9a3e09dfed08371d91279a7128f82212",
-    "date": "2026-06-01T16:07:31.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4179315/la-ia-cambiara-la-banca-de-manera-radical-segun-carlos-casas-cio-global-de-bbva.html",
-    "platform": "CIO",
-    "title": "La IA cambiará la banca “de manera radical”, según Carlos Casas, CIO global de BBVA",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "La IA cambiará la banca “de manera radical”, según Carlos Casas, CIO global de BBVA",
-    "summary_ko": "스페인 대형 은행 BBVA의 글로벌 최고정보책임자(CIO)가 인공지능(AI)이 은행 산업을 근본적으로 바꿀 것이라고 전망했습니다. 그는 현재의 AI 혁신이 단순한 기술 도입을 넘어 비즈니스 모델과 사회 전반에 영향을 미치는 구조적 전환이라고 진단했습니다. 이에 따라 은행은 고객 관계, 내부 운영, 비즈니스 모델 등 모든 것을 완전히 새롭게 재창조해야 하는 과제에 직면했다고 강조했습니다.",
-    "url": "https://www.cio.com/article/4179315/la-ia-cambiara-la-banca-de-manera-radical-segun-carlos-casas-cio-global-de-bbva.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/Horacio-Morell-y-Carlos-CuecasDirector-Global-de-Ingenieria-CIO-BBVA-4.jpg?quality=50&amp;strip=all&amp;w=1024",
-    "date": "2026-06-01T12:05:16.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4177845/the-neocloud-vendor-trap-new-infrastructure-same-old-risk.html",
-    "platform": "CIO",
-    "title": "The neocloud vendor trap: New infrastructure, same old risk",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "The neocloud vendor trap: New infrastructure, same old risk",
-    "summary_ko": "AI 인프라 시장에서 GPU 네이티브 플랫폼인 '네오클라우드'가 빠르게 주류로 부상하고 있습니다. 하지만 기술 도입 속도를 리스크 관리 체계가 따라가지 못하면서 심각한 거버넌스 공백이 발생하고 있습니다. 많은 기업이 새로운 인프라에 숨겨진 기존의 위험을 인지하지 못하는 상황에 놓인 것입니다. 따라서 이 거버넌스 격차를 해소하고 책임감 있는 AI 리더십을 확립하는 것이 기업의 핵심 과제로 떠올랐습니다.",
-    "url": "https://www.cio.com/article/4177845/the-neocloud-vendor-trap-new-infrastructure-same-old-risk.html",
-    "image": null,
-    "date": "2026-06-01T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4179271/%ec%b9%bc%eb%9f%bc-gpu-%ec%82%ac%ec%9a%a9%eb%a5%a0%ec%9d%b4-%eb%82%ae%eb%8b%a4%ea%b3%a0-%eb%82%ad%eb%b9%84%ec%9d%bc%ea%b9%8c-%eb%b3%b4%ec%95%88-ai-%ed%95%99%ec%8a%b5%ec%97%90%ec%84%9c-%ed%95%80.html",
-    "platform": "CIO",
-    "title": "칼럼 | GPU 사용률이 낮다고 낭비일까? 보안 AI 학습에서 핀옵스가 놓치는 함정",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | GPU 사용률이 낮다고 낭비일까? 보안 AI 학습에서 핀옵스가 놓치는 함정",
-    "summary_ko": "칼럼 | GPU 사용률이 낮다고 낭비일까? 보안 AI 학습에서 핀옵스가 놓치는 함정",
-    "url": "https://www.cio.com/article/4179271/%ec%b9%bc%eb%9f%bc-gpu-%ec%82%ac%ec%9a%a9%eb%a5%a0%ec%9d%b4-%eb%82%ae%eb%8b%a4%ea%b3%a0-%eb%82%ad%eb%b9%84%ec%9d%bc%ea%b9%8c-%eb%b3%b4%ec%95%88-ai-%ed%95%99%ec%8a%b5%ec%97%90%ec%84%9c-%ed%95%80.html",
-    "image": null,
-    "date": "2026-06-01T10:05:55.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4179247/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ed%97%a4%eb%93%9c%eb%a6%ac%ec%8a%a4-360-crm-%eb%b9%84%ec%9a%a9%eb%8f%84-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b3%bc%ea%b8%88-%ec%8b%9c%eb%8c%80%eb%a1%9c.html",
-    "platform": "CIO",
-    "title": "세일즈포스 헤드리스 360, CRM 비용도 사용량 과금 시대로 이끄나",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "세일즈포스 헤드리스 360, CRM 비용도 사용량 과금 시대로 이끄나",
-    "summary_ko": "세일즈포스 헤드리스 360, CRM 비용도 사용량 과금 시대로 이끄나",
-    "url": "https://www.cio.com/article/4179247/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ed%97%a4%eb%93%9c%eb%a6%ac%ec%8a%a4-360-crm-%eb%b9%84%ec%9a%a9%eb%8f%84-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b3%bc%ea%b8%88-%ec%8b%9c%eb%8c%80%eb%a1%9c.html",
-    "image": null,
-    "date": "2026-06-01T09:47:11.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ttn15z/entire_world_we_need_more_gpus_meanwhile_jensen/",
-    "platform": "Reddit",
-    "title": "Entire world: We need more GPUs. Meanwhile, Jensen Huang:",
-    "author": {
-      "name": "/u/Nunki08",
-      "handle": "/u//u/Nunki08",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Entire world: We need more GPUs. Meanwhile, Jensen Huang:",
-    "summary_ko": "AI 칩 부족 사태의 중심에 있는 젠슨 황 엔비디아 CEO가 파격적인 팬 서비스로 화제입니다. 그는 최근 대만 컴퓨텍스 행사장에서 한 여성 팬의 요청에 응해 가슴 부위 옷에 직접 사인을 남겼습니다. 이는 전 세계적인 신드롬을 일으키고 있는 그의 'AI 록스타'다운 면모와 인기를 상징적으로 보여주는 장면으로 평가됩니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttn15z/entire_world_we_need_more_gpus_meanwhile_jensen/",
-    "image": "https://external-preview.redd.it/Z2hjbjk0eGI0bjRoMcEWvdB-ujyoZV9m6a9dOnjD0aiZHmWc1hhipRIbVevA.png?width=640&crop=smart&auto=webp&s=9c84a88cbd9483eb8eec871c6d17b802f04023a6",
-    "date": "2026-06-01T09:32:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4179091/cio%ea%b0%80-%ec%a1%b0%ec%8b%ac%ed%95%b4%ec%95%bc-%ed%95%a0-it-%ed%98%84%eb%8c%80%ed%99%94%ec%9d%98-8%ea%b0%80%ec%a7%80-%ec%9c%84%ed%97%98-%ec%9a%94%ec%86%8c.html",
-    "platform": "CIO",
-    "title": "CIO가 조심해야 할 IT 현대화의 8가지 위험 요소",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "CIO가 조심해야 할 IT 현대화의 8가지 위험 요소",
-    "summary_ko": "CIO가 조심해야 할 IT 현대화의 8가지 위험 요소",
-    "url": "https://www.cio.com/article/4179091/cio%ea%b0%80-%ec%a1%b0%ec%8b%ac%ed%95%b4%ec%95%bc-%ed%95%a0-it-%ed%98%84%eb%8c%80%ed%99%94%ec%9d%98-8%ea%b0%80%ec%a7%80-%ec%9c%84%ed%97%98-%ec%9a%94%ec%86%8c.html",
-    "image": null,
-    "date": "2026-06-01T06:16:51.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1tthkh5/nvidia_announces_nemotron_3_ultra/",
-    "platform": "Reddit",
-    "title": "NVIDIA announces Nemotron 3 Ultra",
-    "author": {
-      "name": "/u/themixtergames",
-      "handle": "/u//u/themixtergames",
-      "avatar_color": "#ff4500"
-    },
-    "content": "NVIDIA announces Nemotron 3 Ultra",
-    "summary_ko": "엔비디아가 개발자 생태계 강화를 위해 새로운 오픈 모델 '네모트론-3 울트라'를 선보였습니다. 이 모델은 다른 AI 모델 훈련에 필요한 고품질 합성 데이터를 생성하는 데 특화된 것이 특징입니다. 기업들은 이를 활용해 데이터 부족 문제를 해결하고, 특정 목적에 맞는 강력한 맞춤형 AI를 이전보다 쉽게 구축할 수 있게 되었습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tthkh5/nvidia_announces_nemotron_3_ultra/",
-    "image": "https://preview.redd.it/f79wu6dnml4h1.jpeg?width=640&crop=smart&auto=webp&s=a2e02d5b80bab204375f8e0048a18c0ccdff06e7",
-    "date": "2026-06-01T04:34:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4178110/press-release-cio100-asean-hong-kong-awards-2026-is-open-for-nominations.html",
-    "platform": "CIO",
-    "title": "Press Release: CIO100 ASEAN & Hong Kong Awards 2026 is open for nominations",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Press Release: CIO100 ASEAN & Hong Kong Awards 2026 is open for nominations",
-    "summary_ko": "아세안 및 홍콩 지역의 기술 리더십을 조명하는 'CIO100 어워드'가 2026년 제6회 행사를 맞아 후보자 추천 접수를 시작합니다. 이 상은 혁신적인 프로젝트로 비즈니스 성장과 운영 효율성을 이끈 최고정보책임자(CIO)와 기술팀의 공로를 인정하며, 지역 내 기술 성숙도를 가늠하는 중요한 척도로 평가받습니다. 수상자는 업계 리더들과 교류하고 국제적인 인지도를 얻는 기회를 갖게 되며, 현재 CIO 및 고위 기술 리더들의 추천을 받고 있습니다.",
-    "url": "https://www.cio.com/article/4178110/press-release-cio100-asean-hong-kong-awards-2026-is-open-for-nominations.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/image_e44e53.png?w=1024",
-    "date": "2026-06-01T02:06:29.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ttdiq0/minimax_m3_coding_agentic_frontier_1m_context/",
-    "platform": "Reddit",
-    "title": "MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal",
-    "author": {
-      "name": "/u/dryadofelysium",
-      "handle": "/u//u/dryadofelysium",
-      "avatar_color": "#ff4500"
-    },
-    "content": "MiniMax M3 - Coding & Agentic Frontier, 1M Context, Multimodal",
-    "summary_ko": "중국 AI 스타트업 미니맥스가 GPT-4o, 클로드 3 오푸스 등과 경쟁할 차세대 파운데이션 모델 M3를 공개했습니다. M3는 최대 100만 토큰의 방대한 컨텍스트 창을 지원하며, 복잡한 코딩 작업을 자율적으로 수행하는 에이전틱 AI 기능과 멀티모달리티를 갖춘 것이 특징입니다. 미니맥스는 이를 통해 인간처럼 복잡한 작업을 스스로 계획하고 실행하는 범용 에이전틱 AI(GAI) 시대를 열겠다는 포부를 밝혔습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ttdiq0/minimax_m3_coding_agentic_frontier_1m_context/",
-    "image": "https://external-preview.redd.it/GYUWVApHh7WxqJg5euhUy3HbyIqNa4dEj0F1wERAlNc.png?width=216&crop=smart&auto=webp&s=55d5888cd08634c66be0fb8a7879d431508a960a",
-    "date": "2026-06-01T01:23:45.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4178935/cio%e3%81%8c%e5%8f%96%e7%b7%a0%e5%bd%b9%e4%bc%9a%e3%81%a7%e7%8a%af%e3%81%99%e5%a4%b1%e6%95%97-%e3%81%9d%e3%81%ae%e5%8e%9f%e5%9b%a0%e3%81%a8%e5%af%be%e7%ad%96.html",
-    "platform": "CIO",
-    "title": "CIOが取締役会で犯す失敗——その原因と対策",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "CIOが取締役会で犯す失敗——その原因と対策",
-    "summary_ko": "많은 최고정보책임자(CIO)가 이사회에서 기술적 세부 보고에 치중하는 실수를 저지릅니다. 이사회는 프로젝트 현황이 아닌 기술 투자가 사업 전략 및 성과와 어떻게 연결되는지에 대한 전략적 대화를 원하기 때문입니다. 따라서 CIO는 일방적인 발표자 역할을 넘어 이사회의 질문 의도를 파악하고 비즈니스 관점의 논의를 이끌어야 합니다. 특히 불확실성이 큰 AI 시대에는 이사회를 교육하고 전략 방향을 제시하는 CIO의 역할이 더욱 중요해졌습니다.",
-    "url": "https://www.cio.com/article/4178935/cio%e3%81%8c%e5%8f%96%e7%b7%a0%e5%bd%b9%e4%bc%9a%e3%81%a7%e7%8a%af%e3%81%99%e5%a4%b1%e6%95%97-%e3%81%9d%e3%81%ae%e5%8e%9f%e5%9b%a0%e3%81%a8%e5%af%be%e7%ad%96.html",
-    "image": null,
-    "date": "2026-05-31T23:00:00.000Z",
     "likes": 0,
     "comments": 0
   }
