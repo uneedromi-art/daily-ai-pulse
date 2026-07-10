@@ -1,5 +1,225 @@
 [
   {
+    "id": "https://www.cio.com/article/4195749/ibm-grows-mainframe-family-with-rack-frame-models-targeting-ai-hybrid-clouds-2.html",
+    "platform": "CIO",
+    "title": "IBM grows mainframe family with rack, frame models targeting AI, hybrid clouds",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "IBM grows mainframe family with rack, frame models targeting AI, hybrid clouds",
+    "summary_ko": "IBM은 AI, 하이브리드 클라우드를 목표로 하는 랙, 프레임 모델을 통해 메인프레임 제품군을 확장합니다. IBM은 Z 및 Linux ONE 시스템의 새로운 단일 프레임 및 랙 마운트 버전을 추가하여 기본 메인프레임 포트폴리오의 범위를 확장하려고 합니다. IBM z17 포트폴리오는 메인프레임 기능을 더 작고 사용자 정의 가능한 공간으로 가져오는 단일 프레임 및 랙 마운트 버전을 추가합니다.",
+    "url": "https://www.cio.com/article/4195749/ibm-grows-mainframe-family-with-rack-frame-models-targeting-ai-hybrid-clouds-2.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/07/LinuxONE-5-Single-Frame.png?w=1024",
+    "date": "2026-07-10T18:18:14.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195580/como-un-director-de-ti-de-formula-1-logra-el-equilibrio-entre-innovacion-y-estabilidad-a-200-mph.html",
+    "platform": "CIO",
+    "title": "Así es como un director de TI de Fórmula 1 logra el equilibrio entre innovación y estabilidad a más de 300 km/h",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Así es como un director de TI de Fórmula 1 logra el equilibrio entre innovación y estabilidad a más de 300 km/h",
+    "summary_ko": "이것이 바로 Formula 1 IT 책임자가 300km/h가 넘는 속도에서 혁신과 안정성 사이의 균형을 달성하는 방법입니다. Michael Taylor는 Mercedes-AMG Petronas Formula 1 팀에서 25시즌을 보내며 트랙 지원부터 엔지니어링 시스템 및 비즈니스 혁신에 이르기까지 모든 IT 기능을 수행했습니다. 현재 그는 IT 이사로서 세계 최대의 데이터 집약적 운영 중 하나를 담당하는 18명으로 구성된 팀을 이끌고 있습니다. 자동차가 피트를 떠날 때 300개의 센서가 장착됩니다.",
+    "url": "https://www.cio.com/article/4195580/como-un-director-de-ti-de-formula-1-logra-el-equilibrio-entre-innovacion-y-estabilidad-a-200-mph.html",
+    "image": null,
+    "date": "2026-07-10T11:13:07.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195155/accelerating-financial-closes-with-help-from-ai-agents-a-pragmatic-guide.html",
+    "platform": "CIO",
+    "title": "Accelerating financial closes with help from AI agents: A pragmatic guide",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Accelerating financial closes with help from AI agents: A pragmatic guide",
+    "summary_ko": "AI 에이전트의 도움으로 재무 마감 가속화: 실용적인 가이드. 역사적으로 필요한 재무 마감은 지루하고 수동 집약적인 프로세스였으므로 대리인화에 탁월한 후보가 되었습니다. AI 에이전트는 다양한 소스의 금융 데이터 통합, 거래 조정 등과 관련된 \"더러운 작업\"의 대부분을 처리할 수 있습니다. 즉, AI 에이전트가 마감 프로세스를 간소화하고 가속화하는 데에는 한계가 있습니다.",
+    "url": "https://www.cio.com/article/4195155/accelerating-financial-closes-with-help-from-ai-agents-a-pragmatic-guide.html",
+    "image": null,
+    "date": "2026-07-10T11:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1usjw1c/iits_not_like_i_like_your_prompts_or_anything/",
+    "platform": "Reddit",
+    "title": "“i-it’s not like I like your prompts or anything, baka user!”",
+    "author": {
+      "name": "/u/Pantegral-7",
+      "handle": "/u//u/Pantegral-7",
+      "avatar_color": "#ff4500"
+    },
+    "content": "“i-it’s not like I like your prompts or anything, baka user!”",
+    "summary_ko": "\"저, 당신의 메시지라던가 별로 맘에 안 드네요, 사용자님!\"",
+    "url": "https://www.reddit.com/r/singularity/comments/1usjw1c/iits_not_like_i_like_your_prompts_or_anything/",
+    "image": "https://preview.redd.it/i5ussigkrdch1.jpeg?width=640&crop=smart&auto=webp&s=81569a392eb85f22cb6dcb588be4d5fa0d9f5b48",
+    "date": "2026-07-10T10:35:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4194702/how-a-formula-one-it-director-balances-innovation-and-stability-at-200-mph.html",
+    "platform": "CIO",
+    "title": "How a Formula 1 IT director balances innovation and stability at 200 mph",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "How a Formula 1 IT director balances innovation and stability at 200 mph",
+    "summary_ko": "Formula 1 IT 책임자가 200mph에서 혁신과 안정성의 균형을 맞추는 방법. Michael Taylor는 Mercedes-AMG Petronas F1 팀에서 25시즌을 보내며 트랙 지원부터 엔지니어링 시스템, 비즈니스 혁신에 이르기까지 모든 IT 역할을 수행했습니다. 현재 그는 IT 이사로서 세계에서 가장 데이터 집약적인 작업 중 하나를 담당하는 18명으로 구성된 팀을 이끌고 있습니다. 자동차가 차고에서 나올 때 300개의 센서가 장착됩니다.",
+    "url": "https://www.cio.com/article/4194702/how-a-formula-one-it-director-balances-innovation-and-stability-at-200-mph.html",
+    "image": null,
+    "date": "2026-07-10T10:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195152/your-next-insider-threat-doesnt-have-a-badge-it-has-an-api-token.html",
+    "platform": "CIO",
+    "title": "Your next insider threat doesn’t have a badge. It has an API token",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Your next insider threat doesn’t have a badge. It has an API token",
+    "summary_ko": "다음 내부자 위협에는 배지가 없습니다. API 토큰이 있습니다. 제가 현재 대부분의 시간을 설계에 소비하고 있는 위협은 전혀 위반처럼 보이지 않습니다. 적어도 처음에는 그렇지 않았습니다.",
+    "url": "https://www.cio.com/article/4195152/your-next-insider-threat-doesnt-have-a-badge-it-has-an-api-token.html",
+    "image": null,
+    "date": "2026-07-10T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1usegop/cz10ii_rocket_landed_in_a_net/",
+    "platform": "Reddit",
+    "title": "CZ10-II rocket landed in a net",
+    "author": {
+      "name": "/u/uniyk",
+      "handle": "/u//u/uniyk",
+      "avatar_color": "#ff4500"
+    },
+    "content": "CZ10-II rocket landed in a net",
+    "summary_ko": "CZ10-II 로켓이 그물에 착륙했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1usegop/cz10ii_rocket_landed_in_a_net/",
+    "image": null,
+    "date": "2026-07-10T05:28:14.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195351/%eb%82%b4%eb%b6%80-%ec%9c%a1%ec%84%b1-vs-%ec%99%b8%eb%b6%80-%ec%98%81%ec%9e%85-ai-%ec%9d%b8%ec%9e%ac-%ec%a0%84%ec%9f%81%ec%97%90%ec%84%9c-%ec%95%9e%ec%84%9c%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%97%85.html",
+    "platform": "CIO",
+    "title": "내부 육성 vs 외부 영입…AI 인재 전쟁에서 앞서가는 기업의 선택은?",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "내부 육성 vs 외부 영입…AI 인재 전쟁에서 앞서가는 기업의 선택은?",
+    "summary_ko": "AI를 성공적으로 도입하는 데 가장 중요한 요소는 이제 어떤 AI 도구를 도입했느냐가 아니라 이를 활용할 수 있는 인재를 얼마나 확보했느냐로 옮겨가고 있다. 이에 따라 IT 리더들은 기존 직원의 AI 역량을 강화해야 한다는 압박을 받고 있다. AI 역량은 현재 가장 수요가 높으면서도 채용이 가장 어려운 분야다. 이에 따라 많은 IT 리더와 경영진은 AI 도구를 개발하는 IT 전문가뿐 아니라 이를 업무에 활용할 일반 직원까지 포함하는 전사적인 AI 교육 프로그램을 확대하고 있다.",
+    "url": "https://www.cio.com/article/4195351/%eb%82%b4%eb%b6%80-%ec%9c%a1%ec%84%b1-vs-%ec%99%b8%eb%b6%80-%ec%98%81%ec%9e%85-ai-%ec%9d%b8%ec%9e%ac-%ec%a0%84%ec%9f%81%ec%97%90%ec%84%9c-%ec%95%9e%ec%84%9c%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%97%85.html",
+    "image": null,
+    "date": "2026-07-10T05:24:50.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4194813/%ec%95%a4%ec%8a%a4%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-ai%ec%9d%98-%eb%b8%94%eb%9e%99%ed%99%80-%ec%86%8d%ec%9d%84-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b4%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "앤트로픽, 클로드 AI의 블랙홀 속을 들여다보다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "앤트로픽, 클로드 AI의 블랙홀 속을 들여다보다",
+    "summary_ko": "앤트로픽이 자사 AI 모델이 문제를 해결하는 내부 과정을 보다 깊이 들여다볼 수 있는 새로운 분석 기법을 공개했다. 모델이 특정 방식으로 판단하고 행동하는 이유를 파악할 수 있게 되면서, 기업의 AI 평가와 구매 기준에도 적지 않은 영향을 미칠 것으로 전망된다. 앤트로픽은 최근 ‘J-스페이스(J-space)’라고 이름 붙인 새로운 내부 표현 공간을 발견했다고 밝혔다.",
+    "url": "https://www.cio.com/article/4194813/%ec%95%a4%ec%8a%a4%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-ai%ec%9d%98-%eb%b8%94%eb%9e%99%ed%99%80-%ec%86%8d%ec%9d%84-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b4%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-07-10T05:12:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195338/12%ec%8b%9c%ea%b0%84-%ea%b1%b8%eb%a6%ac%eb%8d%98-%ec%9e%a5%ec%95%a0-%eb%b6%84%ec%84%9d-5%eb%b6%84%ec%9d%b4%eb%a9%b4-%eb%81%9d%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%85-%eb%b9%84%ec%b8%a0-ai.html",
+    "platform": "CIO",
+    "title": "“1~2시간 걸리던 장애 분석, 5분이면 끝”…데이터독 ‘비츠 AI’ 전면에",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“1~2시간 걸리던 장애 분석, 5분이면 끝”…데이터독 ‘비츠 AI’ 전면에",
+    "summary_ko": "데이터독 코리아는 9일 서울에서 기자간담회를 열고 이 같은 사업 현황과 연례 컨퍼런스 ‘대시(Dash) 2026’에서 공개한 신제품 전략을 소개했다. 엄수창 데이터독 코리아 지사장은 이를 시장 변화의 신호로 해석했다. 엄 지사장은 “연초만 해도 ‘Saa S 아포칼립스’라는 말이 나올 정도로 Saa S 기업들의 미래를 부정적으로 보는 시각이 많았다”며 “하지만 데이터독은 AI와 함께 성장하면서 오히려 큰 미래 비전을 갖게 됐다”고 말했다.",
+    "url": "https://www.cio.com/article/4195338/12%ec%8b%9c%ea%b0%84-%ea%b1%b8%eb%a6%ac%eb%8d%98-%ec%9e%a5%ec%95%a0-%eb%b6%84%ec%84%9d-5%eb%b6%84%ec%9d%b4%eb%a9%b4-%eb%81%9d%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%85-%eb%b9%84%ec%b8%a0-ai.html",
+    "image": null,
+    "date": "2026-07-10T04:51:29.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1us7nml/gpt_56_beats_fable_5_by_3_more_on_deepswe_at_a/",
+    "platform": "Reddit",
+    "title": "GPT 5.6 Beats Fable 5 by 3% more on DeepSWE at a cheaper price.",
+    "author": {
+      "name": "/u/Common-Resident8087",
+      "handle": "/u//u/Common-Resident8087",
+      "avatar_color": "#ff4500"
+    },
+    "content": "GPT 5.6 Beats Fable 5 by 3% more on DeepSWE at a cheaper price.",
+    "summary_ko": "GPT 5.6은 DeepSWE에서 더 저렴한 가격으로 Fable 5를 3% 더 능가합니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1us7nml/gpt_56_beats_fable_5_by_3_more_on_deepswe_at_a/",
+    "image": "https://preview.redd.it/505rvco3nach1.jpeg?width=640&crop=smart&auto=webp&s=d987198a99a3d4515865351b567ef62a031ffabf",
+    "date": "2026-07-10T00:04:56.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1us5m0g/glm52_744b_moe_on_a_25gbram_consumer_machine/",
+    "platform": "Reddit",
+    "title": "GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine",
+    "author": {
+      "name": "/u/yogthos",
+      "handle": "/u//u/yogthos",
+      "avatar_color": "#ff4500"
+    },
+    "content": "GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine",
+    "summary_ko": "25GB RAM 소비자 컴퓨터의 GLM-5.2(744B MoE)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1us5m0g/glm52_744b_moe_on_a_25gbram_consumer_machine/",
+    "image": "https://external-preview.redd.it/NNWlLPxzyXhbyIUMuz2mW9zvetk56LAOcSGVs0rdPqY.png?width=640&crop=smart&auto=webp&s=4bc51d0f9ad167529370a7eb4ee3d62194c80a9c",
+    "date": "2026-07-09T22:43:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4195147/ais-real-bottleneck-isnt-compute-its-distance.html",
     "platform": "CIO",
     "title": "AI’s real bottleneck isn’t compute. It’s distance.",
@@ -4929,339 +5149,6 @@
     "url": "https://www.cio.com/article/4183804/the-hidden-cost-of-enterprise-ai-6-4-hours-a-week-babysitting-bots.html",
     "image": null,
     "date": "2026-06-11T00:05:17.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u2flqe/anthropic_closing_the_path_to_life_science/",
-    "platform": "Reddit",
-    "title": "Anthropic closing the path to life science research",
-    "author": {
-      "name": "/u/thecosmicskye",
-      "handle": "/u//u/thecosmicskye",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anthropic closing the path to life science research",
-    "summary_ko": "AI 기업 앤트로픽이 자사 모델의 생명 과학 연구 활용을 제한하는 강력한 조치를 내놓았습니다. 개정된 사용 정책은 생물학 무기 개발 및 확산과 관련된 모든 연구에 자사 AI 모델 사용을 명시적으로 금지합니다. 이는 AI 기술 고도화에 따른 잠재적 위험을 선제적으로 차단하려는 의도로, 업계에 중요한 안전 기준을 제시했다는 평가를 받습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u2flqe/anthropic_closing_the_path_to_life_science/",
-    "image": "https://preview.redd.it/3wky909axi6h1.png?width=640&crop=smart&auto=webp&s=558668b66632fa4bb7fa65537dd642af6d087414",
-    "date": "2026-06-10T21:31:39.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u2dg2f/agi_2030/",
-    "platform": "Reddit",
-    "title": "AGI 2030",
-    "author": {
-      "name": "/u/Automatic_Cancel_545",
-      "handle": "/u//u/Automatic_Cancel_545",
-      "avatar_color": "#ff4500"
-    },
-    "content": "AGI 2030",
-    "summary_ko": "인공일반지능(AGI)이 2030년까지 등장할 것이라는 구체적인 전망이 나왔습니다. 이는 AI 기술 발전이 선형이 아닌 기하급수적 속도를 보이고 있으며, 막대한 자본과 인재가 집중되고 있기 때문입니다. 필자는 현재의 스케일링 법칙 한계를 넘어 새로운 아키텍처 혁신이 나타날 것으로 예측했습니다. 따라서 AGI 개발은 단순한 기술 경쟁을 넘어, 안전과 윤리 등 사회기술적 과제를 해결하기 위한 공동의 노력이 필요한 중대 과제가 될 것입니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u2dg2f/agi_2030/",
-    "image": "https://preview.redd.it/g11ezzquii6h1.png?width=640&crop=smart&auto=webp&s=cda1fc06a7197b7d51746cd41efa0e329397aa4e",
-    "date": "2026-06-10T20:10:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
-    "platform": "Google",
-    "title": "New framework for auditing machine unlearning",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Algorithms & Theory",
-    "summary_ko": "개인정보보호 규제가 강화되면서 AI 모델에서 특정 데이터를 삭제하는 '머신 언러닝' 기술의 중요성이 커지고 있습니다. 하지만 데이터가 실제로 제거되었는지 검증하기 어려웠는데, 최근 이를 체계적으로 감사할 수 있는 새로운 프레임워크가 등장해 주목받고 있습니다. 이 프레임워크는 기업이 '잊힐 권리'와 같은 규제를 준수하고 AI 시스템의 신뢰도를 높이는 데 기여할 전망입니다.",
-    "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
-    "image": null,
-    "date": "2026-06-10T17:34:55.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u25uy6/dario_amodei_says_he_started_anthropic_because/",
-    "platform": "Reddit",
-    "title": "Dario Amodei says he started Anthropic because Altman is liar not because of safety reasons.",
-    "author": {
-      "name": "/u/llelouchh",
-      "handle": "/u//u/llelouchh",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Dario Amodei says he started Anthropic because Altman is liar not because of safety reasons.",
-    "summary_ko": "AI 기업 앤스로픽의 다리오 아모데이 CEO가 회사를 설립한 진짜 이유를 밝혔습니다. 그는 그동안 알려진 AI 안전에 대한 이견 때문이 아니라, 샘 알트만 오픈AI CEO가 거짓말쟁이라고 생각했기 때문에 회사를 나왔다고 주장했습니다. 이는 앤스로픽의 창업 배경이 기술 철학의 차이가 아닌 경영진 간의 신뢰 문제에서 비롯되었음을 시사합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u25uy6/dario_amodei_says_he_started_anthropic_because/",
-    "image": "https://external-preview.redd.it/OWg3am02ajQ3aDZoMVhyt_3ZwEQ5eL5tjWxV9dS3Eit8bs7-qOdkmQ-jZ-JD.png?width=640&crop=smart&auto=webp&s=bdd022e267682c6b17901e2b2e3aa62d583c1ddb",
-    "date": "2026-06-10T15:43:04.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4183045/github-copilot-is-generating-more-code-than-your-team-can-review-why-senior-engineers-are-now-the-bottleneck.html",
-    "platform": "CIO",
-    "title": "GitHub Copilot is generating more code than your team can review: Why senior engineers are now the bottleneck",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "GitHub Copilot is generating more code than your team can review: Why senior engineers are now the bottleneck",
-    "summary_ko": "깃허브 코파일럿 같은 AI 코딩 도구가 코드 생산성을 크게 높였습니다. 하지만 이는 개발팀의 검토 역량을 초과하는 코드 생성을 유발하며 새로운 문제를 낳고 있습니다. 과거 코드 작성이 개발의 병목이었다면, 이제는 동료 검토, 보안 검증 등 후속 단계가 전체 속도를 저해하는 것입니다. 결국 생성된 코드의 품질과 안전을 책임지는 시니어 엔지니어가 새로운 병목으로 지목되고 있습니다.",
-    "url": "https://www.cio.com/article/4183045/github-copilot-is-generating-more-code-than-your-team-can-review-why-senior-engineers-are-now-the-bottleneck.html",
-    "image": null,
-    "date": "2026-06-10T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4178359/why-your-most-ai-savvy-employees-are-driving-shadow-ai.html",
-    "platform": "CIO",
-    "title": "Why your most AI-savvy employees are driving shadow AI",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Why your most AI-savvy employees are driving shadow AI",
-    "summary_ko": "기업이 보안을 위해 공식 AI 도구의 기능을 제한하면서 오히려 '섀도우 AI' 문제가 확산되고 있습니다. 역설적이게도 AI에 가장 능숙한 직원들이 업무 속도와 생산성을 높이고자 사내 규정을 우회하는 현상을 주도하고 있습니다. 이들은 공식적인 보안 지침을 엄격한 경계가 아닌, 생산성을 위해 극복해야 할 장애물로 인식하는 경향이 있습니다. 결국 기업의 과도한 통제가 새로운 보안 위협을 낳는 딜레마를 보여줍니다.",
-    "url": "https://www.cio.com/article/4178359/why-your-most-ai-savvy-employees-are-driving-shadow-ai.html",
-    "image": null,
-    "date": "2026-06-10T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4182736/the-lean-ai-plan-for-action-at-vietbank.html",
-    "platform": "CIO",
-    "title": "The lean AI plan for action at VietBank",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "The lean AI plan for action at VietBank",
-    "summary_ko": "베트남의 비엣뱅크는 막대한 예산 경쟁 대신 효율적인 AI 전략을 선택했습니다. 민감한 금융 데이터 보호를 위해 자체 호스팅 LLM 등 오픈소스를 활용해 AI 시스템을 직접 개발, 문서 승인 주기를 35% 단축하는 성과를 거뒀습니다. 이는 완벽한 데이터를 기다리기보다 신속하게 AI를 도입하고, 기술 투자와 함께 자율적인 조직 문화를 조성하는 것이 성공의 핵심이라는 점을 시사합니다.",
-    "url": "https://www.cio.com/article/4182736/the-lean-ai-plan-for-action-at-vietbank.html",
-    "image": null,
-    "date": "2026-06-10T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4183037/ai-is-becoming-a-single-point-of-failure-and-most-companies-dont-see-it.html",
-    "platform": "CIO",
-    "title": "AI is becoming a single point of failure — and most companies don’t see it",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI is becoming a single point of failure — and most companies don’t see it",
-    "summary_ko": "AI가 기업의 핵심 업무에 빠르게 통합되면서 새로운 '단일 장애점'이 되고 있다는 경고가 나옵니다. AI는 데이터센터, 전력 등 제약이 많은 인프라에 의존하며, 마이크로소프트 같은 소수 공급업체는 이미 서비스 접근을 제한하기 시작했습니다. 대다수 기업이 핵심 업무 자동화에 AI를 활용하고 있지만, 이로 인한 서비스 중단 위험에는 대부분 대비하지 못하고 있는 것으로 나타났습니다.",
-    "url": "https://www.cio.com/article/4183037/ai-is-becoming-a-single-point-of-failure-and-most-companies-dont-see-it.html",
-    "image": null,
-    "date": "2026-06-10T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4183342/%ec%b9%bc%eb%9f%bc-ai%ea%b0%80-%ed%8d%bc%eb%b8%94%eb%a6%ad-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%9d%98-%ea%b2%bd%ec%a0%9c-%eb%85%bc%eb%a6%ac%eb%a5%bc-%ed%9d%94%eb%93%a4%ea%b3%a0-%ec%9e%88%eb%8b%a4.html",
-    "platform": "CIO",
-    "title": "칼럼 | AI가 퍼블릭 클라우드의 경제 논리를 흔들고 있다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | AI가 퍼블릭 클라우드의 경제 논리를 흔들고 있다",
-    "summary_ko": "칼럼 | AI가 퍼블릭 클라우드의 경제 논리를 흔들고 있다",
-    "url": "https://www.cio.com/article/4183342/%ec%b9%bc%eb%9f%bc-ai%ea%b0%80-%ed%8d%bc%eb%b8%94%eb%a6%ad-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ec%9d%98-%ea%b2%bd%ec%a0%9c-%eb%85%bc%eb%a6%ac%eb%a5%bc-%ed%9d%94%eb%93%a4%ea%b3%a0-%ec%9e%88%eb%8b%a4.html",
-    "image": null,
-    "date": "2026-06-10T07:50:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4183210/%ec%83%9d%ec%84%b1%ed%98%95-ai%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%c2%b7%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9dcio%ea%b0%80-%ea%bc%bd%ec%9d%80-2026%eb%85%84-12%eb%8c%80.html",
-    "platform": "CIO",
-    "title": "생성형 AI·에이전틱 AI·데이터 분석…CIO가 꼽은 2026년 12대 전략 과제",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "생성형 AI·에이전틱 AI·데이터 분석…CIO가 꼽은 2026년 12대 전략 과제",
-    "summary_ko": "생성형 AI·에이전틱 AI·데이터 분석…CIO가 꼽은 2026년 12대 전략 과제",
-    "url": "https://www.cio.com/article/4183210/%ec%83%9d%ec%84%b1%ed%98%95-ai%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%c2%b7%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%b6%84%ec%84%9dcio%ea%b0%80-%ea%bc%bd%ec%9d%80-2026%eb%85%84-12%eb%8c%80.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/05/slide39-Top-12-Strategic-Initiatives-State-of-the-CIO-2026-1.jpg?quality=50&amp;strip=all&amp;w=1024",
-    "date": "2026-06-10T07:25:33.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4183281/%ed%86%a0%ed%81%b0%eb%9f%89-%ec%95%84%eb%8b%8c-%ed%86%a0%ec%84%b1%eb%b9%84%ea%b0%80-%ec%a4%91%ec%9a%94-%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4%ea%b0%80-%ec%a0%9c%ec%8b%9c.html",
-    "platform": "CIO",
-    "title": "“토큰량 아닌 토성비가 중요” 세일즈포스가 제시한 에이전트 시대 생존법",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“토큰량 아닌 토성비가 중요” 세일즈포스가 제시한 에이전트 시대 생존법",
-    "summary_ko": "“토큰량 아닌 토성비가 중요” 세일즈포스가 제시한 에이전트 시대 생존법",
-    "url": "https://www.cio.com/article/4183281/%ed%86%a0%ed%81%b0%eb%9f%89-%ec%95%84%eb%8b%8c-%ed%86%a0%ec%84%b1%eb%b9%84%ea%b0%80-%ec%a4%91%ec%9a%94-%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4%ea%b0%80-%ec%a0%9c%ec%8b%9c.html",
-    "image": null,
-    "date": "2026-06-10T07:01:39.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4182448/miguel-torres-prosegur-la-ia-es-diferente-a-todo-lo-que-hemos-visto-antes-el-siguiente-paso-sera-la-robotica.html",
-    "platform": "CIO",
-    "title": "Miguel Torres (Prosegur): “La IA es diferente a todo lo que hemos visto antes; el siguiente paso será la robótica”",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Miguel Torres (Prosegur): “La IA es diferente a todo lo que hemos visto antes; el siguiente paso será la robótica”",
-    "summary_ko": "스페인의 보안 기업 프로세구르가 인공지능과 사이버보안 기술을 적극 도입하며 전통적인 경비 사업을 디지털 중심으로 혁신했습니다. 그 결과, 현재 전체 매출의 30% 이상이 기술 혁신 서비스에서 발생하며 '디지털 다국적 기업'으로 거듭났습니다. 이러한 변화는 미겔 토레스 기술 전략 책임자의 주도하에 이루어졌으며, 그는 AI를 넘어 로보틱스가 다음 단계가 될 것이라고 전망했습니다.",
-    "url": "https://www.cio.com/article/4182448/miguel-torres-prosegur-la-ia-es-diferente-a-todo-lo-que-hemos-visto-antes-el-siguiente-paso-sera-la-robotica.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/GARPRESS_XH2S2959.jpg?quality=50&amp;strip=all&amp;w=1024",
-    "date": "2026-06-10T06:28:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4182890/aws-adds-finops-agent-to-bring-cloud-cost-management-into-engineering-workflows.html",
-    "platform": "CIO",
-    "title": "AWS adds FinOps Agent to bring cloud cost management into engineering workflows",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AWS adds FinOps Agent to bring cloud cost management into engineering workflows",
-    "summary_ko": "클라우드 환경이 복잡해지면서 비용 관리가 재무팀을 넘어 개발팀의 운영 과제로 떠오르고 있습니다. 이에 AWS가 비용 이상 징후를 자동 분석하고 원인을 알려주는 '핀옵스 에이전트'를 공개했습니다. 이 에이전트는 분석 결과를 지라, 슬랙 등 개발자가 사용하는 협업 도구로 직접 전달해 신속한 해결을 유도합니다. 이를 통해 기업은 비용 책임 소재를 명확히 하고 재무 거버넌스 성숙도를 높일 수 있습니다.",
-    "url": "https://www.cio.com/article/4182890/aws-adds-finops-agent-to-bring-cloud-cost-management-into-engineering-workflows.html",
-    "image": null,
-    "date": "2026-06-10T03:29:11.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4183209/enterprises-know-ai-generated-code-is-vulnerable-theyre-shipping-it-anyway.html",
-    "platform": "CIO",
-    "title": "Enterprises know AI-generated code is vulnerable; they’re shipping it anyway",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Enterprises know AI-generated code is vulnerable; they’re shipping it anyway",
-    "summary_ko": "기업들이 AI 생성 코드의 보안 취약점을 인지하면서도 상용화를 서두르고 있으며, 보안 책임자들조차 그 위험성을 과소평가하는 것으로 나타났습니다. 특히 최신 AI 기술은 기존에 수개월 걸리던 취약점 분석과 공격 코드 생성을 단 몇 분 만에 완료해 위협 수준을 급격히 높이고 있습니다. 이에 따라 전통적인 보안 체계로는 대응이 불가능하며, AI 코드 보안을 더 이상 부차적인 문제로 취급해서는 안 된다는 지적이 나옵니다.",
-    "url": "https://www.cio.com/article/4183209/enterprises-know-ai-generated-code-is-vulnerable-theyre-shipping-it-anyway.html",
-    "image": null,
-    "date": "2026-06-10T02:58:03.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4183190/%eb%af%b8%ed%86%a0%ec%8a%a4%ea%b8%89-ai-%ed%8e%98%ec%9d%b4%eb%b8%94-5-%ea%b3%b5%ea%b0%9c%ed%95%9c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ed%8e%b8%ec%9d%98%eb%b3%b4%eb%8b%a4.html",
-    "platform": "CIO",
-    "title": "미토스급 AI ‘페이블 5’ 공개한 앤트로픽…편의보다 안전 선택한 이유는?",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "미토스급 AI ‘페이블 5’ 공개한 앤트로픽…편의보다 안전 선택한 이유는?",
-    "summary_ko": "미토스급 AI ‘페이블 5’ 공개한 앤트로픽…편의보다 안전 선택한 이유는?",
-    "url": "https://www.cio.com/article/4183190/%eb%af%b8%ed%86%a0%ec%8a%a4%ea%b8%89-ai-%ed%8e%98%ec%9d%b4%eb%b8%94-5-%ea%b3%b5%ea%b0%9c%ed%95%9c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ed%8e%b8%ec%9d%98%eb%b3%b4%eb%8b%a4.html",
-    "image": null,
-    "date": "2026-06-10T02:27:50.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4183187/working-group-formed-to-develop-standard-for-ai-native-docs.html",
-    "platform": "CIO",
-    "title": "Working group formed to develop standard for AI-native docs",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Working group formed to develop standard for AI-native docs",
-    "summary_ko": "AI 시대에 PDF 등 기존 문서 형식은 데이터 처리에 비효율적이라는 지적이 나옵니다. 이에 리눅스 재단 산하 LF AI & 데이터 재단이 IBM, 엔비디아 등과 손잡고 AI 네이티브 문서 표준 '독랭(Doc Lang)' 개발을 위한 워킹그룹을 출범시켰습니다. 독랭은 AI가 비즈니스 문서를 더 안정적으로 해석하고 처리하도록 돕는 개방형 범용 포맷을 지향합니다. 이는 기업의 AI 데이터 준비 과정의 복잡성과 비용을 줄여줄 것으로 기대됩니다.",
-    "url": "https://www.cio.com/article/4183187/working-group-formed-to-develop-standard-for-ai-native-docs.html",
-    "image": null,
-    "date": "2026-06-10T02:27:32.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4181983/%e5%9c%b0%e6%94%bf%e5%ad%a6%e3%83%aa%e3%82%b9%e3%82%af%e3%81%ab%e3%80%81cio%e3%81%af%e3%81%a9%e3%81%93%e3%81%be%e3%81%a7%e5%90%91%e3%81%8d%e5%90%88%e3%81%86%e3%81%b9%e3%81%8d%e3%81%8b.html",
-    "platform": "CIO",
-    "title": "地政学リスクに、CIOはどこまで向き合うべきか",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "地政学リスクに、CIOはどこまで向き合うべきか",
-    "summary_ko": "고조되는 지정학적 리스크로 인해 디지털 주권이 기업의 핵심 의제로 떠오르고 있습니다. 이에 따라 기술 공급업체 선정 시 시스템 성능뿐만 아니라 해당 기업의 국적까지 고려하는 등 최고정보책임자(CIO)의 의사결정 기준이 변하고 있습니다. 실제로 한 조사에서는 기업 10곳 중 8곳 가까이가 이를 중요하게 여긴다고 답했습니다. 결국 CIO의 책임은 IT 시스템 관리를 넘어, 지정학적 변수까지 고려해 비즈니스 연속성을 확보하는 것으로 확장되고 있습니다.",
-    "url": "https://www.cio.com/article/4181983/%e5%9c%b0%e6%94%bf%e5%ad%a6%e3%83%aa%e3%82%b9%e3%82%af%e3%81%ab%e3%80%81cio%e3%81%af%e3%81%a9%e3%81%93%e3%81%be%e3%81%a7%e5%90%91%e3%81%8d%e5%90%88%e3%81%86%e3%81%b9%e3%81%8d%e3%81%8b.html",
-    "image": null,
-    "date": "2026-06-09T23:34:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u1l49n/not_quite_exponential_but_progress_is_progress/",
-    "platform": "Reddit",
-    "title": "Not quite exponential, but progress is progress",
-    "author": {
-      "name": "/u/theimposingshadow",
-      "handle": "/u//u/theimposingshadow",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Not quite exponential, but progress is progress",
-    "summary_ko": "AI 발전이 기하급수적이라는 통념과 달리, 성장세가 둔화되며 수확 체감 단계에 접어들었다는 분석이 나왔습니다. 실제로 MMLU 등 주요 벤치마크에서 GPT-4 이후 등장한 거대언어모델들의 성능 향상 폭은 눈에 띄게 줄어들었습니다. 이는 AI 기술 발전이 멈춘 것이 아니라, 폭발적 성장기를 지나 점진적이고 예측 가능한 개선의 시기로 진입하고 있음을 시사합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u1l49n/not_quite_exponential_but_progress_is_progress/",
-    "image": "https://preview.redd.it/q86g020rac6h1.jpeg?width=640&crop=smart&auto=webp&s=bbc75a49274c656a5af039972427dc61aea01b22",
-    "date": "2026-06-09T23:14:26.000Z",
     "likes": 0,
     "comments": 0
   }
