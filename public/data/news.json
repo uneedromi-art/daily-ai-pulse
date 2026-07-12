@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1uuivge/just_leaving_this_here_for_someone_to_see_it_and/",
+    "platform": "Reddit",
+    "title": "Just leaving this here for someone to see it and fix things",
+    "author": {
+      "name": "/u/py-net",
+      "handle": "/u//u/py-net",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Just leaving this here for someone to see it and fix things",
+    "summary_ko": "누군가가 보고 문제를 해결할 수 있도록 여기에 남겨두세요.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1uuivge/just_leaving_this_here_for_someone_to_see_it_and/",
+    "image": "https://preview.redd.it/43tsda90ktch1.jpeg?width=640&crop=smart&auto=webp&s=09ba51b56b06874b0929477285cb2bc51e6c4941",
+    "date": "2026-07-12T15:41:25.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uuga40/local_image_to_3d_2gb_ram_20s_apple_silicon_iphone/",
+    "platform": "Reddit",
+    "title": "Local Image to 3D (<2gb RAM, <20s, Apple Silicon, iPhone)",
+    "author": {
+      "name": "/u/arduinoRPi4",
+      "handle": "/u//u/arduinoRPi4",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Local Image to 3D (<2gb RAM, <20s, Apple Silicon, iPhone)",
+    "summary_ko": "로컬 이미지를 3D로(<2GB RAM, <20s, Apple Silicon, iPhone)",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uuga40/local_image_to_3d_2gb_ram_20s_apple_silicon_iphone/",
+    "image": "https://preview.redd.it/ywn3uzqs1tch1.gif?width=640&crop=smart&s=7f71641995d159e68d8be8a739115d6debe2fbb6",
+    "date": "2026-07-12T14:00:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1uu8vjo/the_worst_people_are_fighting/",
+    "platform": "Reddit",
+    "title": "The worst people are fighting",
+    "author": {
+      "name": "/u/VariationLivid3193",
+      "handle": "/u//u/VariationLivid3193",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The worst people are fighting",
+    "summary_ko": "최악의 사람들이 싸우고 있다",
+    "url": "https://www.reddit.com/r/singularity/comments/1uu8vjo/the_worst_people_are_fighting/",
+    "image": "https://preview.redd.it/yfvv02la6rch1.jpeg?width=640&crop=smart&auto=webp&s=0dc6d33b4eed1238edbc83c289a876738e8c830d",
+    "date": "2026-07-12T07:41:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uu15mz/chinas_deepseek_developing_its_own_ai_chip/",
+    "platform": "Reddit",
+    "title": "China's DeepSeek developing its own AI chip, sources say",
+    "author": {
+      "name": "/u/TheRealMasonMac",
+      "handle": "/u//u/TheRealMasonMac",
+      "avatar_color": "#ff4500"
+    },
+    "content": "China's DeepSeek developing its own AI chip, sources say",
+    "summary_ko": "중국 DeepSeek, 자체 AI 칩 개발 중",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uu15mz/chinas_deepseek_developing_its_own_ai_chip/",
+    "image": null,
+    "date": "2026-07-12T01:04:07.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4195749/ibm-grows-mainframe-family-with-rack-frame-models-targeting-ai-hybrid-clouds-2.html",
     "platform": "CIO",
     "title": "IBM grows mainframe family with rack, frame models targeting AI, hybrid clouds",
@@ -178,7 +246,7 @@
       "avatar_url": null
     },
     "content": "“1~2시간 걸리던 장애 분석, 5분이면 끝”…데이터독 ‘비츠 AI’ 전면에",
-    "summary_ko": "데이터독 코리아는 9일 서울에서 기자간담회를 열고 이 같은 사업 현황과 연례 컨퍼런스 ‘대시(Dash) 2026’에서 공개한 신제품 전략을 소개했다. 엄수창 데이터독 코리아 지사장은 이를 시장 변화의 신호로 해석했다. 엄 지사장은 “연초만 해도 ‘Saa S 아포칼립스’라는 말이 나올 정도로 Saa S 기업들의 미래를 부정적으로 보는 시각이 많았다”며 “하지만 데이터독은 AI와 함께 성장하면서 오히려 큰 미래 비전을 갖게 됐다”고 말했다.",
+    "summary_ko": "데이터독 코리아는 9일 서울에서 기자간담회를 열고 이 같은 사업 현황과 연례 컨퍼런스 ‘대시(DASH) 2026’에서 공개한 신제품 전략을 소개했다. 엄수창 데이터독 코리아 지사장은 이를 시장 변화의 신호로 해석했다. 엄 지사장은 “연초만 해도 ‘Saa S 아포칼립스’라는 말이 나올 정도로 Saa S 기업들의 미래를 부정적으로 보는 시각이 많았다”며 “하지만 데이터독은 AI와 함께 성장하면서 오히려 큰 미래 비전을 갖게 됐다”고 말했다.",
     "url": "https://www.cio.com/article/4195338/12%ec%8b%9c%ea%b0%84-%ea%b1%b8%eb%a6%ac%eb%8d%98-%ec%9e%a5%ec%95%a0-%eb%b6%84%ec%84%9d-5%eb%b6%84%ec%9d%b4%eb%a9%b4-%eb%81%9d%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%85-%eb%b9%84%ec%b8%a0-ai.html",
     "image": null,
     "date": "2026-07-10T04:51:29.000Z",
@@ -4521,378 +4589,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1u4cxr8/us_government_directive_to_suspend_access_to/",
     "image": "https://external-preview.redd.it/bDNNrAtGcz_k7GUnoK2WyrBSfzRlhklxmiyn3CPffdE.png?width=640&crop=smart&auto=webp&s=91ef5d835f44ad4fde5e41b830d9b54c3b4f3faf",
     "date": "2026-06-13T00:53:52.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184660/samsung-which-previously-blocked-chatgpt-is-now-fully-adopting-three-generative-ai-models-and-accelerating-its-ax-initiative.html",
-    "platform": "CIO",
-    "title": "Samsung reverses years-long ban on external gen AI use",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Samsung reverses years-long ban on external gen AI use",
-    "summary_ko": "삼성은 외부 세대 AI 사용에 대한 수년간의 금지 조치를 취소했습니다. 내부 정보 유출 우려로 외부 생성 AI 서비스 도입에 신중했던 삼성전자가 채팅 GPT 관련 데이터 유출 사건으로 이 기술을 금지한 지 3년 만에 방향을 바꾸게 됐다. 삼성전자 DX사업부가 챗GPT(Chat GPT), 제미니(Gemini), 클로드(Claude) 등 외부 생성 AI 서비스를 직원들에게 공식 도입한다. 이는 이재용 삼성전자 회장이 올해 초 계열사 전반에 걸쳐 'AI 전환'을 지시한 데 따른 후속 조치로 풀이된다.",
-    "url": "https://www.cio.com/article/4184660/samsung-which-previously-blocked-chatgpt-is-now-fully-adopting-three-generative-ai-models-and-accelerating-its-ax-initiative.html",
-    "image": null,
-    "date": "2026-06-12T20:44:28.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184655/openai-buys-ona-to-help-rein-in-ai-agents-2.html",
-    "platform": "CIO",
-    "title": "OpenAI buys Ona to help rein in AI agents",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "OpenAI buys Ona to help rein in AI agents",
-    "summary_ko": "오픈AI가 클라우드 개발 환경 제공업체 오나(Ona)를 인수했습니다. 이는 자율적으로 작동하는 AI 에이전트의 파일 삭제, 비용 폭증, 악의적 행위 등 예측 불가능한 위험에 대한 기업의 우려를 해소하기 위한 전략입니다. 오나의 기술은 AI 에이전트가 안전하고 지속적인 환경에서 작동하도록 제어하는 역할을 합니다. 이번 인수로 기업들이 AI 에이전트를 실제 업무에 더 안전하게 도입하는 길이 열릴 전망입니다.",
-    "url": "https://www.cio.com/article/4184655/openai-buys-ona-to-help-rein-in-ai-agents-2.html",
-    "image": null,
-    "date": "2026-06-12T20:07:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u42n1y/happy_9th_birthday_to_the_paper_that_set_all_this/",
-    "platform": "Reddit",
-    "title": "Happy 9th Birthday to the Paper That Set All This Off",
-    "author": {
-      "name": "/u/CatInAComa",
-      "handle": "/u//u/CatInAComa",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Happy 9th Birthday to the Paper That Set All This Off",
-    "summary_ko": "9년 전 발표된 구글의 논문 'Attention Is All You Need'가 오늘날 AI 혁명의 기폭제로 재조명받고 있습니다. 이 논문은 '트랜스포머'라는 혁신적인 아키텍처를 제시하며 기존 자연어 처리 모델의 한계를 돌파했습니다. 챗GPT를 비롯한 거의 모든 현대 대규모 언어 모델(LLM)이 바로 이 트랜스포머 기술을 기반으로 작동하며, 현재 AI 시대의 근간을 이루고 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u42n1y/happy_9th_birthday_to_the_paper_that_set_all_this/",
-    "image": "https://preview.redd.it/5943v5hq4w6h1.jpeg?width=640&crop=smart&auto=webp&s=2eb6fc82d955f76c91ed3434e9627ee8907a7556",
-    "date": "2026-06-12T17:56:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
-    "platform": "Google",
-    "title": "Research into how AI can help users understand skin conditions",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Health & Bioscience",
-    "summary_ko": "구글이 온라인에서 피부 질환 정보를 찾기 어려운 문제를 해결하기 위해 AI 기반 도구를 개발했습니다. 사용자가 환부 사진과 증상을 입력하면, AI가 가능성 있는 질환 목록과 함께 전문가가 검수한 정보를 제공합니다. 이 도구는 진단을 대체하는 것이 아니라 신뢰할 수 있는 정보로 사용자의 의사 결정을 돕는 것을 목표로 합니다. 유럽에서 의료기기 인증을 받은 이 기술은 의료 정보 접근성을 크게 향상시킬 전망입니다.",
-    "url": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
-    "image": null,
-    "date": "2026-06-12T17:52:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-    "platform": "Google",
-    "title": "A low-carbon computing platform from your retired phones",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Climate & Sustainability",
-    "summary_ko": "매년 막대한 양의 스마트폰이 전자 폐기물로 버려지고 있습니다. 영국 케임브리지대 연구진이 이러한 폐스마트폰을 활용해 기존 데이터센터보다 에너지 소비를 절반 이상 줄일 수 있는 저탄소 컴퓨팅 플랫폼을 개발했습니다. 이 기술은 기기 수명을 연장해 환경 문제를 완화하고, 중소기업이나 지역 사회에 저렴한 컴퓨팅 자원을 제공하는 지속가능한 대안으로 주목받고 있습니다.",
-    "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-    "image": null,
-    "date": "2026-06-12T17:37:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u4018a/forbes_declares_elon_musk_as_the_worlds_first/",
-    "platform": "Reddit",
-    "title": "Forbes Declares Elon Musk As The World’s First Trillionaire",
-    "author": {
-      "name": "/u/SnoozeDoggyDog",
-      "handle": "/u//u/SnoozeDoggyDog",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Forbes Declares Elon Musk As The World’s First Trillionaire",
-    "summary_ko": "미국 경제 전문지 포브스가 일론 머스크를 세계 최초의 조만장자로 공식 선언했습니다. 조만장자는 순자산 1조 달러, 우리 돈으로 약 1,300조 원 이상을 보유한 인물을 의미하며 이는 인류 역사상 전례 없는 부의 이정표입니다. 이번 발표는 기술 혁신이 창출하는 막대한 부의 규모를 상징적으로 보여주며 향후 세계 경제 지형에 미칠 영향에 관심이 쏠리고 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u4018a/forbes_declares_elon_musk_as_the_worlds_first/",
-    "image": "https://external-preview.redd.it/FRDRE4reCuc7UAjz6-ClF1B4gGwPA9rXqoj_lHO_n_A.jpeg?width=640&crop=smart&auto=webp&s=0ae12b20585a4c34f1b08e20c626e008e3435ff5",
-    "date": "2026-06-12T16:22:28.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184565/microsoft-president-responds-to-students-distrust-for-ai-2.html",
-    "platform": "CIO",
-    "title": "Microsoft president responds to students’ distrust for AI",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Microsoft president responds to students’ distrust for AI",
-    "summary_ko": "마이크로소프트 사장, AI에 대한 학생들의 불신에 답하다 Microsoft의 사장인 브래드 스미스(Brad Smith)는 AI에 대한 학생들의 불만에 반응하여 오늘날의 졸업생들에게 여전히 인간의 창의성을 발휘할 여지가 있다고 말했습니다. 미국 전역의 학생들은 최근 몇 달 동안 졸업식에서 AI에 대해 이야기한 연사들을 야유했습니다. 여기에는 Google의 전 CEO인 Eric Schmidt, 음반사의 CEO, 부동산 중역이 포함됩니다.",
-    "url": "https://www.cio.com/article/4184565/microsoft-president-responds-to-students-distrust-for-ai-2.html",
-    "image": null,
-    "date": "2026-06-12T15:34:58.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184539/cuando-la-ia-se-cuela-hasta-la-cocina-el-caso-de-cosentino.html",
-    "platform": "CIO",
-    "title": "Cuando la IA se cuela hasta la cocina: el caso de Cosentino",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Cuando la IA se cuela hasta la cocina: el caso de Cosentino",
-    "summary_ko": "스페인의 대리석 산지에서 시작한 코센티노는 천연석을 넘어 주변 광물을 조합한 신소재 실레스톤을 개발하며 주방 시장에 혁신을 일으켰습니다. 이 혁신적인 제품은 전 세계로 확산되며 코센티노를 120여 개국에 진출한 글로벌 기업으로 성장시켰습니다. 회사는 이에 그치지 않고 데크톤, 에클로스 등 친환경 고기능성 신소재를 꾸준히 선보이며 기술 혁신을 이어가고 있습니다.",
-    "url": "https://www.cio.com/article/4184539/cuando-la-ia-se-cuela-hasta-la-cocina-el-caso-de-cosentino.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/Cosentino-7.jpeg?quality=50&amp;strip=all&amp;w=1024",
-    "date": "2026-06-12T13:29:20.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184165/ai-is-the-new-cloud-and-were-repeating-the-same-mistakes.html",
-    "platform": "CIO",
-    "title": "AI is the new cloud — and we’re repeating the same mistakes",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI is the new cloud — and we’re repeating the same mistakes",
-    "summary_ko": "과거 클라우드 도입 때처럼 많은 기업이 AI를 기술 문제로만 접근하는 실수를 반복하고 있습니다. 보안, 비용, 모델 평가 등 기술 자체에만 몰두하지만, 진정한 혁신의 장벽은 기술이 아닌 사람과 프로세스, 운영 방식에 있습니다. 따라서 AI 도입은 단순한 기술 프로젝트가 아닌 조직의 운영 전반을 바꾸는 근본적인 혁신으로 다루어야 성공할 수 있습니다.",
-    "url": "https://www.cio.com/article/4184165/ai-is-the-new-cloud-and-were-repeating-the-same-mistakes.html",
-    "image": null,
-    "date": "2026-06-12T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u3rdk9/moonshotaikimik27code_hugging_face/",
-    "platform": "Reddit",
-    "title": "moonshotai/Kimi-K2.7-Code · Hugging Face",
-    "author": {
-      "name": "/u/Dark_Fire_12",
-      "handle": "/u//u/Dark_Fire_12",
-      "avatar_color": "#ff4500"
-    },
-    "content": "moonshotai/Kimi-K2.7-Code · Hugging Face",
-    "summary_ko": "중국 AI 스타트업 문샷AI가 새로운 오픈소스 코드 거대언어모델(LLM) 'Kimi-K2. 7-Code'를 공개했습니다. 이 모델은 27억 개라는 비교적 작은 파라미터 규모에도 불구하고, 코드라마-7B와 같은 더 큰 경쟁 모델을 주요 벤치마크에서 능가하는 성능을 보였습니다. 특히 128K에 달하는 긴 컨텍스트 창을 지원하며 아파치 2.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u3rdk9/moonshotaikimik27code_hugging_face/",
-    "image": "https://external-preview.redd.it/pVmezHpABseLB4Mj65CMgrY-rZ98C677exRe269R3YY.png?width=640&crop=smart&auto=webp&s=5c85a8488889ccc6bd1a1d9b2aad2aac9ef82ba1",
-    "date": "2026-06-12T10:22:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184468/estamos-asistiendo-a-la-desaparicion-de-sap-como-lo-conociamos.html",
-    "platform": "CIO",
-    "title": "¿Estamos asistiendo a la desaparición de SAP como lo conocíamos?",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "¿Estamos asistiendo a la desaparición de SAP como lo conocíamos?",
-    "summary_ko": "독일 소프트웨어 기업 SAP가 최근 연례 행사에서 중대한 비전 변화를 선언했습니다. 앞으로 SAP는 단순히 업무를 기록하는 소프트웨어가 아니라, 기업 경영을 자율적으로 실행하는 플랫폼으로 거듭나겠다는 것입니다. 이는 기술적 변화를 넘어 CEO와 CFO의 경영 전략에 직접적인 영향을 미치는 전환점입니다. 결국 SAP는 단순 ERP를 넘어 인력 부족과 느린 의사결정 문제를 해결하는 자율 경영 엔진으로 진화하고 있습니다.",
-    "url": "https://www.cio.com/article/4184468/estamos-asistiendo-a-la-desaparicion-de-sap-como-lo-conociamos.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/HOP_Imagen-Felix-Nota-de-presna.png?w=1024",
-    "date": "2026-06-12T10:16:24.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4183263/the-ai-adoption-spree-is-over-time-to-focus-on-value.html",
-    "platform": "CIO",
-    "title": "The AI adoption spending spree is over. Time to focus on value.",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "The AI adoption spending spree is over. Time to focus on value.",
-    "summary_ko": "기업들의 무분별한 AI 도입 실험이 끝나고 비용 통제에 대한 목소리가 커지고 있습니다. 일부 기업에서는 직원들이 AI 사용량을 경쟁적으로 늘리면서 몇 년 치 예산을 단 몇 달 만에 소진하는 등 심각한 비용 문제가 발생했습니다. 이에 따라 이제는 단순 생산성 향상을 넘어, AI 지출에 대한 가시성과 거버넌스를 확보해 실질적인 사업 가치를 창출하는 방향으로 전략이 전환되고 있습니다.",
-    "url": "https://www.cio.com/article/4183263/the-ai-adoption-spree-is-over-time-to-focus-on-value.html",
-    "image": null,
-    "date": "2026-06-12T10:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4181680/why-cios-should-reopen-the-build-vs-buy-question.html",
-    "platform": "CIO",
-    "title": "Why CIOs should reopen the build vs. buy question",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Why CIOs should reopen the build vs. buy question",
-    "summary_ko": "지난 20년간 기업들은 비용과 리스크 관리를 위해 상용 소프트웨어를 구매하는 것을 표준으로 삼았습니다. 하지만 이러한 '구매 우선' 전략은 이제 기업 고유의 경쟁력을 획일화시키는 부작용을 낳고 있습니다. 기술 환경이 급변하면서 과거의 합리적 선택이 더 이상 유효하지 않게 된 것입니다. 따라서 최고정보책임자(CIO)는 소프트웨어 직접 개발과 구매라는 오래된 질문을 원점에서 재검토해야 합니다.",
-    "url": "https://www.cio.com/article/4181680/why-cios-should-reopen-the-build-vs-buy-question.html",
-    "image": null,
-    "date": "2026-06-12T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184158/why-most-enterprise-ai-programs-fail-and-how-to-turn-them-around.html",
-    "platform": "CIO",
-    "title": "Why most enterprise AI programs fail — and how to turn them around",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Why most enterprise AI programs fail — and how to turn them around",
-    "summary_ko": "기업들이 AI에 막대한 투자를 하지만, 대다수 프로젝트는 개념 증명 단계에 머물러 있습니다. 이는 기술이 아닌 파편화된 데이터와 조직 문제 때문으로, 실제로 기업 데이터의 최대 90%가 분석에 쓰이지 못하는 실정입니다. 따라서 AI 프로젝트의 성공을 위해서는 기술 도입을 넘어, 통합된 데이터 기반을 구축하고 AI를 비즈니스 핵심 역량으로 다루는 전략적 전환이 필요합니다.",
-    "url": "https://www.cio.com/article/4184158/why-most-enterprise-ai-programs-fail-and-how-to-turn-them-around.html",
-    "image": null,
-    "date": "2026-06-12T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184349/%ec%b1%97gpt-%eb%a7%89%ec%95%98%eb%8d%98-%ec%82%bc%ec%84%b1-3%eb%85%84-%eb%a7%8c%ec%97%90-%ec%a0%84%eb%a9%b4-%eb%8f%84%ec%9e%85-ai-%eb%8c%80%ec%a0%84%ed%99%98-%eb%b3%b8%ea%b2%a9%ed%99%94.html",
-    "platform": "CIO",
-    "title": "챗GPT 막았던 삼성, 생성형 AI 3종 전면 도입… AX 속도 낸다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "챗GPT 막았던 삼성, 생성형 AI 3종 전면 도입… AX 속도 낸다",
-    "summary_ko": "삼성전자는 11일 보도자료를 통해 글로벌 빅테크의 대표 생성형 AI를 업무 전반에 도입하고, 일하는 방식을 AI 중심으로 전환하는 ‘AI 전환(AI Transformation, AX)’에 본격 나선다고 밝혔다. 삼성은 2023년 직원이 업무 관련 소스코드를 챗GPT에 입력해 정보 유출 논란이 발생한 이후 생성형 AI 활용에 신중한 입장을 유지해온 것으로 알려져 있다. 그러나 앞으로 DX부문 임직원들은 사내에서 챗GPT와 제미나이, 클로드를 모두 활용할 수 있게 된다.",
-    "url": "https://www.cio.com/article/4184349/%ec%b1%97gpt-%eb%a7%89%ec%95%98%eb%8d%98-%ec%82%bc%ec%84%b1-3%eb%85%84-%eb%a7%8c%ec%97%90-%ec%a0%84%eb%a9%b4-%eb%8f%84%ec%9e%85-ai-%eb%8c%80%ec%a0%84%ed%99%98-%eb%b3%b8%ea%b2%a9%ed%99%94.html",
-    "image": null,
-    "date": "2026-06-12T07:21:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184341/%ea%b0%80%ed%8a%b8%eb%84%88-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%a0%84%eb%a0%a5-%ec%86%8c%eb%b9%84-%ec%98%ac%ed%95%b4-26-%ed%8f%ad%ec%a6%9d-2030%eb%85%84%ec%97%94.html",
-    "platform": "CIO",
-    "title": "가트너 “데이터센터 전력 소비, 올해 26% 폭증… 2030년엔 지금의 3배”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "가트너 “데이터센터 전력 소비, 올해 26% 폭증… 2030년엔 지금의 3배”",
-    "summary_ko": "가트너가 발표한 ‘2024-2030 전 세계 데이터센터 전력 용량 및 소비량 전망, 2026년 1분기 업데이트’ 자료에 따르면, 전 세계 데이터센터 전력 소비량은 2025년 447테라와트시(TWh)에서 2026년 565TWh로 증가할 것으로 예상된다.",
-    "url": "https://www.cio.com/article/4184341/%ea%b0%80%ed%8a%b8%eb%84%88-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%a0%84%eb%a0%a5-%ec%86%8c%eb%b9%84-%ec%98%ac%ed%95%b4-26-%ed%8f%ad%ec%a6%9d-2030%eb%85%84%ec%97%94.html",
-    "image": null,
-    "date": "2026-06-12T06:21:51.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184338/%ec%b9%bc%eb%9f%bc-%ed%86%a0%ed%81%b0%eb%a7%a5%ec%8b%b1-%ec%8b%9c%eb%8c%80-exe-%eb%b0%b0%ed%8f%ac-%ec%8b%9c%ec%a0%88%ec%9d%98-%ec%8b%a4%ec%88%98-%eb%b0%98%eb%b3%b5%ed%95%98%eb%82%98.html",
-    "platform": "CIO",
-    "title": "칼럼 | 토큰맥싱 시대, .exe 배포 시절의 실수 반복하나",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 토큰맥싱 시대, .exe 배포 시절의 실수 반복하나",
-    "summary_ko": "필자가 개발자로 일한 지 오래된 덕분에, 애플리케이션 배포라고 하면 개발자 PC에 있는 . exe 파일을 그대로 운영 환경에 복사하던 시절도 기억한다. 과장이 아니다. 당시에는 정말 그 정도로 단순했다. 동시에 위험성도 매우 컸다. 그 시절의 애플리케이션은 지금처럼 복잡하지 않았다. 대부분은 단순한 . exe 파일 하나로 구성돼 있었다. 따라서 배포 과정 역시 복잡할 필요는 없었다. 하지만 돌이켜보면 좀 더 체계적이어야 했다. 애플리케이션을 올바르게 배포하는 방법은 오랜 시간에 걸쳐 업계가 배워온 경험의 산물이다.",
-    "url": "https://www.cio.com/article/4184338/%ec%b9%bc%eb%9f%bc-%ed%86%a0%ed%81%b0%eb%a7%a5%ec%8b%b1-%ec%8b%9c%eb%8c%80-exe-%eb%b0%b0%ed%8f%ac-%ec%8b%9c%ec%a0%88%ec%9d%98-%ec%8b%a4%ec%88%98-%eb%b0%98%eb%b3%b5%ed%95%98%eb%82%98.html",
-    "image": null,
-    "date": "2026-06-12T06:02:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184335/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b8%b0%eb%b0%98-%ea%b3%bc%ea%b8%88-%ec%a0%84%eb%ac%b8%ec%97%85%ec%b2%b4-%eb%af%b8%ed%84%b0-%ec%9d%b8.html",
-    "platform": "CIO",
-    "title": "세일즈포스, 사용량 기반 과금 전문업체 ‘미터’ 인수 추진",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "세일즈포스, 사용량 기반 과금 전문업체 ‘미터’ 인수 추진",
-    "summary_ko": "세일즈포스는 사용량 기반 과금 전문 기업인 미터(m3ter)를 인수해, 현재 에이전트포스 레비뉴 매니지먼트(Agentforce Revenue Management)로 개편된 레비뉴 클라우드(Revenue Cloud)의 기능을 강화할 계획이다.",
-    "url": "https://www.cio.com/article/4184335/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ec%82%ac%ec%9a%a9%eb%9f%89-%ea%b8%b0%eb%b0%98-%ea%b3%bc%ea%b8%88-%ec%a0%84%eb%ac%b8%ec%97%85%ec%b2%b4-%eb%af%b8%ed%84%b0-%ec%9d%b8.html",
-    "image": null,
-    "date": "2026-06-12T05:54:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184316/ai-%ea%b5%90%ec%9c%a1%eb%b0%9b%ec%9d%80-%ec%a7%81%ec%9b%90-74-%eb%b9%84%ec%8a%b9%ec%9d%b8-%ed%88%b4-%ec%82%ac%ec%9a%a9%ec%95%84%eb%8a%94-%eb%a7%8c%ed%81%bc-%ea%b7%9c%ec%b9%99%eb%8f%84.html",
-    "platform": "CIO",
-    "title": "AI 교육받은 직원 74%, 비승인 툴 사용…아는 만큼 규칙도 어긴다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 교육받은 직원 74%, 비승인 툴 사용…아는 만큼 규칙도 어긴다",
-    "summary_ko": "지난해 한 메신저 앱 기업의 엔지니어는 인증된 기술 업계 종사자들이 이용하는 익명 커뮤니티 블라인드에 글을 올렸다. 챗GPT, 클로드, 제미나이 사용을 제한하는 기업이 모두 그런 것인지, 아니면 자신이 다니는 회사만 그런 것인지 묻는 내용이었다. 그가 근무하던 회사는 해당 도구 사용을 금지하는 대신 챗GPT 기반의 내부 대체 서비스를 제공했다. 그러나 이 엔지니어는 업무 속도가 느려진다는 이유로 이를 선호하지 않았다. 그는 “사실상 별 도움이 되지 않았다”고 회상했다. 해당 게시글에는 곧 다른 기업의 기술 인력이 대거 의견을 남겼다.",
-    "url": "https://www.cio.com/article/4184316/ai-%ea%b5%90%ec%9c%a1%eb%b0%9b%ec%9d%80-%ec%a7%81%ec%9b%90-74-%eb%b9%84%ec%8a%b9%ec%9d%b8-%ed%88%b4-%ec%82%ac%ec%9a%a9%ec%95%84%eb%8a%94-%eb%a7%8c%ed%81%bc-%ea%b7%9c%ec%b9%99%eb%8f%84.html",
-    "image": null,
-    "date": "2026-06-12T05:25:56.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184236/google-is-held-liable-for-false-information-from-its-ai-2.html",
-    "platform": "CIO",
-    "title": "Google is held liable for false information from its AI",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Google is held liable for false information from its AI",
-    "summary_ko": "독일 법원이 구글 AI가 생성한 허위 정보에 대해 구글의 책임을 인정하는 판결을 내렸습니다. 법원은 AI 검색 결과가 두 출판사를 비방했다며, 구글은 AI가 만든 결과물이라도 책임을 피할 수 없다고 판단하고 해당 내용의 삭제와 재발 방지를 명령했습니다. 이번 판결은 AI 시스템 제공자가 그 결과물에 대해 법적 책임을 져야 한다는 중요한 선례를 남겼습니다. 전문가들은 이 판결이 미국 등 다른 국가의 유사 소송에도 영향을 미칠 것으로 전망하고 있습니다.",
-    "url": "https://www.cio.com/article/4184236/google-is-held-liable-for-false-information-from-its-ai-2.html",
-    "image": null,
-    "date": "2026-06-11T22:38:25.000Z",
     "likes": 0,
     "comments": 0
   }
