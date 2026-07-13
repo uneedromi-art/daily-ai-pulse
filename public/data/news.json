@@ -1,5 +1,225 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uvbzul/apple_m7_ultra_chip_planned_with_up_to_15_tb_of/",
+    "platform": "Reddit",
+    "title": "Apple M7 Ultra Chip Planned With Up to 1.5 TB of Unified Memory",
+    "author": {
+      "name": "/u/Mochila-Mochila",
+      "handle": "/u//u/Mochila-Mochila",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Apple M7 Ultra Chip Planned With Up to 1.5 TB of Unified Memory",
+    "summary_ko": "최대 1.5TB의 통합 메모리를 갖춘 Apple M7 Ultra 칩 계획",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uvbzul/apple_m7_ultra_chip_planned_with_up_to_15_tb_of/",
+    "image": "https://external-preview.redd.it/RS7pWzXd3pBCG1TcQBhnLQEcaQ3NdPhcqihuR6r3TfE.jpeg?width=640&crop=smart&auto=webp&s=47100358520b383a66e2b9bd69169c5a19cf649e",
+    "date": "2026-07-13T13:44:24.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195246/cios-must-rethink-operating-models-to-unlock-ai-at-scale.html",
+    "platform": "CIO",
+    "title": "CIOs must rethink operating models to unlock AI at scale",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "CIOs must rethink operating models to unlock AI at scale",
+    "summary_ko": "CIO는 AI를 대규모로 활용하기 위해 운영 모델을 재고해야 합니다. 거의 모든 회사에는 이사회 또는 임원 AI 권한이 있습니다. 공급업체는 에이전트 AI 플랫폼을 출시하고 있습니다. 움직여야 한다는 압박감이 강하다.",
+    "url": "https://www.cio.com/article/4195246/cios-must-rethink-operating-models-to-unlock-ai-at-scale.html",
+    "image": null,
+    "date": "2026-07-13T10:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195747/ai-is-freeing-up-capital-most-companies-have-no-plan-for-what-comes-next.html",
+    "platform": "CIO",
+    "title": "AI is freeing up capital. Most companies have no plan for what comes next",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI is freeing up capital. Most companies have no plan for what comes next",
+    "summary_ko": "AI는 자본을 해방시키고 있습니다. 대부분의 회사는 다음에 올 계획이 없습니다. 오늘날 AI 도구는 더 빠른 프로세스, 더 효율적인 운영, 더 낮은 비용을 지원하여 효율성을 새로운 기준으로 삼고 있습니다. 그러나 많은 기업의 경우 첫 번째 성공에서 전략이 중단됩니다.",
+    "url": "https://www.cio.com/article/4195747/ai-is-freeing-up-capital-most-companies-have-no-plan-for-what-comes-next.html",
+    "image": null,
+    "date": "2026-07-13T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195776/whats-next-for-cios-omincoms-leif-maiorini-has-insights.html",
+    "platform": "CIO",
+    "title": "What’s next for CIOs? Omnicom’s Leif Maiorini has insights",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "What’s next for CIOs? Omnicom’s Leif Maiorini has insights",
+    "summary_ko": "CIO의 다음 단계는 무엇입니까? Omnicom의 Leif Maiorini는 통찰력을 갖고 있습니다. 많은 CIO와 마찬가지로 Omnicom의 Leif Maiorini도 지난 몇 년 동안 계속 축소되는 IT 로드맵의 과제에 너무 익숙해졌습니다. 광고 및 홍보 업계의 거물인 회사의 기업 서비스 CIO는 \"CIO는 5년 계획 주기를 따르곤 했지만 5년은 영원합니다.",
+    "url": "https://www.cio.com/article/4195776/whats-next-for-cios-omincoms-leif-maiorini-has-insights.html",
+    "image": null,
+    "date": "2026-07-13T09:30:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195741/why-ai-needs-contextual-intelligence-not-just-bigger-models.html",
+    "platform": "CIO",
+    "title": "Why AI needs contextual intelligence — not just bigger models",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Why AI needs contextual intelligence — not just bigger models",
+    "summary_ko": "AI에 더 큰 모델뿐만 아니라 상황별 인텔리전스가 필요한 이유 우리 팀의 제품 관리자가 최근 엔지니어링 팀 전체에서 가장 많은 문제가 발생한 부분이 무엇인지 물었습니다. 추측하는 대신 MCP 커넥터를 통해 Jira에 엔지니어링 리드 포인트 Claude를 두고 버그 패턴을 직접 살펴보았습니다. 한 팀의 티켓 점유율은 매우 불균형적이었습니다. 스프린트 시간의 약 50%가 \"버그\"에 소요된 반면 다른 팀의 경우 약 25%가 소요되었습니다.",
+    "url": "https://www.cio.com/article/4195741/why-ai-needs-contextual-intelligence-not-just-bigger-models.html",
+    "image": null,
+    "date": "2026-07-13T09:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195780/it-hiring-sees-a-boost-as-software-development-jobs-slowly-bounce-back.html",
+    "platform": "CIO",
+    "title": "IT hiring sees a boost as software development jobs slowly bounce back",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "IT hiring sees a boost as software development jobs slowly bounce back",
+    "summary_ko": "소프트웨어 개발 일자리가 서서히 회복되면서 IT 채용이 증가하는 것으로 보입니다. 가장 최근의 Comp TIA 기술 채용 보고서에 따르면, 고용주들이 주요 기술 이니셔티브를 지원하기 위해 자격을 갖춘 인재를 점점 더 많이 찾고 있기 때문에 기술 채용 공고가 6월에 6개월 연속 증가했습니다. Comp TIA의 산업 연구 담당 부사장인 Seth Robinson은 보도 자료에서 \"6월의 고용 데이터는 고용주가 기술 투자를 늘리고 이를 지원하는 데 필요한 인재를 고용하고 있음을 시사합니다. \"라고 말했습니다.",
+    "url": "https://www.cio.com/article/4195780/it-hiring-sees-a-boost-as-software-development-jobs-slowly-bounce-back.html",
+    "image": null,
+    "date": "2026-07-13T09:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195980/ai-roi-%ec%b8%a1%ec%a0%95%ec%9d%98-%ec%96%b4%eb%a0%a4%ec%9b%80-%ea%b8%80%eb%a1%9c%eb%b2%8c-it-%eb%a6%ac%eb%8d%94%eb%8a%94-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ed%92%80%ec%97%88%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "AI ROI 측정의 어려움, 글로벌 IT 리더는 이렇게 풀었다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI ROI 측정의 어려움, 글로벌 IT 리더는 이렇게 풀었다",
+    "summary_ko": "덴마크의 다국적 제약사 노보 노디스크(Novo Nordisk)는 특허 만료 전에 신약을 최대한 빨리 시장에 출시하는 데 큰 관심을 두고 있다. 노보 노디스크의 디지털 혁신 책임자(CDTO) 스테파니 보바(Stephanie Bova)는 “대형 블록버스터 신약의 경우 출시가 일주일만 늦어져도 손실 규모가 1,000만~1억 달러(약 149억~1,494억 원)에 이를 수 있다”라며 “특허 보호 기간 동안 제품을 판매할 수 있는 시간이 그만큼 줄어들기 때문”이라고 설명했다. 생성형 AI는 신약 개발 과정의 여러 단계를 획기적으로 단축할 가능성을 제시했다.",
+    "url": "https://www.cio.com/article/4195980/ai-roi-%ec%b8%a1%ec%a0%95%ec%9d%98-%ec%96%b4%eb%a0%a4%ec%9b%80-%ea%b8%80%eb%a1%9c%eb%b2%8c-it-%eb%a6%ac%eb%8d%94%eb%8a%94-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ed%92%80%ec%97%88%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-07-13T08:23:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195972/%ec%b1%97gpt-%ec%9b%8c%ed%81%ac-%ec%b6%9c%ec%8b%9c%ec%9d%98-%ec%9d%98%eb%af%b8%eb%b9%84%ec%9a%a9-%ed%9a%a8%ec%9c%a8-%ea%b2%bd%ec%9f%81-%ec%8b%9c%eb%8c%80%eb%a1%9c-%ec%9e%ac%ed%8e%b8.html",
+    "platform": "CIO",
+    "title": "챗GPT 워크 출시의 의미…’비용 효율 경쟁’ 시대로 재편되는 기업용 AI 판도",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "챗GPT 워크 출시의 의미…’비용 효율 경쟁’ 시대로 재편되는 기업용 AI 판도",
+    "summary_ko": "오픈AI가 기업 업무 자동화를 위한 새로운 에이전트 플랫폼 ‘챗GPT 워크(Chat GPT Work)’를 공개하고 최신 GPT-5. 6 모델의 공급도 확대하며 기업용 AI 전략을 강화했다. 회사는 GPT-5. 6이 이전 세대보다 뛰어난 성능을 제공하는 동시에 운영 비용은 낮췄다고 설명했다. 오픈AI에 따르면 챗GPT 워크는 애플리케이션과 파일을 넘나들며 작업을 수행하고, 장시간 실행되는 업무를 처리하는 것은 물론 여러 도구를 연계해 사용할 수 있다.",
+    "url": "https://www.cio.com/article/4195972/%ec%b1%97gpt-%ec%9b%8c%ed%81%ac-%ec%b6%9c%ec%8b%9c%ec%9d%98-%ec%9d%98%eb%af%b8%eb%b9%84%ec%9a%a9-%ed%9a%a8%ec%9c%a8-%ea%b2%bd%ec%9f%81-%ec%8b%9c%eb%8c%80%eb%a1%9c-%ec%9e%ac%ed%8e%b8.html",
+    "image": null,
+    "date": "2026-07-13T07:54:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4195958/%e7%be%8e%eb%8a%94-%ed%95%b4%ea%b3%a0-%e9%9f%93%ec%9d%80-%ec%b1%84%ec%9a%a9-%ec%b6%95%ec%86%8cai-%ec%8b%9c%eb%8c%80-%ec%b2%ad%eb%85%84-%ea%b3%a0%ec%9a%a9%ec%9d%98-%eb%ac%b8%ec%9d%b4.html",
+    "platform": "CIO",
+    "title": "“美는 해고, 韓은 채용 축소…AI 시대, 청년 고용의 문이 먼저 닫힌다” 한국노동연구원",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“美는 해고, 韓은 채용 축소…AI 시대, 청년 고용의 문이 먼저 닫힌다” 한국노동연구원",
+    "summary_ko": "장지연 한국노동연구원 선임연구위원은 지난 9일 열린 재정경제부·KDI가 주최한 한 포럼에서 ‘AI는 고용을 어떻게 바꾸는가’를 주제로 발표하며 이같이 밝혔다. “AI는 연공 편향적 기술…청년이 첫 충격 흡수” 장 위원은 미국의 경우 AI로 인한 해고 사례가 관찰되고 있지만, 한국에서는 명시적 해고보다는 채용 축소 형태로 충격이 나타나고 있다고 진단했다. 그는 “AI가 정형화된 초급 업무부터 잠식하는 연공 편향적 기술이기 때문에, 진입 단계에서 조용히 문이 닫히고 있는 것 아닌가 하는 생각이 든다”고 말했다.",
+    "url": "https://www.cio.com/article/4195958/%e7%be%8e%eb%8a%94-%ed%95%b4%ea%b3%a0-%e9%9f%93%ec%9d%80-%ec%b1%84%ec%9a%a9-%ec%b6%95%ec%86%8cai-%ec%8b%9c%eb%8c%80-%ec%b2%ad%eb%85%84-%ea%b3%a0%ec%9a%a9%ec%9d%98-%eb%ac%b8%ec%9d%b4.html",
+    "image": null,
+    "date": "2026-07-13T07:34:40.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1uv399n/yuji_tachikawa_one_of_the_worlds_leading/",
+    "platform": "Reddit",
+    "title": "Yuji Tachikawa, one of the world’s leading theoretical physicists, reports Claude Fable solved a problem that he and his collaborators had gotten stuck on for the past 6 months",
+    "author": {
+      "name": "/u/socoolandawesome",
+      "handle": "/u//u/socoolandawesome",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Yuji Tachikawa, one of the world’s leading theoretical physicists, reports Claude Fable solved a problem that he and his collaborators had gotten stuck on for the past 6 months",
+    "summary_ko": "세계 최고의 이론물리학자 중 한 명인 타치카와 유지(Yuji Tachikawa)는 클로드 파블(Claude Fable)이 그와 그의 동료들이 지난 6개월 동안 해결하지 못했던 문제를 해결했다고 보고했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1uv399n/yuji_tachikawa_one_of_the_worlds_leading/",
+    "image": "https://preview.redd.it/opgu0t0cvxch1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=d086806a4291f1a5ad4e11d767ef05362153c72d",
+    "date": "2026-07-13T06:12:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1uuwfc6/bye_claudeit_was_nice_while_it_lasted_until_it/",
+    "platform": "Reddit",
+    "title": "Bye Claude..it was nice while it lasted, until it wasn’t.",
+    "author": {
+      "name": "/u/murkEyMustard",
+      "handle": "/u//u/murkEyMustard",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Bye Claude..it was nice while it lasted, until it wasn’t.",
+    "summary_ko": "안녕 클로드..그렇지 않을 때까지 지속되는 동안은 좋았습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1uuwfc6/bye_claudeit_was_nice_while_it_lasted_until_it/",
+    "image": "https://preview.redd.it/kyxhskko6wch1.jpeg?width=640&crop=smart&auto=webp&s=490593440ad8acc182beefcecdbda87aa3a4c20f",
+    "date": "2026-07-13T00:32:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1uuuia3/i_think_the_safeguards_are_too_strict_theyre/",
+    "platform": "Reddit",
+    "title": "I think the safeguards are too strict. They’re flagging basically anything",
+    "author": {
+      "name": "/u/Internal-Constant216",
+      "handle": "/u//u/Internal-Constant216",
+      "avatar_color": "#ff4500"
+    },
+    "content": "I think the safeguards are too strict. They’re flagging basically anything",
+    "summary_ko": "보호장치가 너무 엄격한 것 같아요. 그들은 기본적으로 무엇이든 신고하고 있습니다",
+    "url": "https://www.reddit.com/r/singularity/comments/1uuuia3/i_think_the_safeguards_are_too_strict_theyre/",
+    "image": "https://preview.redd.it/eu9al1aprvch1.jpeg?width=640&crop=smart&auto=webp&s=0277d86914f40a3d0bbfd272c6d6f7a91d041493",
+    "date": "2026-07-12T23:08:07.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/OpenAI/comments/1uuivge/just_leaving_this_here_for_someone_to_see_it_and/",
     "platform": "Reddit",
     "title": "Just leaving this here for someone to see it and fix things",
@@ -4521,74 +4741,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1u53b17/well_well_surprising_tweet/",
     "image": "https://preview.redd.it/65y9eq7zf47h1.png?width=640&crop=smart&auto=webp&s=49d25811a1ad607a0a976c6a49125998b5ff9ce2",
     "date": "2026-06-13T21:54:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1u4tfgm/updated_mythos_benchmarks/",
-    "platform": "Reddit",
-    "title": "Updated Mythos benchmarks",
-    "author": {
-      "name": "/u/HeadWoodpecker5237",
-      "handle": "/u//u/HeadWoodpecker5237",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Updated Mythos benchmarks",
-    "summary_ko": "마이크로커널의 프로세스 간 통신(IPC) 성능을 측정하는 미소스(Mythos) 벤치마크가 업데이트되었습니다. 이번 업데이트로 널리 알려진 seL4 커널을 지원하게 되어, 동일 하드웨어에서 Genode 프레임워크와 비교한 결과 Genode가 2.5배 더 빠른 성능을 보였습니다. 이는 최고 성능으로 알려졌던 seL4에 대한 통념을 깨는 결과로, 정형 검증과 실질적 성능 사이의 균형점에 대한 논의를 촉발하며 향후 최적화 경쟁에 관심이 쏠립니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1u4tfgm/updated_mythos_benchmarks/",
-    "image": "https://preview.redd.it/z6uj5aq6g27h1.jpeg?width=640&crop=smart&auto=webp&s=4baa96d14b9eaa7e3cdba58a9c8cef2df8646a82",
-    "date": "2026-06-13T15:11:15.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u4qic1/dario_amodei_got_what_he_asked_for/",
-    "platform": "Reddit",
-    "title": "Dario Amodei got what he asked for",
-    "author": {
-      "name": "/u/aprx4",
-      "handle": "/u//u/aprx4",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Dario Amodei got what he asked for",
-    "summary_ko": "앤트로픽의 CEO 다리오 아모데이가 AI 자가 학습 알고리즘 개발을 위해 지난 1년간 73억 달러의 막대한 투자를 유치했습니다. 이는 단순히 기존 모델을 키우는 것을 넘어, AI가 스스로 발전하는 새로운 패러다임을 열겠다는 그의 비전에 자금이 모인 결과입니다. 이제 아모데이는 자신이 요구한 막대한 자원을 바탕으로 AI 경쟁의 판도를 바꿀 수 있을지 증명해야 하는 시험대에 올랐습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u4qic1/dario_amodei_got_what_he_asked_for/",
-    "image": "https://preview.redd.it/tkovkcaut17h1.jpeg?width=640&crop=smart&auto=webp&s=604579069e72fd3586d9b626710072d8acbfc498",
-    "date": "2026-06-13T13:06:13.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u4mmqd/america_starts_regulations/",
-    "platform": "Reddit",
-    "title": "America starts regulations",
-    "author": {
-      "name": "/u/Snoo26837",
-      "handle": "/u//u/Snoo26837",
-      "avatar_color": "#ff4500"
-    },
-    "content": "America starts regulations",
-    "summary_ko": "미국 정부가 인공지능(AI) 기술에 대한 본격적인 규제에 착수했습니다. 바이든 행정부는 AI의 잠재적 위험을 관리하기 위해 새로운 안전 표준을 마련하고, 국가 안보에 위협이 될 수 있는 첨단 AI 모델 개발 기업에 안전성 테스트 결과 보고를 의무화했습니다. 이는 AI 기술 혁신을 저해하지 않으면서도 사회적 안전과 신뢰를 확보하려는 미국 최초의 포괄적 AI 규제라는 점에서 의미가 큽니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u4mmqd/america_starts_regulations/",
-    "image": "https://preview.redd.it/5qeh0in5t07h1.jpeg?width=640&crop=smart&auto=webp&s=0cce55cfecb5058d7fcad24de849dca96a87b592",
-    "date": "2026-06-13T09:40:22.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u4cxr8/us_government_directive_to_suspend_access_to/",
-    "platform": "Reddit",
-    "title": "US government directive to suspend access to Fable 5 and Mythos 5",
-    "author": {
-      "name": "/u/Dylan1312",
-      "handle": "/u//u/Dylan1312",
-      "avatar_color": "#ff4500"
-    },
-    "content": "US government directive to suspend access to Fable 5 and Mythos 5",
-    "summary_ko": "미국 정부가 특정 AI 모델로 추정되는 '페이블 5'와 '미토스 5'에 대한 접근을 중단하라는 이례적인 지침을 내렸습니다. 이번 조치는 고성능 AI 기술이 초래할 수 있는 잠재적 위험을 통제하려는 정부 차원의 본격적인 규제 신호탄으로 해석됩니다. 이에 따라 향후 AI 개발과 배포에 있어 정부의 감독이 강화될 것으로 보이며, 기술 업계의 대응에 귀추가 주목됩니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u4cxr8/us_government_directive_to_suspend_access_to/",
-    "image": "https://external-preview.redd.it/bDNNrAtGcz_k7GUnoK2WyrBSfzRlhklxmiyn3CPffdE.png?width=640&crop=smart&auto=webp&s=91ef5d835f44ad4fde5e41b830d9b54c3b4f3faf",
-    "date": "2026-06-13T00:53:52.000Z",
     "likes": 0,
     "comments": 0
   }
