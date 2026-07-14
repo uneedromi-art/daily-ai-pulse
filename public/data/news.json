@@ -1,5 +1,195 @@
 [
   {
+    "id": "https://www.cio.com/article/4196757/%ec%a5%b4%ec%9d%b4-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%94%84%eb%9f%b0%ed%8a%b8%ec%97%94%eb%93%9csap-ai-%ec%8b%9c%eb%8c%80-erp%ec%9d%98-%eb%af%b8%eb%9e%98-%ec%b2%ad%ec%82%ac%ec%a7%84.html",
+    "platform": "CIO",
+    "title": "“쥴이 새로운 프런트엔드”…SAP, AI 시대 ERP의 미래 청사진 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“쥴이 새로운 프런트엔드”…SAP, AI 시대 ERP의 미래 청사진 공개",
+    "summary_ko": "SAP는 14일 한국에서 열린 ‘SAP 나우 AI 투어 코리아’ 기자간담회에서 AI를 기업 업무의 새로운 진입점으로 삼고 ERP가 그 뒤에서 핵심 비즈니스 프로세스와 거버넌스를 담당하는 구조의 AI 전략을 공개했다. SAP가 기자간담회에서 가장 먼저 소개한 것은 ‘쥴 워크(Joule Work)’이다. 쥴 워크는 SAP 트랜잭션이 하나로 모이는 AI 기반 업무 화면으로, 사용자는 여러 메뉴를 오갈 필요 없이 대화형 창에서 업무를 처리할 수 있다. 구체적으로 쥴 워크는 크게 세 요소로 구성된다.",
+    "url": "https://www.cio.com/article/4196757/%ec%a5%b4%ec%9d%b4-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%94%84%eb%9f%b0%ed%8a%b8%ec%97%94%eb%93%9csap-ai-%ec%8b%9c%eb%8c%80-erp%ec%9d%98-%eb%af%b8%eb%9e%98-%ec%b2%ad%ec%82%ac%ec%a7%84.html",
+    "image": null,
+    "date": "2026-07-14T15:21:26.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4196348/your-service-vendors-are-being-rebuilt-around-ai.html",
+    "platform": "CIO",
+    "title": "Your service vendors are being rebuilt around AI",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Your service vendors are being rebuilt around AI",
+    "summary_ko": "귀하의 서비스 공급업체는 AI를 중심으로 재구축되고 있습니다. 벤처 지원 기업은 기업이 의존하는 지원, 금융 운영 및 관리 서비스 제공업체를 매입하고 이를 AI 에이전트를 중심으로 다시 플랫폼화하고 있으며, 그에 따른 갱신은 결과에 따라 가격이 책정되어 이점으로 판매됩니다. 인수 기반 구조와 입증되지 않은 안정성으로 인해 공급업체 프로세스 규모에 맞지 않는 거버넌스 및 연속성 위험이 발생합니다. 테이블에서 레버리지를 유지하는 방법은 다음과 같습니다.",
+    "url": "https://www.cio.com/article/4196348/your-service-vendors-are-being-rebuilt-around-ai.html",
+    "image": null,
+    "date": "2026-07-14T12:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4196339/how-do-you-go-from-junior-to-staff-engineer-when-ai-writes-the-code.html",
+    "platform": "CIO",
+    "title": "How do you go from junior to staff engineer when AI writes the code?",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "How do you go from junior to staff engineer when AI writes the code?",
+    "summary_ko": "AI가 코드를 작성할 때 주니어에서 스태프 엔지니어로 어떻게 가나요? 몇 주 전, 대학을 갓 졸업한 Aviator의 신입 사원이 나에게 명확한 대답이 없는 질문을 했습니다. 수석 엔지니어나 직원 엔지니어가 되려면 어떻게 해야 합니까? 무엇을, 어떻게 배워야 합니까?",
+    "url": "https://www.cio.com/article/4196339/how-do-you-go-from-junior-to-staff-engineer-when-ai-writes-the-code.html",
+    "image": null,
+    "date": "2026-07-14T11:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4189693/how-ai-agents-are-shaping-the-future-of-work.html",
+    "platform": "CIO",
+    "title": "How AI agents are shaping the future of work",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "How AI agents are shaping the future of work",
+    "summary_ko": "AI 에이전트가 업무의 미래를 형성하는 방법 저는 2025년에 기업 SaaS 플랫폼에 내장된 최초의 AI 에이전트가 발표된 여러 주요 기술 컨퍼런스에 참석했습니다. 이러한 에이전트 중 일부는 미래의 업무에 대한 가능성과 엿볼 수 있는 모습을 보인 반면, 다른 에이전트는 플랫폼의 기존 기능을 자연어 확장한 것처럼 보였습니다. 2025년 말에 Anthropic과 Open AI는 새로운 AI 모델과 코드 생성 기능을 출시했습니다. 더 많은 개발자가 바이브 코딩을 시도했고 일부 플랫폼에서는 사양 중심 개발 기능을 출시했습니다.",
+    "url": "https://www.cio.com/article/4189693/how-ai-agents-are-shaping-the-future-of-work.html",
+    "image": null,
+    "date": "2026-07-14T10:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4196328/where-metas-whatsapp-agent-can-actually-win.html",
+    "platform": "CIO",
+    "title": "Where Meta’s WhatsApp agent can actually win",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Where Meta’s WhatsApp agent can actually win",
+    "summary_ko": "Meta의 Whats App 에이전트가 실제로 승리할 수 있는 부분. 이번 주 Whats App에서 업체에 메시지를 보내면 소프트웨어가 여러분을 맞이할 것입니다. 6월 3일, Meta는 비즈니스 AI 에이전트를 모든 회사에서 사용할 수 있도록 했습니다. 이 봇은 질문에 답하고, 제품을 추천하고, 약속을 예약하고, 영업 리드를 선별하고, 막힐 때 사람에게 건네주는 봇입니다.",
+    "url": "https://www.cio.com/article/4196328/where-metas-whatsapp-agent-can-actually-win.html",
+    "image": null,
+    "date": "2026-07-14T10:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4191656/deluxe-corporation-beats-the-odds-with-mainframe-migration.html",
+    "platform": "CIO",
+    "title": "Deluxe Corporation beats the odds with mainframe migration using AI",
+    "lang": "en",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "Deluxe Corporation beats the odds with mainframe migration using AI",
+    "summary_ko": "Deluxe Corporation은 AI를 사용한 메인프레임 마이그레이션으로 어려움을 극복했습니다. Deluxe는 최근 50년이 넘는 메인프레임에서 성공적으로 마이그레이션하면서 역경을 이겨냈습니다. 회사는 약 12개월 만에 큰 문제 없이 클라우드 환경으로 이전할 수 있었고 AI는 힘든 작업을 일부 수행했습니다. 절약 금액은 약 4달러입니다.",
+    "url": "https://www.cio.com/article/4191656/deluxe-corporation-beats-the-odds-with-mainframe-migration.html",
+    "image": null,
+    "date": "2026-07-14T09:30:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4196496/ibm-ai-%ec%b6%94%eb%a1%a0%c2%b7%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b2%a8%eb%83%a5%ed%95%9c-z17%c2%b7%eb%a6%ac%eb%88%85%ec%8a%a4%ec%9b%90-%ec%8b%a0.html",
+    "platform": "CIO",
+    "title": "IBM, AI 추론·하이브리드 클라우드 겨냥한 z17·리눅스원 신제품 발표",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "IBM, AI 추론·하이브리드 클라우드 겨냥한 z17·리눅스원 신제품 발표",
+    "summary_ko": "IBM이 IBM Z와 리눅스원 시스템에 새로운 단일 프레임(single frame) 및 랙마운트(rack mount) 모델을 추가하며 메인프레임 제품군의 적용 범위를 확대한다. IBM z17 제품군에는 메인프레임의 성능을 보다 작고 유연하게 구성할 수 있는 폼팩터에 담은 단일 프레임 및 랙마운트 모델이 추가됐다.",
+    "url": "https://www.cio.com/article/4196496/ibm-ai-%ec%b6%94%eb%a1%a0%c2%b7%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b2%a8%eb%83%a5%ed%95%9c-z17%c2%b7%eb%a6%ac%eb%88%85%ec%8a%a4%ec%9b%90-%ec%8b%a0.html",
+    "image": null,
+    "date": "2026-07-14T08:45:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4196592/ai%eb%8f%84-%ed%95%9c%ea%b8%80%ec%b2%98%eb%9f%bc%ea%b3%bc%ea%b8%b0%ec%a0%95%ed%86%b5%eb%b6%80-%ec%a0%84-%ea%b5%ad%eb%af%bc-%eb%ac%b4%eb%a3%8c-ai-%ec%b1%97%eb%b4%87-%ec%a7%80%ec%9b%90.html",
+    "platform": "CIO",
+    "title": "“AI도 한글처럼”…과기정통부, 전 국민 무료 AI 챗봇 지원사업 공고",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“AI도 한글처럼”…과기정통부, 전 국민 무료 AI 챗봇 지원사업 공고",
+    "summary_ko": "과학기술정보통신부와 정보통신산업진흥원(NIPA)은 13일 ‘전 국민 AI 서비스 보편적 활용 지원(모두의 AI)’ 사업 공모를 시작했다고 밝혔다. 정부는 국산 AI 모델 확보 성과를 바탕으로 모든 국민이 쉽고 부담 없이 AI를 활용할 수 있는 환경을 조성하는 것이 이번 사업의 목표라고 설명했다. 사업 안내문에서 정부는 생성형 AI가 일상적인 도구로 빠르게 확산되고 있지만, AI 접근성과 활용 역량의 격차가 새로운 사회·경제적 불평등으로 이어질 수 있다고 진단했다.",
+    "url": "https://www.cio.com/article/4196592/ai%eb%8f%84-%ed%95%9c%ea%b8%80%ec%b2%98%eb%9f%bc%ea%b3%bc%ea%b8%b0%ec%a0%95%ed%86%b5%eb%b6%80-%ec%a0%84-%ea%b5%ad%eb%af%bc-%eb%ac%b4%eb%a3%8c-ai-%ec%b1%97%eb%b4%87-%ec%a7%80%ec%9b%90.html",
+    "image": null,
+    "date": "2026-07-14T08:15:08.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4196431/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%b4%9d%ec%9d%b4-%ec%95%84%eb%8b%8c-%ea%b8%b0%ec%88%a0%eb%a1%9c-%eb%82%98%eb%9d%bc%eb%a5%bc-%ec%a7%80%ed%82%a4%eb%8b%a4%ea%b9%80%ed%95%9c%ec%84%b1-%ea%b5%ad.html",
+    "platform": "CIO",
+    "title": "인터뷰 | 총이 아닌 기술로 나라를 지키다…김한성 국방전산정보원 원장",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "인터뷰 | 총이 아닌 기술로 나라를 지키다…김한성 국방전산정보원 원장",
+    "summary_ko": "오늘날 전쟁의 승패는 화력만으로 갈리지 않는다. 누가 더 빨리 적을 식별하고, 누가 더 정확하게 표적의 우선순위를 매기느냐에도 달려 있다. 즉 데이터와 알고리즘이 전장의 문법을 새롭게 쓰고 있다. 사이버작전사령관을 지낸 김한성 국방전산정보원 원장은 이 변화를 누구보다 일찍 체감한 사람이다. 그리고 지금 그는 군의 AI 국방의 근간이 될 데이터와 정보체계를 구축하고 있다. 명령에 따르던 군인이 처음 손을 든 곳, 국방전산정보원 용산 국방부 청사 근처 카페에서 만난 김한성 원장은 최근 직접 둘러본 AI 기술과 기업 이야기를 꺼내며 연신 즐거운 표정을 지었다.",
+    "url": "https://www.cio.com/article/4196431/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%b4%9d%ec%9d%b4-%ec%95%84%eb%8b%8c-%ea%b8%b0%ec%88%a0%eb%a1%9c-%eb%82%98%eb%9d%bc%eb%a5%bc-%ec%a7%80%ed%82%a4%eb%8b%a4%ea%b9%80%ed%95%9c%ec%84%b1-%ea%b5%ad.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/07/KIM.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "date": "2026-07-14T03:17:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4196404/ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%a7%80%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%a7%84%ed%99%94%ed%95%b4%ec%95%bc-%ed%95%98%eb%8a%94%ea%b0%80.html",
+    "platform": "CIO",
+    "title": "AI 시대, 기업 스토리지는 어떻게 진화해야 하는가",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 시대, 기업 스토리지는 어떻게 진화해야 하는가",
+    "summary_ko": "전 세계 기업이 AI 중심의 디지털 전환을 빠르게 추진하면서, 스토리지 인프라에 대한 요구도 전례 없는 수준으로 높아지고 있다. 대규모 언어 모델(LLM), 실시간 분석, 자동화 기술이 확산되면서 ‘미션 크리티컬’의 의미도 달라지고 있다. 이제 기업의 핵심 시스템은 단순히 안정적으로 데이터를 저장하는 수준을 넘어, 대량의 데이터를 빠르게 처리하고, 언제든 사용할 수 있으며, 보안 위협에도 흔들리지 않아야 한다. 확장성·보안·고가용성을 모두 갖춘 스토리지 인프라 전략 CIO.",
+    "url": "https://www.cio.com/article/4196404/ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%a7%80%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%a7%84%ed%99%94%ed%95%b4%ec%95%bc-%ed%95%98%eb%8a%94%ea%b0%80.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/07/Featured-Image_Synology-2.png?w=1024",
+    "date": "2026-07-14T00:01:34.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uvbzul/apple_m7_ultra_chip_planned_with_up_to_15_tb_of/",
     "platform": "Reddit",
     "title": "Apple M7 Ultra Chip Planned With Up to 1.5 TB of Unified Memory",
@@ -4605,142 +4795,6 @@
     "url": "https://www.cio.com/article/4181993/ai%e6%99%82%e4%bb%a3%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e9%a1%a7%e5%ae%a2%e3%81%a8%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%e9%96%a2%e4%bf%82%e3%81%ae%e4%be%a1%e5%80%a4%e3%81%af%e3%81%a9%e3%81%86%e3%81%82.html",
     "image": null,
     "date": "2026-06-14T23:45:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u5wous/zai_poll_on_x_mitlicensed_open_weights_are_losing/",
-    "platform": "Reddit",
-    "title": "z.ai Poll on X: MIT-licensed open weights are losing",
-    "author": {
-      "name": "/u/MadPelmewka",
-      "handle": "/u//u/MadPelmewka",
-      "avatar_color": "#ff4500"
-    },
-    "content": "z.ai Poll on X: MIT-licensed open weights are losing",
-    "summary_ko": "z.ai X에 대한 여론 조사: MIT 라이선스 개방형 가중치가 감소하고 있습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5wous/zai_poll_on_x_mitlicensed_open_weights_are_losing/",
-    "image": "https://preview.redd.it/rtm5a98mbb7h1.png?width=640&crop=smart&auto=webp&s=e71c815af8a913e465888e76bae21f8e6bdcc740",
-    "date": "2026-06-14T21:03:23.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u5tvoo/chinas_universities_cut_12000_obsolete_degrees/",
-    "platform": "Reddit",
-    "title": "China's universities cut 12,000 'obsolete' degrees amid race to embrace AI era",
-    "author": {
-      "name": "/u/SnoozeDoggyDog",
-      "handle": "/u//u/SnoozeDoggyDog",
-      "avatar_color": "#ff4500"
-    },
-    "content": "China's universities cut 12,000 'obsolete' degrees amid race to embrace AI era",
-    "summary_ko": "중국 대학, AI 시대 수용 경쟁 속에서 '구식' 학위 12,000개 감축",
-    "url": "https://www.reddit.com/r/singularity/comments/1u5tvoo/chinas_universities_cut_12000_obsolete_degrees/",
-    "image": "https://external-preview.redd.it/WJydaKwd5GRyI4EyaQVYmxtpiKxhQ3SKeCyy-fRdbRo.jpeg?width=640&crop=smart&auto=webp&s=c35f364f393320ff5775fc0ea8d0c7a2a83e2504",
-    "date": "2026-06-14T19:12:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u5tdvf/senior_anthropic_staffs_are_in_washington_meeting/",
-    "platform": "Reddit",
-    "title": "Senior Anthropic staffs are in Washington meeting White House officials to resolve the Fable 5 and Mythos dispute",
-    "author": {
-      "name": "/u/BuildwithVignesh",
-      "handle": "/u//u/BuildwithVignesh",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Senior Anthropic staffs are in Washington meeting White House officials to resolve the Fable 5 and Mythos dispute",
-    "summary_ko": "고위 인류학 직원들은 우화 5와 신화 분쟁을 해결하기 위해 워싱턴에서 백악관 관리들을 만나고 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u5tdvf/senior_anthropic_staffs_are_in_washington_meeting/",
-    "image": "https://external-preview.redd.it/JJ2j8KY5hgamPAWTp1nJ8op0x7KfuWj49ppooj20rHs.jpeg?width=640&crop=smart&auto=webp&s=3f110a753949b74cb7dc6537b20c64ac47ff59bd",
-    "date": "2026-06-14T18:53:34.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u5nc8t/sony_ais_ace_robot_defeats_pro_player_miyu_under/",
-    "platform": "Reddit",
-    "title": "Sony AI’s Ace robot defeats pro player Miyu under official ITTF rules (Nature paper)",
-    "author": {
-      "name": "/u/BuildwithVignesh",
-      "handle": "/u//u/BuildwithVignesh",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Sony AI’s Ace robot defeats pro player Miyu under official ITTF rules (Nature paper)",
-    "summary_ko": "Sony AI의 Ace 로봇이 공식 ITTF 규칙에 따라 프로 선수 Miyu를 물리쳤습니다(Nature 논문).",
-    "url": "https://www.reddit.com/r/singularity/comments/1u5nc8t/sony_ais_ace_robot_defeats_pro_player_miyu_under/",
-    "image": "https://external-preview.redd.it/eGg3ZXVzYnJpOTdoMfspn04m-n_xkPNovXCYyqYRkQ3s6lN5XFzzGNtu3FUR.png?width=640&crop=smart&auto=webp&s=0058e357414600a0ab09c09404da1c913461df08",
-    "date": "2026-06-14T14:58:13.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u5lmge/introducing_the_heretic_grimoire_the/",
-    "platform": "Reddit",
-    "title": "Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever",
-    "author": {
-      "name": "/u/-p-e-w-",
-      "handle": "/u//u/-p-e-w-",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever",
-    "summary_ko": "Heretic Grimoire 소개: 검열되지 않은 모델을 영원히 사용할 수 있는 게시 중단 복원력이 있는 로컬 우선 백업 시스템.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5lmge/introducing_the_heretic_grimoire_the/",
-    "image": "https://preview.redd.it/rtsjelj8497h1.png?width=640&crop=smart&auto=webp&s=d98a908e0aa02f95ea8415ae5c29cbbfce147cb5",
-    "date": "2026-06-14T13:47:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u5czqy/anthropic/",
-    "platform": "Reddit",
-    "title": "Anthropic",
-    "author": {
-      "name": "/u/sdmat",
-      "handle": "/u//u/sdmat",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anthropic",
-    "summary_ko": "인류학",
-    "url": "https://www.reddit.com/r/singularity/comments/1u5czqy/anthropic/",
-    "image": "https://preview.redd.it/ohkcszqot67h1.png?width=640&crop=smart&auto=webp&s=92d075f3f443b0e3a4a6bc3d176cd4cc0f9d5c6e",
-    "date": "2026-06-14T05:54:30.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u5bv06/son_im_crine/",
-    "platform": "Reddit",
-    "title": "Son I'm crine",
-    "author": {
-      "name": "/u/VariationLivid3193",
-      "handle": "/u//u/VariationLivid3193",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Son I'm crine",
-    "summary_ko": "아들아 난 미쳤어",
-    "url": "https://www.reddit.com/r/singularity/comments/1u5bv06/son_im_crine/",
-    "image": "https://preview.redd.it/7az7lp8ti67h1.jpeg?width=640&crop=smart&auto=webp&s=c41aac62d5f44ddf7aaf5899d0f466e3bb30981e",
-    "date": "2026-06-14T04:53:05.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1u53b17/well_well_surprising_tweet/",
-    "platform": "Reddit",
-    "title": "Well, well, surprising tweet",
-    "author": {
-      "name": "/u/Wonderful-Excuse4922",
-      "handle": "/u//u/Wonderful-Excuse4922",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Well, well, surprising tweet",
-    "summary_ko": "일론 머스크가 테슬라의 광범위한 성과를 조명한 트윗을 공유하며 놀랍다는 반응을 보였습니다. 해당 내용은 테슬라가 전기차는 물론 휴머노이드 로봇, 자율주행차, AI 학습용 컴퓨팅 등 다양한 분야에서 세계 최고 수준임을 강조합니다. 이는 테슬라가 단순한 자동차 제조사를 넘어 여러 미래 산업을 선도하는 거대 기술 기업으로 자리매김했음을 시사합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1u53b17/well_well_surprising_tweet/",
-    "image": "https://preview.redd.it/65y9eq7zf47h1.png?width=640&crop=smart&auto=webp&s=49d25811a1ad607a0a976c6a49125998b5ff9ce2",
-    "date": "2026-06-13T21:54:59.000Z",
     "likes": 0,
     "comments": 0
   }
