@@ -1,5 +1,99 @@
 [
   {
+    "id": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+    "platform": "Google",
+    "title": "Towards demystifying the creativity of diffusion models",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Algorithms & Theory",
+    "summary_ko": "확산 모델의 창의성을 이해하기 위해",
+    "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+    "image": null,
+    "date": "2026-07-15T18:06:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4197183/ms-sms%c2%b7%ec%9d%8c%ec%84%b1-%ec%9d%b8%ec%a6%9d-%ec%a2%85%eb%a3%8c-%ec%88%98%ec%88%9c%ed%8c%a8%ec%8a%a4%ed%82%a4-%ec%a0%84%ed%99%98-%ec%95%9e%eb%91%94-%ea%b8%b0%ec%97%85-%eb%8c%80%ec%9d%91.html",
+    "platform": "CIO",
+    "title": "MS, SMS·음성 인증 종료 수순…패스키 전환 앞둔 기업 대응법은?",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "MS, SMS·음성 인증 종료 수순…패스키 전환 앞둔 기업 대응법은?",
+    "summary_ko": "패스키는 이미 오래전부터 등장한 기술이지만, 여러 이유로 기업 전반의 도입은 지금까지 더디게 진행돼 왔다. 그러나 머지않아 많은 MS 고객은 더 이상 이를 선택할 수 없게 된다. MS는 오는 9월 1일부터 클라우드 기반 ID 및 액세스 관리(IAM) 서비스인 MS 엔트라 ID의 기본 인증 방식으로 패스키를 적용한다. 이후 전환 기간을 거쳐 2027년 2월 1일부터 MS가 제공하는 SMS 및 음성 인증 서비스는 공식적으로 종료된다.",
+    "url": "https://www.cio.com/article/4197183/ms-sms%c2%b7%ec%9d%8c%ec%84%b1-%ec%9d%b8%ec%a6%9d-%ec%a2%85%eb%a3%8c-%ec%88%98%ec%88%9c%ed%8c%a8%ec%8a%a4%ed%82%a4-%ec%a0%84%ed%99%98-%ec%95%9e%eb%91%94-%ea%b8%b0%ec%97%85-%eb%8c%80%ec%9d%91.html",
+    "image": null,
+    "date": "2026-07-15T08:09:17.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4197158/%ec%b9%bc%eb%9f%bc-ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%a7%9c%eb%8f%84-%ec%a3%bc%eb%8b%88%ec%96%b4%ea%b0%80-%ed%95%b4%ec%95%bc-%ed%95%a0-%ea%b2%83%eb%8b%b5-%eb%a7%90%ea%b3%a0.html",
+    "platform": "CIO",
+    "title": "칼럼 | AI가 코드를 짜도 주니어가 해야 할 것…”답 말고 선택지를 요구하라”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | AI가 코드를 짜도 주니어가 해야 할 것…”답 말고 선택지를 요구하라”",
+    "summary_ko": "몇 주 전, 대학을 갓 졸업한 신입 엔지니어이자 회사 후배가 필자에게 쉽게 답하기 어려운 질문을 던졌다. “시니어 엔지니어, 나아가 스태프 엔지니어가 되려면 어떻게 해야 하나요? 무엇을 배우고, 어떻게 공부해야 하나요? ” 당연한 질문이다. 하지만 불과 1년 전보다 답하기는 훨씬 어려워졌다. 예전에는 성장 경로가 비교적 명확했다. 신입 소프트웨어 엔지니어는 경험 많은 멘토의 지도를 받으며 기본적인 업무부터 시작했다. 코드를 작성하고, 궁금한 점이 생기면 질문하고, 풀 리퀘스트(Pull Request)를 올린 뒤 코드 리뷰에서 피드백을 받았다.",
+    "url": "https://www.cio.com/article/4197158/%ec%b9%bc%eb%9f%bc-ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%a7%9c%eb%8f%84-%ec%a3%bc%eb%8b%88%ec%96%b4%ea%b0%80-%ed%95%b4%ec%95%bc-%ed%95%a0-%ea%b2%83%eb%8b%b5-%eb%a7%90%ea%b3%a0.html",
+    "image": null,
+    "date": "2026-07-15T07:06:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4197096/%ea%b0%9c%ec%9d%b8-%ec%83%9d%ec%82%b0%ec%84%b1-%eb%81%8c%ec%96%b4%ec%98%ac%eb%a6%b0-ai-%ed%8c%80%ec%9b%8c%ed%81%ac-%ed%96%a5%ec%83%81%ec%9d%80-%ec%95%84%ec%a7%81%ed%94%bc%ea%b7%b8.html",
+    "platform": "CIO",
+    "title": "“개인 생산성 끌어올린 AI, 팀워크 향상은 아직”…피그마, AI 협업형 도구로 차별화 나서",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“개인 생산성 끌어올린 AI, 팀워크 향상은 아직”…피그마, AI 협업형 도구로 차별화 나서",
+    "summary_ko": "피그마 최고제품책임자(CPO) 유키 야마시타는 14일 서울에서 열린 기자간담회에서 “AI는 개인을 더욱 강력하게 만들고 있지만 팀 전체에는 같은 수준의 효과를 내지 못하고 있다”며 “사람들이 각자 AI 에이전트와 대화하며 아이디어를 발전시키지만, 정작 팀원들은 서로의 작업을 보지 못하는 사일로 현상이 나타나고 있다”고 말했다. 그는 이러한 문제를 해결하기 위해 모든 작업을 하나의 캔버스 안에서 공유하고 함께 발전시키는 환경이 중요하다고 설명했다. 개인의 AI 활용 역량보다 팀 전체가 지식과 결과물을 공유하는 구조가 앞으로 더욱 경쟁력이 될 것이라는 의미다.",
+    "url": "https://www.cio.com/article/4197096/%ea%b0%9c%ec%9d%b8-%ec%83%9d%ec%82%b0%ec%84%b1-%eb%81%8c%ec%96%b4%ec%98%ac%eb%a6%b0-ai-%ed%8c%80%ec%9b%8c%ed%81%ac-%ed%96%a5%ec%83%81%ec%9d%80-%ec%95%84%ec%a7%81%ed%94%bc%ea%b7%b8.html",
+    "image": null,
+    "date": "2026-07-15T06:28:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4197143/%ea%b5%ac%ec%a7%81%ec%9e%90-52%c2%b7%ea%b8%b0%ec%97%85-73-ai%ec%97%90-%eb%a7%a1%ea%b8%b4-%ec%b1%84%ec%9a%a9%ec%8b%a0%eb%a2%b0%eb%8a%94-%ec%88%99%ec%a0%9c%eb%a1%9c.html",
+    "platform": "CIO",
+    "title": "구직자 52%·기업 73%, AI에 맡긴 채용…신뢰는 숙제로",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "구직자 52%·기업 73%, AI에 맡긴 채용…신뢰는 숙제로",
+    "summary_ko": "AI는 이제 미국 기업 전반에 깊숙이 자리 잡았으며, 기술 업계의 채용 과정도 예외가 아니다. 이력서 작성 서비스 기업 마이퍼펙트레쥬메(My Perfect Resume)의 조사에 따르면 기업의 73%가 채용 의사결정에 AI를 활용하고 있으며, 52%는 조직 개편과 직무 계획 수립에도 AI를 사용한다고 답했다. 구직자 역시 AI 활용을 빠르게 늘리고 있다. SAP 조사에 따르면 현재 구직자의 52%가 구직 활동에 AI를 활용하고 있으며, 이 가운데 85%는 지원 서류를 다듬는 데, 73%는 면접 준비에 AI를 이용한다고 응답했다.",
+    "url": "https://www.cio.com/article/4197143/%ea%b5%ac%ec%a7%81%ec%9e%90-52%c2%b7%ea%b8%b0%ec%97%85-73-ai%ec%97%90-%eb%a7%a1%ea%b8%b4-%ec%b1%84%ec%9a%a9%ec%8b%a0%eb%a2%b0%eb%8a%94-%ec%88%99%ec%a0%9c%eb%a1%9c.html",
+    "image": null,
+    "date": "2026-07-15T06:14:45.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4196757/%ec%a5%b4%ec%9d%b4-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%94%84%eb%9f%b0%ed%8a%b8%ec%97%94%eb%93%9csap-ai-%ec%8b%9c%eb%8c%80-erp%ec%9d%98-%eb%af%b8%eb%9e%98-%ec%b2%ad%ec%82%ac%ec%a7%84.html",
     "platform": "CIO",
     "title": "“쥴이 새로운 프런트엔드”…SAP, AI 시대 ERP의 미래 청사진 공개",
@@ -4554,247 +4648,6 @@
     "url": "https://www.cio.com/article/4185352/%eb%8b%a8%ec%9d%bc-ai-%eb%aa%a8%eb%8d%b8%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8b%a8%ec%9d%bc-%ec%9e%a5%ec%95%a0-%ec%a7%80%ec%a0%90%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%a0%91.html",
     "image": null,
     "date": "2026-06-16T04:44:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u6s6pm/stop_using_ollama/",
-    "platform": "Reddit",
-    "title": "Stop using Ollama",
-    "author": {
-      "name": "/u/zxyzyxz",
-      "handle": "/u//u/zxyzyxz",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Stop using Ollama",
-    "summary_ko": "올라마 사용을 중단하세요",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u6s6pm/stop_using_ollama/",
-    "image": "https://external-preview.redd.it/HY3hvbRxXorFRK4WaWileVR3R6VHBm9SLPgRvhVoFeg.png?width=640&crop=smart&auto=webp&s=2a1627b04461a30c5a5ce7084587983df97fb432",
-    "date": "2026-06-15T20:22:26.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1u6rstg/openclaw_the_hype_train_has_moved_on/",
-    "platform": "Reddit",
-    "title": "OpenClaw - the hype train has moved on",
-    "author": {
-      "name": "/u/CartographerFeisty66",
-      "handle": "/u//u/CartographerFeisty66",
-      "avatar_color": "#ff4500"
-    },
-    "content": "OpenClaw - the hype train has moved on",
-    "summary_ko": "OpenClaw - 과대 광고 열차가 움직였습니다",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1u6rstg/openclaw_the_hype_train_has_moved_on/",
-    "image": "https://preview.redd.it/cxys55c86i7h1.png?width=640&crop=smart&auto=webp&s=9e7f49d06976e0dbd3f6537ffa7bf85784979cdd",
-    "date": "2026-06-15T20:08:20.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4185175/anthropic-locks-enterprises-out-of-fable-and-mythos-following-government-order.html",
-    "platform": "CIO",
-    "title": "Anthropic locks enterprises out of Fable and Mythos following government order",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Anthropic locks enterprises out of Fable and Mythos following government order",
-    "summary_ko": "Anthropic은 정부 명령에 따라 기업을 Fable 및 Mythos에서 차단합니다. Anthropic에서 CIO는 자신의 모델이 군사 킬 체인이나 대량 감시에서 자율적으로 사용되는 것을 허용하지 않는 윤리적인 AI 공급업체를 인수하고 있다고 생각했습니다. 이제 이러한 고객은 Anthropic의 가장 강력한 AI 모델에 대한 액세스가 회사가 허술한 구실이라고 주장하는 미국 정부에 의해 차단될 수 있음을 알게 되었습니다.",
-    "url": "https://www.cio.com/article/4185175/anthropic-locks-enterprises-out-of-fable-and-mythos-following-government-order.html",
-    "image": null,
-    "date": "2026-06-15T16:09:53.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184685/the-11-hardest-it-roles-to-fill-in-2026-and-whats-changed.html",
-    "platform": "CIO",
-    "title": "The 11 hardest IT roles to fill in 2026 — and what’s changed",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "The 11 hardest IT roles to fill in 2026 — and what’s changed",
-    "summary_ko": "2026년에 수행해야 할 가장 어려운 IT 역할 11가지와 변경된 사항 요즘에는 SOC 분석가, ML 연구원, 클라우드 설계자 등 전문가를 고용하는 것이 상대적으로 쉽습니다. 해당 요청은 몇 주 안에 마감됩니다. 6~9개월 동안 공석으로 남아 있는 것은 하이브리드 역할입니다. 즉, AI에 능숙하고 코드를 깊이 있게 분석하고 비즈니스도 이해할 수 있는 엔지니어입니다.",
-    "url": "https://www.cio.com/article/4184685/the-11-hardest-it-roles-to-fill-in-2026-and-whats-changed.html",
-    "image": null,
-    "date": "2026-06-15T10:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4177840/universal-semantic-layers-critical-infrastructure-or-the-next-data-fabric.html",
-    "platform": "CIO",
-    "title": "Universal semantic layers: critical infrastructure or the next data fabric?",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Universal semantic layers: critical infrastructure or the next data fabric?",
-    "summary_ko": "범용 의미 계층: 중요한 인프라인가 아니면 차세대 데이터 패브릭인가?. 우리는 성공적인 엔터프라이즈 AI 배포에 있어 컨텍스트가 가장 중요하다는 사실을 깨닫고 있습니다. 에이전트 AI가 더욱 자율화되기 시작하면 모호함을 제거하고 합의된 정의 및 어휘를 해결하는 것이 필수적입니다. 최근 데이터 및 분석 서밋에서 Gartner는 2030년까지 USL이 데이터 플랫폼 및 사이버 보안과 함께 중요한 인프라로 취급될 것이며 데이터 및 분석 리더의 44%가 이미 의미 계층을 구현했으며 48%는 2027년까지 추가로 구현할 계획이라고 예측했습니다.",
-    "url": "https://www.cio.com/article/4177840/universal-semantic-layers-critical-infrastructure-or-the-next-data-fabric.html",
-    "image": null,
-    "date": "2026-06-15T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184596/tokenomics-in-enterprise-ai.html",
-    "platform": "CIO",
-    "title": "Tokenomics in enterprise AI",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Tokenomics in enterprise AI",
-    "summary_ko": "엔터프라이즈 AI의 토큰경제학. 토큰경제학은 엔터프라이즈 AI에서 가장 실용적인 주제 중 하나로 빠르게 자리 잡았습니다. 간단히 말해서 토큰이 소비되는 방식, 소비가 비용으로 전환되는 방식, 조직이 사용 패턴을 형성하여 AI가 재정적으로 예측할 수 없게 되는 일 없이 가치를 유지할 수 있는 방법을 이해하는 규율입니다. 대부분의 대규모 언어 모델 서비스에서는 모든 프롬프트, 검색된 모든 컨텍스트 블록, 모든 도구 설명, 모든 시스템 지침 및 생성된 모든 응답이 토큰 청구서에 반영됩니다.",
-    "url": "https://www.cio.com/article/4184596/tokenomics-in-enterprise-ai.html",
-    "image": null,
-    "date": "2026-06-15T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184666/ai-is-on-its-way-to-becoming-a-dirty-word.html",
-    "platform": "CIO",
-    "title": "AI is becoming a dirty word",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI is becoming a dirty word",
-    "summary_ko": "AI는 더러운 단어가 되어가고 있습니다. 눈치채셨겠지만 사람들은 AI를 별로 좋아하지 않습니다. 물론 소속된 서클에 따라 다르지만, 조사를 거듭할수록 전반적인 인식이 점점 부정적으로 변하고 있는 것으로 나타났습니다. 이에 대한 일화적인 증거는 IT 분야 외부의 사람들과 대화하거나 인터넷에서 어울릴 때에도 찾을 수 있습니다.",
-    "url": "https://www.cio.com/article/4184666/ai-is-on-its-way-to-becoming-a-dirty-word.html",
-    "image": null,
-    "date": "2026-06-15T09:03:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1u6azol/whats_the_lesson_chat/",
-    "platform": "Reddit",
-    "title": "What's the lesson chat?",
-    "author": {
-      "name": "/u/ill_be_productive",
-      "handle": "/u//u/ill_be_productive",
-      "avatar_color": "#ff4500"
-    },
-    "content": "What's the lesson chat?",
-    "summary_ko": "레슨채팅이 뭔가요?",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u6azol/whats_the_lesson_chat/",
-    "image": "https://preview.redd.it/vzgzgbzwte7h1.png?width=640&crop=smart&auto=webp&s=88e5ea93eef77ed8fd4e9456eeedc3e502f8872e",
-    "date": "2026-06-15T08:50:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184910/%ed%86%a0%ed%81%b0-%ec%95%84%eb%8b%8c-%ec%84%b1%ea%b3%bc%ec%97%90-%ea%b0%80%ea%b2%a9-%eb%a7%a4%ea%b8%b4%eb%8b%a4%ec%98%a4%eb%9d%bc%ed%81%b4%ec%9d%98-ai.html",
-    "platform": "CIO",
-    "title": "‘토큰’ 아닌 ‘성과’에 가격 매긴다…오라클의 AI 과금 실험",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "‘토큰’ 아닌 ‘성과’에 가격 매긴다…오라클의 AI 과금 실험",
-    "summary_ko": "이번 주 발표된 오라클의 4분기 실적에 따르면 클라우드 매출이 급성장하는 동시에 인프라 투자 비용도 크게 증가한 것으로 나타났다. 애널리스트 대상 컨퍼런스콜에서 최근 최고재무책임자(CFO)로 선임된 힐러리 맥슨은 클라우드 인프라 매출이 전년 대비 93% 증가했다고 밝혔다. 맥슨은 이러한 성장세가 AI 워크로드와 데이터베이스 서비스 수요 확대를 반영한 결과라고 설명했다. 이에 따라 오라클은 이미 확보한 고객 수요를 바탕으로 내년 자본지출(CAPEX)을 700억 달러(약 105조 원) 이상으로 확대할 계획이다.",
-    "url": "https://www.cio.com/article/4184910/%ed%86%a0%ed%81%b0-%ec%95%84%eb%8b%8c-%ec%84%b1%ea%b3%bc%ec%97%90-%ea%b0%80%ea%b2%a9-%eb%a7%a4%ea%b8%b4%eb%8b%a4%ec%98%a4%eb%9d%bc%ed%81%b4%ec%9d%98-ai.html",
-    "image": null,
-    "date": "2026-06-15T06:45:54.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184904/ai-%ec%8b%9c%eb%8c%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%9d%b4%ec%a0%9c-%eb%ac%bc%eb%8f%84-%ea%b2%bd%ec%9f%81%ec%9d%b4%eb%8b%a4%ec%95%84%eb%a7%88%ec%a1%b4-7%eb%b0%b0.html",
-    "platform": "CIO",
-    "title": "AI 시대 데이터센터, 이제 물도 경쟁이다…아마존 “7배 효율” 수치 공개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 시대 데이터센터, 이제 물도 경쟁이다…아마존 “7배 효율” 수치 공개",
-    "summary_ko": "자원 소비에 대한 비판이 거세지는 가운데, 주요 데이터센터 운영 기업들은 자사가 환경에 과도한 부담을 주지 않는다는 점을 입증하기 위해 분주히 움직이고 있다. 적어도 경쟁사보다는 환경 영향이 적다는 사실을 보여주려는 경쟁이 벌어지고 있는 셈이다. 이러한 흐름 속에서 아마존은 주목할 만한 수치를 공개했다. 아마존은 지난 5년 동안 물 사용 효율을 52% 개선했으며, 자사 데이터센터의 물 사용 효율이 업계 평균보다 7배 높다고 밝혔다.",
-    "url": "https://www.cio.com/article/4184904/ai-%ec%8b%9c%eb%8c%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%9d%b4%ec%a0%9c-%eb%ac%bc%eb%8f%84-%ea%b2%bd%ec%9f%81%ec%9d%b4%eb%8b%a4%ec%95%84%eb%a7%88%ec%a1%b4-7%eb%b0%b0.html",
-    "image": null,
-    "date": "2026-06-15T06:28:20.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184893/%ec%bd%94%eb%94%a9-ai-%eb%84%98%ec%96%b4-%ea%b8%b0%ec%97%85-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%a1%9c%ec%98%a4%ed%94%88ai-%ec%98%a4%eb%82%98-%ec%9d%b8%ec%88%98%eb%a1%9c-%ec%bd%94%eb%8d%b1.html",
-    "platform": "CIO",
-    "title": "코딩 AI 넘어 기업 인프라로…오픈AI, 오나 인수로 코덱스 확장 나서",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "코딩 AI 넘어 기업 인프라로…오픈AI, 오나 인수로 코덱스 확장 나서",
-    "summary_ko": "CIO와 CISO는 완전 자율형 AI 에이전트에 업무를 맡긴 뒤 모든 것이 문제없이 진행되기를 기대하는 상황에 대해 다양한 전략적·운영적 우려를 갖고 있다. 에이전트가 중요한 파일을 삭제하기 시작하면 어떻게 될까? 에이전트가 본래 업무에서 벗어나 밤새 불필요한 작업을 수행해 다음 날 아침 팀에 막대한 토큰 사용 비용을 안긴다면 어떨까? 국가 차원의 공격자에게 속아 악의적인 행동을 하게 될 가능성은 없을까? 이러한 우려를 완화하기 위해 오픈AI는 12일 클라우드 개발 환경(CDE) 제공업체 오나(Ona)를 인수하기로 합의했다고 발표했다.",
-    "url": "https://www.cio.com/article/4184893/%ec%bd%94%eb%94%a9-ai-%eb%84%98%ec%96%b4-%ea%b8%b0%ec%97%85-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%a1%9c%ec%98%a4%ed%94%88ai-%ec%98%a4%eb%82%98-%ec%9d%b8%ec%88%98%eb%a1%9c-%ec%bd%94%eb%8d%b1.html",
-    "image": null,
-    "date": "2026-06-15T06:15:02.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4184857/ai%ea%b0%80-%eb%91%90%eb%a0%b5%eb%8b%a4%eb%8a%94-%ed%95%99%ec%83%9d%eb%93%a4ms-%ec%82%ac%ec%9e%a5%ec%9d%b4-%ea%ba%bc%eb%82%b8-%eb%a7%90%ec%9d%80.html",
-    "platform": "CIO",
-    "title": "‘AI가 두렵다’는 학생들…MS 사장이 꺼낸 말은",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "‘AI가 두렵다’는 학생들…MS 사장이 꺼낸 말은",
-    "summary_ko": "마이크로소프트(MS) 사장 브래드 스미스가 AI에 대한 학생들의 반감을 두고 입장을 밝혔다. 그는 최근 졸업생들에게 인간의 창의성은 앞으로도 여전히 중요한 역할을 할 것이라고 말했다. 최근 몇 달 동안 미국 전역의 졸업식에서는 AI의 장점을 강조하는 연사들을 향해 야유가 쏟아졌다. 야유를 받은 연사에는 구글 전 CEO 에릭 슈미트, 음반사 CEO, 부동산 업계 임원 등이 포함됐다.",
-    "url": "https://www.cio.com/article/4184857/ai%ea%b0%80-%eb%91%90%eb%a0%b5%eb%8b%a4%eb%8a%94-%ed%95%99%ec%83%9d%eb%93%a4ms-%ec%82%ac%ec%9e%a5%ec%9d%b4-%ea%ba%bc%eb%82%b8-%eb%a7%90%ec%9d%80.html",
-    "image": null,
-    "date": "2026-06-15T02:47:05.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4181993/ai%e6%99%82%e4%bb%a3%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e9%a1%a7%e5%ae%a2%e3%81%a8%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%e9%96%a2%e4%bf%82%e3%81%ae%e4%be%a1%e5%80%a4%e3%81%af%e3%81%a9%e3%81%86%e3%81%82.html",
-    "platform": "CIO",
-    "title": "AI時代における顧客とベンダー関係の価値はどうあるべきか？",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI時代における顧客とベンダー関係の価値はどうあるべきか？",
-    "summary_ko": "AI 시대의 고객과 벤더 관계의 가치는 어떻습니까? AI 도구의 급속한 보급으로 고객과 벤더의 힘 관계는 크게 바뀌었다. 사내 팀이 Claude, Lovable, Perplexity 등의 툴을 사용해 최소한의 기술 리소스로 기능하는 제품을 며칠 만에 프로토타입하고, 경우에 따라서는 구현까지 할 수 있는 시대가 된 것이 배경에 있다. 어떤 기능을 얻기 위해서는 지금까지 몇 개월에 걸쳐 벤더와 협상을 하고 실장 사이클을 거쳐야 했다.",
-    "url": "https://www.cio.com/article/4181993/ai%e6%99%82%e4%bb%a3%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e9%a1%a7%e5%ae%a2%e3%81%a8%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%e9%96%a2%e4%bf%82%e3%81%ae%e4%be%a1%e5%80%a4%e3%81%af%e3%81%a9%e3%81%86%e3%81%82.html",
-    "image": null,
-    "date": "2026-06-14T23:45:00.000Z",
     "likes": 0,
     "comments": 0
   }
