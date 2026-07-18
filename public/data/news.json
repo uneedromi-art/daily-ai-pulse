@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
+    "platform": "Reddit",
+    "title": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
+    "author": {
+      "name": "/u/jvnpromisedland",
+      "handle": "/u//u/jvnpromisedland",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
+    "summary_ko": "\"OpenAI의 전략적 미래 책임자\"(X: @deanwball)의 나쁜 기운",
+    "url": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
+    "image": "https://preview.redd.it/qb4koznqh0eh1.png?width=640&crop=smart&auto=webp&s=c513c48240f12d383c2ae3b10a30421db39b4556",
+    "date": "2026-07-18T16:15:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/",
+    "platform": "Reddit",
+    "title": "What kind of dark magic is Deepseek using?",
+    "author": {
+      "name": "/u/Fuckinglivemealone",
+      "handle": "/u//u/Fuckinglivemealone",
+      "avatar_color": "#ff4500"
+    },
+    "content": "What kind of dark magic is Deepseek using?",
+    "summary_ko": "Deepseek은 어떤 종류의 어둠의 마법을 사용하나요?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/",
+    "image": "https://preview.redd.it/9eofhmo4cydh1.png?width=640&crop=smart&auto=webp&s=aa6be328defc088b38effe810fe80d9e3b58944f",
+    "date": "2026-07-18T08:58:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1uzkcln/tibo_strikes_back/",
+    "platform": "Reddit",
+    "title": "Tibo Strikes Back.",
+    "author": {
+      "name": "/u/PranayJhaTheMan",
+      "handle": "/u//u/PranayJhaTheMan",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Tibo Strikes Back.",
+    "summary_ko": "티보의 역습.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1uzkcln/tibo_strikes_back/",
+    "image": "https://preview.redd.it/g19qbp58kwdh1.png?width=640&crop=smart&auto=webp&s=38785571210aad41841bc8ec356d67c353594e76",
+    "date": "2026-07-18T03:07:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
+    "platform": "Reddit",
+    "title": "White House launches “Gold Eagle,” moving to control frontier AI releases and decide who can access new models",
+    "author": {
+      "name": "/u/Outside-Iron-8242",
+      "handle": "/u//u/Outside-Iron-8242",
+      "avatar_color": "#ff4500"
+    },
+    "content": "White House launches “Gold Eagle,” moving to control frontier AI releases and decide who can access new models",
+    "summary_ko": "백악관, 최첨단 AI 릴리스를 제어하고 새 모델에 액세스할 수 있는 사람을 결정하는 \"Gold Eagle\" 출시.",
+    "url": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
+    "image": "https://external-preview.redd.it/C01ovfWCK5um_9mqREZLjclXSGbDZUwSX-05qRAenwE.jpeg?width=640&crop=smart&auto=webp&s=fd5757331ab4914e7ede7bee5e9753cc3841b89b",
+    "date": "2026-07-17T23:29:26.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1uz3ff6/moonshot_ai_kimi_office_presumably_2_days_before/",
     "platform": "Reddit",
     "title": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
@@ -4314,158 +4382,6 @@
     "url": "https://www.cio.com/article/4187085/%ec%88%98%ec%84%b8-%ec%86%8c%eb%b2%84%eb%a6%b0-ai-%ed%95%b5%ec%8b%ac%ec%9d%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%95%84%eb%8b%8c-%ec%84%a0%ed%83%9d%ea%b6%8cai-%ec%8b%9c%eb%8c%80-%ec%98%a4.html",
     "image": null,
     "date": "2026-06-19T05:59:36.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4185912/why-agentic-architecture-is-still-so-puzzling.html",
-    "platform": "CIO",
-    "title": "Why agentic architecture is still so puzzling",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Why agentic architecture is still so puzzling",
-    "summary_ko": "에이전트 아키텍처가 여전히 수수께끼인 이유 에이전트 AI의 가능성을 활용하려는 많은 IT 리더는 수십 또는 수백 개의 에이전트를 출시하더라도 에이전트 아키텍처 구축이라는 기본 단계에서 여전히 어려움을 겪고 있습니다. IDC는 올해 말까지 대기업의 에이전트 사용이 10배 증가할 것으로 예상하면서 AI 에이전트 배포는 내년에 급증할 것으로 예상합니다. 그러나 어떤 경우에는 CIO가 대규모 에이전트 팀을 운영하는 데 필요한 구성 요소에 초점을 맞추지 않았다고 전문가들은 말합니다.",
-    "url": "https://www.cio.com/article/4185912/why-agentic-architecture-is-still-so-puzzling.html",
-    "image": null,
-    "date": "2026-06-18T10:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4181722/how-to-put-a-clear-ai-strategy-into-focus.html",
-    "platform": "CIO",
-    "title": "How to put a clear AI strategy into focus",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "How to put a clear AI strategy into focus",
-    "summary_ko": "명확한 AI 전략에 초점을 맞추는 방법. 대부분의 전문가와 최고 IT 경영진은 AI 비전 선언문이나 가이드를 수립하는 것이 기업의 AI 채택을 위한 전반적인 전략을 개발하는 데 있어 중요한 첫 단계라는 데 동의합니다. 이러한 성명서를 개발하면 기업이 AI 목표를 비즈니스 목표에 더 잘 맞추고, AI 도구 및 내부 개발 프로젝트에 대한 투자의 우선순위를 정하고, 조직 내에서 AI가 사용되는 이유와 방법에 대한 공유 이해를 촉진하는 데 도움이 될 수 있습니다. AI 풀에 먼저 뛰어들기 전에 논리적이고 책임감 있는 실사 측면에서 생각할 필요도 없는 것처럼 들리죠?",
-    "url": "https://www.cio.com/article/4181722/how-to-put-a-clear-ai-strategy-into-focus.html",
-    "image": null,
-    "date": "2026-06-18T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4186406/cios-want-strategic-pmos-im-not-sure-they-know-what-theyre-asking.html",
-    "platform": "CIO",
-    "title": "CIOs want strategic PMOs. I’m not sure they know what they’re asking",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "CIOs want strategic PMOs. I’m not sure they know what they’re asking",
-    "summary_ko": "CIO는 전략적 PMO를 원합니다. 그들이 무엇을 요구하는지 잘 모르겠습니다. 15년간 PMO 컨설팅을 하면서 나와 함께 일한 거의 모든 CIO는 '보다 전략적인' PMO를 원했습니다. 그리고 그 기간 동안 그것이 실제로 어떻게 보일지 나에게 설명할 수 있는 사람은 거의 없었습니다.",
-    "url": "https://www.cio.com/article/4186406/cios-want-strategic-pmos-im-not-sure-they-know-what-theyre-asking.html",
-    "image": null,
-    "date": "2026-06-18T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4185905/mastering-the-chess-of-it-leadership-today.html",
-    "platform": "CIO",
-    "title": "Mastering the chess of IT leadership today",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Mastering the chess of IT leadership today",
-    "summary_ko": "오늘날 IT 리더십의 체스를 마스터하세요. 오늘날의 AI 중심 세계에서 CIO가 내리는 모든 결정은 기업 전체에 파급되는 결과를 가져오는 중추적인 움직임입니다. 비즈니스 성과, 투자자 신뢰, 조직의 경쟁 능력은 모두 이러한 움직임에 영향을 받습니다. 이것이 바로 Cushman & Wakefield의 최고 디지털 및 정보 책임자인 Salumeh Companieh가 이러한 환경에서 리더십은 체커라기보다는 체스에 더 가깝다고 말하는 이유입니다.",
-    "url": "https://www.cio.com/article/4185905/mastering-the-chess-of-it-leadership-today.html",
-    "image": null,
-    "date": "2026-06-18T09:30:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4186404/the-future-of-insurance-is-contextual-conversational-and-customer-first-thanks-to-ai.html",
-    "platform": "CIO",
-    "title": "The future of insurance is contextual, conversational and customer-first – thanks to AI",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "The future of insurance is contextual, conversational and customer-first – thanks to AI",
-    "summary_ko": "보험의 미래는 AI 덕분에 상황에 맞춰 대화하고 고객을 최우선으로 생각하는 것입니다. 보험 산업은 오랫동안 규제가 엄격하고 느리게 움직이는 단일체로 간주되어 왔습니다. 그러나 자세히 살펴보면 소비자 경험을 최우선으로 생각하는 중요한 변화와 기한이 지난 최적화의 새로운 단계에 진입하고 있음을 알 수 있습니다. 나는 오랫동안 이러한 전환을 예상해 왔습니다.",
-    "url": "https://www.cio.com/article/4186404/the-future-of-insurance-is-contextual-conversational-and-customer-first-thanks-to-ai.html",
-    "image": null,
-    "date": "2026-06-18T09:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4186639/ai-%eb%8f%84%ec%9e%85-%eb%ac%bb%ec%a7%80%eb%a7%88-%ed%88%ac%ec%9e%90-%ec%8b%9c%eb%8c%80-%eb%81%9d%eb%82%ac%eb%8b%a4%ea%b8%b0%ec%97%85%eb%93%a4-%eb%b2%a8%eb%a5%98.html",
-    "platform": "CIO",
-    "title": "AI 도입 ‘묻지마 투자’ 시대 끝났다…기업들, ‘벨류맥싱’으로 투자 성과 높인다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 도입 ‘묻지마 투자’ 시대 끝났다…기업들, ‘벨류맥싱’으로 투자 성과 높인다",
-    "summary_ko": "업계 관계자들에 따르면 CIO와 CFO들은 조직 내 무분별한 AI 지출에 제동을 걸기 시작했으며, 많은 기업이 자동화 도구 투자에서 더 높은 가치를 끌어낼 수 있는 방안을 모색하고 있다. 최근 몇 달 동안 여러 기업은 직원들의 AI 실험을 장려하는 과정에서 AI 토큰 예산을 예상보다 훨씬 빠르게 소진했다. 일부 기업은 AI 도입을 확대하기 위해 토큰 사용량 순위표를 운영했지만, 이는 오히려 직원들의 과도한 토큰 사용 경쟁을 부추기는 결과를 낳았다. 실제로 디즈니의 한 직원은 9일 동안 클로드(Claude) AI와 46만 회 상호작용한 것으로 알려졌다.",
-    "url": "https://www.cio.com/article/4186639/ai-%eb%8f%84%ec%9e%85-%eb%ac%bb%ec%a7%80%eb%a7%88-%ed%88%ac%ec%9e%90-%ec%8b%9c%eb%8c%80-%eb%81%9d%eb%82%ac%eb%8b%a4%ea%b8%b0%ec%97%85%eb%93%a4-%eb%b2%a8%eb%a5%98.html",
-    "image": null,
-    "date": "2026-06-18T07:13:06.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4186581/%ec%86%8c%ec%8a%a4%ec%bd%94%eb%93%9c-%ec%95%84%eb%8b%8c-ai-%ec%97%ad%eb%9f%89%ec%9d%b4-%ea%b7%9c%ec%a0%9c-%eb%8c%80%ec%83%81%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%b6%84%ec%9f%81%ec%9d%b4.html",
-    "platform": "CIO",
-    "title": "소스코드 아닌 AI 역량이 규제 대상…앤트로픽 분쟁이 바꾼 ‘수출’의 개념",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "소스코드 아닌 AI 역량이 규제 대상…앤트로픽 분쟁이 바꾼 ‘수출’의 개념",
-    "summary_ko": "수십 년 동안 기술 수출 통제는 소스코드를 다른 국가로 이전하는 행위를 의미했다. 그러나 최근 앤트로픽과 미국 상무부 간 갈등은 이러한 개념이 더 이상 현실에 부합하지 않음을 보여준다. 앤트로픽은 6월 12일 미국 상무부로부터 “미국 내외를 불문하고 모든 외국 국적자에 대한 페이블 5와 미토스 5 접근을 중단하라”는 지침을 받았다고 밝혔다. 여기에는 외국 국적의 앤트로픽 직원도 포함된다.",
-    "url": "https://www.cio.com/article/4186581/%ec%86%8c%ec%8a%a4%ec%bd%94%eb%93%9c-%ec%95%84%eb%8b%8c-ai-%ec%97%ad%eb%9f%89%ec%9d%b4-%ea%b7%9c%ec%a0%9c-%eb%8c%80%ec%83%81%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%b6%84%ec%9f%81%ec%9d%b4.html",
-    "image": null,
-    "date": "2026-06-18T04:02:05.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4186572/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%95%9c%ea%b5%ad-%ea%b3%b5%eb%9e%b5-%eb%b3%b8%ea%b2%a9%ed%99%94ai-%ec%95%88%ec%a0%84%ec%84%b1%ea%b3%bc-%eb%b9%84%ec%9a%a9-%ed%9a%a8%ec%9c%a8.html",
-    "platform": "CIO",
-    "title": "앤트로픽, 한국 공략 본격화 “AI 안전성과 비용 효율 모두 잡겠다”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "앤트로픽, 한국 공략 본격화 “AI 안전성과 비용 효율 모두 잡겠다”",
-    "summary_ko": "크리스 차우리(Chris Ciuri) 앤트로픽 인터내셔널 총괄은 17일 서울에서 열린 기자간담회에서 “앤트로픽의 한국 사업 공식 출범을 발표하게 돼 매우 기쁘다”며 “한국은 AI 혁신과 안전성을 동시에 추구하는 국가로, 앤트로픽이 중요하게 생각하는 가치와 방향성이 일치한다”고 말했다. 앤트로픽은 AI 안전성과 연구를 핵심 가치로 내세우고 있다.",
-    "url": "https://www.cio.com/article/4186572/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%95%9c%ea%b5%ad-%ea%b3%b5%eb%9e%b5-%eb%b3%b8%ea%b2%a9%ed%99%94ai-%ec%95%88%ec%a0%84%ec%84%b1%ea%b3%bc-%eb%b9%84%ec%9a%a9-%ed%9a%a8%ec%9c%a8.html",
-    "image": null,
-    "date": "2026-06-18T03:41:17.000Z",
     "likes": 0,
     "comments": 0
   }
