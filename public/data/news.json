@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1v1pk20/ai_race/",
+    "platform": "Reddit",
+    "title": "AI race",
+    "author": {
+      "name": "/u/Revolutionary-Pass38",
+      "handle": "/u//u/Revolutionary-Pass38",
+      "avatar_color": "#ff4500"
+    },
+    "content": "AI race",
+    "summary_ko": "AI 경주",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1v1pk20/ai_race/",
+    "image": "https://preview.redd.it/jg2mal6fqeeh1.jpeg?width=640&crop=smart&auto=webp&s=87d1d3c8f898a53744e98ff34bb5113bba7ae1ed",
+    "date": "2026-07-20T15:59:01.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v1k3pw/kimi_k3_just_fixed_15_critical_security_bugs_that/",
+    "platform": "Reddit",
+    "title": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrails”. Hugging Face: We had this experience ourselves this week! Very scary to be guardrailed as a defender when you know attackers are likely bypassing",
+    "author": {
+      "name": "/u/Nunki08",
+      "handle": "/u//u/Nunki08",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrails”. Hugging Face: We had this experience ourselves this week! Very scary to be guardrailed as a defender when you know attackers are likely bypassing",
+    "summary_ko": "Kimi K3는 \"사이버 가드레일\" 때문에 Codex와 Fable이 거부한 15개의 중요한 보안 버그를 수정했습니다. Hugging Face: 이번 주에 우리도 이런 경험을 했습니다! 공격자가 우회할 가능성이 있다는 것을 알면서도 수비수로서 가드레일을 받는 것은 매우 무섭습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v1k3pw/kimi_k3_just_fixed_15_critical_security_bugs_that/",
+    "image": "https://preview.redd.it/sauh2ce8ndeh1.jpeg?width=640&crop=smart&auto=webp&s=d2a0fc43abd06164d0491a63e2c1251327eaa302",
+    "date": "2026-07-20T12:27:55.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4198693/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%83%81%ea%b1%b0%eb%9e%98-%ec%8b%9c%eb%8c%80-%ec%97%b0%eb%8b%a4%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%9e%ac%eb%8b%a8-x402-%ec%9e%ac%eb%8b%a8-%ec%b6%9c.html",
+    "platform": "CIO",
+    "title": "AI 에이전트 상거래 시대 연다…리눅스 재단, x402 재단 출범",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 에이전트 상거래 시대 연다…리눅스 재단, x402 재단 출범",
+    "summary_ko": "리눅스 재단(The Linux Foundation)이 AI 에이전트와 애플리케이션, API가 HTTP를 통해 디지털 서비스 비용을 결제할 수 있도록 설계된 개방형 표준인 x402 결제 프로토콜을 관리하는 새로운 산업 협의체 x402 재단(x402 Foundation)​을 출범시켰다. 리눅스 재단에 따르면 x402 프로토콜은 코인베이스(Coinbase)가 처음 개발한 기술로, 웹 상호작용 과정에 결제 기능을 직접 내장한 것이 특징이다.",
+    "url": "https://www.cio.com/article/4198693/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%83%81%ea%b1%b0%eb%9e%98-%ec%8b%9c%eb%8c%80-%ec%97%b0%eb%8b%a4%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%9e%ac%eb%8b%a8-x402-%ec%9e%ac%eb%8b%a8-%ec%b6%9c.html",
+    "image": null,
+    "date": "2026-07-20T08:26:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4198688/%ec%b9%bc%eb%9f%bc-%ec%b9%b4%ec%b9%b4%ec%98%a4%ed%86%a1%ec%9d%80-%ec%84%a0%eb%ac%bc-%ec%99%93%ec%b8%a0%ec%95%b1%ec%9d%80-%ec%98%88%ec%95%bd%eb%a9%94%ed%83%80%ea%b0%80-%eb%85%b8%eb%a6%ac.html",
+    "platform": "CIO",
+    "title": "칼럼 | 카카오톡은 선물, 왓츠앱은 예약…메타가 노리는 새로운 커머스",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 카카오톡은 선물, 왓츠앱은 예약…메타가 노리는 새로운 커머스",
+    "summary_ko": "이번 주 왓츠앱에서 기업 계정에 메시지를 보내면 사람이 아닌 소프트웨어가 응답할 수도 있다. 메타는 6월 3일 기업용 비즈니스 AI 에이전트(Business AI agent)를 전 세계 기업에 정식 출시했다. 이 AI 에이전트는 고객 문의에 답하고, 제품을 추천하며, 예약을 접수하고, 구매 가능성이 높은 잠재 고객을 선별한다. 또한 스스로 해결하지 못하는 문의는 상담원에게 자연스럽게 연결해준다. 이 기능은 왓츠앱의 프리미엄 비즈니스 요금제에 포함되며, 대기업은 사용한 토큰 수에 따라 비용을 지불한다.",
+    "url": "https://www.cio.com/article/4198688/%ec%b9%bc%eb%9f%bc-%ec%b9%b4%ec%b9%b4%ec%98%a4%ed%86%a1%ec%9d%80-%ec%84%a0%eb%ac%bc-%ec%99%93%ec%b8%a0%ec%95%b1%ec%9d%80-%ec%98%88%ec%95%bd%eb%a9%94%ed%83%80%ea%b0%80-%eb%85%b8%eb%a6%ac.html",
+    "image": null,
+    "date": "2026-07-20T08:18:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4198642/%ea%b8%b0%ec%9e%90%eb%8a%94-%eb%ac%bc%eb%a1%a0-ai%ea%b0%80-%ec%9d%bd%eb%8a%94-%eb%b3%b4%eb%8f%84%ec%9e%90%eb%a3%8c%eb%a5%bc-%ec%8d%a8%eb%9d%bc%ec%8b%9c%ec%a0%84%ec%9d%b4.html",
+    "platform": "CIO",
+    "title": "“기자는 물론 AI가 읽는 보도자료를 써라”…시전이 말하는 AI 시대 PR 전략",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“기자는 물론 AI가 읽는 보도자료를 써라”…시전이 말하는 AI 시대 PR 전략",
+    "summary_ko": "시전은 PR 뉴스와이어(PR Newswire)의 모회사로, 보도자료 배포와 미디어 인텔리전스, 커뮤니케이션 성과 분석 서비스를 제공하는 글로벌 PR 테크 기업이다. 전 세계 32만 개 이상의 미디어 파트너 네트워크를 보유하고 있으며 등록 기자 수는 52만 명, 연간 배포되는 보도자료는 32만 5,000건 이상이다.",
+    "url": "https://www.cio.com/article/4198642/%ea%b8%b0%ec%9e%90%eb%8a%94-%eb%ac%bc%eb%a1%a0-ai%ea%b0%80-%ec%9d%bd%eb%8a%94-%eb%b3%b4%eb%8f%84%ec%9e%90%eb%a3%8c%eb%a5%bc-%ec%8d%a8%eb%9d%bc%ec%8b%9c%ec%a0%84%ec%9d%b4.html",
+    "image": null,
+    "date": "2026-07-20T06:31:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1v1aie6/apparently_the_jacobian_conjecture_was_just/",
+    "platform": "Reddit",
+    "title": "Apparently the Jacobian conjecture was just proven false by Fable",
+    "author": {
+      "name": "/u/TFenrir",
+      "handle": "/u//u/TFenrir",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Apparently the Jacobian conjecture was just proven false by Fable",
+    "summary_ko": "분명히 야코비안의 추측은 Fable에 의해 거짓으로 입증되었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1v1aie6/apparently_the_jacobian_conjecture_was_just/",
+    "image": "https://preview.redd.it/7q16nwbb3beh1.png?width=140&height=100&auto=webp&s=30a7702f7ed983e62b882291556c31a81f02d1d0",
+    "date": "2026-07-20T03:44:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1v17ck7/david_sacks_says_us_ai_guardrails_are_making/",
+    "platform": "Reddit",
+    "title": "David Sacks says U.S. AI guardrails are making American models less competitive after China’s Kimi K3 fixed 15 security bugs that Codex and Fable refused",
+    "author": {
+      "name": "/u/zombiesingularity",
+      "handle": "/u//u/zombiesingularity",
+      "avatar_color": "#ff4500"
+    },
+    "content": "David Sacks says U.S. AI guardrails are making American models less competitive after China’s Kimi K3 fixed 15 security bugs that Codex and Fable refused",
+    "summary_ko": "David Sacks는 중국의 Kimi K3가 Codex와 Fable이 거부한 15가지 보안 버그를 수정한 후 미국 AI 가드레일이 미국 모델의 경쟁력을 떨어뜨리고 있다고 말합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1v17ck7/david_sacks_says_us_ai_guardrails_are_making/",
+    "image": "https://preview.redd.it/d1aczpxxaaeh1.png?width=320&crop=smart&auto=webp&s=da2a9a831704b212133b3c8c1488a44ac33d4de6",
+    "date": "2026-07-20T01:07:35.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
     "platform": "Reddit",
     "title": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
