@@ -1,5 +1,43 @@
 [
   {
+    "id": "https://www.cio.com/article/4199222/%eb%89%b4%ec%9a%95%ec%a3%bc-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ed%97%88%ea%b0%80-%ec%9d%bc%ec%8b%9c-%ec%a4%91%eb%8b%a8%ec%a0%84%eb%a0%a5%eb%a7%9d%c2%b7%ec%a7%80%ec%97%ad.html",
+    "platform": "CIO",
+    "title": "뉴욕주, AI 데이터센터 허가 일시 중단…전력망·지역사회 보호 나선다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "뉴욕주, AI 데이터센터 허가 일시 중단…전력망·지역사회 보호 나선다",
+    "summary_ko": "AI 활용이 빠르게 확산되면서 데이터센터 수용 용량에 대한 수요는 그 어느 때보다 높아지고 있다. 그러나 뉴욕주는 데이터센터 업계에 속도 조절이 필요하다는 메시지를 던졌다. 캐시 호컬 뉴욕주지사는 이번 주 신규 초대형(hyperscale) 데이터센터 개발을 일시 중단하는 행정명령에 서명했다. 주 정부는 이를 “미국 최초의 초대형 데이터센터 개발 유예 조치(moratorium)”라고 설명했다. 초대형 데이터센터는 일반적으로 수천 대의 서버를 운영하며 수십~수백 메가와트(MW)의 전력을 소비하는 대규모 시설이다.",
+    "url": "https://www.cio.com/article/4199222/%eb%89%b4%ec%9a%95%ec%a3%bc-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ed%97%88%ea%b0%80-%ec%9d%bc%ec%8b%9c-%ec%a4%91%eb%8b%a8%ec%a0%84%eb%a0%a5%eb%a7%9d%c2%b7%ec%a7%80%ec%97%ad.html",
+    "image": null,
+    "date": "2026-07-21T05:57:35.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4199197/%ec%9a%b0%eb%a6%ac-ai-%ec%a7%80%ea%b8%88-%eb%ad%90-%ed%95%98%ea%b3%a0-%ec%9e%88%eb%82%98%ed%99%9c%eb%8f%99%c2%b7%ec%9e%a5%ec%95%a0%c2%b7%eb%b9%84%ec%9a%a9-%ed%95%9c%eb%88%88%ec%97%90.html",
+    "platform": "CIO",
+    "title": "“우리 AI, 지금 뭐 하고 있나”…활동·장애·비용 한눈에 보는 AI옵스 도구 19선",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“우리 AI, 지금 뭐 하고 있나”…활동·장애·비용 한눈에 보는 AI옵스 도구 19선",
+    "summary_ko": "기업 전반에 배치된 AI 에이전트와 LLM을 파악하고 추적·모니터링하며, 다양한 워크플로에서 안정적으로 운영할 수 있도록 지원하는 도구가 필요해졌다. 이에 데브옵스(Dev Ops) 업계는 이러한 요구에 대응해 새로운 하위 분야인 ‘AI옵스(AIOps)’, ‘에이전트옵스(Agent Ops)’, 또는 ‘에이전트 옵저버빌리티(Agent Observability)’로 불리는 기술과 도구를 개발하기 시작했다. 에이전트옵스가 해결하려는 과제 중 상당수는 기존 데브옵스 도구와 프로세스가 다뤄온 문제와 크게 다르지 않다.",
+    "url": "https://www.cio.com/article/4199197/%ec%9a%b0%eb%a6%ac-ai-%ec%a7%80%ea%b8%88-%eb%ad%90-%ed%95%98%ea%b3%a0-%ec%9e%88%eb%82%98%ed%99%9c%eb%8f%99%c2%b7%ec%9e%a5%ec%95%a0%c2%b7%eb%b9%84%ec%9a%a9-%ed%95%9c%eb%88%88%ec%97%90.html",
+    "image": null,
+    "date": "2026-07-21T04:51:35.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/OpenAI/comments/1v1pk20/ai_race/",
     "platform": "Reddit",
     "title": "AI race",
@@ -4105,74 +4143,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1uc9757/americans_have_turned_against_ai_in_incredible/",
     "image": "https://external-preview.redd.it/4Y-waDg5vHq4ZfwoajouCMVajB-xlfWqukVqLZtiC4I.jpeg?width=640&crop=smart&auto=webp&s=a91403e5a8d0a2190ced9d2b715b331a86bc7f28",
     "date": "2026-06-22T03:11:34.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1ubswog/yann_lecun_says_xai_is_kind_of_a_failure_and_the/",
-    "platform": "Reddit",
-    "title": "Yann LeCun says xAI is \"kind of a failure\" and the whole AI industry might be headed for a reset",
-    "author": {
-      "name": "/u/BuildwithVignesh",
-      "handle": "/u//u/BuildwithVignesh",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Yann LeCun says xAI is \"kind of a failure\" and the whole AI industry might be headed for a reset",
-    "summary_ko": "Yann LeCun은 xAI가 \"일종의 실패\"이며 전체 AI 산업이 재설정으로 향할 수 있다고 말했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1ubswog/yann_lecun_says_xai_is_kind_of_a_failure_and_the/",
-    "image": "https://external-preview.redd.it/_l0n5URR_PyMN-N4WeOeaq5bPsYQfZv4ZZJz8gZnocE.jpeg?width=640&crop=smart&auto=webp&s=940e10bed205ec5ac2bbe310666f7118bf2e9bd9",
-    "date": "2026-06-21T15:28:36.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ubrcwj/tokenomics/",
-    "platform": "Reddit",
-    "title": "Tokenomics",
-    "author": {
-      "name": "/u/HOLUPREDICTIONS",
-      "handle": "/u//u/HOLUPREDICTIONS",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Tokenomics",
-    "summary_ko": "토큰경제학",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubrcwj/tokenomics/",
-    "image": "https://preview.redd.it/oqzbrucwan8h1.jpeg?width=640&crop=smart&auto=webp&s=c99e08014ba7b4ce7aedfc951772776d1ea7394b",
-    "date": "2026-06-21T14:23:33.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ubk57k/vercel_ceo_almost_shocked_by_how_good_glm52_is_at/",
-    "platform": "Reddit",
-    "title": "Vercel CEO: \"Almost shocked\" by how good GLM-5.2 is at coding",
-    "author": {
-      "name": "/u/BuildwithVignesh",
-      "handle": "/u//u/BuildwithVignesh",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Vercel CEO: \"Almost shocked\" by how good GLM-5.2 is at coding",
-    "summary_ko": "Vercel CEO: GLM-5.2의 코딩 능력에 \"거의 충격을 받았습니다\"",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubk57k/vercel_ceo_almost_shocked_by_how_good_glm52_is_at/",
-    "image": "https://preview.redd.it/4plnpb7qdl8h1.jpeg?width=640&crop=smart&auto=webp&s=9c0789ef2f3a2a7b94e06ca3da190e834a33d144",
-    "date": "2026-06-21T07:55:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1ubets2/nsa_says_mythos_broke_into_almost_all_of_their/",
-    "platform": "Reddit",
-    "title": "NSA says Mythos broke into almost all of their classified systems in hours, per The Economist",
-    "author": {
-      "name": "/u/socoolandawesome",
-      "handle": "/u//u/socoolandawesome",
-      "avatar_color": "#ff4500"
-    },
-    "content": "NSA says Mythos broke into almost all of their classified systems in hours, per The Economist",
-    "summary_ko": "The Economist에 따르면 NSA는 Mythos가 몇 시간 만에 거의 모든 기밀 시스템을 침입했다고 밝혔습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1ubets2/nsa_says_mythos_broke_into_almost_all_of_their/",
-    "image": "https://preview.redd.it/o4nb07y8wj8h1.jpeg?width=640&crop=smart&auto=webp&s=dcf5045eb79f0c9663a25adc9c89da8f77d71913",
-    "date": "2026-06-21T02:55:40.000Z",
     "likes": 0,
     "comments": 0
   }
