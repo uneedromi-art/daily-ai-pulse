@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+    "platform": "Google",
+    "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "General Science",
+    "summary_ko": "증상 AI: 일상적인 증상 평가를 위한 대화형 AI 에이전트를 향하여",
+    "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
+    "image": null,
+    "date": "2026-07-22T21:32:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+    "platform": "Google",
+    "title": "Towards a quantum computer that learns from its errors",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Machine Intelligence",
+    "summary_ko": "오류로부터 학습하는 양자컴퓨터를 향하여",
+    "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
+    "image": null,
+    "date": "2026-07-22T18:40:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4199222/%eb%89%b4%ec%9a%95%ec%a3%bc-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ed%97%88%ea%b0%80-%ec%9d%bc%ec%8b%9c-%ec%a4%91%eb%8b%a8%ec%a0%84%eb%a0%a5%eb%a7%9d%c2%b7%ec%a7%80%ec%97%ad.html",
     "platform": "CIO",
     "title": "뉴욕주, AI 데이터센터 허가 일시 중단…전력망·지역사회 보호 나선다",
@@ -3904,245 +3940,6 @@
     "url": "https://www.cio.com/article/4187609/%ea%b8%88%ec%9c%b5%ea%b6%8c-96-ai-%eb%8f%84%ec%9e%85-%ec%8b%9c%eb%8f%84%ec%9a%b4%ec%98%81-%ec%a0%84%ed%99%98%ec%9d%80-19-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
     "image": null,
     "date": "2026-06-23T00:30:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1ucq463/bernie_sanders_unveils_7_trillion_plan_to_give/",
-    "platform": "Reddit",
-    "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-    "author": {
-      "name": "/u/SnoozeDoggyDog",
-      "handle": "/u//u/SnoozeDoggyDog",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-    "summary_ko": "버니 샌더스(Bernie Sanders)는 미국인들에게 AI 산업에 대한 통제권을 부여하기 위해 7조 달러 규모의 계획을 발표했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1ucq463/bernie_sanders_unveils_7_trillion_plan_to_give/",
-    "image": "https://external-preview.redd.it/IG2oM4PG5Qz9G2bFtPLy2qMPW9gCHQvWUdcbUFnZ-oI.jpeg?width=640&crop=smart&auto=webp&s=4f0fab7c90a05ac5237fafbaa1e6cceebccc871e",
-    "date": "2026-06-22T16:54:01.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ucokod/chinese_hackers_latest_masterpiece_with_nvidia/",
-    "platform": "Reddit",
-    "title": "Chinese Hackers Latest Masterpiece with NVIDIA",
-    "author": {
-      "name": "/u/General_Vermicelli53",
-      "handle": "/u//u/General_Vermicelli53",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Chinese Hackers Latest Masterpiece with NVIDIA",
-    "summary_ko": "NVIDIA와 함께한 중국 해커의 최신 걸작",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ucokod/chinese_hackers_latest_masterpiece_with_nvidia/",
-    "image": null,
-    "date": "2026-06-22T15:58:45.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187870/confident-ai-begins-with-confident-data.html",
-    "platform": "CIO",
-    "title": "Confident AI begins with confident data",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Confident AI begins with confident data",
-    "summary_ko": "Confident AI는 자신감 있는 데이터에서 시작됩니다. 리더들은 AI 도구를 사용하여 패치 수정 및 엔드포인트 보안과 같은 작업을 자동화하고 가속화해야 한다는 엄청난 압력을 받고 있습니다. 그러나 IT 부서가 새로운 AI 도구를 배포하려고 시도하면서 로그, 원격 측정, 문서를 비롯한 데이터 소스가 단절되고 때로는 모순되는 등 오랜 문제에 직면하게 되었습니다.",
-    "url": "https://www.cio.com/article/4187870/confident-ai-begins-with-confident-data.html",
-    "image": null,
-    "date": "2026-06-22T15:22:57.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187864/3-tips-for-surviving-the-patch-apocalypse.html",
-    "platform": "CIO",
-    "title": "3 Tips for surviving the patch apocalypse",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "3 Tips for surviving the patch apocalypse",
-    "summary_ko": "패치 대재앙에서 살아남는 3가지 팁 2025년에는 45,000개 이상의 CVE(Common Vulnerability and Exposure)가 공개되었습니다. 그 숫자만으로도 수동 패치는 비실용적일 뿐만 아니라 더 이상 쓸모가 없게 됩니다. 이제 전례 없는 속도로 주요 운영 체제 전반에 걸쳐 심각한 제로데이 위협을 발견할 수 있는 새로운 AI 모델을 추가하면 취약점 공개와 적극적인 악용 사이의 시간이 몇 주에서 몇 시간으로 단축되었습니다.",
-    "url": "https://www.cio.com/article/4187864/3-tips-for-surviving-the-patch-apocalypse.html",
-    "image": null,
-    "date": "2026-06-22T15:14:29.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187315/how-ai-agents-are-turning-enterprise-apps-into-decision-systems.html",
-    "platform": "CIO",
-    "title": "How AI agents are turning enterprise apps into decision systems",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "How AI agents are turning enterprise apps into decision systems",
-    "summary_ko": "AI 에이전트가 엔터프라이즈 앱을 의사 결정 시스템으로 전환하는 방법 작년에 저는 고객 서비스, IT 운영, 생산성 워크플로 등의 영역에서 생성적 AI 시험에 상당한 투자를 한 기업 리더십 팀과 함께 일했습니다. 서류상으로는 조직이 시대에 앞서 등장했습니다. 직원들은 부조종사를 이용하고 있었습니다. 사업부에서는 AI 보조자를 실험하고 있었습니다.",
-    "url": "https://www.cio.com/article/4187315/how-ai-agents-are-turning-enterprise-apps-into-decision-systems.html",
-    "image": null,
-    "date": "2026-06-22T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/228199/the-12-biggest-issues-it-faces-today.html",
-    "platform": "CIO",
-    "title": "The 8 biggest issues IT faces today",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "The 8 biggest issues IT faces today",
-    "summary_ko": "오늘날 IT가 직면한 8가지 가장 큰 문제 CIO는 AI와 발전하는 기술이 자신의 역할에 가져다주는 기회에 대한 흥미와 화제를 강조하면서 IT 분야에 이보다 더 좋은 시기는 없다고 말하고 싶어합니다. 그러나 IT 리더는 조직과 자신의 성공을 보장하기 위해 현재 직면하고 있는 과제에 대해서도 개방적입니다. 이러한 장애물 중 일부는 지속적인 문제입니다. 다른 것들은 참신하다.",
-    "url": "https://www.cio.com/article/228199/the-12-biggest-issues-it-faces-today.html",
-    "image": null,
-    "date": "2026-06-22T10:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/202183/what-is-data-governance-a-best-practices-framework-for-managing-data-assets.html",
-    "platform": "CIO",
-    "title": "What is data governance? Frameworks, tools, and best practices to manage data assets",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "What is data governance? Frameworks, tools, and best practices to manage data assets",
-    "summary_ko": "데이터 거버넌스란 무엇입니까? 데이터 자산을 관리하기 위한 프레임워크, 도구, 모범 사례입니다. 데이터 거버넌스 정의 데이터 거버넌스는 조직 내에서 데이터 자산에 대한 권한과 통제권을 가진 사람과 해당 데이터 자산이 사용될 수 있는 방법을 정의하는 시스템입니다. 또한 데이터 자산을 관리하고 보호하는 데 필요한 인력, 프로세스, 기술도 포함됩니다.",
-    "url": "https://www.cio.com/article/202183/what-is-data-governance-a-best-practices-framework-for-managing-data-assets.html",
-    "image": null,
-    "date": "2026-06-22T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1ucf4px/openai_codex_has_a_bug_that_could_kill_your_ssd/",
-    "platform": "Reddit",
-    "title": "OpenAI Codex has a bug that could kill your SSD in under a year",
-    "author": {
-      "name": "/u/PhoenixAvenger1996",
-      "handle": "/u//u/PhoenixAvenger1996",
-      "avatar_color": "#ff4500"
-    },
-    "content": "OpenAI Codex has a bug that could kill your SSD in under a year",
-    "summary_ko": "OpenAI Codex에는 1년 안에 SSD를 죽일 수 있는 버그가 있습니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1ucf4px/openai_codex_has_a_bug_that_could_kill_your_ssd/",
-    "image": "https://external-preview.redd.it/C-dDASYqeRWiiS-Ar2ynC14IBveU7wW1XCr_fFshhWc.png?width=640&crop=smart&auto=webp&s=153e0cdf0fed90fbd04a30c289c40470bad6b1b1",
-    "date": "2026-06-22T08:46:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187601/%ec%9e%98%eb%aa%bb%eb%90%9c-claude-md%ea%b0%80-ai%eb%a5%bc-%eb%a7%9d%ec%b9%9c%eb%8b%a4%ec%97%b0%ea%b5%ac%ec%a7%84%ec%9d%b4-%ea%bc%bd%ec%9d%80-%ec%84%a4%ec%a0%95-%ed%8c%8c%ec%9d%bc-6%eb%8c%80.html",
-    "platform": "CIO",
-    "title": "잘못된 Claude.md가 AI를 망친다…연구진이 꼽은 설정 파일 6대 문제",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "잘못된 Claude.md가 AI를 망친다…연구진이 꼽은 설정 파일 6대 문제",
-    "summary_ko": "AI 코딩 에이전트는 소프트웨어 개발에서 점점 더 중요한 역할을 맡고 있다. 하지만 이를 제어하는 Agents. md나 Claude. md 같은 설정 파일에는 이른바 ‘악취(smell)’가 존재할 수 있다. 즉 설정 파일에 구조적 결함이나 중복 요소, 비효율적인 워크플로가 포함돼 있을 수 있다는 의미다. 이러한 문제는 컨텍스트를 불필요하게 비대하게 만들고 토큰을 낭비하며, 결과적으로 코딩 에이전트의 신뢰성을 떨어뜨릴 수 있다.",
-    "url": "https://www.cio.com/article/4187601/%ec%9e%98%eb%aa%bb%eb%90%9c-claude-md%ea%b0%80-ai%eb%a5%bc-%eb%a7%9d%ec%b9%9c%eb%8b%a4%ec%97%b0%ea%b5%ac%ec%a7%84%ec%9d%b4-%ea%bc%bd%ec%9d%80-%ec%84%a4%ec%a0%95-%ed%8c%8c%ec%9d%bc-6%eb%8c%80.html",
-    "image": null,
-    "date": "2026-06-22T05:32:57.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187589/%ec%b9%bc%eb%9f%bc-x%ec%84%b8%eb%8c%80%ec%9d%98-%ec%84%a4%eb%a0%98-z%ec%84%b8%eb%8c%80%ec%9d%98-%eb%b6%88%ec%95%88%c2%b7%c2%b7%c2%b7ai%ea%b0%80-%ec%84%b8%eb%8c%80%eb%a5%bc-%ea%b0%80%eb%a5%b4.html",
-    "platform": "CIO",
-    "title": "칼럼 | X세대의 설렘, Z세대의 불안···AI가 세대를 가르고 있다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | X세대의 설렘, Z세대의 불안···AI가 세대를 가르고 있다",
-    "summary_ko": "눈치챘을 수도 있지만, 사람들은 AI를 그다지 좋아하지 않는다. 물론 어떤 환경에 속해 있는지에 따라 차이는 있다. 그러나 각종 설문조사는 AI에 대한 전반적인 인식이 점점 더 부정적으로 변하고 있음을 보여준다. IT 업계 밖의 사람들과 대화를 나누거나 온라인 공간을 둘러봐도 비슷한 분위기를 확인할 수 있다. 오늘날 많은 댓글 창에서 AI는 거의 욕설에 가까운 단어가 됐다. 최근 발표된 한 설문조사는 이러한 분위기를 단적으로 보여준다. 스웨덴인 5명 중 1명은 직장에서 AI를 사용하는 것을 부끄럽게 느낀다고 답했다.",
-    "url": "https://www.cio.com/article/4187589/%ec%b9%bc%eb%9f%bc-x%ec%84%b8%eb%8c%80%ec%9d%98-%ec%84%a4%eb%a0%98-z%ec%84%b8%eb%8c%80%ec%9d%98-%eb%b6%88%ec%95%88%c2%b7%c2%b7%c2%b7ai%ea%b0%80-%ec%84%b8%eb%8c%80%eb%a5%bc-%ea%b0%80%eb%a5%b4.html",
-    "image": null,
-    "date": "2026-06-22T05:20:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187583/ai-%eb%8f%84%ec%9e%85-%eb%84%98%ec%96%b4-%eb%b9%84%ec%9a%a9-%ea%b4%80%eb%a6%ac%eb%a1%9c%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%eb%b6%84%ec%84%9d%c2%b7%ec%98%88%ec%82%b0-%ec%84%a4.html",
-    "platform": "CIO",
-    "title": "AI 도입 넘어 비용 관리로…오픈AI, 사용량 분석·예산 설정 기능 공개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 도입 넘어 비용 관리로…오픈AI, 사용량 분석·예산 설정 기능 공개",
-    "summary_ko": "오픈AI가 기업이 AI 도입 현황을 모니터링하고, 팀별 사용량을 추적하며, AI 활용 예산을 설정할 수 있도록 챗GPT 엔터프라이즈(Chat GPT Enterprise)에 지출 통제 기능과 향상된 사용량 분석 기능을 추가했다. 다만 업계 분석가들은 이러한 기능만으로는 AI 관련 비용이 실제 비즈니스 성과로 어떻게 이어지는지까지는 파악할 수 없다고 지적했다. 새 기능은 관리자가 조직 전반의 챗GPT 활용 현황을 확인할 수 있는 중앙 집중형 대시보드를 제공한다. 이를 통해 AI 도입 패턴을 파악하고, 예산 설정 및 지출 추적 기능을 활용해 AI 비용을 관리할 수 있다.",
-    "url": "https://www.cio.com/article/4187583/ai-%eb%8f%84%ec%9e%85-%eb%84%98%ec%96%b4-%eb%b9%84%ec%9a%a9-%ea%b4%80%eb%a6%ac%eb%a1%9c%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%eb%b6%84%ec%84%9d%c2%b7%ec%98%88%ec%82%b0-%ec%84%a4.html",
-    "image": null,
-    "date": "2026-06-22T05:07:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187561/ai%ea%b0%80-%ed%83%88%eb%9d%bd-%ea%b2%b0%ec%a0%95%ec%97%90-%ec%98%81%ed%96%a5-%ec%a4%ac%eb%8b%a4%eb%a9%b4-%ec%b1%85%ec%9e%84-%ec%9b%8c%ed%81%ac%eb%8d%b0%ec%9d%b4-%ec%86%8c%ec%86%a1%ec%9d%b4.html",
-    "platform": "CIO",
-    "title": "“AI가 탈락 결정에 영향 줬다면 책임” 워크데이 소송이 바꿀 채용 AI 규제 지형",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“AI가 탈락 결정에 영향 줬다면 책임” 워크데이 소송이 바꿀 채용 AI 규제 지형",
-    "summary_ko": "연방법원이 워크데이(Workday)의 주장을 받아들이지 않았다. 워크데이는 자사 도구가 다른 주(州)의 구직자를 선별하고 탈락시키는 과정에 사용되더라도 캘리포니아 차별금지법상 책임을 질 수 없다고 주장해 왔다. 이번 주 미국 연방지방법원의 리타 린(Rita Lin) 판사는 워크데이를 상대로 제기된 추가적인 주(州) 차원의 차별 소송도 진행을 허용할 가능성이 높다고 밝혔다.",
-    "url": "https://www.cio.com/article/4187561/ai%ea%b0%80-%ed%83%88%eb%9d%bd-%ea%b2%b0%ec%a0%95%ec%97%90-%ec%98%81%ed%96%a5-%ec%a4%ac%eb%8b%a4%eb%a9%b4-%ec%b1%85%ec%9e%84-%ec%9b%8c%ed%81%ac%eb%8d%b0%ec%9d%b4-%ec%86%8c%ec%86%a1%ec%9d%b4.html",
-    "image": null,
-    "date": "2026-06-22T04:55:12.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uc9757/americans_have_turned_against_ai_in_incredible/",
-    "platform": "Reddit",
-    "title": "Americans Have Turned Against AI in Incredible Numbers",
-    "author": {
-      "name": "/u/beasthunterr69",
-      "handle": "/u//u/beasthunterr69",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Americans Have Turned Against AI in Incredible Numbers",
-    "summary_ko": "미국인들은 믿을 수 없을 만큼 많은 수의 AI에 반대했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1uc9757/americans_have_turned_against_ai_in_incredible/",
-    "image": "https://external-preview.redd.it/4Y-waDg5vHq4ZfwoajouCMVajB-xlfWqukVqLZtiC4I.jpeg?width=640&crop=smart&auto=webp&s=a91403e5a8d0a2190ced9d2b715b331a86bc7f28",
-    "date": "2026-06-22T03:11:34.000Z",
     "likes": 0,
     "comments": 0
   }
