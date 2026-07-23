@@ -1,5 +1,100 @@
 [
   {
+    "id": "https://www.cio.com/article/4200678/%ec%b7%a8%ec%95%bd%ec%a0%90-%ec%b0%be%ea%b8%b0-%ec%a0%84%ec%97%90-%ed%9b%84%eb%b3%b4%eb%b6%80%ed%84%b0-%ec%b6%94%eb%a6%b0%eb%8b%a4%ec%8b%9c%ec%8a%a4%ec%bd%94-%ec%bd%94%eb%93%9c-%eb%b6%84.html",
+    "platform": "CIO",
+    "title": "“취약점 찾기 전에 후보부터 추린다”…시스코, 코드 분석 AI ‘안타레스’ 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“취약점 찾기 전에 후보부터 추린다”…시스코, 코드 분석 AI ‘안타레스’ 공개",
+    "summary_ko": "시스코는 오픈 웨이트(Open-weight) AI 모델 제품군인 ‘안타레스(Antares)’를 공개했다. 이 모델은 보안팀이 본격적인 분석에 앞서 소프트웨어 저장소에서 취약점이 존재할 가능성이 높은 코드 영역을 빠르게 추려낼 수 있도록 설계됐다. 안타레스는 특정 CVE(Common Vulnerabilities and Exposures)를 탐지하거나 패치를 생성하는 모델이 아니다.",
+    "url": "https://www.cio.com/article/4200678/%ec%b7%a8%ec%95%bd%ec%a0%90-%ec%b0%be%ea%b8%b0-%ec%a0%84%ec%97%90-%ed%9b%84%eb%b3%b4%eb%b6%80%ed%84%b0-%ec%b6%94%eb%a6%b0%eb%8b%a4%ec%8b%9c%ec%8a%a4%ec%bd%94-%ec%bd%94%eb%93%9c-%eb%b6%84.html",
+    "image": null,
+    "date": "2026-07-23T13:04:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4200534/%ec%a4%91%ea%b5%ad-ai-%eb%aa%a8%eb%8d%b8-%eb%b9%84%ec%9a%a9-%ea%b2%bd%ec%9f%81%eb%a0%a5%ec%9d%80-%eb%a7%a4%eb%a0%a5%ec%a0%81%ea%b8%b0%ec%97%85%ec%9d%80-%ec%96%b4%eb%94%94%ea%b9%8c%ec%a7%80.html",
+    "platform": "CIO",
+    "title": "중국 AI 모델, 비용 경쟁력은 매력적…기업은 어디까지 활용해야 하나",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "중국 AI 모델, 비용 경쟁력은 매력적…기업은 어디까지 활용해야 하나",
+    "summary_ko": "중국 AI 스타트업 딥시크가 3년 전 등장한 이후 기업 경영진은 중국산 AI 모델을 업무에 활용하는 데 꾸준한 우려를 보여왔다. 하지만 최근 알리바바의 2조 4,000억 개 파라미터 모델 ‘큐웬(Qwen) 3. 8 맥스‘와 문샷(Moonshot)의 2조 8,000억 개 파라미터 모델 ‘키미(Kimi) K3’가 한층 향상된 성능을 내세우면서 기업 IT 리더들은 제한적인 용도라도 이들 모델을 도입할 가치가 있는지 다시 검토해야 하는 상황에 놓였다.",
+    "url": "https://www.cio.com/article/4200534/%ec%a4%91%ea%b5%ad-ai-%eb%aa%a8%eb%8d%b8-%eb%b9%84%ec%9a%a9-%ea%b2%bd%ec%9f%81%eb%a0%a5%ec%9d%80-%eb%a7%a4%eb%a0%a5%ec%a0%81%ea%b8%b0%ec%97%85%ec%9d%80-%ec%96%b4%eb%94%94%ea%b9%8c%ec%a7%80.html",
+    "image": null,
+    "date": "2026-07-23T12:57:46.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4200474/%ec%8b%a0%eb%a2%b0-%eb%82%b4%ec%9e%ac%ed%99%94%ea%b0%80-ai-%ec%8b%9c%eb%8c%80-%ed%95%b5%ec%8b%ac-%ea%b3%bc%ec%a0%9c-%eb%a9%94%ed%83%80-%ec%b0%a8%ea%b8%b0-ciso%ec%97%90-%ed%8e%98%ec%9d%b4.html",
+    "platform": "CIO",
+    "title": "“신뢰 내재화가 AI 시대 핵심 과제”…메타, 차기 CISO에 페이팔 출신 아사프 케렌 선임",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“신뢰 내재화가 AI 시대 핵심 과제”…메타, 차기 CISO에 페이팔 출신 아사프 케렌 선임",
+    "summary_ko": "케렌은 23일 링크드인을 통해 “메타의 차기 최고정보보호책임자로 합류했다”며 “앞으로 몇 달 동안 메타의 기존 CISO였던 가이 로젠과 보안팀과 긴밀히 협력하며 새로운 역할을 준비할 것”이라고 밝혔다. 케렌은 2024년 3월부터 2026년 7월까지 퀄트릭스(Qualtrics)에서 수석부사장(SVP) 겸 최고보안책임자(CSO)를 맡아 글로벌 보안 전략을 총괄했다.",
+    "url": "https://www.cio.com/article/4200474/%ec%8b%a0%eb%a2%b0-%eb%82%b4%ec%9e%ac%ed%99%94%ea%b0%80-ai-%ec%8b%9c%eb%8c%80-%ed%95%b5%ec%8b%ac-%ea%b3%bc%ec%a0%9c-%eb%a9%94%ed%83%80-%ec%b0%a8%ea%b8%b0-ciso%ec%97%90-%ed%8e%98%ec%9d%b4.html",
+    "image": null,
+    "date": "2026-07-23T09:38:26.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4200423/%ed%81%b4%eb%a1%9c%eb%93%9c-%eb%af%b8%ed%86%a0%ec%8a%a4-faq%c2%b7%c2%b7%c2%b7%ea%b8%b0%eb%8a%a5-%ec%a0%91%ea%b7%bc-%eb%b0%a9%ec%8b%9d-%ea%b2%bd%ec%9f%81-%ea%b8%b0%ec%88%a0-%ea%b7%b8%eb%a6%ac.html",
+    "platform": "CIO",
+    "title": "클로드 미토스 FAQ···기능, 접근 방식, 경쟁 기술, 그리고 보안 전략에 미칠 영향",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "클로드 미토스 FAQ···기능, 접근 방식, 경쟁 기술, 그리고 보안 전략에 미칠 영향",
+    "summary_ko": "클로드 미토스란 무엇인가 클로드 미토스는 앤트로픽이 개발한 첨단 AI 모델로, 사이버보안과 의료 분야에 특화돼 최적화됐다. 미토스 5(Mythos 5)는 보다 광범위한 출시를 앞두고 지난 4월 엄선된 소수의 기술 파트너에게 먼저 공개됐다. 앤트로픽은 인프라 제공업체, 오픈소스 개발자, 주요 기술 기업에 미토스를 제한적이고 통제된 방식으로 제공하는 컨소시엄인 프로젝트 글래스윙(Project Glasswing)을 출범시켰다. 이 프로그램은 방어자가 공격자보다 더 빠르게 취약점을 찾아 해결할 수 있도록 지원하기 위해 마련됐다.",
+    "url": "https://www.cio.com/article/4200423/%ed%81%b4%eb%a1%9c%eb%93%9c-%eb%af%b8%ed%86%a0%ec%8a%a4-faq%c2%b7%c2%b7%c2%b7%ea%b8%b0%eb%8a%a5-%ec%a0%91%ea%b7%bc-%eb%b0%a9%ec%8b%9d-%ea%b2%bd%ec%9f%81-%ea%b8%b0%ec%88%a0-%ea%b7%b8%eb%a6%ac.html",
+    "image": null,
+    "date": "2026-07-23T05:14:36.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4200419/ms-%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84%ea%b3%bc-%ec%86%90%ec%9e%a1%ea%b3%a0-%ec%a3%bc%ea%b6%8c%ed%98%95-ai-%ec%8a%b9%eb%b6%80%ec%88%98%ea%b8%b0%ec%97%85-ai-%ec%84%a0%ed%83%9d%ea%b6%8c.html",
+    "platform": "CIO",
+    "title": "MS, 미스트랄과 손잡고 주권형 AI 승부수…기업 AI 선택권 넓힌다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "MS, 미스트랄과 손잡고 주권형 AI 승부수…기업 AI 선택권 넓힌다",
+    "summary_ko": "MS와 미스트랄은 기업 AI의 미래가 특정 플랫폼에 종속되는 단일 시스템이 아니라 주권형 AI 인프라와 다양한 AI 모델을 선택할 수 있는 환경에 있다고 보고 있다. 양사는 MS의 수십억 달러 규모 투자 계획을 포함한 전략적 파트너십의 ‘대폭 확대‘를 발표했다. 이에 따라 미스트랄은 유럽 내 GPU 인프라를 확충하고 최첨단 다국어 AI 모델의 제공 범위를 확대한다. MS는 주권형 클라우드 역량을 강화한다. 양사는 공동 시장 진출(Go-to-Market) 전략도 추진한다.",
+    "url": "https://www.cio.com/article/4200419/ms-%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84%ea%b3%bc-%ec%86%90%ec%9e%a1%ea%b3%a0-%ec%a3%bc%ea%b6%8c%ed%98%95-ai-%ec%8a%b9%eb%b6%80%ec%88%98%ea%b8%b0%ec%97%85-ai-%ec%84%a0%ed%83%9d%ea%b6%8c.html",
+    "image": null,
+    "date": "2026-07-23T04:39:35.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
     "platform": "Google",
     "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
@@ -3826,120 +3921,6 @@
     "url": "https://www.cio.com/article/4188648/aim-b2b-%ed%95%9c%ea%b5%ad-%ec%98%a4%ed%94%bc%ec%8a%a4-%ec%b6%9c%eb%b2%94%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b8%b0%ec%97%85-%ed%95%9c%ea%b5%ad-%ec%a7%84%ec%b6%9c-%ec%a7%80%ec%9b%90-%ea%b0%95.html",
     "image": null,
     "date": "2026-06-24T01:46:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4188470/the-agentic-blueprint-engineering-autonomous-enterprises.html",
-    "platform": "CIO",
-    "title": "The agentic blueprint: Engineering autonomous enterprises",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "The agentic blueprint: Engineering autonomous enterprises",
-    "summary_ko": "에이전트 청사진: 엔지니어링 자율 기업. 에이전트 AI의 등장은 조직이 자동화에 대해 생각하는 방식과 완전히 자율적인 기업이 되는 길로 나아가는 방식을 바꾸고 있습니다. Agentic AI는 일상적인 작업 실행을 인간에서 독립적으로 워크플로를 관리할 수 있는 지능형 시스템으로 전환하여 기존 IT 모델을 혁신합니다. 예를 들어, AI 에이전트가 반품 상품 승인과 같은 요청을 자율적으로 처리할 수 있는 고객 서비스 사용 사례에서는 이미 효과적인 것으로 입증되었습니다.",
-    "url": "https://www.cio.com/article/4188470/the-agentic-blueprint-engineering-autonomous-enterprises.html",
-    "image": null,
-    "date": "2026-06-23T20:05:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4188478/jose-maria-fuster-van-bendegem-un-error-tipico-es-reducir-la-funcion-del-cio-a-la-del-cto.html",
-    "platform": "CIO",
-    "title": "José María Fuster van Bendegem: “Es un error reducir la función del CIO a la de CTO”",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "José María Fuster van Bendegem: “Es un error reducir la función del CIO a la de CTO”",
-    "summary_ko": "José María Fuster van Bendegem: \"CIO의 기능을 CTO의 기능으로 축소하는 것은 실수입니다. \" 엔지니어, 전 은행 최고 경영자, 스페인 학자... 의심할 여지 없이 José María Fuster van Bendegem은 스페인의 기술, 비즈니스 및 과학 현장에서 가장 다재다능하고 흥미로운 프로필 중 하나입니다.",
-    "url": "https://www.cio.com/article/4188478/jose-maria-fuster-van-bendegem-un-error-tipico-es-reducir-la-funcion-del-cio-a-la-del-cto.html",
-    "image": null,
-    "date": "2026-06-23T16:18:10.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187993/rewire-or-rebuild-the-ai-decision-every-cio-needs-to-get-right.html",
-    "platform": "CIO",
-    "title": "Rewire or rebuild? The AI decision every CIO needs to get right",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Rewire or rebuild? The AI decision every CIO needs to get right",
-    "summary_ko": "다시 배선할 것인가, 아니면 재구축할 것인가? 모든 CIO가 올바른 AI 결정을 내려야 합니다. 2026년에 모든 이사회, CEO, CIO가 대답해야 할 질문은 AI 사용 여부가 아닙니다. 보유한 것을 개선하기 위해 AI를 사용할지, 아니면 다시 시작할지 여부입니다.",
-    "url": "https://www.cio.com/article/4187993/rewire-or-rebuild-the-ai-decision-every-cio-needs-to-get-right.html",
-    "image": null,
-    "date": "2026-06-23T13:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187989/preventing-organizational-amnesia-in-the-age-of-ai.html",
-    "platform": "CIO",
-    "title": "Preventing organizational amnesia in the age of AI",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Preventing organizational amnesia in the age of AI",
-    "summary_ko": "AI 시대의 조직 기억상실을 예방합니다. 오늘날 많은 조직에 너무 익숙해진 현상인 조직 기억상실을 정의하는 것부터 시작하겠습니다. 대규모 해고로 인해 조직이 제도적 지식을 잃어가고 있는 것을 직접 목격했습니다. AI가 주류로 자리잡은 이후 기업이 더 적은 수의 직원으로 중간 사무실과 운영 기능을 실행할 수 있는 AI 시스템을 선택함에 따라 문제는 규모와 속도 면에서 더욱 악화되었습니다.",
-    "url": "https://www.cio.com/article/4187989/preventing-organizational-amnesia-in-the-age-of-ai.html",
-    "image": null,
-    "date": "2026-06-23T12:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187968/the-hidden-cost-of-becoming-ai-ready.html",
-    "platform": "CIO",
-    "title": "The hidden cost of becoming AI-ready?",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "The hidden cost of becoming AI-ready?",
-    "summary_ko": "AI 준비에 따른 숨겨진 비용?. 거버넌스 부채 레거시 시스템의 현대화는 새로운 현상이 아닙니다. 저는 개인적으로 레거시 시스템을 보다 효율적이고 현대적인 소프트웨어로 마이그레이션하는 데 참여해 왔습니다. 효율성 달성이라는 목표에 따라 마이그레이션이 다른 단계에서 계속되는 동안 초기 결과가 표시되는 데 몇 달이 걸릴 수 있습니다.",
-    "url": "https://www.cio.com/article/4187968/the-hidden-cost-of-becoming-ai-ready.html",
-    "image": null,
-    "date": "2026-06-23T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187609/%ea%b8%88%ec%9c%b5%ea%b6%8c-96-ai-%eb%8f%84%ec%9e%85-%ec%8b%9c%eb%8f%84%ec%9a%b4%ec%98%81-%ec%a0%84%ed%99%98%ec%9d%80-19-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
-    "platform": "CIO",
-    "title": "“금융권 96% AI 도입 시도…운영 전환은 19%” 오픈텍스트 조사결과",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“금융권 96% AI 도입 시도…운영 전환은 19%” 오픈텍스트 조사결과",
-    "summary_ko": "이번 조사에서는 상당수 금융기관이 에이전틱 AI를 실제 운영 환경에 적용할 준비가 충분하지 않은 것으로 진단됐다. 콘텐츠, 커뮤니케이션, 거래 데이터를 실시간으로 연결할 수 있다고 응답한 금융기관은 9%에 불과했다. 또한 전체 응답자의 52%는 자사의 거버넌스 체계가 규제를 준수하는 에이전틱 AI 도입을 지원할 준비가 되어 있는지 확신하지 못한다고 답했다. 조사 결과 금융기관의 데이터는 여전히 여러 시스템에 분산돼 있었으며, 거버넌스 체계도 일관성이 부족한 것으로 나타났다. AI 의사결정에 대한 책임 구조 역시 명확하지 않은 경우가 많다고 보고서는 분석했다.",
-    "url": "https://www.cio.com/article/4187609/%ea%b8%88%ec%9c%b5%ea%b6%8c-96-ai-%eb%8f%84%ec%9e%85-%ec%8b%9c%eb%8f%84%ec%9a%b4%ec%98%81-%ec%a0%84%ed%99%98%ec%9d%80-19-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
-    "image": null,
-    "date": "2026-06-23T00:30:00.000Z",
     "likes": 0,
     "comments": 0
   }
