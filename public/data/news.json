@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/",
+    "platform": "Reddit",
+    "title": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
+    "author": {
+      "name": "/u/MysteryWra",
+      "handle": "/u//u/MysteryWra",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
+    "summary_ko": "Google은 OpenWeight 모델을 선호합니다. (이제 모든 거대 기술 대 인류가 됩니다).",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/",
+    "image": null,
+    "date": "2026-07-25T15:12:42.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1v66o8k/opus_5_arc_agi_score_was_benchmaxxed/",
+    "platform": "Reddit",
+    "title": "Opus 5 ARC AGI score was benchmaxxed",
+    "author": {
+      "name": "/u/Charuru",
+      "handle": "/u//u/Charuru",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Opus 5 ARC AGI score was benchmaxxed",
+    "summary_ko": "Opus 5 ARC AGI 점수가 최대 벤치마크되었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1v66o8k/opus_5_arc_agi_score_was_benchmaxxed/",
+    "image": "https://preview.redd.it/j5nlhihq9dfh1.png?width=640&crop=smart&auto=webp&s=592f2d4375907df7e7961da1ef012b37ec17dabd",
+    "date": "2026-07-25T12:08:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1v60izq/robot_powered_by_qualcomms_new_ai_chip_dies/",
+    "platform": "Reddit",
+    "title": "Robot powered by Qualcomm’s new AI chip dies mid-presentation",
+    "author": {
+      "name": "/u/SuggestionMission516",
+      "handle": "/u//u/SuggestionMission516",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Robot powered by Qualcomm’s new AI chip dies mid-presentation",
+    "summary_ko": "Qualcomm의 새로운 AI 칩으로 구동되는 로봇이 프레젠테이션 중간에 사망함",
+    "url": "https://www.reddit.com/r/singularity/comments/1v60izq/robot_powered_by_qualcomms_new_ai_chip_dies/",
+    "image": "https://external-preview.redd.it/NWVjb3RieHJsYmZoMRydPXdvgPw4xO0VF7_GG0AS2kZCRFC7gfgu1_ff_naM.png?width=640&crop=smart&auto=webp&s=1b76dcd0b7b17fa847efd47533998eac36c8581e",
+    "date": "2026-07-25T06:34:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1v5s14x/reuters_openai_didnt_know_about_hack_for_a_week/",
+    "platform": "Reddit",
+    "title": "Reuters: OpenAI didn’t know about hack for a week. Agents had left instructions for future versions of itself on how to free itself",
+    "author": {
+      "name": "/u/socoolandawesome",
+      "handle": "/u//u/socoolandawesome",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Reuters: OpenAI didn’t know about hack for a week. Agents had left instructions for future versions of itself on how to free itself",
+    "summary_ko": "로이터: OpenAI는 일주일 동안 해킹에 대해 알지 못했습니다. 에이전트는 자신을 해제하는 방법에 대한 향후 버전의 지침을 남겼습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1v5s14x/reuters_openai_didnt_know_about_hack_for_a_week/",
+    "image": "https://preview.redd.it/8urxtu2fl9fh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8bea049f4575f9cf30c6196faef2db91646f24d5",
+    "date": "2026-07-24T23:46:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1v5h8o6/claude_opus_5_benchmarks/",
     "platform": "Reddit",
     "title": "Claude Opus 5 BENCHMARKS!",
@@ -3687,176 +3755,6 @@
     "url": "https://www.cio.com/article/4189786/%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%b4%ec%bf%a0-cio%ec%bd%94%eb%a6%ac%ec%95%84%ec%99%80-%ec%a1%b0%ec%b0%ac-%ed%96%89%ec%82%ac-%ea%b0%9c%ec%b5%9c%c2%b7%c2%b7%c2%b7ai-%ec%84%b1%ea%b3%b5-%ea%b8%b0.html",
     "image": null,
     "date": "2026-06-26T05:35:05.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4189626/researchers-cast-new-doubt-on-microsofts-quantum-computing-advance-3.html",
-    "platform": "CIO",
-    "title": "Researchers cast new doubt on Microsoft’s quantum computing advance",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Researchers cast new doubt on Microsoft’s quantum computing advance",
-    "summary_ko": "연구원들은 Microsoft의 양자 컴퓨팅 발전에 새로운 의문을 제기했습니다. 마요라나(Majorana) 칩 프로그램이 2029년까지 확장 가능한 양자 컴퓨터를 가능하게 할 것이라는 마이크로소프트의 논란의 여지가 있는 주장은 마이크로소프트가 자체 실험 증거를 올바르게 해석했는지 여부를 묻는 과학 논문에 의해 새로운 의심에 빠졌습니다.",
-    "url": "https://www.cio.com/article/4189626/researchers-cast-new-doubt-on-microsofts-quantum-computing-advance-3.html",
-    "image": null,
-    "date": "2026-06-25T18:13:50.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4189483/la-metrica-que-hizo-tropezar-la-estrategia-ai-first-de-duolingo.html",
-    "platform": "CIO",
-    "title": "La métrica que hizo tropezar la estrategia ‘AI-first’ de Duolingo",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "La métrica que hizo tropezar la estrategia ‘AI-first’ de Duolingo",
-    "summary_ko": "듀오링고의 'AI 우선' 전략을 무너뜨린 지표입니다. 2026년 4월, 듀오링고 CEO 루이스 폰 안(Luis von Ahn)은 회사가 인공 지능 전략의 가장 민감한 요소 중 하나를 철회했음을 인정했습니다. 즉, 직원 성과 평가에서 AI 사용이 더 이상 포함되지 않았습니다. 놀라운 점은 1년 전 전면적인 공공 위기가 발생해도 전략을 단 1mm도 바꾸지 못했다는 것입니다.",
-    "url": "https://www.cio.com/article/4189483/la-metrica-que-hizo-tropezar-la-estrategia-ai-first-de-duolingo.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/06/Severin-Hacker-and-Luis-von-Ahn.jpg?quality=50&amp;strip=all&amp;w=1024",
-    "date": "2026-06-25T14:40:23.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4189183/salesforce-unveils-ai-help-agent-with-pay-per-resolution-pricing.html",
-    "platform": "CIO",
-    "title": "Salesforce unveils AI Help Agent with pay-per-resolution pricing",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Salesforce unveils AI Help Agent with pay-per-resolution pricing",
-    "summary_ko": "Salesforce는 해상도당 지불 가격을 적용한 AI Help Agent를 공개합니다. Salesforce는 오늘 조직이 지식 기반에 연결하여 텍스트나 음성을 사용하여 채팅, 포털 및 기타 디지털 채널을 통해 고객과 직원에게 지원을 제공할 수 있는 새로운 사전 패키지 서비스 에이전트인 Agentforce Help Agent를 발표했습니다. 새로운 에이전트는 또한 에이전트가 처음부터 끝까지 문제를 자율적으로 해결할 때만 조직이 비용을 지불하는 새로운 해결당 지불 모델을 특징으로 하는 Salesforce의 첫 번째 제품입니다.",
-    "url": "https://www.cio.com/article/4189183/salesforce-unveils-ai-help-agent-with-pay-per-resolution-pricing.html",
-    "image": null,
-    "date": "2026-06-25T13:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4189043/ai-efficiency-beyond-the-model-rethinking-code-hardware-and-cloud.html",
-    "platform": "CIO",
-    "title": "AI efficiency beyond the model: Rethinking code, hardware and cloud",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI efficiency beyond the model: Rethinking code, hardware and cloud",
-    "summary_ko": "모델을 뛰어넘는 AI 효율성: 코드, 하드웨어, 클라우드를 다시 생각합니다. AI 채택이 증가함에 따라 기업의 동료 리더들이 AI를 구현하는 것만으로는 충분하지 않다는 것을 깨닫는 것을 봅니다. 우리는 가장 빠르고 가장 효율적인 AI 모델을 개발하고 채택해야 합니다. 누가 가장 빛나는 장난감을 갖고 있는지에 대한 자부심의 문제만은 아닙니다.",
-    "url": "https://www.cio.com/article/4189043/ai-efficiency-beyond-the-model-rethinking-code-hardware-and-cloud.html",
-    "image": null,
-    "date": "2026-06-25T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/",
-    "platform": "Google",
-    "title": "Optimizing cloud economics with linear elastic caching",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Algorithms & Theory",
-    "summary_ko": "선형 탄력적 캐싱으로 클라우드 경제성 최적화",
-    "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/",
-    "image": null,
-    "date": "2026-06-25T10:03:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4188566/cios-rethink-the-balance-between-ai-oversight-and-innovation.html",
-    "platform": "CIO",
-    "title": "CIOs rethink the balance between AI oversight and innovation",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "CIOs rethink the balance between AI oversight and innovation",
-    "summary_ko": "CIO는 AI 감독과 혁신 사이의 균형을 재고합니다. 새로운 CIO의 임무는 명확합니다. 즉, 기업 전반에 걸쳐 신속하게 AI 도입을 촉진하는 것입니다. CIO에 따르면.",
-    "url": "https://www.cio.com/article/4188566/cios-rethink-the-balance-between-ai-oversight-and-innovation.html",
-    "image": null,
-    "date": "2026-06-25T10:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4189225/%ec%b9%bc%eb%9f%bc-aws%ec%97%90%ec%84%9c-%eb%b3%b4%eb%82%b8-20%eb%85%84-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%ec%97%90-%eb%8c%80%ed%95%9c-%ea%b9%a8%eb%8b%ac%ec%9d%8c.html",
-    "platform": "CIO",
-    "title": "칼럼 | AWS에서 보낸 20년, 에이전틱 AI에 대한 깨달음",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | AWS에서 보낸 20년, 에이전틱 AI에 대한 깨달음",
-    "summary_ko": "올해는 AWS 출범 20주년이자, 필자가 아마존에서 개발자로 일한 지 20년이 되는 해다. 필자의 커리어는 줄곧 한 가지 목표를 향해 이어져 왔다. 바로 개발자의 일을 더 쉽게 만드는 것이다. 개발자인 필자에게도 다소 이기적인 목표이긴 했다. 예를 들어 데이터베이스 운영에 많은 시간을 빼앗기자, 이를 서비스로 해결하기 위해 Dynamo DB 팀에 합류했다. 개발자가 더 이상 직접 데이터베이스를 운영하지 않아도 되도록 하기 위해서였다. 이후에는 람다(Lambda)와 API 게이트웨이(API Gateway) 개발에 참여했다.",
-    "url": "https://www.cio.com/article/4189225/%ec%b9%bc%eb%9f%bc-aws%ec%97%90%ec%84%9c-%eb%b3%b4%eb%82%b8-20%eb%85%84-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%ec%97%90-%eb%8c%80%ed%95%9c-%ea%b9%a8%eb%8b%ac%ec%9d%8c.html",
-    "image": null,
-    "date": "2026-06-25T06:44:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4189220/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%eb%8a%94-%ec%8b%a4%ec%a0%9c-%ea%b8%b0%ec%97%85-%ed%98%84%ec%9e%a5-%ec%96%b4%eb%94%94%ec%97%90-%ec%93%b0%ec%9d%b4%eb%82%98-%eb%88%88%ec%97%ac%ea%b2%a8%eb%b3%bc.html",
-    "platform": "CIO",
-    "title": "에이전틱 AI는 실제 기업 현장 어디에 쓰이나…눈여겨볼 활용 사례 11선",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "에이전틱 AI는 실제 기업 현장 어디에 쓰이나…눈여겨볼 활용 사례 11선",
-    "summary_ko": "생성형 AI에 대한 기대가 비현실적으로 부풀려졌다는 평가와 함께 열기가 다소 식었음에도 기업들은 이제 수천 개 규모의 AI 에이전트를 실제 업무에 도입하고 있다. 에이전트 AI는 콘텐츠 생성에 초점을 맞춘 생성형 AI를 넘어 실제 업무 수행과 의사결정을 지원하는 데 중점을 둔다는 점에서 차별화된다.",
-    "url": "https://www.cio.com/article/4189220/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%eb%8a%94-%ec%8b%a4%ec%a0%9c-%ea%b8%b0%ec%97%85-%ed%98%84%ec%9e%a5-%ec%96%b4%eb%94%94%ec%97%90-%ec%93%b0%ec%9d%b4%eb%82%98-%eb%88%88%ec%97%ac%ea%b2%a8%eb%b3%bc.html",
-    "image": null,
-    "date": "2026-06-25T06:32:45.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4189211/%ec%96%91%ec%9e%90%ec%bb%b4%ed%93%a8%ed%84%b0-%ec%8b%9c%eb%8c%80-%eb%8c%80%eb%b9%84-%eb%82%98%ec%84%a0-%eb%af%b8%ea%b5%adpqc-%ec%9d%98%eb%ac%b4%ed%99%94%ec%99%80-%ec%96%91%ec%9e%90-%ea%b8%b0.html",
-    "platform": "CIO",
-    "title": "양자컴퓨터 시대 대비 나선 미국…PQC 의무화와 양자 기술 육성 병행",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "양자컴퓨터 시대 대비 나선 미국…PQC 의무화와 양자 기술 육성 병행",
-    "summary_ko": "도널드 트럼프 미국 대통령이 25일 연방정부의 포스트 양자암호(PQC) 전환을 가속화하고 미국의 양자 기술 투자를 확대하기 위한 두 건의 행정명령에 서명했다. 행정부는 이번 조치를 양자컴퓨팅이 가져올 기회와 위험에 동시에 대비하기 위한 범정부 차원의 종합 전략이라고 설명했다.",
-    "url": "https://www.cio.com/article/4189211/%ec%96%91%ec%9e%90%ec%bb%b4%ed%93%a8%ed%84%b0-%ec%8b%9c%eb%8c%80-%eb%8c%80%eb%b9%84-%eb%82%98%ec%84%a0-%eb%af%b8%ea%b5%adpqc-%ec%9d%98%eb%ac%b4%ed%99%94%ec%99%80-%ec%96%91%ec%9e%90-%ea%b8%b0.html",
-    "image": null,
-    "date": "2026-06-25T06:14:19.000Z",
     "likes": 0,
     "comments": 0
   }
