@@ -1,5 +1,168 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1v8wt2e/gpt5_the_world_best_model_just_1_year_ago_is/",
+    "platform": "Reddit",
+    "title": "GPT-5, the world best model just 1 year ago, is today inferior to Qwen3.6 27B and most today’s low-tier models",
+    "author": {
+      "name": "/u/zoratosthenes",
+      "handle": "/u//u/zoratosthenes",
+      "avatar_color": "#ff4500"
+    },
+    "content": "GPT-5, the world best model just 1 year ago, is today inferior to Qwen3.6 27B and most today’s low-tier models",
+    "summary_ko": "불과 1년 전만 해도 세계 최고 모델이었던 GPT-5는 오늘날 Qwen3.6 27B와 오늘날 대부분의 하위 모델보다 열등합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1v8wt2e/gpt5_the_world_best_model_just_1_year_ago_is/",
+    "image": "https://preview.redd.it/qtjsnxm6qyfh1.jpeg?width=640&crop=smart&auto=webp&s=6568a44635ff7151f6f998ac546e7f115be65b60",
+    "date": "2026-07-28T12:17:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4202112/ai-%eb%aa%a8%eb%8d%b8-%eb%84%98%ec%96%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b2%bd%ec%9f%81%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a1%9c-4-0%ec%9c%bc%eb%a1%9c-%ea%b8%b0%ec%88%a0-%ec%a3%bc.html",
+    "platform": "CIO",
+    "title": "AI 모델 넘어 AI 인프라 경쟁…오케스트로, ‘4.0’으로 기술 주권 승부수",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 모델 넘어 AI 인프라 경쟁…오케스트로, ‘4.0’으로 기술 주권 승부수",
+    "summary_ko": "김민준 오케스트로 이사회 의장은 AI 경쟁 구도를 AI 모델, AI 반도체, AI 인프라 소프트웨어의 세 축으로 재정의했다. 그는 “AI 모델과 반도체가 AI의 두뇌와 엔진이라면 AI 인프라 소프트웨어는 이를 연결해 실제 산업에서 움직이게 하는 운영체제”라며 “세 축이 함께 발전해야 AI 산업이 비로소 완성된다”고 말했다.",
+    "url": "https://www.cio.com/article/4202112/ai-%eb%aa%a8%eb%8d%b8-%eb%84%98%ec%96%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b2%bd%ec%9f%81%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a1%9c-4-0%ec%9c%bc%eb%a1%9c-%ea%b8%b0%ec%88%a0-%ec%a3%bc.html",
+    "image": null,
+    "date": "2026-07-28T07:43:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4202110/%ec%b9%b4%ec%b9%b4%ec%98%a4-%ec%98%a8%eb%94%94%eb%b0%94%ec%9d%b4%ec%8a%a4-ai-%ea%b2%a8%eb%83%a5%ed%95%9c-%ec%b9%b4%eb%82%98%eb%82%98-2-%ea%b2%bd%eb%9f%89-%ec%96%b8%ec%96%b4%eb%aa%a8%eb%8d%b8-4.html",
+    "platform": "CIO",
+    "title": "카카오, 온디바이스 AI 겨냥한 ‘카나나-2’ 경량 언어모델 4종 오픈소스 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "카카오, 온디바이스 AI 겨냥한 ‘카나나-2’ 경량 언어모델 4종 오픈소스 공개",
+    "summary_ko": "카카오는 28일 허깅페이스에 스마트폰 등과 같은 디바이스에서 구동할 수 있는 경량 언어모델(SLM) 4종을 오픈소스로 공개했다고 밝혔다. 카나나-2 경량 언어모델 시리즈로, ▲Kanana-2-1. 3B-base ▲Kanana-2-1. 3B-instruct ▲Kanana-2-3B-base ▲Kanana-2-3B-instruct다. 이번에 공개된 모델은 ‘카나나 인 카카오톡’, ‘카카오톡 대화요약 및 통화요약’, ‘AI 국민비서’ 등 카카오의 다양한 AI 서비스에 활용되고 있는 경량 언어모델을 기반으로 한다.",
+    "url": "https://www.cio.com/article/4202110/%ec%b9%b4%ec%b9%b4%ec%98%a4-%ec%98%a8%eb%94%94%eb%b0%94%ec%9d%b4%ec%8a%a4-ai-%ea%b2%a8%eb%83%a5%ed%95%9c-%ec%b9%b4%eb%82%98%eb%82%98-2-%ea%b2%bd%eb%9f%89-%ec%96%b8%ec%96%b4%eb%aa%a8%eb%8d%b8-4.html",
+    "image": null,
+    "date": "2026-07-28T07:16:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1v8lj7w/someone_made_a_nms_style_exploration_game_in_a/",
+    "platform": "Reddit",
+    "title": "Someone made a NMS style exploration game in a day with Opus 5",
+    "author": {
+      "name": "/u/LightVelox",
+      "handle": "/u//u/LightVelox",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Someone made a NMS style exploration game in a day with Opus 5",
+    "summary_ko": "누군가 Opus 5로 하루 만에 NMS 스타일 탐험 게임을 만들었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1v8lj7w/someone_made_a_nms_style_exploration_game_in_a/",
+    "image": "https://external-preview.redd.it/cnVmZjhxejB3dmZoMUzQrm-Mx3YPjdd0LsOsUnQZgTDvh4wGhSXEZRqp3b1B.png?width=640&crop=smart&auto=webp&s=9d0def1cddc196ede8f1e39536e302df32cda615",
+    "date": "2026-07-28T02:46:12.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4201881/%ec%b9%bc%eb%9f%bc-ai%eb%8a%94-%eb%a7%88%eb%9d%bc%ed%86%a4-%eb%b9%84%ec%9a%a9-%ec%a0%88%ea%b0%90%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ed%86%a0%ed%81%b0%ea%b3%bc-c.html",
+    "platform": "CIO",
+    "title": "칼럼 | AI는 마라톤…비용 절감보다 중요한 것은 토큰과 C레벨 의지",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | AI는 마라톤…비용 절감보다 중요한 것은 토큰과 C레벨 의지",
+    "summary_ko": "30년 넘게 엔터프라이즈 기술 분야에서 일하며 AI가 연구실의 실험 기술에서 오늘날 기업 이사회의 핵심 의제로 자리 잡는 과정을 지켜봤다. 하지만 지난 몇 년간 고객과 함께 AI를 구축하며 얻은 경험은 무엇보다도 냉정한 현실을 깨닫게 했다. 초기의 과도한 기대는 사라졌고, 이제 CIO에게는 AI를 통해 실질적인 기업 가치를 창출해야 하는 과제가 주어졌다. 구글, 오픈AI, 앤트로픽의 기술을 현장에 적용하며 얻은 경험을 바탕으로, 기술 종류와 관계없이 모든 리더가 전략 수립의 기준으로 삼아야 할 핵심 교훈을 소개한다.",
+    "url": "https://www.cio.com/article/4201881/%ec%b9%bc%eb%9f%bc-ai%eb%8a%94-%eb%a7%88%eb%9d%bc%ed%86%a4-%eb%b9%84%ec%9a%a9-%ec%a0%88%ea%b0%90%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ed%86%a0%ed%81%b0%ea%b3%bc-c.html",
+    "image": null,
+    "date": "2026-07-28T00:59:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4201852/y2k%ec%b2%98%eb%9f%bc-%ed%91%9c%ec%8b%9c%ed%95%b4%eb%91%90%eb%9d%bc-dns-%eb%b3%b4%ec%95%88%ed%82%a4-%ea%b5%90%ec%b2%b4-%ec%95%9e%eb%91%90%ea%b3%a0-%ea%b8%b0%ec%97%85-%ec%88%a8%ec%9d%80-%ec%9d%98.html",
+    "platform": "CIO",
+    "title": "“Y2K처럼 표시해두라”…DNS 보안키 교체 앞두고 기업 숨은 의존성 ‘줄장애’ 경보",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“Y2K처럼 표시해두라”…DNS 보안키 교체 앞두고 기업 숨은 의존성 ‘줄장애’ 경보",
+    "summary_ko": "시스템 장애를 정확히 예측하는 일은 쉽지 않다. 하지만 CIO라면 2026년 10월 11일부터 2027년 1월 11일까지를 달력에 표시해 둘 필요가 있다. 이 기간 동안 원인을 파악하기 어려운 광범위한 시스템 장애가 발생할 가능성이 있기 때문이다. 그 배경에는 2026년 10월 11일 시행되는 DNSSEC(Domain Name System Security Extensions) 업데이트가 있다. 이 업데이트는 2027년 1월 11일 완전히 적용되는데, 겉보기에는 서로 무관해 보이는 다양한 시스템 장애를 연쇄적으로 일으킬 가능성이 있다는 분석이다.",
+    "url": "https://www.cio.com/article/4201852/y2k%ec%b2%98%eb%9f%bc-%ed%91%9c%ec%8b%9c%ed%95%b4%eb%91%90%eb%9d%bc-dns-%eb%b3%b4%ec%95%88%ed%82%a4-%ea%b5%90%ec%b2%b4-%ec%95%9e%eb%91%90%ea%b3%a0-%ea%b8%b0%ec%97%85-%ec%88%a8%ec%9d%80-%ec%9d%98.html",
+    "image": null,
+    "date": "2026-07-28T00:56:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4201836/mcp-%ec%84%b8%ec%85%98-%ea%b8%b0%eb%b0%98-%ea%b5%ac%ec%a1%b0-%eb%b2%84%eb%a6%b0%eb%8b%a4ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
+    "platform": "CIO",
+    "title": "MCP, 세션 기반 구조 버린다…AI 애플리케이션 클라우드 배포 쉬워져",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "MCP, 세션 기반 구조 버린다…AI 애플리케이션 클라우드 배포 쉬워져",
+    "summary_ko": "AI 모델을 외부 도구와 기업 데이터에 연결하는 표준으로 부상하고 있는 MCP(Model Context Protocol)이 출범 이후 최대 규모의 아키텍처 개편을 추진한다. 7월 28일 공개될 예정인 최신 릴리스 후보(RC)는 프로토콜 수준의 세션(session)을 제거하고 상태 비저장(stateless) 아키텍처를 도입한다. 업계에서는 기업들이 AI 파일럿 프로젝트를 실제 운영 환경으로 확대하는 과정에서 MCP를 기존 클라우드 인프라에 더욱 쉽게 배포하고 확장할 수 있도록 하기 위한 변화라고 평가했다.",
+    "url": "https://www.cio.com/article/4201836/mcp-%ec%84%b8%ec%85%98-%ea%b8%b0%eb%b0%98-%ea%b5%ac%ec%a1%b0-%eb%b2%84%eb%a6%b0%eb%8b%a4ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
+    "image": null,
+    "date": "2026-07-28T00:54:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v8hli2/a_user_has_managed_to_run_kimi_k3_on_80xrtx_5090/",
+    "platform": "Reddit",
+    "title": "A user has managed to run Kimi K3 on 80xRTX 5090, via 25GbE Ethernet.",
+    "author": {
+      "name": "/u/panchovix",
+      "handle": "/u//u/panchovix",
+      "avatar_color": "#ff4500"
+    },
+    "content": "A user has managed to run Kimi K3 on 80xRTX 5090, via 25GbE Ethernet.",
+    "summary_ko": "사용자가 25GbE 이더넷을 통해 80xRTX 5090에서 Kimi K3를 실행했습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8hli2/a_user_has_managed_to_run_kimi_k3_on_80xrtx_5090/",
+    "image": null,
+    "date": "2026-07-27T23:56:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v8hk6b/anthropic_is_calling_for_a_ban_on_openweights/",
+    "platform": "Reddit",
+    "title": "Anthropic is calling for a ban on open-weights models by proposing mandatory requirements they will probably never be able to meet",
+    "author": {
+      "name": "/u/realmvp77",
+      "handle": "/u//u/realmvp77",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Anthropic is calling for a ban on open-weights models by proposing mandatory requirements they will probably never be able to meet",
+    "summary_ko": "Anthropic은 아마도 결코 충족할 수 없는 필수 요구 사항을 제안함으로써 개방형 가중치 모델에 대한 금지를 요구하고 있습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8hk6b/anthropic_is_calling_for_a_ban_on_openweights/",
+    "image": "https://preview.redd.it/1llu13ff0vfh1.png?width=320&crop=smart&auto=webp&s=40ac21799a582920072418dc23c84a965778ec0f",
+    "date": "2026-07-27T23:54:35.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v8364f/kimi_k3_weights_now_released/",
     "platform": "Reddit",
     "title": "Kimi K3 weights now released.",
@@ -3574,74 +3737,6 @@
     "url": "https://www.cio.com/article/4187397/it%e3%82%92%e6%8f%ba%e3%82%8b%e3%81%8c%e3%81%99%e3%80%8c%e3%82%a8%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%e4%be%a1%e6%a0%bc%e5%a4%a7%e8%bb%a2%e6%8f%9b%e3%80%8d%e3%81%ae%e6%b3%a2.html",
     "image": null,
     "date": "2026-06-28T23:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uhxshz/meanwhile_in_china_10000_delivery_bots_are/",
-    "platform": "Reddit",
-    "title": "Meanwhile in China, 10,000+ delivery bots are transforming last-mile fulfillment by making deliveries faster, cheaper, and more autonomous",
-    "author": {
-      "name": "/u/Distinct-Question-16",
-      "handle": "/u//u/Distinct-Question-16",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Meanwhile in China, 10,000+ delivery bots are transforming last-mile fulfillment by making deliveries faster, cheaper, and more autonomous",
-    "summary_ko": "한편 중국에서는 10,000개 이상의 배송 로봇이 배송을 더 빠르고 저렴하며 자율적으로 만들어 라스트 마일 주문 처리를 변화시키고 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1uhxshz/meanwhile_in_china_10000_delivery_bots_are/",
-    "image": "https://external-preview.redd.it/N2ZheTJoNTczMWFoMQJScXLHhc_B0-LNHpVLwN8m41f4jBQS79e3k2aZrVal.png?width=640&crop=smart&auto=webp&s=477c3c49a8b3512a6360b08a5c6e8277fe89144d",
-    "date": "2026-06-28T13:49:06.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uht2m0/were_probably_going_to_need_that_soon/",
-    "platform": "Reddit",
-    "title": "We're probably going to need that soon.",
-    "author": {
-      "name": "/u/Nunki08",
-      "handle": "/u//u/Nunki08",
-      "avatar_color": "#ff4500"
-    },
-    "content": "We're probably going to need that soon.",
-    "summary_ko": "아마 곧 그게 필요할 것 같아요.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uht2m0/were_probably_going_to_need_that_soon/",
-    "image": "https://preview.redd.it/a2scxop2vz9h1.jpg?width=140&height=105&auto=webp&s=5682e984606a883c6082b5fb9a61155b3328edab",
-    "date": "2026-06-28T09:46:12.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1uhn4y9/why_is_every_ai_lab_suddenly_trying_to_build/",
-    "platform": "Reddit",
-    "title": "Why is every AI lab suddenly trying to build their own chips?",
-    "author": {
-      "name": "/u/stark_1004",
-      "handle": "/u//u/stark_1004",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Why is every AI lab suddenly trying to build their own chips?",
-    "summary_ko": "왜 모든 AI 연구실이 갑자기 자체 칩을 만들려고 하는 걸까요?",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1uhn4y9/why_is_every_ai_lab_suddenly_trying_to_build/",
-    "image": "https://preview.redd.it/tmoz2dts7y9h1.jpeg?width=640&crop=smart&auto=webp&s=e6ab17a08bf9ab095e6bad0f0329fea74782b9f2",
-    "date": "2026-06-28T04:09:31.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1uhiqif/look_at_that_scientist_early_tester_on_gpt56_sol/",
-    "platform": "Reddit",
-    "title": "Look at that !! Scientist early tester on GPT-5.6 Sol",
-    "author": {
-      "name": "/u/py-net",
-      "handle": "/u//u/py-net",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Look at that !! Scientist early tester on GPT-5.6 Sol",
-    "summary_ko": "저것 좀 봐 !! GPT-5.6 Sol의 과학자 초기 테스터",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1uhiqif/look_at_that_scientist_early_tester_on_gpt56_sol/",
-    "image": "https://preview.redd.it/riqdm2za5x9h1.jpeg?width=640&crop=smart&auto=webp&s=d933842c2e16c6a823f33c93249facdd47dae6d8",
-    "date": "2026-06-28T00:33:44.000Z",
     "likes": 0,
     "comments": 0
   }
