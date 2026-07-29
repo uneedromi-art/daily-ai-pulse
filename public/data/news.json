@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1va0rce/first_kimi_k3_results_on_home_lab_4ts/",
+    "platform": "Reddit",
+    "title": "First Kimi K3 results on home lab ~ 4t/s",
+    "author": {
+      "name": "/u/iVoider",
+      "handle": "/u//u/iVoider",
+      "avatar_color": "#ff4500"
+    },
+    "content": "First Kimi K3 results on home lab ~ 4t/s",
+    "summary_ko": "홈 랩의 첫 번째 Kimi K3 결과 ~ 4t/s",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va0rce/first_kimi_k3_results_on_home_lab_4ts/",
+    "image": "https://preview.redd.it/o65n2kt017gh1.png?width=640&crop=smart&auto=webp&s=376efed1a7d1bb98107ccbbbebff24518929b7cb",
+    "date": "2026-07-29T16:13:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1v9v4of/claude_opus_5_is_insane/",
+    "platform": "Reddit",
+    "title": "Claude Opus 5 is Insane",
+    "author": {
+      "name": "/u/Rare_Bunch4348",
+      "handle": "/u//u/Rare_Bunch4348",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Claude Opus 5 is Insane",
+    "summary_ko": "클로드 오푸스 5는 미쳤다",
+    "url": "https://www.reddit.com/r/singularity/comments/1v9v4of/claude_opus_5_is_insane/",
+    "image": "https://external-preview.redd.it/aWowbmRzNXR6NWdoMbW3SwN7yEmeurH7D4tTRoVR-9rPz8rhfYzwsabc7VXQ.png?width=640&crop=smart&auto=webp&s=c4040474caa769a0bc6249a0fbb60cea409fc4d4",
+    "date": "2026-07-29T12:43:54.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4202694/ai-%ec%8b%9c%eb%8c%80-%ec%82%ac%ea%b3%a0%eb%8a%94-%ed%94%bc%ed%95%a0-%ec%88%98-%ec%97%86%eb%8b%a4ciso-%ec%98%88%eb%b0%a9-%ec%a0%84%eb%ac%b8%ea%b0%80%ec%97%90%ec%84%9c-%eb%b3%b5%ec%9b%90.html",
+    "platform": "CIO",
+    "title": "AI 시대, 사고는 피할 수 없다…CISO, 예방 전문가에서 복원 설계자로 진화",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 시대, 사고는 피할 수 없다…CISO, 예방 전문가에서 복원 설계자로 진화",
+    "summary_ko": "CISO의 역할은 기존의 예방 중심에서 사고 대응과 비즈니스 복원력, 복구를 더욱 중시하는 방향으로 확대되면서, 이제는 사실상 조직의 최고복원력책임자(CRO) 역할까지 맡게 됐다. 컨설팅 기업 온X(On X)와 IT 서비스 제공 업체 CBTS의 자문 CISO인 존 브루게만(John Bruggeman)은 “IT 분야에서 경력을 쌓아온 경험 많은 CISO라면 누구나 서비스 가용성을 최우선으로 생각하는 운영 관점을 갖고 있다”라며 “‘조직의 시스템이 완전히 멈춰 핵심 업무를 수행하지 못하는 상황을 어떻게 막을 것인가’를 항상 고민한다”라고 설명했다.",
+    "url": "https://www.cio.com/article/4202694/ai-%ec%8b%9c%eb%8c%80-%ec%82%ac%ea%b3%a0%eb%8a%94-%ed%94%bc%ed%95%a0-%ec%88%98-%ec%97%86%eb%8b%a4ciso-%ec%98%88%eb%b0%a9-%ec%a0%84%eb%ac%b8%ea%b0%80%ec%97%90%ec%84%9c-%eb%b3%b5%ec%9b%90.html",
+    "image": null,
+    "date": "2026-07-29T08:59:56.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4202668/%ec%b5%9c%ec%8b%a0-ai%eb%b3%b4%eb%8b%a4-%ed%9a%a8%ec%9c%a8%ec%84%b1-%ed%83%9d%ed%95%9c-ms%eb%a9%80%ed%8b%b0%eb%aa%a8%eb%8d%b8-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ed%94%84.html",
+    "platform": "CIO",
+    "title": "최신 AI보다 효율성 택한 MS…멀티모델 보안 플랫폼 ‘프로젝트 퍼셉션’ 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "최신 AI보다 효율성 택한 MS…멀티모델 보안 플랫폼 ‘프로젝트 퍼셉션’ 공개",
+    "summary_ko": "MS가 기업 보안팀이 조직의 보안 상태(Security Posture)를 지속적으로 평가하고 개선할 수 있도록 지원하는 새로운 AI 기반 서비스를 공개했다. 이 서비스는 취약점 탐지, 공격 시뮬레이션, 잠재적 위협 탐지 및 분류, 대응 방안 수립 등을 수행하는 일련의 AI 에이전트를 통해 보안 운영을 자동화한다. ‘프로젝트 퍼셉션(Project Perception)’이라는 이름의 이 서비스는 오는 8월 3일 퍼블릭 프리뷰 형태로 제공된다.",
+    "url": "https://www.cio.com/article/4202668/%ec%b5%9c%ec%8b%a0-ai%eb%b3%b4%eb%8b%a4-%ed%9a%a8%ec%9c%a8%ec%84%b1-%ed%83%9d%ed%95%9c-ms%eb%a9%80%ed%8b%b0%eb%aa%a8%eb%8d%b8-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ed%94%84.html",
+    "image": null,
+    "date": "2026-07-29T08:14:25.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4202148/%ed%9a%8c%ec%9d%98%ec%8b%a4-%ea%b8%b0%eb%b0%80%ec%9d%b4-%ec%95%88%ea%b2%bd-%eb%84%88%eb%a8%b8%eb%a1%9c-%ec%83%8c%eb%8b%a4ai-%ec%8a%a4%eb%a7%88%ed%8a%b8-%ec%95%88%ea%b2%bd%e7%99%bc-%eb%8d%b0.html",
+    "platform": "CIO",
+    "title": "회의실 기밀이 안경 너머로 샌다?…AI 스마트 안경發 데이터 유출 위협에 CISO 골머리",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "회의실 기밀이 안경 너머로 샌다?…AI 스마트 안경發 데이터 유출 위협에 CISO 골머리",
+    "summary_ko": "삼성이 애플, 구글, 메타 등과 함께 AI 기반 스마트 안경 시장에 뛰어들면서 기업 최고정보보호책임자(CISO)와 IT 리더들은 다시 한번 이러한 기기에 대한 기업 차원의 사용 제한이 필요한지 검토해야 하는 상황에 놓였다. AI 스마트 안경이 기업 데이터 유출은 물론 개인정보 보호와 규제 준수 측면에서 새로운 위험을 초래할 가능성이 크기 때문이다. 문제는 이러한 정책이 필요하다고 판단하더라도, 사무실 밖까지 일관되게 적용하고 집행하는 것은 현실적으로 거의 불가능하다는 점이다.",
+    "url": "https://www.cio.com/article/4202148/%ed%9a%8c%ec%9d%98%ec%8b%a4-%ea%b8%b0%eb%b0%80%ec%9d%b4-%ec%95%88%ea%b2%bd-%eb%84%88%eb%a8%b8%eb%a1%9c-%ec%83%8c%eb%8b%a4ai-%ec%8a%a4%eb%a7%88%ed%8a%b8-%ec%95%88%ea%b2%bd%e7%99%bc-%eb%8d%b0.html",
+    "image": null,
+    "date": "2026-07-29T07:17:47.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1v9mq82/google_deepmind_dismantles_nobelwinning_alphafold/",
+    "platform": "Reddit",
+    "title": "Google DeepMind dismantles Nobel-winning AlphaFold team, loses top talent in major shift toward Gemini and AI Agents. Will it remain research-first lab?",
+    "author": {
+      "name": "/u/TorturedPoet30",
+      "handle": "/u//u/TorturedPoet30",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Google DeepMind dismantles Nobel-winning AlphaFold team, loses top talent in major shift toward Gemini and AI Agents. Will it remain research-first lab?",
+    "summary_ko": "Google DeepMind는 노벨상을 수상한 AlphaFold 팀을 해체하고 Gemini 및 AI 에이전트로의 주요 전환에서 최고의 인재를 잃습니다. 연구 우선 연구실로 남을 것인가?",
+    "url": "https://www.reddit.com/r/singularity/comments/1v9mq82/google_deepmind_dismantles_nobelwinning_alphafold/",
+    "image": null,
+    "date": "2026-07-29T05:24:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v9h6y9/nvidia_is_expected_to_raise_geforce_rtx_gpu/",
+    "platform": "Reddit",
+    "title": "Nvidia is expected to raise GeForce RTX GPU prices again by up to 30%",
+    "author": {
+      "name": "/u/ab2377",
+      "handle": "/u//u/ab2377",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Nvidia is expected to raise GeForce RTX GPU prices again by up to 30%",
+    "summary_ko": "Nvidia는 GeForce RTX GPU 가격을 최대 30%까지 다시 인상할 것으로 예상됩니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9h6y9/nvidia_is_expected_to_raise_geforce_rtx_gpu/",
+    "image": "https://external-preview.redd.it/OHnm0D5XAWPA4pBJD9Xwjm7m-Odp3cdhWx_AJgD35nY.jpeg?width=640&crop=smart&auto=webp&s=28d512a1a331e8317c77b2e82af1335791d19362",
+    "date": "2026-07-29T01:05:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1v8wt2e/gpt5_the_world_best_model_just_1_year_ago_is/",
     "platform": "Reddit",
     "title": "GPT-5, the world best model just 1 year ago, is today inferior to Qwen3.6 27B and most today’s low-tier models",
@@ -3498,245 +3623,6 @@
     "url": "https://www.cio.com/article/4190893/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ed%8d%bc%ec%8a%a4%ed%8a%b8%eb%8a%94-%eb%81%9d%eb%82%ac%eb%8b%a4%eb%94%94%ec%a7%80%ed%84%b8-%ec%a3%bc%ea%b6%8c-%ec%8b%9c%eb%8c%80-cio%ec%9d%98.html",
     "image": null,
     "date": "2026-06-30T05:18:51.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uj2yym/on_darios_statement/",
-    "platform": "Reddit",
-    "title": "on Dario’s statement",
-    "author": {
-      "name": "/u/turtle-toaster",
-      "handle": "/u//u/turtle-toaster",
-      "avatar_color": "#ff4500"
-    },
-    "content": "on Dario’s statement",
-    "summary_ko": "다리오의 발언에 대해",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uj2yym/on_darios_statement/",
-    "image": "https://preview.redd.it/8oy1xmcu0aah1.jpeg?width=640&crop=smart&auto=webp&s=276b24e3aab586eb28b118521d86dcd10a1f2f35",
-    "date": "2026-06-29T19:52:04.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uiyrlq/amodei_open_source_models_will_eat_your_children/",
-    "platform": "Reddit",
-    "title": "Amodei: \"Open Source Models Will Eat Your Children\"",
-    "author": {
-      "name": "/u/johnnyApplePRNG",
-      "handle": "/u//u/johnnyApplePRNG",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Amodei: \"Open Source Models Will Eat Your Children\"",
-    "summary_ko": "Amodei: \"오픈 소스 모델이 당신의 아이들을 잡아먹을 것입니다\"",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uiyrlq/amodei_open_source_models_will_eat_your_children/",
-    "image": "https://preview.redd.it/e7bwzl2899ah1.png?width=640&crop=smart&auto=webp&s=de8807b84745997d32bfa1ff58b55580f3a0aac4",
-    "date": "2026-06-29T17:19:02.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uiv8e4/effect_of_glm_52/",
-    "platform": "Reddit",
-    "title": "Effect of GLM 5.2 !!",
-    "author": {
-      "name": "/u/Independent-Wind4462",
-      "handle": "/u//u/Independent-Wind4462",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Effect of GLM 5.2 !!",
-    "summary_ko": "GLM 5.2의 효과!!",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uiv8e4/effect_of_glm_52/",
-    "image": "https://preview.redd.it/i9o1vycvm8ah1.jpeg?width=640&crop=smart&auto=webp&s=4d03652e7169ca0225518bd13fd256d20e8a3447",
-    "date": "2026-06-29T15:11:49.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4190104/grounding-not-models-will-define-your-ai-advantage.html",
-    "platform": "CIO",
-    "title": "Grounding, not models, will define your AI advantage",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Grounding, not models, will define your AI advantage",
-    "summary_ko": "모델이 아닌 기반이 AI의 이점을 정의합니다. 지난 2년 동안 엔터프라이즈 AI 인프라 세계에서 일하면서 업계가 어디로 향하고 있는지 추적하면서 저는 동일한 질문 표면을 반복적으로 발견했습니다. 자체적인 대규모 언어 모델을 구축해야 합니까? 나는 본능을 이해합니다.",
-    "url": "https://www.cio.com/article/4190104/grounding-not-models-will-define-your-ai-advantage.html",
-    "image": null,
-    "date": "2026-06-29T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4188578/how-to-keep-your-it-talent-pipeline-from-collapsing.html",
-    "platform": "CIO",
-    "title": "How to keep your IT talent pipeline from collapsing",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "How to keep your IT talent pipeline from collapsing",
-    "summary_ko": "IT 인재 파이프라인이 붕괴되는 것을 방지하는 방법. AI의 변혁적 매력은 IT 리더의 인재 파이프라인을 많은 사람들이 완전히 인정하고 싶어하는 것보다 더 많은 갈림길로 빠르게 밀어넣고 있습니다. 신입사원부터 사내 IT 전문 지식을 키우는 전통적인 접근 방식은 기술 수요가 AI 경험으로 전환되고 신입사원 역할이 AI 자동화로 대체되면서 어려움을 겪고 있습니다.",
-    "url": "https://www.cio.com/article/4188578/how-to-keep-your-it-talent-pipeline-from-collapsing.html",
-    "image": null,
-    "date": "2026-06-29T10:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4190100/beyond-automation-how-much-does-ai-really-cost.html",
-    "platform": "CIO",
-    "title": "Beyond automation: How much does AI really cost?",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Beyond automation: How much does AI really cost?",
-    "summary_ko": "자동화를 넘어서: AI의 실제 비용은 얼마입니까? 아무도 예산을 책정하지 않은 문제 최근 익명의 기업이 Claude AI에 한 달에 5억 달러를 지출했습니다. 이는 기술이 실패했기 때문이 아니라 직원에게 배포하기 전에 아무도 사용 제한을 설정하지 않았기 때문입니다. 우버는 올해 상반기가 끝나기 전에 2026년 AI 예산을 모두 소진했다.",
-    "url": "https://www.cio.com/article/4190100/beyond-automation-how-much-does-ai-really-cost.html",
-    "image": null,
-    "date": "2026-06-29T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4190426/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%b4%9d%ea%b4%84-%ed%94%84%eb%a1%9c%ed%86%a0%ed%83%80%ec%9d%b4%ed%8d%bc%c2%b7%eb%b9%8c%eb%8d%94%c2%b7%ea%b7%b8%eb%a1%9c%ec%9b%8cai-%ec%8b%9c.html",
-    "platform": "CIO",
-    "title": "클로드 코드 총괄 “프로토타이퍼·빌더·그로워…AI 시대 조직은 이렇게 바뀐다”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "클로드 코드 총괄 “프로토타이퍼·빌더·그로워…AI 시대 조직은 이렇게 바뀐다”",
-    "summary_ko": "앤트로픽에서 AI 코딩 도구 클로드 코드 개발을 주도하고 관련 팀을 총괄하는 보리스 체르니(Boris Cherny)는 28일 X를 통해 내부 제품 조직을 관찰한 결과를 바탕으로 미래 제품 조직의 다섯 가지 핵심 역할을 제시했다. 첫 번째는 ‘프로토타이퍼(Prototyper)’다. 새로운 아이디어를 끊임없이 발굴하고 빠르게 실험하는 역할이다. 수많은 아이디어를 만들어내지만 실제 제품으로 이어지는 것은 일부에 그친다. 두 번째는 ‘빌더(Builder)’다. 프로토타입이나 아이디어를 빠르게 실제 서비스 수준의 제품과 인프라로 구현하는 역할이다.",
-    "url": "https://www.cio.com/article/4190426/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%b4%9d%ea%b4%84-%ed%94%84%eb%a1%9c%ed%86%a0%ed%83%80%ec%9d%b4%ed%8d%bc%c2%b7%eb%b9%8c%eb%8d%94%c2%b7%ea%b7%b8%eb%a1%9c%ec%9b%8cai-%ec%8b%9c.html",
-    "image": null,
-    "date": "2026-06-29T09:58:22.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4190086/the-rise-of-the-product-engineer-how-ai-is-reshaping-modern-tech-teams.html",
-    "platform": "CIO",
-    "title": "The rise of the product engineer: How AI is reshaping modern tech teams",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "The rise of the product engineer: How AI is reshaping modern tech teams",
-    "summary_ko": "제품 엔지니어의 부상: AI가 현대 기술 팀을 어떻게 재구성하고 있습니까? 순수 전문화의 종말 수년 동안 소프트웨어 조직은 전문화를 중심으로 최적화해 왔습니다. 제품 관리자가 소유한 요구 사항. 엔지니어가 직접 구현했습니다.",
-    "url": "https://www.cio.com/article/4190086/the-rise-of-the-product-engineer-how-ai-is-reshaping-modern-tech-teams.html",
-    "image": null,
-    "date": "2026-06-29T09:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4190376/%ec%b9%bc%eb%9f%bc-%eb%af%b8%ed%86%a0%ec%8a%a4%ea%b0%80-%eb%8d%98%ec%a7%84-%ec%a7%88%eb%ac%b8-ciso%eb%93%a4%ec%9d%b4-%ec%9d%b4%ec%82%ac%ed%9a%8c%ec%97%90-%ea%ba%bc%eb%82%b4%ec%95%bc-%ed%95%a0.html",
-    "platform": "CIO",
-    "title": "칼럼 | 미토스가 던진 질문, CISO들이 이사회에 꺼내야 할 진짜 답",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 미토스가 던진 질문, CISO들이 이사회에 꺼내야 할 진짜 답",
-    "summary_ko": "새로운 AI 기술이 세간의 관심을 끌 때마다 이사회와 경영진 회의에서는 늘 비슷한 장면이 반복된다. 새로운 기술은 곧 공격자에게 강력한 무기가 될 혁신으로 소개되고, 논의는 빠르게 최악의 시나리오로 흘러간다. 이어 보안 책임자들은 어김없이 같은 질문을 받는다. ‘이전에는 없던 새로운 위험에 갑자기 노출된 것인가? ’ 필자의 대답은 대체로 ‘아니다’이다. 대부분의 조직에서 더 큰 문제는 미토스 같은 최첨단 AI 모델이 하루아침에 새로운 위험 범주를 만들어낸다는 점이 아니다. 오히려 이러한 모델은 사이버 보안의 공격과 방어 모두에서 업무 속도를 높일 수 있다.",
-    "url": "https://www.cio.com/article/4190376/%ec%b9%bc%eb%9f%bc-%eb%af%b8%ed%86%a0%ec%8a%a4%ea%b0%80-%eb%8d%98%ec%a7%84-%ec%a7%88%eb%ac%b8-ciso%eb%93%a4%ec%9d%b4-%ec%9d%b4%ec%82%ac%ed%9a%8c%ec%97%90-%ea%ba%bc%eb%82%b4%ec%95%bc-%ed%95%a0.html",
-    "image": null,
-    "date": "2026-06-29T07:31:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4190367/ms%c2%b7%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%93%b1-ai-%ea%b8%b0%ec%97%85-%ea%b7%bc%eb%a1%9c%ec%9e%90-%ec%a0%84%ed%99%98-%ec%a7%80%ec%9b%90-%eb%b9%84%ec%98%81%eb%a6%ac%eb%8b%a8%ec%b2%b4-%ec%b6%9c.html",
-    "platform": "CIO",
-    "title": "MS·앤트로픽 등 AI 기업, 근로자 전환 지원 비영리단체 출범…’AI 워싱’ 논란도",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "MS·앤트로픽 등 AI 기업, 근로자 전환 지원 비영리단체 출범…’AI 워싱’ 논란도",
-    "summary_ko": "AI가 이미 현실이 된 만큼 근로자가 변화에 적응하도록 지원해야 한다는 것이 새롭게 출범한 비영리단체의 주장이다. 이는 AI가 일자리를 빼앗아 사회적 혼란을 초래할 것인지, 아니면 경제를 한 단계 더 도약시킬 것인지를 둘러싼 논쟁에 대한 이 단체의 해법이기도 하다. 6월 25일 출범한 레이즈 어스(Raise Us)는 초당적 성격의 전국 비영리단체다. 미국 주지사와 기업, 근로자, 교육훈련 기관과 협력해 미국 노동자가 AI 경제로 성공적으로 전환할 수 있도록 지원하겠다고 밝혔다.",
-    "url": "https://www.cio.com/article/4190367/ms%c2%b7%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%93%b1-ai-%ea%b8%b0%ec%97%85-%ea%b7%bc%eb%a1%9c%ec%9e%90-%ec%a0%84%ed%99%98-%ec%a7%80%ec%9b%90-%eb%b9%84%ec%98%81%eb%a6%ac%eb%8b%a8%ec%b2%b4-%ec%b6%9c.html",
-    "image": null,
-    "date": "2026-06-29T07:19:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4190349/ai-%ec%8b%9c%eb%8c%80-cio%ec%9d%98-%ec%97%ad%ed%95%a0%ec%9d%b4-%eb%b0%94%eb%80%90%eb%8b%a4%ed%98%81%ec%8b%a0%ea%b3%bc-%ec%9c%84%ed%97%98-%ea%b4%80%eb%a6%ac-%ec%82%ac%ec%9d%b4-%ed%95%b4.html",
-    "platform": "CIO",
-    "title": "AI 시대 CIO의 역할이 바뀐다…혁신과 위험 관리 사이 해법은",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 시대 CIO의 역할이 바뀐다…혁신과 위험 관리 사이 해법은",
-    "summary_ko": "CIO의 새로운 과제는 분명하다. 전사 차원의 AI 도입을 신속하게 추진하는 것이다. CIO. com의 ‘2026 CIO 현황 보고서(State of the CIO)’에 따르면, CEO들이 IT 임원에게 가장 우선적으로 요구하는 과제는 AI를 통해 실질적인 비즈니스 성과를 창출하는 것이다. AI 제품을 조사하고 평가하는 단계부터 도입과 활용에 이르기까지, CIO는 이제 조직의 AI 전략을 이끄는 핵심 역할을 맡고 있다. 기업 경영진이 기대하는 것도 구체적인 성과다.",
-    "url": "https://www.cio.com/article/4190349/ai-%ec%8b%9c%eb%8c%80-cio%ec%9d%98-%ec%97%ad%ed%95%a0%ec%9d%b4-%eb%b0%94%eb%80%90%eb%8b%a4%ed%98%81%ec%8b%a0%ea%b3%bc-%ec%9c%84%ed%97%98-%ea%b4%80%eb%a6%ac-%ec%82%ac%ec%9d%b4-%ed%95%b4.html",
-    "image": null,
-    "date": "2026-06-29T07:06:45.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uibt9o/npc_engine_using_local_models/",
-    "platform": "Reddit",
-    "title": "NPC Engine Using Local Models",
-    "author": {
-      "name": "/u/goodive123",
-      "handle": "/u//u/goodive123",
-      "avatar_color": "#ff4500"
-    },
-    "content": "NPC Engine Using Local Models",
-    "summary_ko": "로컬 모델을 사용하는 NPC 엔진",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uibt9o/npc_engine_using_local_models/",
-    "image": "https://external-preview.redd.it/NGhjbzV2eTV2M2FoMR39urnPMo6T-MiGC-QPCASn2GUn86M8b-WEdDXlceeB.png?width=640&crop=smart&auto=webp&s=128933186e241cc9ba1b736837b461f331d18753",
-    "date": "2026-06-28T23:13:52.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4187397/it%e3%82%92%e6%8f%ba%e3%82%8b%e3%81%8c%e3%81%99%e3%80%8c%e3%82%a8%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%e4%be%a1%e6%a0%bc%e5%a4%a7%e8%bb%a2%e6%8f%9b%e3%80%8d%e3%81%ae%e6%b3%a2.html",
-    "platform": "CIO",
-    "title": "ITを揺るがす「エンタープライズ価格大転換」の波",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "ITを揺るがす「エンタープライズ価格大転換」の波",
-    "summary_ko": "IT를 뒤흔드는 \"엔터프라이즈 가격 대전환\"의 파. Saa S와 AI 소프트웨어 시장은 가격 대전환기에 들어가 있다. 기존의 Saa S와 경쟁하는 AI 제품의 등장으로 Saa S 벤더는 시트 기반(사용자 수 기준)의 가격 설정의 재검토에 육박하고 있다. 재검토의 결과, 종래형 Saa S의 가격은 아웃컴 베이스(성과 연동형) 과금으로 이행하고 있는, 이것은 CIO와 CFO에 있어서는 대체로 플러스의 움직임이다.",
-    "url": "https://www.cio.com/article/4187397/it%e3%82%92%e6%8f%ba%e3%82%8b%e3%81%8c%e3%81%99%e3%80%8c%e3%82%a8%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%e4%be%a1%e6%a0%bc%e5%a4%a7%e8%bb%a2%e6%8f%9b%e3%80%8d%e3%81%ae%e6%b3%a2.html",
-    "image": null,
-    "date": "2026-06-28T23:00:00.000Z",
     "likes": 0,
     "comments": 0
   }
