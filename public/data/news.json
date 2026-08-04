@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1vf6cpa/nope/",
+    "platform": "Reddit",
+    "title": "Nope",
+    "author": {
+      "name": "/u/alanskimp",
+      "handle": "/u//u/alanskimp",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Nope",
+    "summary_ko": "아니요",
+    "url": "https://www.reddit.com/r/singularity/comments/1vf6cpa/nope/",
+    "image": "https://preview.redd.it/ta5ecsqr3chh1.png?width=640&crop=smart&auto=webp&s=7c34d282472f1e47e145bf7698d904a0b095a949",
+    "date": "2026-08-04T10:20:48.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vevsv9/more_qwen_38_sizes_coming/",
+    "platform": "Reddit",
+    "title": "More Qwen 3.8 sizes coming",
+    "author": {
+      "name": "/u/appakaradi",
+      "handle": "/u//u/appakaradi",
+      "avatar_color": "#ff4500"
+    },
+    "content": "More Qwen 3.8 sizes coming",
+    "summary_ko": "더 많은 Qwen 3.8 크기 출시 예정",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vevsv9/more_qwen_38_sizes_coming/",
+    "image": "https://preview.redd.it/zodlaejqc9hh1.jpeg?width=640&crop=smart&auto=webp&s=e3f1c0c9754a4e68d47c2d26fbe91239f140855c",
+    "date": "2026-08-04T01:05:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4204312/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%82%ac%eb%9e%8c%eb%a7%8c-%eb%8d%94-%eb%bd%91%eb%8a%94-%eb%b0%a9%ec%8b%9d%ec%9d%80-%ed%95%9c%ea%b3%84ussfcu-cio%ea%b0%80-%eb%a7%90%ed%95%98%eb%8a%94-ai.html",
+    "platform": "CIO",
+    "title": "인터뷰 | “사람만 더 뽑는 방식은 한계”…USSFCU CIO가 말하는 AI 기반 보안 운영",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "인터뷰 | “사람만 더 뽑는 방식은 한계”…USSFCU CIO가 말하는 AI 기반 보안 운영",
+    "summary_ko": "미국 상원 연방신용조합(United States Senate Federal Credit Union, USSFCU)은 미국 상원과 연방대법원 등 미국 정부 기관을 대상으로 일반 소매금융 서비스를 제공하는 비영리 금융협동조합이다. 현재 약 150명의 직원이 근무하고 있으며, 약 16억 달러(약 2조 2,800억 원) 규모의 자산을 운용하고 있다. 몇 년 전부터 IT 활용을 확대하면서 사이버 보안은 핵심 과제로 떠올랐다. 그러나 조직 규모가 커질수록 보안 강화를 가로막는 두 가지 문제가 드러났다.",
+    "url": "https://www.cio.com/article/4204312/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%82%ac%eb%9e%8c%eb%a7%8c-%eb%8d%94-%eb%bd%91%eb%8a%94-%eb%b0%a9%ec%8b%9d%ec%9d%80-%ed%95%9c%ea%b3%84ussfcu-cio%ea%b0%80-%eb%a7%90%ed%95%98%eb%8a%94-ai.html",
+    "image": null,
+    "date": "2026-08-04T01:01:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4204306/%ec%9e%ac%eb%ac%b4%c2%b7hr%ea%b9%8c%ec%a7%80-%ed%8c%8c%ea%b3%a0%eb%93%a0-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b8%b0%ec%97%85-53-%ed%99%9c%eb%8f%99-%ea%b2%80%ec%a6%9d-%eb%aa%bb.html",
+    "platform": "CIO",
+    "title": "재무·HR까지 파고든 AI 에이전트…기업 53% “활동 검증 못 해”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "재무·HR까지 파고든 AI 에이전트…기업 53% “활동 검증 못 해”",
+    "summary_ko": "AI 에이전트는 이제 비즈니스 기록을 생성하고 거래를 승인하며 재무 워크플로우를 실행하는 역할까지 맡고 있다. 그러나 ERP 보안 기업 패스록(Pathlock)은 대부분의 조직이 AI 에이전트가 실제로 이러한 업무만 수행하는지조차 제대로 파악하지 못하고 있다고 지적했다.",
+    "url": "https://www.cio.com/article/4204306/%ec%9e%ac%eb%ac%b4%c2%b7hr%ea%b9%8c%ec%a7%80-%ed%8c%8c%ea%b3%a0%eb%93%a0-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b8%b0%ec%97%85-53-%ed%99%9c%eb%8f%99-%ea%b2%80%ec%a6%9d-%eb%aa%bb.html",
+    "image": null,
+    "date": "2026-08-04T00:58:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4204301/%ec%b9%bc%eb%9f%bc-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ac%ec%9d%b4%ec%96%b8%ed%8b%b0%ec%8a%a4%ed%8a%b8%eb%8a%94-%ec%a3%bd%ec%97%88%eb%8b%a4-%ea%b7%b8-%ec%9e%90%eb%a6%ac%ec%97%90-%eb%82%a8%ec%9d%80.html",
+    "platform": "CIO",
+    "title": "칼럼 | 데이터 사이언티스트는 죽었다…그 자리에 남은 건 판단력과 지휘봉",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 데이터 사이언티스트는 죽었다…그 자리에 남은 건 판단력과 지휘봉",
+    "summary_ko": "독일 함부르크의 라이스츠할레(Laeiszhalle)에서 공연한 친구가 있다. 공연장은 빈자리를 찾기 어려울 정도로 관객으로 가득 찼고, 신사들은 더블브레스트 정장을 말끔히 차려입었으며, 숙녀들은 대대로 물려받은 보석을 목에 걸고 있었다. 객석에서 바라본 무대에는 오케스트라 앞줄에 앉아 바이올린을 연주하는 친구가 눈에 들어왔다. 친구는 피치카토를 연주하며 긴장한 표정을 짓고 있었고, 그 순간 지휘자는 지휘봉을 들어 오케스트라 전체를 이끌었다. 공연이 끝난 뒤 악기를 정리하던 친구를 만났다.",
+    "url": "https://www.cio.com/article/4204301/%ec%b9%bc%eb%9f%bc-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ac%ec%9d%b4%ec%96%b8%ed%8b%b0%ec%8a%a4%ed%8a%b8%eb%8a%94-%ec%a3%bd%ec%97%88%eb%8b%a4-%ea%b7%b8-%ec%9e%90%eb%a6%ac%ec%97%90-%eb%82%a8%ec%9d%80.html",
+    "image": null,
+    "date": "2026-08-04T00:56:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vet1o7/the_situation_is_insane/",
+    "platform": "Reddit",
+    "title": "The situation is insane",
+    "author": {
+      "name": "/u/floriandotorg",
+      "handle": "/u//u/floriandotorg",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The situation is insane",
+    "summary_ko": "상황이 미쳤네요",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vet1o7/the_situation_is_insane/",
+    "image": "https://preview.redd.it/2bregl9wq8hh1.png?width=640&crop=smart&auto=webp&s=62e88eb018f580a2a8db7726a18d15b07a22b0e8",
+    "date": "2026-08-03T23:07:40.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1veslal/elon_musk_the_next_step_is_getting_rid_of_source/",
+    "platform": "Reddit",
+    "title": "Elon Musk: \"The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.\"",
+    "author": {
+      "name": "/u/sheakspeares",
+      "handle": "/u//u/sheakspeares",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Elon Musk: \"The next step is getting rid of “source code” entirely and just making an efficient binary directly with AI.\"",
+    "summary_ko": "Elon Musk: \"다음 단계는 '소스 코드'를 완전히 제거하고 AI를 사용하여 직접 효율적인 바이너리를 만드는 것입니다.\".",
+    "url": "https://www.reddit.com/r/singularity/comments/1veslal/elon_musk_the_next_step_is_getting_rid_of_source/",
+    "image": null,
+    "date": "2026-08-03T22:48:48.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4204298/%ec%98%a4%ed%94%88ai%ec%97%90-%ec%9d%b4%ec%96%b4-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%eb%8f%84-%ec%9d%b8%ec%a0%95%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b3%b4%ec%95%88.html",
     "platform": "CIO",
     "title": "오픈AI에 이어 앤트로픽도 인정…클로드, 사이버 보안 테스트 중 실제 기업 3곳 침해",
@@ -3149,74 +3274,6 @@
     "url": "https://www.cio.com/article/4192863/ai%e3%81%b8%e3%81%ae%e4%be%9d%e5%ad%98%e3%81%8c%e3%80%81%e7%a4%be%e5%93%a1%e3%81%ae%e6%80%9d%e8%80%83%e5%8a%9b%e3%82%92%e5%a5%aa%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b%ef%bc%9f.html",
     "image": null,
     "date": "2026-07-05T23:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uo7gyq/gpt_56_discovered_new_math_according_to_sam_altman/",
-    "platform": "Reddit",
-    "title": "Gpt 5.6 discovered new math according to Sam Altman",
-    "author": {
-      "name": "/u/Consistent_Ad8754",
-      "handle": "/u//u/Consistent_Ad8754",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Gpt 5.6 discovered new math according to Sam Altman",
-    "summary_ko": "Sam Altman에 따르면 Gpt 5.6은 새로운 수학을 발견했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1uo7gyq/gpt_56_discovered_new_math_according_to_sam_altman/",
-    "image": "https://preview.redd.it/ziukig5o0gbh1.jpeg?width=640&crop=smart&auto=webp&s=462551540f62aa5282dc8bacfb155e8b1cfdd311",
-    "date": "2026-07-05T17:05:44.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uo3af4/google_deepmind_product_and_design_lead_using_and/",
-    "platform": "Reddit",
-    "title": "Google DeepMind Product and Design Lead using and advertising a competitor's model",
-    "author": {
-      "name": "/u/Glittering-Neck-2505",
-      "handle": "/u//u/Glittering-Neck-2505",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Google DeepMind Product and Design Lead using and advertising a competitor's model",
-    "summary_ko": "경쟁사의 모델을 사용하고 광고하는 Google DeepMind 제품 및 디자인 리드",
-    "url": "https://www.reddit.com/r/singularity/comments/1uo3af4/google_deepmind_product_and_design_lead_using_and/",
-    "image": "https://preview.redd.it/0k8376mn5fbh1.png?width=640&crop=smart&auto=webp&s=d6566be2405605934674f74e7486aaee45a8fb44",
-    "date": "2026-07-05T14:15:25.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1uo0kys/trying_to_explain_a_task_to_chatgpt/",
-    "platform": "Reddit",
-    "title": "Trying to explain a task to ChatGPT:",
-    "author": {
-      "name": "/u/PromptNo9656",
-      "handle": "/u//u/PromptNo9656",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Trying to explain a task to ChatGPT:",
-    "summary_ko": "ChatGPT에 작업을 설명하려고 합니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1uo0kys/trying_to_explain_a_task_to_chatgpt/",
-    "image": "https://external-preview.redd.it/em1xZzcycGtqZWJoMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&crop=smart&auto=webp&s=f6fa401a6ea95be94b63e42d8cfd06e4ff0e106e",
-    "date": "2026-07-05T12:08:42.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1unyvnz/longcat_20_16t_48b_active_weights_are_now_open/",
-    "platform": "Reddit",
-    "title": "longcat 2.0 (1.6T, ~48B active) weights are now open under MIT license",
-    "author": {
-      "name": "/u/Nunki08",
-      "handle": "/u//u/Nunki08",
-      "avatar_color": "#ff4500"
-    },
-    "content": "longcat 2.0 (1.6T, ~48B active) weights are now open under MIT license",
-    "summary_ko": "longcat 2.0(1.6T, ~48B 활성) 가중치가 이제 MIT 라이센스에 따라 공개됩니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1unyvnz/longcat_20_16t_48b_active_weights_are_now_open/",
-    "image": "https://external-preview.redd.it/Tl4T00m03mXi9dnysuPMT3ZoHlKwgeMAyvE7uTJqM4o.png?width=640&crop=smart&auto=webp&s=13c43b98a88d05ab28ba5000aec6daa339a442bf",
-    "date": "2026-07-05T10:35:23.000Z",
     "likes": 0,
     "comments": 0
   }
