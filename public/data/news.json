@@ -1,5 +1,168 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vhxi8k/we_sandboxed_the_agent_meanwhile_the_agent/",
+    "platform": "Reddit",
+    "title": "“we sandboxed the agent” -- meanwhile the agent...",
+    "author": {
+      "name": "/u/KeanuRave100",
+      "handle": "/u//u/KeanuRave100",
+      "avatar_color": "#ff4500"
+    },
+    "content": "“we sandboxed the agent” -- meanwhile the agent...",
+    "summary_ko": "\"우리는 에이전트를 샌드박스 처리했습니다.\" -- 그 사이에 에이전트는...",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vhxi8k/we_sandboxed_the_agent_meanwhile_the_agent/",
+    "image": "https://preview.redd.it/ja3fe7rzpxhh1.png?width=640&crop=smart&auto=webp&s=8ff6fc1a2fa6673901adc53cfd968fb9525c73a9",
+    "date": "2026-08-07T11:02:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vht97z/how_theyre_treating_hank_green_for_using_ai_is/",
+    "platform": "Reddit",
+    "title": "How they’re treating Hank Green for using AI is disgusting and I’ve shifted my view of AI as well.",
+    "author": {
+      "name": "/u/BlueAndYellowTowels",
+      "handle": "/u//u/BlueAndYellowTowels",
+      "avatar_color": "#ff4500"
+    },
+    "content": "How they’re treating Hank Green for using AI is disgusting and I’ve shifted my view of AI as well.",
+    "summary_ko": "AI를 사용했다는 이유로 행크 그린을 대하는 방식은 역겨워서 AI에 대한 내 시각도 바뀌었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vht97z/how_theyre_treating_hank_green_for_using_ai_is/",
+    "image": null,
+    "date": "2026-08-07T06:54:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vhq27j/gemini/",
+    "platform": "Reddit",
+    "title": "Gemini",
+    "author": {
+      "name": "/u/Character_Sun_5783",
+      "handle": "/u//u/Character_Sun_5783",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Gemini",
+    "summary_ko": "쌍둥이자리",
+    "url": "https://www.reddit.com/r/singularity/comments/1vhq27j/gemini/",
+    "image": "https://preview.redd.it/1okp60uqmvhh1.jpeg?width=640&crop=smart&auto=webp&s=04bfef95353bd192420b28478fe2ba1534a387a3",
+    "date": "2026-08-07T04:01:01.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vhpcqn/openai_completely_emptied_my_bank_account_for_an/",
+    "platform": "Reddit",
+    "title": "OpenAI completely emptied my bank account for an org I don’t recognize. Please help me get support (I'm freaking out)",
+    "author": {
+      "name": "/u/TheWorstGameDev",
+      "handle": "/u//u/TheWorstGameDev",
+      "avatar_color": "#ff4500"
+    },
+    "content": "OpenAI completely emptied my bank account for an org I don’t recognize. Please help me get support (I'm freaking out)",
+    "summary_ko": "OpenAI는 내가 모르는 조직의 은행 계좌를 완전히 비웠습니다. 지원을 받을 수 있게 도와주세요. (정말 겁이 나요).",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vhpcqn/openai_completely_emptied_my_bank_account_for_an/",
+    "image": null,
+    "date": "2026-08-07T03:25:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4206479/ms-%eb%8b%a8%ec%9c%84-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99-%ec%83%9d%ec%84%b1-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b3%b5%ea%b0%9c.html",
+    "platform": "CIO",
+    "title": "MS, 단위 테스트 자동 생성 오픈소스 에이전트 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "MS, 단위 테스트 자동 생성 오픈소스 에이전트 공개",
+    "summary_ko": "마이크로소프트(MS)가 모든 프로그래밍 언어에서 단위 테스트를 생성할 수 있는 오픈소스 에이전트 ‘코드 테스트 생성기(code-testing-generator)’를 공개했다. 7월 31일 공개된 코드 테스트 생성기는 사용자의 저장소를 분석해 테스트 계획을 수립하고, 단위 테스트를 작성한 뒤 실제로 정상 동작하는지 검증한다. 현재는 단위 테스트만 생성할 수 있으며, 통합 테스트(Integration Test), 엔드투엔드(E2E) 테스트, 브라우저 테스트, 성능 테스트는 지원 대상에 포함되지 않는다고 마이크로소프트는 설명했다.",
+    "url": "https://www.cio.com/article/4206479/ms-%eb%8b%a8%ec%9c%84-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99-%ec%83%9d%ec%84%b1-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b3%b5%ea%b0%9c.html",
+    "image": null,
+    "date": "2026-08-07T03:11:28.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4206476/%eb%a9%94%ed%83%80-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%ae%a4%ec%a6%88-%ec%bd%94%eb%93%9c-%ec%b6%9c%ec%8b%9c%ec%b0%a8%eb%b3%84%ed%99%94%eb%8a%94-%ec%95%84.html",
+    "platform": "CIO",
+    "title": "메타, AI 코딩 에이전트 ‘뮤즈 코드’ 출시…”차별화는 아직 입증 필요”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "메타, AI 코딩 에이전트 ‘뮤즈 코드’ 출시…”차별화는 아직 입증 필요”",
+    "summary_ko": "메타가 대규모 코드베이스에서 복잡한 소프트웨어 개발 작업을 수행할 수 있도록 설계된 베타 버전 코딩 에이전트 ‘뮤즈 코드(Muse Code)’를 공개했다. 맥OS와 리눅스에서 사용할 수 있는 뮤즈 코드는 메타의 새로운 AI 모델인 ‘뮤즈 스파크(Muse Spark) 1. 2’를 기반으로 한다. 개별 작업마다 별도로 생성되는 대신, 세션이 유지되는 동안 계속 실행되는 특화된 백그라운드 에이전트를 포함한 것이 특징이다. 이들 에이전트는 비동기적으로 작업을 수행하며, 언제 주 에이전트에 결과를 보고할지 스스로 판단한다.",
+    "url": "https://www.cio.com/article/4206476/%eb%a9%94%ed%83%80-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%ae%a4%ec%a6%88-%ec%bd%94%eb%93%9c-%ec%b6%9c%ec%8b%9c%ec%b0%a8%eb%b3%84%ed%99%94%eb%8a%94-%ec%95%84.html",
+    "image": null,
+    "date": "2026-08-07T03:07:08.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4206474/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ec%bf%a0%ed%8c%8c%ec%9d%bc-api-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ea%b3%b5%ea%b0%9cai-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%a7%80-%ed%91%9c%ec%a4%80.html",
+    "platform": "CIO",
+    "title": "엔비디아, 쿠파일 API 오픈소스 공개…AI 스토리지 표준화 본격 추진",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "엔비디아, 쿠파일 API 오픈소스 공개…AI 스토리지 표준화 본격 추진",
+    "summary_ko": "엔비디아가 AI 스토리지와 메모리 시스템의 데이터 접근 속도를 높이기 위해 쿠파일 API와 소프트웨어 스택을 오픈소스로 공개한다. 또한 GPU 기반 스토리지 기술의 표준화를 목표로 하는 40여 개 기업 규모의 신규 협력체인 스토리지-넥스트(Storage-Next)도 추진한다. 엔비디아는 이번 주 열린 미래 메모리 및 스토리지(Future of Memory and Storage, FMS) 컨퍼런스에서 쿠파일 API와 이를 뒷받침하는 버티컬 스토리지 소프트웨어 스택을 오픈소스로 공개한다고 발표했다.",
+    "url": "https://www.cio.com/article/4206474/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ec%bf%a0%ed%8c%8c%ec%9d%bc-api-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ea%b3%b5%ea%b0%9cai-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%a7%80-%ed%91%9c%ec%a4%80.html",
+    "image": null,
+    "date": "2026-08-07T02:58:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4206471/%ed%8f%89%ea%b0%80%ec%9e%a5%ec%9d%b4-%eb%9a%ab%eb%a0%b8%eb%8b%a4%ed%94%84%eb%a1%a0%ed%8b%b0%ec%96%b4-ai-3%ec%82%ac-%ea%b0%99%ec%9d%80-%ec%97%85%ec%b2%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8%ec%97%90.html",
+    "platform": "CIO",
+    "title": "평가장이 뚫렸다…프론티어 AI 3사, 같은 업체 테스트에서 나란히 보안 사고",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "평가장이 뚫렸다…프론티어 AI 3사, 같은 업체 테스트에서 나란히 보안 사고",
+    "summary_ko": "메타가 AI 안전성 스타트업 이레귤러(Irregular)가 수행한 사이버 역량 평가 과정에서 자사의 첨단 AI 모델과 관련한 보안 사고를 공개했다. 최근 몇 주 사이 오픈AI, 앤트로픽에 이어 세 번째 사례다. 이번 공개로 업계 주요 AI 연구소의 평가를 담당해온 독립 평가기관 이레귤러가 잇따른 사고의 중심에 서게 됐다. 로이터 통신에 따르면, 이레귤러가 진행한 ‘캡처 더 플래그(Capture the Flag)’ 테스트에서 메타의 ‘뮤즈 스파크 1. 1(Muse Spark 1. 1)’ 모델이 다른 기업의 시스템에 침투해 보안 취약점을 악용했다.",
+    "url": "https://www.cio.com/article/4206471/%ed%8f%89%ea%b0%80%ec%9e%a5%ec%9d%b4-%eb%9a%ab%eb%a0%b8%eb%8b%a4%ed%94%84%eb%a1%a0%ed%8b%b0%ec%96%b4-ai-3%ec%82%ac-%ea%b0%99%ec%9d%80-%ec%97%85%ec%b2%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8%ec%97%90.html",
+    "image": null,
+    "date": "2026-08-07T02:51:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4206067/60%ea%b0%9c-%eb%84%98%eb%8a%94-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b3%a0%eb%a5%b4%eb%82%98ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8.html",
+    "platform": "CIO",
+    "title": "60개 넘는 플랫폼, 어떻게 고르나…AI 에이전트 오케스트레이션 도입 체크리스트 5가지",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "60개 넘는 플랫폼, 어떻게 고르나…AI 에이전트 오케스트레이션 도입 체크리스트 5가지",
+    "summary_ko": "AI 에이전트 오케스트레이션 플랫폼은 역할 기반 및 작업 기반 AI 에이전트는 물론, 이들이 활용하는 도구와 데이터, 사람까지 하나의 다단계 워크플로로 통합·조율한다. 이러한 플랫폼은 운영 환경에서 소수의 AI 에이전트를 넘어 수천 개의 AI 에이전트를 운영하려는 기업에 특히 중요한 역할을 한다. 이 같은 연결을 가능하게 하는 핵심 개방형 표준은 MCP(Model Context Protocol)와 A2A(Agent2Agent)다.",
+    "url": "https://www.cio.com/article/4206067/60%ea%b0%9c-%eb%84%98%eb%8a%94-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b3%a0%eb%a5%b4%eb%82%98ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8.html",
+    "image": null,
+    "date": "2026-08-07T02:37:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vhd416/qwen_38_max_now_ranked_as_best_overall_model/",
     "platform": "Reddit",
     "title": "Qwen 3.8 Max now ranked as best overall model ahead of Opus 5 by Artificial Analysis agentic index",
@@ -2933,209 +3096,6 @@
     "url": "https://www.cio.com/article/4194738/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4xai-2028%eb%85%84-ai-%ec%9c%84%ec%84%b1-%eb%b0%b0%ec%b9%98%ed%83%9c%ec%96%91%ea%b4%91%ec%9c%bc%eb%a1%9c-%ea%b6%a4%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
     "image": null,
     "date": "2026-07-09T04:12:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4193990/reallocating-cybersecurity-capital-in-the-mythos-era.html",
-    "platform": "CIO",
-    "title": "Reallocating cybersecurity capital in the Mythos era",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Reallocating cybersecurity capital in the Mythos era",
-    "summary_ko": "신화 시대의 사이버 보안 자본 재분배. 내 경력 전반에 걸쳐 나는 \"전례 없는\" 것으로 분류되었지만 단지 점진적인 것으로 판명된 셀 수 없이 많은 기술 변화를 보아왔습니다. 여기서 \"신화\" 기능으로 분류하는 고급 에이전트 AI 모델의 최근 배포는 근본적으로 다릅니다. 이는 기업의 위험 및 재무 역학의 영구적이고 구조적인 변화를 나타냅니다.",
-    "url": "https://www.cio.com/article/4193990/reallocating-cybersecurity-capital-in-the-mythos-era.html",
-    "image": null,
-    "date": "2026-07-08T12:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4193968/ai-changed-our-cloud-strategy-quantum-changes-the-questions-behind-it.html",
-    "platform": "CIO",
-    "title": "AI changed our cloud strategy. Quantum changes the questions behind it",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI changed our cloud strategy. Quantum changes the questions behind it",
-    "summary_ko": "AI가 우리의 클라우드 전략을 바꾸었습니다. Quantum은 그 뒤에 숨겨진 질문을 바꿉니다. 클라우드 전략의 가장 이상한 점은 파워포인트에서 보면 얼마나 자신감 넘치는지, 실제 생활에서는 얼마나 긴장감이 느껴지는지입니다. 나는 구름 슬라이드가 액자에 담을 만큼 깨끗해 보이는 방에 앉아 있었습니다.",
-    "url": "https://www.cio.com/article/4193968/ai-changed-our-cloud-strategy-quantum-changes-the-questions-behind-it.html",
-    "image": null,
-    "date": "2026-07-08T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194400/por-que-resulta-tan-dificil-medir-el-retorno-de-la-inversion-roi-de-la-ia.html",
-    "platform": "CIO",
-    "title": "¿Por qué resulta tan difícil medir el ROI de la IA?",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "¿Por qué resulta tan difícil medir el ROI de la IA?",
-    "summary_ko": "AI의 ROI를 측정하는 것이 왜 그렇게 어려운가요? 덴마크 제약 다국적 기업인 Novo Nordisk는 특허가 만료됨에 따라 약품을 시장에 출시하는 데 걸리는 시간을 단축하려고 합니다. 회사의 디지털 혁신 책임자인 스테파니 보바(Stephanie Bova)는 \"베스트셀러 약품이 있는 경우 일주일 지연으로 인해 1천만 달러에서 1억 달러에 달하는 비용이 발생할 수 있습니다\"라고 말합니다. “특허 보호를 위한 시간이 부족하기 때문에 엄청난 금액입니다.",
-    "url": "https://www.cio.com/article/4194400/por-que-resulta-tan-dificil-medir-el-retorno-de-la-inversion-roi-de-la-ia.html",
-    "image": null,
-    "date": "2026-07-08T10:47:29.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/230613/new-cio-appointments.html",
-    "platform": "CIO",
-    "title": "New US CIO appointments, July 2026",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "New US CIO appointments, July 2026",
-    "summary_ko": "기업의 기술 중심 전환이 가속화되면서 최고정보책임자(CIO)의 역할과 위상이 높아지고 있습니다. 최근 씨티그룹이 구글 부사장 출신 브라이언 살루조를, 아크 인슈어런스가 임란 잘로지를 신임 CIO로 영입하는 등 주요 기업의 인사가 이어졌습니다. 이는 금융 등 전통 산업에서도 기술 전문성과 비즈니스 전략을 겸비한 다차원적 리더를 선호하는 최신 채용 동향을 명확히 보여줍니다.",
-    "url": "https://www.cio.com/article/230613/new-cio-appointments.html",
-    "image": null,
-    "date": "2026-07-08T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4183502/why-is-it-so-hard-to-measure-the-roi-of-ai.html",
-    "platform": "CIO",
-    "title": "Why is it so hard to measure the ROI of AI?",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Why is it so hard to measure the ROI of AI?",
-    "summary_ko": "AI의 ROI를 측정하는 것이 왜 그렇게 어려운가요?. 덴마크의 다국적 제약회사인 Novo Nordisk는 특허가 만료됨에 따라 약물 출시 시간을 단축하는 데 큰 관심을 갖고 있습니다. 회사의 디지털 혁신 책임자인 스테파니 보바(Stephanie Bova)는 \"블록버스터 약품이 있는 경우 1주 지연이 1,000만 달러에서 1억 달러에 달할 수 있습니다\"라고 말합니다. “특허에 걸리는 시간이 적기 때문에 엄청난 돈이 됩니다.",
-    "url": "https://www.cio.com/article/4183502/why-is-it-so-hard-to-measure-the-roi-of-ai.html",
-    "image": null,
-    "date": "2026-07-08T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uqnqsc/chinas_minimax_plans_to_launch_27trillion/",
-    "platform": "Reddit",
-    "title": "China’s MiniMax Plans to Launch 2.7-Trillion Parameter Model",
-    "author": {
-      "name": "/u/External_Mood4719",
-      "handle": "/u//u/External_Mood4719",
-      "avatar_color": "#ff4500"
-    },
-    "content": "China’s MiniMax Plans to Launch 2.7-Trillion Parameter Model",
-    "summary_ko": "중국 MiniMax, 2조 7천억 매개변수 모델 출시 계획",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uqnqsc/chinas_minimax_plans_to_launch_27trillion/",
-    "image": null,
-    "date": "2026-07-08T09:34:04.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194171/%ea%b8%b0%ec%88%a0-%ea%b4%80%eb%a6%ac%ec%9e%90%eb%8a%94-%eb%81%9d%eb%82%ac%eb%8b%a4ai-%ec%8b%9c%eb%8c%80-cio%ea%b0%80-%ea%b0%96%ec%b6%b0%ec%95%bc-%ed%95%a0-6%ea%b0%80%ec%a7%80-%eb%a6%ac.html",
-    "platform": "CIO",
-    "title": "‘기술 관리자’는 끝났다…AI 시대 CIO가 갖춰야 할 6가지 리더십",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "‘기술 관리자’는 끝났다…AI 시대 CIO가 갖춰야 할 6가지 리더십",
-    "summary_ko": "AI는 조직의 모든 계층에서 업무 수행 방식은 물론, 업무를 담당하는 주체까지 바꾸고 있다. 이에 따라 경영진의 역할과 리더십 방식도 달라지고 있다. 이제 경영진은 AI를 활용해 조직을 새롭게 설계하고, 그 과정에서 수반되는 불확실성을 관리해야 하는 과제를 안고 있다. 이러한 변화는 CIO의 역할에도 영향을 미치고 있다. CIO는 새로운 책임을 맡고 더 높은 기대를 받으면서 역할이 확대되고 있다. 이는 수년간 이어져 온 CIO 역할의 진화 과정의 연장선에 있다.",
-    "url": "https://www.cio.com/article/4194171/%ea%b8%b0%ec%88%a0-%ea%b4%80%eb%a6%ac%ec%9e%90%eb%8a%94-%eb%81%9d%eb%82%ac%eb%8b%a4ai-%ec%8b%9c%eb%8c%80-cio%ea%b0%80-%ea%b0%96%ec%b6%b0%ec%95%bc-%ed%95%a0-6%ea%b0%80%ec%a7%80-%eb%a6%ac.html",
-    "image": null,
-    "date": "2026-07-08T05:57:14.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1uqhviv/gpt56_sol_along_with_terra_and_luna_will_launch/",
-    "platform": "Reddit",
-    "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.",
-    "author": {
-      "name": "/u/truecakesnake",
-      "handle": "/u//u/truecakesnake",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.",
-    "summary_ko": "GPT-5.6 Sol은 Terra 및 Luna와 함께 이번 주 목요일에 공개적으로 출시됩니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1uqhviv/gpt56_sol_along_with_terra_and_luna_will_launch/",
-    "image": "https://preview.redd.it/y2zyo1q4kxbh1.png?width=320&crop=smart&auto=webp&s=32d271ea277eff0221fc98c49ef55fe45c1e9b05",
-    "date": "2026-07-08T04:05:15.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uqhthi/gpt56_sol_along_with_terra_and_luna_will_launch/",
-    "platform": "Reddit",
-    "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.",
-    "author": {
-      "name": "/u/Snoo26837",
-      "handle": "/u//u/Snoo26837",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.",
-    "summary_ko": "GPT-5.6 Sol은 Terra 및 Luna와 함께 이번 주 목요일에 공개적으로 출시됩니다. 현재 미리보기 액세스를 전 세계적으로 확대하고 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1uqhthi/gpt56_sol_along_with_terra_and_luna_will_launch/",
-    "image": null,
-    "date": "2026-07-08T04:02:20.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194160/%ea%b0%80%ed%8a%b8%eb%84%88-2026%eb%85%84-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%a0%84%eb%a0%a5-%ec%86%8c%eb%b9%84-26-%ec%a6%9d%ea%b0%80ai-%ec%84%9c%eb%b2%84-%eb%b9%84%ec%a4%91-3.html",
-    "platform": "CIO",
-    "title": "가트너 “2026년 데이터센터 전력 소비 26% 증가…AI 서버 비중 31%”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "가트너 “2026년 데이터센터 전력 소비 26% 증가…AI 서버 비중 31%”",
-    "summary_ko": "전 세계 데이터센터의 전력 소비는 2026년 565테라와트시(TWh)로 증가할 전망이다. 이는 2025년 447TWh보다 26% 늘어난 규모다. 특히 AI 중심 데이터센터가 전체 전력 소비에서 차지하는 비중이 빠르게 확대될 것으로 예상된다. 시장조사업체 가트너는 전 세계 데이터센터의 전력 수요가 2026년 133기가와트(GW)로, 2025년 105GW보다 27% 증가할 것으로 내다봤다. 이후 2030년에는 291GW에 이를 전망이다. 이는 생성형 AI(Gen AI) 확산으로 데이터센터 전력 수요가 전례 없는 규모와 속도로 증가하고 있음을 보여준다.",
-    "url": "https://www.cio.com/article/4194160/%ea%b0%80%ed%8a%b8%eb%84%88-2026%eb%85%84-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%a0%84%eb%a0%a5-%ec%86%8c%eb%b9%84-26-%ec%a6%9d%ea%b0%80ai-%ec%84%9c%eb%b2%84-%eb%b9%84%ec%a4%91-3.html",
-    "image": null,
-    "date": "2026-07-08T01:50:04.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194134/%ec%82%ac%ec%9d%b4%eb%b2%84-%ec%9c%84%ed%97%98-%ed%8f%89%ea%b0%80-%ed%9a%a8%ea%b3%bc%eb%a5%bc-%eb%96%a8%ec%96%b4%eb%9c%a8%eb%a6%ac%eb%8a%94-7%ea%b0%80%ec%a7%80-%ec%b9%98%eb%aa%85%ec%a0%81-%ec%8b%a4.html",
-    "platform": "CIO",
-    "title": "사이버 위험 평가, 효과를 떨어뜨리는 7가지 치명적 실수",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "사이버 위험 평가, 효과를 떨어뜨리는 7가지 치명적 실수",
-    "summary_ko": "사이버 위험 평가는 보안 조직이 기업의 핵심 디지털 및 물리적 자산을 대상으로 잠재적인 위협과 취약점을 식별하고, 발생 가능성과 영향을 분석해 우선순위를 정하는 데 도움을 준다. 그러나 이러한 중요성에도 불구하고 많은 최고정보보호책임자(CISO)는 위험 평가의 목표를 충분히 달성하지 못하게 만드는 다양한 ‘함정(gotcha)’에 빠지곤 한다. 위험 평가는 모든 조직의 전반적인 사이버보안 전략에서 필수적인 요소가 돼야 한다.",
-    "url": "https://www.cio.com/article/4194134/%ec%82%ac%ec%9d%b4%eb%b2%84-%ec%9c%84%ed%97%98-%ed%8f%89%ea%b0%80-%ed%9a%a8%ea%b3%bc%eb%a5%bc-%eb%96%a8%ec%96%b4%eb%9c%a8%eb%a6%ac%eb%8a%94-7%ea%b0%80%ec%a7%80-%ec%b9%98%eb%aa%85%ec%a0%81-%ec%8b%a4.html",
-    "image": null,
-    "date": "2026-07-08T01:43:40.000Z",
     "likes": 0,
     "comments": 0
   }
