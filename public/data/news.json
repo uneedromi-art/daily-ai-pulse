@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1vivgeq/this_is_why_the_vast_majority_arent_taking_any/",
+    "platform": "Reddit",
+    "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
+    "author": {
+      "name": "/u/PressPlayPlease7",
+      "handle": "/u//u/PressPlayPlease7",
+      "avatar_color": "#ff4500"
+    },
+    "content": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
+    "summary_ko": "이것이 대다수의 사람들이 \"이 새로운 모델은 위험하다\"는 메시지를 심각하게 받아들이지 않는 이유입니다. 그들은 늑대를 너무 많이 울부짖었습니다. AI로 인한 핵전쟁이 24시간 앞으로 다가왔으며 많은 사람들이 눈 하나 깜짝하지 않을 것이라고 문자 그대로 발표할 수 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vivgeq/this_is_why_the_vast_majority_arent_taking_any/",
+    "image": "https://preview.redd.it/11ht1un0g5ih1.png?width=640&crop=smart&auto=webp&s=2652fc46af65da2e4355b49b4688a07df812545a",
+    "date": "2026-08-08T13:01:25.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1viqtgm/2027_memory_capacity_is_reportedly_sold_out/",
+    "platform": "Reddit",
+    "title": "2027 Memory Capacity Is Reportedly Sold Out",
+    "author": {
+      "name": "/u/johnnyApplePRNG",
+      "handle": "/u//u/johnnyApplePRNG",
+      "avatar_color": "#ff4500"
+    },
+    "content": "2027 Memory Capacity Is Reportedly Sold Out",
+    "summary_ko": "2027년 메모리 용량이 매진된 것으로 알려졌습니다",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viqtgm/2027_memory_capacity_is_reportedly_sold_out/",
+    "image": "https://external-preview.redd.it/RULANo01uf3INcx62jxJ05Z56Nn9ube37FArEuVZSGw.jpeg?width=640&crop=smart&auto=webp&s=420022a24539ce6b1dda06070b7b1719ff27155f",
+    "date": "2026-08-08T08:45:07.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vioml5/ai_model_trained_in_dna_invents_16_new_viruses/",
+    "platform": "Reddit",
+    "title": "AI Model Trained In DNA Invents 16 New Viruses Not Found In Nature",
+    "author": {
+      "name": "/u/Steap-Edit",
+      "handle": "/u//u/Steap-Edit",
+      "avatar_color": "#ff4500"
+    },
+    "content": "AI Model Trained In DNA Invents 16 New Viruses Not Found In Nature",
+    "summary_ko": "DNA로 훈련된 AI 모델, 자연에서는 발견되지 않는 16종의 새로운 바이러스 발견",
+    "url": "https://www.reddit.com/r/singularity/comments/1vioml5/ai_model_trained_in_dna_invents_16_new_viruses/",
+    "image": "https://external-preview.redd.it/RHwP9wfLO4doWMHwzgM2W0z7bQxHaLx0aTCGOIGfxT0.jpeg?width=640&crop=smart&auto=webp&s=42e0233d099dd7edb2798ed1e2d449a7660feb56",
+    "date": "2026-08-08T06:34:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vifymf/sam_on_astras_delayed_release/",
+    "platform": "Reddit",
+    "title": "Sam on Astra’s delayed release",
+    "author": {
+      "name": "/u/Outside-Iron-8242",
+      "handle": "/u//u/Outside-Iron-8242",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Sam on Astra’s delayed release",
+    "summary_ko": "Astra의 출시 지연에 대한 Sam",
+    "url": "https://www.reddit.com/r/singularity/comments/1vifymf/sam_on_astras_delayed_release/",
+    "image": "https://preview.redd.it/786xxw09d1ih1.png?width=640&crop=smart&auto=webp&s=c984e646e34e43afde303abd4d316cc0d657adba",
+    "date": "2026-08-07T23:18:34.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/OpenAI/comments/1vhxi8k/we_sandboxed_the_agent_meanwhile_the_agent/",
     "platform": "Reddit",
     "title": "“we sandboxed the agent” -- meanwhile the agent...",
@@ -2926,176 +2994,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1us5m0g/glm52_744b_moe_on_a_25gbram_consumer_machine/",
     "image": "https://external-preview.redd.it/NNWlLPxzyXhbyIUMuz2mW9zvetk56LAOcSGVs0rdPqY.png?width=640&crop=smart&auto=webp&s=4bc51d0f9ad167529370a7eb4ee3d62194c80a9c",
     "date": "2026-07-09T22:43:02.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4195147/ais-real-bottleneck-isnt-compute-its-distance.html",
-    "platform": "CIO",
-    "title": "AI’s real bottleneck isn’t compute. It’s distance.",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI’s real bottleneck isn’t compute. It’s distance.",
-    "summary_ko": "AI의 실제 병목 현상은 컴퓨팅이 아닙니다. 거리입니다.. 한 연구원이 점심 식사 전에 테스트해 볼 만한 아이디어를 가지고 있습니다. 모델이 준비되었습니다.",
-    "url": "https://www.cio.com/article/4195147/ais-real-bottleneck-isnt-compute-its-distance.html",
-    "image": null,
-    "date": "2026-07-09T15:57:57.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4192383/its-not-the-it-holding-ai-back-its-the-business-processes.html",
-    "platform": "CIO",
-    "title": "IT isn’t holding AI back, your business processes are",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "IT isn’t holding AI back, your business processes are",
-    "summary_ko": "IT가 AI를 방해하는 것이 아니라 비즈니스 프로세스가 방해하는 것입니다. 대부분의 CIO와 기타 IT 리더는 다가오는 AI 과제를 해결할 수 있는 팀의 능력을 확신하지만 많은 사람들은 비즈니스 운영 모델과 프로세스에 대한 점검이 필요하다고 생각합니다. Deloitte의 2026년 글로벌 리더십 기술 연구에 대해 설문 조사에 참여한 고위 IT 임원 중 80% 이상이 AI 기능을 대규모로 배포하고 관리하는 조직의 능력에 대해 확신합니다. 그러나 75%는 더 큰 가치를 창출하기 위해 향후 12~18개월 내에 운영 모델과 프로세스가 변경되어야 한다고 생각합니다.",
-    "url": "https://www.cio.com/article/4192383/its-not-the-it-holding-ai-back-its-the-business-processes.html",
-    "image": null,
-    "date": "2026-07-09T10:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4044424/6-courses-for-it-leaders-navigating-ai-change-management.html",
-    "platform": "CIO",
-    "title": "10 courses for IT leaders navigating AI change management",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "10 courses for IT leaders navigating AI change management",
-    "summary_ko": "AI 변경 관리를 탐색하는 IT 리더를 위한 10개 과정. AI의 혁신은 모든 곳에서 일상적인 비즈니스 운영에 점점 더 많은 영향을 미치고 있습니다. 결과적으로 IT 리더들은 AI 도입과 관련된 조직 변화를 주도하기 위해 안간힘을 쓰고 있습니다. 광범위한 변화에 전체 조직을 참여시키는 것은 어려운 작업이지만 올바른 AI 변경 관리 지식을 갖추면 전환을 원활하게 하는 데 도움이 될 수 있습니다.",
-    "url": "https://www.cio.com/article/4044424/6-courses-for-it-leaders-navigating-ai-change-management.html",
-    "image": null,
-    "date": "2026-07-09T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194596/ai-wont-transform-your-business-if-youre-still-running-it-the-same-way.html",
-    "platform": "CIO",
-    "title": "AI won’t transform your business if you’re still running it the same way",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI won’t transform your business if you’re still running it the same way",
-    "summary_ko": "여전히 동일한 방식으로 운영하고 있다면 AI는 비즈니스를 변화시키지 않습니다. 많은 조직에서 AI 실험을 통해 생산성과 자동화가 실질적으로 향상되는 것을 확인했습니다. 그러나 Deloitte의 2026년 기업용 생성 AI 현황 보고서에 따르면 AI를 사용하여 비즈니스를 근본적으로 변화시키고 있는 기업은 34%에 불과합니다. 한편, 37%는 기본 비즈니스 프로세스를 거의 또는 전혀 변경하지 않고 표면 수준에서 기술을 사용하고 있습니다.",
-    "url": "https://www.cio.com/article/4194596/ai-wont-transform-your-business-if-youre-still-running-it-the-same-way.html",
-    "image": null,
-    "date": "2026-07-09T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
-    "platform": "Google",
-    "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Generative AI",
-    "summary_ko": "센서 FM: 웨어러블 건강 데이터를 위한 일반 지능 및 인터페이스를 향하여",
-    "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
-    "image": null,
-    "date": "2026-07-09T09:56:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194593/why-the-us-is-at-risk-of-losing-the-ai-talent-and-productivity-war.html",
-    "platform": "CIO",
-    "title": "Why the US is at risk of losing the AI talent and productivity war",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Why the US is at risk of losing the AI talent and productivity war",
-    "summary_ko": "미국이 AI 인재와 생산성 전쟁에서 패할 위험에 처한 이유 관리하기 가장 어려운 것은 변화입니다. 나는 10여 년 전 Microsoft의 Windows XP 수명 종료 기한인 \"XPocalypse\"에 관한 기사에서 이 내용을 썼습니다. 당시 내 주장은 진짜 위기는 구식 소프트웨어가 아니라는 것이었다. 불가피한 전환을 통해 조직을 지도할 수 있는 기술적으로 유능한 전문가가 부족했기 때문입니다.",
-    "url": "https://www.cio.com/article/4194593/why-the-us-is-at-risk-of-losing-the-ai-talent-and-productivity-war.html",
-    "image": null,
-    "date": "2026-07-09T09:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194758/ai-%ec%8b%9c%eb%8c%80-%eb%b3%b4%ec%95%88-%eb%ac%b4%ec%97%87%eb%b6%80%ed%84%b0-%ed%95%b4%ec%95%bc-%ed%95%98%eb%82%98%ed%99%94%ec%9d%b4%ed%8a%b8%ed%95%b4%ec%bb%a4-%eb%b0%95%ec%b0%ac%ec%95%94.html",
-    "platform": "CIO",
-    "title": "AI 시대 보안, 무엇부터 해야 하나…화이트해커 박찬암 대표가 짚은 핵심 과제",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 시대 보안, 무엇부터 해야 하나…화이트해커 박찬암 대표가 짚은 핵심 과제",
-    "summary_ko": "8일 과학기술정보통신부와 한국인터넷진흥원(KISA) 등 정부 기관이 주최·주관한 제15회 정보보호의 날 행사에서 열린 세미나에 연사로 나선 박찬암 스틸리언 대표는 ‘주요 AI 위협과 보안 우선순위’를 주제로 AI 시대 보안 환경의 변화와 정보보호 조직의 우선 대응 과제를 설명했다. 그는 “AI는 새로운 기술이지만 보안의 핵심은 결국 권한 관리와 공급망 관리, 그리고 사람의 검증”이라고 설명했다. 박 대표가 먼저 강조한 부분은 AI가 해커의 공격 속도를 근본적으로 바꾸고 있다는 점이다.",
-    "url": "https://www.cio.com/article/4194758/ai-%ec%8b%9c%eb%8c%80-%eb%b3%b4%ec%95%88-%eb%ac%b4%ec%97%87%eb%b6%80%ed%84%b0-%ed%95%b4%ec%95%bc-%ed%95%98%eb%82%98%ed%99%94%ec%9d%b4%ed%8a%b8%ed%95%b4%ec%bb%a4-%eb%b0%95%ec%b0%ac%ec%95%94.html",
-    "image": null,
-    "date": "2026-07-09T06:53:08.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194745/%ed%95%98%eb%b2%84%eb%93%9c%c2%b7%ec%9d%b8%ec%8b%9c%ec%95%84%eb%93%9c-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-2891%ea%b3%b3-%eb%b9%84%ea%b5%90%ed%96%88%eb%8d%94%eb%8b%88%c2%b7%c2%b7%c2%b7-ai.html",
-    "platform": "CIO",
-    "title": "하버드·인시아드, 스타트업 2,891곳 비교했더니··· “AI 네이티브 기업, 인력 25% 적고 직급 계층도 더 단순”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "하버드·인시아드, 스타트업 2,891곳 비교했더니··· “AI 네이티브 기업, 인력 25% 적고 직급 계층도 더 단순”",
-    "summary_ko": "글로벌 경영대학원 인시아드(INSEAD)의 김현진 교수와 하버드 경영대학원(Harvard Business School)의 렘브란트 코닝(Rembrand Koning) 교수는 지난 6월 발표한 연구논문 초안 ‘AI 네이티브 기업(AI-Native Firms)‘에서 이 같은 결과를 발표했다. 연구진은 연구진은 2020~2024년 와이콤비네이터(YC)를 거친 스타트업 2,891곳을 분석했으며, 이 중 990곳이 AI 스타트업이었다.",
-    "url": "https://www.cio.com/article/4194745/%ed%95%98%eb%b2%84%eb%93%9c%c2%b7%ec%9d%b8%ec%8b%9c%ec%95%84%eb%93%9c-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-2891%ea%b3%b3-%eb%b9%84%ea%b5%90%ed%96%88%eb%8d%94%eb%8b%88%c2%b7%c2%b7%c2%b7-ai.html",
-    "image": null,
-    "date": "2026-07-09T05:26:01.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194738/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4xai-2028%eb%85%84-ai-%ec%9c%84%ec%84%b1-%eb%b0%b0%ec%b9%98%ed%83%9c%ec%96%91%ea%b4%91%ec%9c%bc%eb%a1%9c-%ea%b6%a4%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
-    "platform": "CIO",
-    "title": "스페이스XAI, 2028년 ‘AI 위성’ 배치…태양광으로 궤도 데이터센터 운영 계획 밝혀",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "스페이스XAI, 2028년 ‘AI 위성’ 배치…태양광으로 궤도 데이터센터 운영 계획 밝혀",
-    "summary_ko": "스페이스X는 우주 개발과 로켓 사업으로 잘 알려져 있으며, x AI는 대표 AI 비서인 그록(Grok) 개발에 주력해 왔다. 서로 다른 길을 걸어온 두 회사는 이제 하나의 기업이 됐다. 일론 머스크는 이번 주 x AI와 스페이스X를 통합한 스페이스XAI(Space XAI) 출범을 발표했다. 이번 브랜드 통합은 AI와 이를 뒷받침하는 핵심 인프라 사업을 한층 강화하겠다는 의지를 보여주는 것으로 해석된다. 다만 전문가들은 기업 고객이 아직은 신중한 접근을 유지할 필요가 있다고 조언한다.",
-    "url": "https://www.cio.com/article/4194738/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4xai-2028%eb%85%84-ai-%ec%9c%84%ec%84%b1-%eb%b0%b0%ec%b9%98%ed%83%9c%ec%96%91%ea%b4%91%ec%9c%bc%eb%a1%9c-%ea%b6%a4%eb%8f%84-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
-    "image": null,
-    "date": "2026-07-09T04:12:09.000Z",
     "likes": 0,
     "comments": 0
   }
