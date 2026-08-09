@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
+    "platform": "Reddit",
+    "title": "Google needs to up their game",
+    "author": {
+      "name": "/u/policyweb",
+      "handle": "/u//u/policyweb",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Google needs to up their game",
+    "summary_ko": "Google은 게임을 강화해야 합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
+    "image": "https://preview.redd.it/7u7qcksl0eih1.jpeg?width=640&crop=smart&auto=webp&s=93448f2ef0ef38c7dd5351c06fc35d1a011323c7",
+    "date": "2026-08-09T17:50:45.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vjgmqi/demis_hassabis_expects_all_diseases_to_be_cured/",
+    "platform": "Reddit",
+    "title": "Demis Hassabis Expects All Diseases To Be Cured Within 20 Years",
+    "author": {
+      "name": "/u/Neurogence",
+      "handle": "/u//u/Neurogence",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Demis Hassabis Expects All Diseases To Be Cured Within 20 Years",
+    "summary_ko": "데미스 하사비스(Demis Hassabis)는 20년 안에 모든 질병이 치료될 것이라고 예상합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vjgmqi/demis_hassabis_expects_all_diseases_to_be_cured/",
+    "image": null,
+    "date": "2026-08-09T04:49:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vjcoih/why_is_reddit_so_delusional_about_ai_capability/",
+    "platform": "Reddit",
+    "title": "Why is Reddit so delusional about AI capability?",
+    "author": {
+      "name": "/u/Wild_King4244",
+      "handle": "/u//u/Wild_King4244",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Why is Reddit so delusional about AI capability?",
+    "summary_ko": "Reddit이 AI 기능에 대해 그토록 망상적인 이유는 무엇입니까?",
+    "url": "https://www.reddit.com/r/singularity/comments/1vjcoih/why_is_reddit_so_delusional_about_ai_capability/",
+    "image": "https://preview.redd.it/qd4pw79n49ih1.jpeg?width=640&crop=smart&auto=webp&s=cdf940970ba70e50a4a057dcac0f3fb5ee448ebc",
+    "date": "2026-08-09T01:24:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vjcljq/rtx_5090_96gb_spotted_on_alibaba/",
+    "platform": "Reddit",
+    "title": "RTX 5090 96GB spotted on Alibaba?",
+    "author": {
+      "name": "/u/panchovix",
+      "handle": "/u//u/panchovix",
+      "avatar_color": "#ff4500"
+    },
+    "content": "RTX 5090 96GB spotted on Alibaba?",
+    "summary_ko": "알리바바에서 RTX 5090 96GB 발견?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjcljq/rtx_5090_96gb_spotted_on_alibaba/",
+    "image": "https://preview.redd.it/rzunb9uu39ih1.png?width=640&crop=smart&auto=webp&s=8a871629ca059e9bc1e608f1db7ec33ef070cdc9",
+    "date": "2026-08-09T01:20:24.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1vivgeq/this_is_why_the_vast_majority_arent_taking_any/",
     "platform": "Reddit",
     "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
@@ -2774,226 +2842,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uu15mz/chinas_deepseek_developing_its_own_ai_chip/",
     "image": null,
     "date": "2026-07-12T01:04:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4195749/ibm-grows-mainframe-family-with-rack-frame-models-targeting-ai-hybrid-clouds-2.html",
-    "platform": "CIO",
-    "title": "IBM grows mainframe family with rack, frame models targeting AI, hybrid clouds",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "IBM grows mainframe family with rack, frame models targeting AI, hybrid clouds",
-    "summary_ko": "IBM은 AI, 하이브리드 클라우드를 목표로 하는 랙, 프레임 모델을 통해 메인프레임 제품군을 확장합니다. IBM은 Z 및 Linux ONE 시스템의 새로운 단일 프레임 및 랙 마운트 버전을 추가하여 기본 메인프레임 포트폴리오의 범위를 확장하려고 합니다. IBM z17 포트폴리오는 메인프레임 기능을 더 작고 사용자 정의 가능한 공간으로 가져오는 단일 프레임 및 랙 마운트 버전을 추가합니다.",
-    "url": "https://www.cio.com/article/4195749/ibm-grows-mainframe-family-with-rack-frame-models-targeting-ai-hybrid-clouds-2.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/07/LinuxONE-5-Single-Frame.png?w=1024",
-    "date": "2026-07-10T18:18:14.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4195580/como-un-director-de-ti-de-formula-1-logra-el-equilibrio-entre-innovacion-y-estabilidad-a-200-mph.html",
-    "platform": "CIO",
-    "title": "Así es como un director de TI de Fórmula 1 logra el equilibrio entre innovación y estabilidad a más de 300 km/h",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Así es como un director de TI de Fórmula 1 logra el equilibrio entre innovación y estabilidad a más de 300 km/h",
-    "summary_ko": "이것이 바로 Formula 1 IT 책임자가 300km/h가 넘는 속도에서 혁신과 안정성 사이의 균형을 달성하는 방법입니다. Michael Taylor는 Mercedes-AMG Petronas Formula 1 팀에서 25시즌을 보내며 트랙 지원부터 엔지니어링 시스템 및 비즈니스 혁신에 이르기까지 모든 IT 기능을 수행했습니다. 현재 그는 IT 이사로서 세계 최대의 데이터 집약적 운영 중 하나를 담당하는 18명으로 구성된 팀을 이끌고 있습니다. 자동차가 피트를 떠날 때 300개의 센서가 장착됩니다.",
-    "url": "https://www.cio.com/article/4195580/como-un-director-de-ti-de-formula-1-logra-el-equilibrio-entre-innovacion-y-estabilidad-a-200-mph.html",
-    "image": null,
-    "date": "2026-07-10T11:13:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4195155/accelerating-financial-closes-with-help-from-ai-agents-a-pragmatic-guide.html",
-    "platform": "CIO",
-    "title": "Accelerating financial closes with help from AI agents: A pragmatic guide",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Accelerating financial closes with help from AI agents: A pragmatic guide",
-    "summary_ko": "AI 에이전트의 도움으로 재무 마감 가속화: 실용적인 가이드. 역사적으로 필요한 재무 마감은 지루하고 수동 집약적인 프로세스였으므로 대리인화에 탁월한 후보가 되었습니다. AI 에이전트는 다양한 소스의 금융 데이터 통합, 거래 조정 등과 관련된 \"더러운 작업\"의 대부분을 처리할 수 있습니다. 즉, AI 에이전트가 마감 프로세스를 간소화하고 가속화하는 데에는 한계가 있습니다.",
-    "url": "https://www.cio.com/article/4195155/accelerating-financial-closes-with-help-from-ai-agents-a-pragmatic-guide.html",
-    "image": null,
-    "date": "2026-07-10T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1usjw1c/iits_not_like_i_like_your_prompts_or_anything/",
-    "platform": "Reddit",
-    "title": "“i-it’s not like I like your prompts or anything, baka user!”",
-    "author": {
-      "name": "/u/Pantegral-7",
-      "handle": "/u//u/Pantegral-7",
-      "avatar_color": "#ff4500"
-    },
-    "content": "“i-it’s not like I like your prompts or anything, baka user!”",
-    "summary_ko": "\"저, 당신의 메시지라던가 별로 맘에 안 드네요, 사용자님!\"",
-    "url": "https://www.reddit.com/r/singularity/comments/1usjw1c/iits_not_like_i_like_your_prompts_or_anything/",
-    "image": "https://preview.redd.it/i5ussigkrdch1.jpeg?width=640&crop=smart&auto=webp&s=81569a392eb85f22cb6dcb588be4d5fa0d9f5b48",
-    "date": "2026-07-10T10:35:18.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194702/how-a-formula-one-it-director-balances-innovation-and-stability-at-200-mph.html",
-    "platform": "CIO",
-    "title": "How a Formula 1 IT director balances innovation and stability at 200 mph",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "How a Formula 1 IT director balances innovation and stability at 200 mph",
-    "summary_ko": "Formula 1 IT 책임자가 200mph에서 혁신과 안정성의 균형을 맞추는 방법. Michael Taylor는 Mercedes-AMG Petronas F1 팀에서 25시즌을 보내며 트랙 지원부터 엔지니어링 시스템, 비즈니스 혁신에 이르기까지 모든 IT 역할을 수행했습니다. 현재 그는 IT 이사로서 세계에서 가장 데이터 집약적인 작업 중 하나를 담당하는 18명으로 구성된 팀을 이끌고 있습니다. 자동차가 차고에서 나올 때 300개의 센서가 장착됩니다.",
-    "url": "https://www.cio.com/article/4194702/how-a-formula-one-it-director-balances-innovation-and-stability-at-200-mph.html",
-    "image": null,
-    "date": "2026-07-10T10:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4195152/your-next-insider-threat-doesnt-have-a-badge-it-has-an-api-token.html",
-    "platform": "CIO",
-    "title": "Your next insider threat doesn’t have a badge. It has an API token",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Your next insider threat doesn’t have a badge. It has an API token",
-    "summary_ko": "다음 내부자 위협에는 배지가 없습니다. API 토큰이 있습니다. 제가 현재 대부분의 시간을 설계에 소비하고 있는 위협은 전혀 위반처럼 보이지 않습니다. 적어도 처음에는 그렇지 않았습니다.",
-    "url": "https://www.cio.com/article/4195152/your-next-insider-threat-doesnt-have-a-badge-it-has-an-api-token.html",
-    "image": null,
-    "date": "2026-07-10T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1usegop/cz10ii_rocket_landed_in_a_net/",
-    "platform": "Reddit",
-    "title": "CZ10-II rocket landed in a net",
-    "author": {
-      "name": "/u/uniyk",
-      "handle": "/u//u/uniyk",
-      "avatar_color": "#ff4500"
-    },
-    "content": "CZ10-II rocket landed in a net",
-    "summary_ko": "CZ10-II 로켓이 그물에 착륙했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1usegop/cz10ii_rocket_landed_in_a_net/",
-    "image": null,
-    "date": "2026-07-10T05:28:14.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4195351/%eb%82%b4%eb%b6%80-%ec%9c%a1%ec%84%b1-vs-%ec%99%b8%eb%b6%80-%ec%98%81%ec%9e%85-ai-%ec%9d%b8%ec%9e%ac-%ec%a0%84%ec%9f%81%ec%97%90%ec%84%9c-%ec%95%9e%ec%84%9c%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%97%85.html",
-    "platform": "CIO",
-    "title": "내부 육성 vs 외부 영입…AI 인재 전쟁에서 앞서가는 기업의 선택은?",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "내부 육성 vs 외부 영입…AI 인재 전쟁에서 앞서가는 기업의 선택은?",
-    "summary_ko": "AI를 성공적으로 도입하는 데 가장 중요한 요소는 이제 어떤 AI 도구를 도입했느냐가 아니라 이를 활용할 수 있는 인재를 얼마나 확보했느냐로 옮겨가고 있다. 이에 따라 IT 리더들은 기존 직원의 AI 역량을 강화해야 한다는 압박을 받고 있다. AI 역량은 현재 가장 수요가 높으면서도 채용이 가장 어려운 분야다. 이에 따라 많은 IT 리더와 경영진은 AI 도구를 개발하는 IT 전문가뿐 아니라 이를 업무에 활용할 일반 직원까지 포함하는 전사적인 AI 교육 프로그램을 확대하고 있다.",
-    "url": "https://www.cio.com/article/4195351/%eb%82%b4%eb%b6%80-%ec%9c%a1%ec%84%b1-vs-%ec%99%b8%eb%b6%80-%ec%98%81%ec%9e%85-ai-%ec%9d%b8%ec%9e%ac-%ec%a0%84%ec%9f%81%ec%97%90%ec%84%9c-%ec%95%9e%ec%84%9c%ea%b0%80%eb%8a%94-%ea%b8%b0%ec%97%85.html",
-    "image": null,
-    "date": "2026-07-10T05:24:50.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4194813/%ec%95%a4%ec%8a%a4%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-ai%ec%9d%98-%eb%b8%94%eb%9e%99%ed%99%80-%ec%86%8d%ec%9d%84-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b4%eb%8b%a4.html",
-    "platform": "CIO",
-    "title": "앤트로픽, 클로드 AI의 블랙홀 속을 들여다보다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "앤트로픽, 클로드 AI의 블랙홀 속을 들여다보다",
-    "summary_ko": "앤트로픽이 자사 AI 모델이 문제를 해결하는 내부 과정을 보다 깊이 들여다볼 수 있는 새로운 분석 기법을 공개했다. 모델이 특정 방식으로 판단하고 행동하는 이유를 파악할 수 있게 되면서, 기업의 AI 평가와 구매 기준에도 적지 않은 영향을 미칠 것으로 전망된다. 앤트로픽은 최근 ‘J-스페이스(J-space)’라고 이름 붙인 새로운 내부 표현 공간을 발견했다고 밝혔다.",
-    "url": "https://www.cio.com/article/4194813/%ec%95%a4%ec%8a%a4%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-ai%ec%9d%98-%eb%b8%94%eb%9e%99%ed%99%80-%ec%86%8d%ec%9d%84-%eb%93%a4%ec%97%ac%eb%8b%a4%eb%b3%b4%eb%8b%a4.html",
-    "image": null,
-    "date": "2026-07-10T05:12:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4195338/12%ec%8b%9c%ea%b0%84-%ea%b1%b8%eb%a6%ac%eb%8d%98-%ec%9e%a5%ec%95%a0-%eb%b6%84%ec%84%9d-5%eb%b6%84%ec%9d%b4%eb%a9%b4-%eb%81%9d%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%85-%eb%b9%84%ec%b8%a0-ai.html",
-    "platform": "CIO",
-    "title": "“1~2시간 걸리던 장애 분석, 5분이면 끝”…데이터독 ‘비츠 AI’ 전면에",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“1~2시간 걸리던 장애 분석, 5분이면 끝”…데이터독 ‘비츠 AI’ 전면에",
-    "summary_ko": "데이터독 코리아는 9일 서울에서 기자간담회를 열고 이 같은 사업 현황과 연례 컨퍼런스 ‘대시(DASH) 2026’에서 공개한 신제품 전략을 소개했다. 엄수창 데이터독 코리아 지사장은 이를 시장 변화의 신호로 해석했다. 엄 지사장은 “연초만 해도 ‘Saa S 아포칼립스’라는 말이 나올 정도로 Saa S 기업들의 미래를 부정적으로 보는 시각이 많았다”며 “하지만 데이터독은 AI와 함께 성장하면서 오히려 큰 미래 비전을 갖게 됐다”고 말했다.",
-    "url": "https://www.cio.com/article/4195338/12%ec%8b%9c%ea%b0%84-%ea%b1%b8%eb%a6%ac%eb%8d%98-%ec%9e%a5%ec%95%a0-%eb%b6%84%ec%84%9d-5%eb%b6%84%ec%9d%b4%eb%a9%b4-%eb%81%9d%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%85-%eb%b9%84%ec%b8%a0-ai.html",
-    "image": null,
-    "date": "2026-07-10T04:51:29.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1us7nml/gpt_56_beats_fable_5_by_3_more_on_deepswe_at_a/",
-    "platform": "Reddit",
-    "title": "GPT 5.6 Beats Fable 5 by 3% more on DeepSWE at a cheaper price.",
-    "author": {
-      "name": "/u/Common-Resident8087",
-      "handle": "/u//u/Common-Resident8087",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GPT 5.6 Beats Fable 5 by 3% more on DeepSWE at a cheaper price.",
-    "summary_ko": "GPT 5.6은 DeepSWE에서 더 저렴한 가격으로 Fable 5를 3% 더 능가합니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1us7nml/gpt_56_beats_fable_5_by_3_more_on_deepswe_at_a/",
-    "image": "https://preview.redd.it/505rvco3nach1.jpeg?width=640&crop=smart&auto=webp&s=d987198a99a3d4515865351b567ef62a031ffabf",
-    "date": "2026-07-10T00:04:56.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1us5m0g/glm52_744b_moe_on_a_25gbram_consumer_machine/",
-    "platform": "Reddit",
-    "title": "GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine",
-    "author": {
-      "name": "/u/yogthos",
-      "handle": "/u//u/yogthos",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine",
-    "summary_ko": "25GB RAM 소비자 컴퓨터의 GLM-5.2(744B MoE)",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1us5m0g/glm52_744b_moe_on_a_25gbram_consumer_machine/",
-    "image": "https://external-preview.redd.it/NNWlLPxzyXhbyIUMuz2mW9zvetk56LAOcSGVs0rdPqY.png?width=640&crop=smart&auto=webp&s=4bc51d0f9ad167529370a7eb4ee3d62194c80a9c",
-    "date": "2026-07-09T22:43:02.000Z",
     "likes": 0,
     "comments": 0
   }
