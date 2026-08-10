@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vkk6vy/mark_zuckerberg_on_releases/",
+    "platform": "Reddit",
+    "title": "Mark Zuckerberg on releases",
+    "author": {
+      "name": "/u/jacek2023",
+      "handle": "/u//u/jacek2023",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Mark Zuckerberg on releases",
+    "summary_ko": "릴리스에 대한 Mark Zuckerberg",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkk6vy/mark_zuckerberg_on_releases/",
+    "image": "https://preview.redd.it/qtffhlaqpjih1.jpeg?width=640&crop=smart&auto=webp&s=f4467ca193ad9a3439287e9e08f105cdaa3318e6",
+    "date": "2026-08-10T13:00:29.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vkgzx3/the_last_bastion_of_humanity/",
+    "platform": "Reddit",
+    "title": "The Last Bastion of Humanity",
+    "author": {
+      "name": "/u/Pixelied",
+      "handle": "/u//u/Pixelied",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The Last Bastion of Humanity",
+    "summary_ko": "인류의 마지막 보루",
+    "url": "https://www.reddit.com/r/singularity/comments/1vkgzx3/the_last_bastion_of_humanity/",
+    "image": "https://preview.redd.it/slew0juxxiih1.jpeg?width=640&crop=smart&auto=webp&s=a6aad842dee08538a9e284d01a10faabb14d0911",
+    "date": "2026-08-10T10:24:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vkgsum/introducing_muse_glimmer_an_openweight_model/",
+    "platform": "Reddit",
+    "title": "Introducing Muse Glimmer: an open-weight model optimized for always-on local agent workflows",
+    "author": {
+      "name": "/u/AIatMeta",
+      "handle": "/u//u/AIatMeta",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Introducing Muse Glimmer: an open-weight model optimized for always-on local agent workflows",
+    "summary_ko": "Muse Glimmer 소개: 상시 로컬 에이전트 워크플로에 최적화된 개방형 모델",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkgsum/introducing_muse_glimmer_an_openweight_model/",
+    "image": "https://preview.redd.it/d61pdytdviih1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=a9bd06548c930452218a339ca26a79de14dd13cd",
+    "date": "2026-08-10T10:14:15.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/",
+    "platform": "Reddit",
+    "title": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
+    "author": {
+      "name": "/u/kaityl3",
+      "handle": "/u//u/kaityl3",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
+    "summary_ko": "Claude는 체육 수업을 예약하라는 요청을 받습니다. 체육관 시스템의 취약점을 찾아 실제 사람의 자리를 취소하여 요청 없이 사용자를 줄로 이동시킵니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/",
+    "image": "https://preview.redd.it/utv8ahbgghih1.png?width=140&height=99&auto=webp&s=dbf1dee2d0a38ba255712ab51bcf65bb682c789f",
+    "date": "2026-08-10T05:24:55.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1vjwcke/google_needs_to_up_their_game/",
     "platform": "Reddit",
     "title": "Google needs to up their game",
