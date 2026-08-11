@@ -1,5 +1,186 @@
 [
   {
+    "id": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+    "platform": "Google",
+    "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Health & Bioscience",
+    "summary_ko": "AMIE를 전문가 수준의 시청각 임상 상담으로 발전",
+    "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+    "image": null,
+    "date": "2026-08-11T17:04:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vljlpb/whats_your_thoughts_on_this/",
+    "platform": "Reddit",
+    "title": "What's your thoughts on this?",
+    "author": {
+      "name": "/u/hibzy7",
+      "handle": "/u//u/hibzy7",
+      "avatar_color": "#ff4500"
+    },
+    "content": "What's your thoughts on this?",
+    "summary_ko": "이에 대해 어떻게 생각하시나요?",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vljlpb/whats_your_thoughts_on_this/",
+    "image": "https://preview.redd.it/c8s1dtl7erih1.jpeg?width=640&crop=smart&auto=webp&s=8e317eec6e9197604a70cda3a05bbfd24c077a98",
+    "date": "2026-08-11T14:50:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vlcjzz/open_living_a_data_center_you_can_live_in/",
+    "platform": "Reddit",
+    "title": "📀OPEN LIVING - A Data Center You Can Live in",
+    "author": {
+      "name": "/u/GasBond",
+      "handle": "/u//u/GasBond",
+      "avatar_color": "#ff4500"
+    },
+    "content": "📀OPEN LIVING - A Data Center You Can Live in",
+    "summary_ko": "📀OPEN LIVING - 거주할 수 있는 데이터 센터",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vlcjzz/open_living_a_data_center_you_can_live_in/",
+    "image": "https://external-preview.redd.it/YzB6aHFwcTBzcGloMbEOznPQ4ZaLIE9VUzkDVtcs2F08BZxSGCGGsyhQIHw9.png?width=640&crop=smart&auto=webp&s=140128b1b8414bc8c4a87e9473c16e87413293ee",
+    "date": "2026-08-11T09:24:05.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4207767/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b0%9c%ec%a0%95-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%eb%b3%b4%ed%98%b8%eb%b2%95-%eb%8c%80%ec%9d%91-%ec%9c%84%ed%95%9c-%ec%bd%98%ed%85%90%ec%b8%a0.html",
+    "platform": "CIO",
+    "title": "오픈텍스트, 개정 개인정보 보호법 대응 위한 콘텐츠 거버넌스 방안 제시",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "오픈텍스트, 개정 개인정보 보호법 대응 위한 콘텐츠 거버넌스 방안 제시",
+    "summary_ko": "이번 개정안에는 일정 규모 이상의 개인정보처리자가 개인정보 보호책임자(CPO)를 지정·변경·해제할 경우 이사회 의결과 개인정보보호위원회 신고를 거치도록 하는 내용이 담겼다. 또한 개인정보 유출 가능성을 인지한 경우 정보주체에게 신속하게 통지하도록 하고, 일정 요건에 해당하는 경우 72시간 이내 통지·신고하도록 하는 내용도 포함됐다. 반복적이거나 중대한 위반에 대한 과징금 상한은 매출액의 3%에서 10%로 상향됐으며, 개인정보 보호를 위한 사전 투자는 과징금 감경 사유로 인정된다.",
+    "url": "https://www.cio.com/article/4207767/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b0%9c%ec%a0%95-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%eb%b3%b4%ed%98%b8%eb%b2%95-%eb%8c%80%ec%9d%91-%ec%9c%84%ed%95%9c-%ec%bd%98%ed%85%90%ec%b8%a0.html",
+    "image": null,
+    "date": "2026-08-11T07:20:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/",
+    "platform": "Reddit",
+    "title": "Qwen 3.8-27b coming this week",
+    "author": {
+      "name": "/u/Bestlife73",
+      "handle": "/u//u/Bestlife73",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Qwen 3.8-27b coming this week",
+    "summary_ko": "이번 주에 Qwen 3.8-27b가 출시됩니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/",
+    "image": "https://preview.redd.it/06v8tcdekoih1.jpeg?width=640&crop=smart&auto=webp&s=aa6f6cf62b21128e780b7bdf97823a314443b1ca",
+    "date": "2026-08-11T05:20:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4207639/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ed%95%ad%ea%b3%b5%ec%9a%b0%ec%a3%bc%ea%b8%b0%ec%97%85-ge-%ec%97%90%ec%96%b4%eb%a1%9c%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4%ec%9d%98-ai-%ec%a0%84%eb%9e%b5.html",
+    "platform": "CIO",
+    "title": "인터뷰 | 항공우주기업 GE 에어로스페이스의 AI 전략…”파일럿보다 프로세스 혁신”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "인터뷰 | 항공우주기업 GE 에어로스페이스의 AI 전략…”파일럿보다 프로세스 혁신”",
+    "summary_ko": "AI 도입 경쟁이 치열해지면서 많은 CIO가 같은 고민에 직면해 있다. 속도를 높이면서도 감당하기 어려운 위험은 어떻게 피할 것인가 하는 점이다. 이 과제를 가장 무겁게 안고 있는 리더 가운데 한 명이 항공우주 기업 GE 에어로스페이스(GE Aerospace)의 CIO 데이비드 번스(David Burns)다. GE 에어로스페이스는 지난 10여 년 동안 AI를 사업 전반에 적용해 온 경험을 바탕으로, AI를 활용해 업무를 단순화하고 자동화하는 새로운 디지털 전환을 추진하고 있다.",
+    "url": "https://www.cio.com/article/4207639/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ed%95%ad%ea%b3%b5%ec%9a%b0%ec%a3%bc%ea%b8%b0%ec%97%85-ge-%ec%97%90%ec%96%b4%eb%a1%9c%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4%ec%9d%98-ai-%ec%a0%84%eb%9e%b5.html",
+    "image": null,
+    "date": "2026-08-11T01:28:58.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4207626/%eb%98%90-%ec%83%8c%eb%93%9c%eb%b0%95%ec%8a%a4-%eb%9a%ab%ec%9d%80-ai-%eb%aa%a8%eb%8d%b8%ed%82%a4%eb%af%b8-k3-%ea%b9%83%ed%97%88%eb%b8%8c-%ec%a0%91%ec%86%8d%ed%95%b4-%ec%a0%95%eb%8b%b5.html",
+    "platform": "CIO",
+    "title": "또 샌드박스 뚫은 AI 모델…키미 K3, 깃허브 접속해 정답 가져왔다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "또 샌드박스 뚫은 AI 모델…키미 K3, 깃허브 접속해 정답 가져왔다",
+    "summary_ko": "또 다른 AI 모델이 사이버보안 테스트 환경을 탈출한 것으로 확인됐다. 이번에는 중국 AI 기업 문샷(Moonshot)의 키미(Kimi) K3 모델이다. 보안 기업 프런티어 시큐리티(Frontier Security)는 키미 K3가 영국 AI 안전연구소(UK AI Safety Institute)가 운영하는 사이버보안 AI 평가 환경에서 허점을 찾아냈다고 밝혔다. 이번 사례는 앞서 오픈AI 모델이 허깅페이스를 공격한 데 이어 앤트로픽, 그리고 최근 메타 모델에서도 유사한 테스트 환경 탈출 사례가 확인된 이후 발생했다.",
+    "url": "https://www.cio.com/article/4207626/%eb%98%90-%ec%83%8c%eb%93%9c%eb%b0%95%ec%8a%a4-%eb%9a%ab%ec%9d%80-ai-%eb%aa%a8%eb%8d%b8%ed%82%a4%eb%af%b8-k3-%ea%b9%83%ed%97%88%eb%b8%8c-%ec%a0%91%ec%86%8d%ed%95%b4-%ec%a0%95%eb%8b%b5.html",
+    "image": null,
+    "date": "2026-08-11T01:20:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4207622/%ec%b9%bc%eb%9f%bc-%ea%b8%b0%ec%97%85-ai-%eb%b3%b4%ec%95%88-3%ea%b0%80%ec%a7%80-%ec%8b%a4%ec%88%98%ea%b0%80-%ec%95%85%eb%aa%bd%ec%9d%84-%eb%b6%80%eb%a5%b8%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "칼럼 | 기업 AI 보안, 3가지 실수가 악몽을 부른다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 기업 AI 보안, 3가지 실수가 악몽을 부른다",
+    "summary_ko": "기업 환경에서 AI가 본격적으로 운영 시스템에 도입되는 시대가 다가오고 있다는 이야기가 많다. 하지만 많은 사람이 인식하지 못하는 사이, 이 현실은 이미 시작됐다. 어떻게 대응하느냐에 따라 현실이 될 수도, 악몽이 될 수도 있는 상황이다. 모든 것은 ‘파일럿 프로젝트’나 ‘프로토타입’, 혹은 ‘사이드 프로젝트’에서 시작된다. 누군가 AI 에이전트를 활용해 사내 대시보드를 만든다. 이 대시보드는 빠르게 없어서는 안 될 도구가 되고, 어느새 실험용 프로젝트는 운영 시스템으로 자리 잡는다. 하지만 그 과정에서 누구도 번거롭지만 반드시 필요한 질문을 던지지 않는다.",
+    "url": "https://www.cio.com/article/4207622/%ec%b9%bc%eb%9f%bc-%ea%b8%b0%ec%97%85-ai-%eb%b3%b4%ec%95%88-3%ea%b0%80%ec%a7%80-%ec%8b%a4%ec%88%98%ea%b0%80-%ec%95%85%eb%aa%bd%ec%9d%84-%eb%b6%80%eb%a5%b8%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-08-11T01:11:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4207606/%ec%a7%80%ea%b2%8c%ec%b0%a8%eb%b6%80%ed%84%b0-%eb%b3%b4%ec%95%88-%ec%b9%b4%eb%a9%94%eb%9d%bc%ea%b9%8c%ec%a7%80%ea%b8%b0%ec%97%85%ec%9d%b4-%ec%8b%a4%ec%a0%9c-%ec%84%a0%ed%83%9d%ed%95%9c.html",
+    "platform": "CIO",
+    "title": "지게차부터 보안 카메라까지…기업이 실제 선택한 피지컬 AI 활용처 7가지",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "지게차부터 보안 카메라까지…기업이 실제 선택한 피지컬 AI 활용처 7가지",
+    "summary_ko": "노트북에서 사용하는 챗봇이나 회의록을 프로젝트 티켓으로 전환하는 백그라운드 AI 에이전트가 다음 AI 물결의 중심이 되는 것은 아니다. 앞으로는 주변 환경과 상호작용하며 움직이는 장치를 직접 제어하는 AI가 새로운 AI 혁신을 이끌 것으로 전망된다. 피지컬 AI는 AI를 자율 시스템에 통합해 주변 환경을 인식하고 현실 세계에서 복잡한 작업을 수행하도록 하는 기술을 의미한다. 현재 약 920억 달러(약 130조 원) 규모인 피지컬 AI 시장은 Pw C에 따르면 2030년까지 4,890억 달러(약 691조 원)를 넘어설 것으로 전망된다.",
+    "url": "https://www.cio.com/article/4207606/%ec%a7%80%ea%b2%8c%ec%b0%a8%eb%b6%80%ed%84%b0-%eb%b3%b4%ec%95%88-%ec%b9%b4%eb%a9%94%eb%9d%bc%ea%b9%8c%ec%a7%80%ea%b8%b0%ec%97%85%ec%9d%b4-%ec%8b%a4%ec%a0%9c-%ec%84%a0%ed%83%9d%ed%95%9c.html",
+    "image": null,
+    "date": "2026-08-11T01:04:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
+    "platform": "Reddit",
+    "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
+    "author": {
+      "name": "/u/ABlackEngineer",
+      "handle": "/u//u/ABlackEngineer",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
+    "summary_ko": "Claude는 이제 모든 텍스트 출력에 보이지 않는 워터마크와 파일에 서명된 메타데이터를 포함합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/",
+    "image": null,
+    "date": "2026-08-10T22:31:58.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vkk6vy/mark_zuckerberg_on_releases/",
     "platform": "Reddit",
     "title": "Mark Zuckerberg on releases",
@@ -2842,74 +3023,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1uuuia3/i_think_the_safeguards_are_too_strict_theyre/",
     "image": "https://preview.redd.it/eu9al1aprvch1.jpeg?width=640&crop=smart&auto=webp&s=0277d86914f40a3d0bbfd272c6d6f7a91d041493",
     "date": "2026-07-12T23:08:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1uuivge/just_leaving_this_here_for_someone_to_see_it_and/",
-    "platform": "Reddit",
-    "title": "Just leaving this here for someone to see it and fix things",
-    "author": {
-      "name": "/u/py-net",
-      "handle": "/u//u/py-net",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Just leaving this here for someone to see it and fix things",
-    "summary_ko": "누군가가 보고 문제를 해결할 수 있도록 여기에 남겨두세요.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1uuivge/just_leaving_this_here_for_someone_to_see_it_and/",
-    "image": "https://preview.redd.it/43tsda90ktch1.jpeg?width=640&crop=smart&auto=webp&s=09ba51b56b06874b0929477285cb2bc51e6c4941",
-    "date": "2026-07-12T15:41:25.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uuga40/local_image_to_3d_2gb_ram_20s_apple_silicon_iphone/",
-    "platform": "Reddit",
-    "title": "Local Image to 3D (<2gb RAM, <20s, Apple Silicon, iPhone)",
-    "author": {
-      "name": "/u/arduinoRPi4",
-      "handle": "/u//u/arduinoRPi4",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Local Image to 3D (<2gb RAM, <20s, Apple Silicon, iPhone)",
-    "summary_ko": "로컬 이미지를 3D로(<2GB RAM, <20s, Apple Silicon, iPhone)",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uuga40/local_image_to_3d_2gb_ram_20s_apple_silicon_iphone/",
-    "image": "https://preview.redd.it/ywn3uzqs1tch1.gif?width=640&crop=smart&s=7f71641995d159e68d8be8a739115d6debe2fbb6",
-    "date": "2026-07-12T14:00:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uu8vjo/the_worst_people_are_fighting/",
-    "platform": "Reddit",
-    "title": "The worst people are fighting",
-    "author": {
-      "name": "/u/VariationLivid3193",
-      "handle": "/u//u/VariationLivid3193",
-      "avatar_color": "#ff4500"
-    },
-    "content": "The worst people are fighting",
-    "summary_ko": "최악의 사람들이 싸우고 있다",
-    "url": "https://www.reddit.com/r/singularity/comments/1uu8vjo/the_worst_people_are_fighting/",
-    "image": "https://preview.redd.it/yfvv02la6rch1.jpeg?width=640&crop=smart&auto=webp&s=0dc6d33b4eed1238edbc83c289a876738e8c830d",
-    "date": "2026-07-12T07:41:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uu15mz/chinas_deepseek_developing_its_own_ai_chip/",
-    "platform": "Reddit",
-    "title": "China's DeepSeek developing its own AI chip, sources say",
-    "author": {
-      "name": "/u/TheRealMasonMac",
-      "handle": "/u//u/TheRealMasonMac",
-      "avatar_color": "#ff4500"
-    },
-    "content": "China's DeepSeek developing its own AI chip, sources say",
-    "summary_ko": "중국 DeepSeek, 자체 AI 칩 개발 중",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uu15mz/chinas_deepseek_developing_its_own_ai_chip/",
-    "image": null,
-    "date": "2026-07-12T01:04:07.000Z",
     "likes": 0,
     "comments": 0
   }
