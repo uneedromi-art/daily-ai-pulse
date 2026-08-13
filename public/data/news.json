@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/",
+    "platform": "Reddit",
+    "title": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
+    "author": {
+      "name": "/u/mossy_troll_84",
+      "handle": "/u//u/mossy_troll_84",
+      "avatar_color": "#ff4500"
+    },
+    "content": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
+    "summary_ko": "deepseek-ai/DeepSeek-V4-Pro-0813 · 포옹하는 얼굴",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/",
+    "image": "https://external-preview.redd.it/7YqDgq3lNDmhu0oHQmFkgtazI18pKtpmtgtD7S75LrA.png?width=640&crop=smart&auto=webp&s=06ef735df8a564b59c13deef85d758000cc692e2",
+    "date": "2026-08-13T12:37:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/",
+    "platform": "Reddit",
+    "title": "DeepSeek announce price increases of 50-1000%",
+    "author": {
+      "name": "/u/AlyoshaV",
+      "handle": "/u//u/AlyoshaV",
+      "avatar_color": "#ff4500"
+    },
+    "content": "DeepSeek announce price increases of 50-1000%",
+    "summary_ko": "DeepSeek, 50~1000% 가격 인상 발표",
+    "url": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/",
+    "image": "https://preview.redd.it/ml5w5wlst4jh1.jpeg?width=640&crop=smart&auto=webp&s=e54afe88a08e37ac832a91ce9e7b74323171cdff",
+    "date": "2026-08-13T12:01:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vn4020/the_countdown_to_qwen3827b_starts_now/",
+    "platform": "Reddit",
+    "title": "The countdown to Qwen3.8-27B starts now!",
+    "author": {
+      "name": "/u/Ok-Shower7286",
+      "handle": "/u//u/Ok-Shower7286",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The countdown to Qwen3.8-27B starts now!",
+    "summary_ko": "Qwen3.8-27B의 카운트다운이 지금 시작됩니다!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn4020/the_countdown_to_qwen3827b_starts_now/",
+    "image": "https://external-preview.redd.it/7evYurtRZy1dWw_722OJZ9KshO-Vjsdt_Qf94hyXWtk.png?width=640&crop=smart&auto=webp&s=ba13fd0505e2f5e54d4021a82c93b6b8c8cc0c08",
+    "date": "2026-08-13T07:36:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4208948/%ea%b0%90%ec%a7%80%eb%8a%94-%ec%b4%88-%eb%8b%a8%ec%9c%84-%ed%94%bc%ed%95%b4-%ed%8c%8c%ec%95%85%ec%9d%80-%ec%8b%9c%ea%b0%84-%eb%8b%a8%ec%9c%84ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%82%ac.html",
+    "platform": "CIO",
+    "title": "감지는 초 단위, 피해 파악은 시간 단위…AI 에이전트 사고의 맹점",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "감지는 초 단위, 피해 파악은 시간 단위…AI 에이전트 사고의 맹점",
+    "summary_ko": "IT 및 보안 리더 대다수는 AI 에이전트가 이상 행동을 보일 경우 이를 탐지할 수 있는 역량을 갖추고 있다고 자신하지만, 에이전트가 의도된 권한 범위를 벗어나 작동했을 때 발생하는 피해를 신속하게 통제할 수 있는 조직은 많지 않은 것으로 나타났다. IT 옵저버빌리티 업체 와나웨어(Wan Aware)가 IT 및 보안 리더를 대상으로 실시한 조사에 따르면, 응답자의 90%는 오작동하는 AI 에이전트를 탐지할 수 있다고 답했다. 그러나 사고 발생 후 하위 시스템으로 확산되는 영향을 수분 내에 추적할 수 있다고 답한 비율은 26%에 그쳤다.",
+    "url": "https://www.cio.com/article/4208948/%ea%b0%90%ec%a7%80%eb%8a%94-%ec%b4%88-%eb%8b%a8%ec%9c%84-%ed%94%bc%ed%95%b4-%ed%8c%8c%ec%95%85%ec%9d%80-%ec%8b%9c%ea%b0%84-%eb%8b%a8%ec%9c%84ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%82%ac.html",
+    "image": null,
+    "date": "2026-08-13T07:22:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4208937/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%c2%b7%ec%9b%94%ea%b0%80-700%ec%a1%b0-%ed%88%ac%ec%9e%90-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c%eb%b2%94it-%eb%a6%ac%eb%8d%94%eb%8a%94-%ec%b9%a9%ea%b0%92.html",
+    "platform": "CIO",
+    "title": "엔비디아·월가, 700조 투자 플랫폼 출범…IT 리더는 ‘칩값 상승·공급난’ 우려",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "엔비디아·월가, 700조 투자 플랫폼 출범…IT 리더는 ‘칩값 상승·공급난’ 우려",
+    "summary_ko": "엔비디아는 아폴로(Apollo), 블랙록(Black Rock), 블랙스톤(Blackstone), 브룩필드(Brookfield), 골드만삭스(Goldman Sachs), KKR 등 6개 금융사와 함께 5,000억 달러(약 712조 원) 규모의 투자 플랫폼을 조성한다. 이를 통해 최첨단 AI 연구소와 AI 클라우드 사업자, 일반 기업 등 엔비디아 고객이 AI 칩을 신용 기반으로 구매할 수 있도록 지원할 계획이다. 이 같은 대규모 자금 공급이 기업 AI 시장에 어떤 영향을 미칠지는 아직 불확실하다.",
+    "url": "https://www.cio.com/article/4208937/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%c2%b7%ec%9b%94%ea%b0%80-700%ec%a1%b0-%ed%88%ac%ec%9e%90-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c%eb%b2%94it-%eb%a6%ac%eb%8d%94%eb%8a%94-%ec%b9%a9%ea%b0%92.html",
+    "image": null,
+    "date": "2026-08-13T07:07:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vn0oww/white_house_creates_framework_for_private/",
+    "platform": "Reddit",
+    "title": "White House creates framework for private companies to launch government authorized cyberattacks",
+    "author": {
+      "name": "/u/Outside-Iron-8242",
+      "handle": "/u//u/Outside-Iron-8242",
+      "avatar_color": "#ff4500"
+    },
+    "content": "White House creates framework for private companies to launch government authorized cyberattacks",
+    "summary_ko": "백악관, 민간 기업이 정부 승인 사이버 공격을 시작할 수 있는 프레임워크 마련",
+    "url": "https://www.reddit.com/r/singularity/comments/1vn0oww/white_house_creates_framework_for_private/",
+    "image": "https://external-preview.redd.it/4FzYal9cqXZ3s9Qt8n9HScEecjdldqOd04HXExzO8i8.jpeg?width=640&crop=smart&auto=webp&s=eb89e898879eb7adef969749433776a6f6a543ad",
+    "date": "2026-08-13T04:32:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4208827/%ec%99%84%ec%a0%84-%ec%9e%90%ec%9c%a8-ai%ec%9d%98-%ed%95%9c%ea%b3%84%ec%9d%b8%ea%b0%84%ea%b3%bc-%ed%98%91%ec%97%85%ed%95%9c-http-%ed%84%b0%eb%af%b8%eb%84%a4%ec%9d%b4%ed%84%b0%ea%b0%80.html",
+    "platform": "CIO",
+    "title": "완전 자율 AI의 한계…인간과 협업한 ‘HTTP 터미네이터’가 보여준 보안 연구의 미래",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "완전 자율 AI의 한계…인간과 협업한 ‘HTTP 터미네이터’가 보여준 보안 연구의 미래",
+    "summary_ko": "HTTP 터미네이터(HTTP Terminator)는 HTTP 요청 스머글링(HTTP Request Smuggling)에 취약한 수백 개 웹사이트를 찾아내 대규모로 실제 공격을 수행했으며, ‘공유 파서 혼동(Shared-Parser Confusion)’이라 명명한 완전히 새로운 취약점 계열까지 발견한 AI 시스템이다. 하지만 이 성과는 AI만의 힘으로 이뤄진 것이 아니다. 연구 전 과정에서 인간 연구자의 지속적인 개입과 지도가 있었으며, 이것이야말로 이번 연구에서 가장 주목할 만한 성과라고 할 수 있다.",
+    "url": "https://www.cio.com/article/4208827/%ec%99%84%ec%a0%84-%ec%9e%90%ec%9c%a8-ai%ec%9d%98-%ed%95%9c%ea%b3%84%ec%9d%b8%ea%b0%84%ea%b3%bc-%ed%98%91%ec%97%85%ed%95%9c-http-%ed%84%b0%eb%af%b8%eb%84%a4%ec%9d%b4%ed%84%b0%ea%b0%80.html",
+    "image": null,
+    "date": "2026-08-13T00:39:25.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4208532/ai-%ed%97%a4%eb%b9%84-%ec%9c%a0%ec%a0%80%eb%8a%94-%eb%8d%94-%eb%82%b8%eb%8b%a4%ec%98%a4%ed%94%88ai-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%b1%97gpt-%ed%94%84%eb%a6%ac%eb%af%b8%ec%97%84-%eb%9d%bc.html",
     "platform": "CIO",
     "title": "“AI 헤비 유저는 더 낸다”…오픈AI, 기업용 챗GPT 프리미엄 라이선스 도입",
@@ -2726,196 +2851,6 @@
     "url": "https://www.cio.com/article/4197143/%ea%b5%ac%ec%a7%81%ec%9e%90-52%c2%b7%ea%b8%b0%ec%97%85-73-ai%ec%97%90-%eb%a7%a1%ea%b8%b4-%ec%b1%84%ec%9a%a9%ec%8b%a0%eb%a2%b0%eb%8a%94-%ec%88%99%ec%a0%9c%eb%a1%9c.html",
     "image": null,
     "date": "2026-07-15T06:14:45.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4196757/%ec%a5%b4%ec%9d%b4-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%94%84%eb%9f%b0%ed%8a%b8%ec%97%94%eb%93%9csap-ai-%ec%8b%9c%eb%8c%80-erp%ec%9d%98-%eb%af%b8%eb%9e%98-%ec%b2%ad%ec%82%ac%ec%a7%84.html",
-    "platform": "CIO",
-    "title": "“쥴이 새로운 프런트엔드”…SAP, AI 시대 ERP의 미래 청사진 공개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“쥴이 새로운 프런트엔드”…SAP, AI 시대 ERP의 미래 청사진 공개",
-    "summary_ko": "SAP는 14일 한국에서 열린 ‘SAP 나우 AI 투어 코리아’ 기자간담회에서 AI를 기업 업무의 새로운 진입점으로 삼고 ERP가 그 뒤에서 핵심 비즈니스 프로세스와 거버넌스를 담당하는 구조의 AI 전략을 공개했다. SAP가 기자간담회에서 가장 먼저 소개한 것은 ‘쥴 워크(Joule Work)’이다. 쥴 워크는 SAP 트랜잭션이 하나로 모이는 AI 기반 업무 화면으로, 사용자는 여러 메뉴를 오갈 필요 없이 대화형 창에서 업무를 처리할 수 있다. 구체적으로 쥴 워크는 크게 세 요소로 구성된다.",
-    "url": "https://www.cio.com/article/4196757/%ec%a5%b4%ec%9d%b4-%ec%83%88%eb%a1%9c%ec%9a%b4-%ed%94%84%eb%9f%b0%ed%8a%b8%ec%97%94%eb%93%9csap-ai-%ec%8b%9c%eb%8c%80-erp%ec%9d%98-%eb%af%b8%eb%9e%98-%ec%b2%ad%ec%82%ac%ec%a7%84.html",
-    "image": null,
-    "date": "2026-07-14T15:21:26.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4196348/your-service-vendors-are-being-rebuilt-around-ai.html",
-    "platform": "CIO",
-    "title": "Your service vendors are being rebuilt around AI",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Your service vendors are being rebuilt around AI",
-    "summary_ko": "귀하의 서비스 공급업체는 AI를 중심으로 재구축되고 있습니다. 벤처 지원 기업은 기업이 의존하는 지원, 금융 운영 및 관리 서비스 제공업체를 매입하고 이를 AI 에이전트를 중심으로 다시 플랫폼화하고 있으며, 그에 따른 갱신은 결과에 따라 가격이 책정되어 이점으로 판매됩니다. 인수 기반 구조와 입증되지 않은 안정성으로 인해 공급업체 프로세스 규모에 맞지 않는 거버넌스 및 연속성 위험이 발생합니다. 테이블에서 레버리지를 유지하는 방법은 다음과 같습니다.",
-    "url": "https://www.cio.com/article/4196348/your-service-vendors-are-being-rebuilt-around-ai.html",
-    "image": null,
-    "date": "2026-07-14T12:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4196339/how-do-you-go-from-junior-to-staff-engineer-when-ai-writes-the-code.html",
-    "platform": "CIO",
-    "title": "How do you go from junior to staff engineer when AI writes the code?",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "How do you go from junior to staff engineer when AI writes the code?",
-    "summary_ko": "AI가 코드를 작성할 때 주니어에서 스태프 엔지니어로 어떻게 가나요? 몇 주 전, 대학을 갓 졸업한 Aviator의 신입 사원이 나에게 명확한 대답이 없는 질문을 했습니다. 수석 엔지니어나 직원 엔지니어가 되려면 어떻게 해야 합니까? 무엇을, 어떻게 배워야 합니까?",
-    "url": "https://www.cio.com/article/4196339/how-do-you-go-from-junior-to-staff-engineer-when-ai-writes-the-code.html",
-    "image": null,
-    "date": "2026-07-14T11:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4189693/how-ai-agents-are-shaping-the-future-of-work.html",
-    "platform": "CIO",
-    "title": "How AI agents are shaping the future of work",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "How AI agents are shaping the future of work",
-    "summary_ko": "AI 에이전트가 업무의 미래를 형성하는 방법 저는 2025년에 기업 SaaS 플랫폼에 내장된 최초의 AI 에이전트가 발표된 여러 주요 기술 컨퍼런스에 참석했습니다. 이러한 에이전트 중 일부는 미래의 업무에 대한 가능성과 엿볼 수 있는 모습을 보인 반면, 다른 에이전트는 플랫폼의 기존 기능을 자연어 확장한 것처럼 보였습니다. 2025년 말에 Anthropic과 Open AI는 새로운 AI 모델과 코드 생성 기능을 출시했습니다. 더 많은 개발자가 바이브 코딩을 시도했고 일부 플랫폼에서는 사양 중심 개발 기능을 출시했습니다.",
-    "url": "https://www.cio.com/article/4189693/how-ai-agents-are-shaping-the-future-of-work.html",
-    "image": null,
-    "date": "2026-07-14T10:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4196328/where-metas-whatsapp-agent-can-actually-win.html",
-    "platform": "CIO",
-    "title": "Where Meta’s WhatsApp agent can actually win",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Where Meta’s WhatsApp agent can actually win",
-    "summary_ko": "Meta의 Whats App 에이전트가 실제로 승리할 수 있는 부분. 이번 주 Whats App에서 업체에 메시지를 보내면 소프트웨어가 여러분을 맞이할 것입니다. 6월 3일, Meta는 비즈니스 AI 에이전트를 모든 회사에서 사용할 수 있도록 했습니다. 이 봇은 질문에 답하고, 제품을 추천하고, 약속을 예약하고, 영업 리드를 선별하고, 막힐 때 사람에게 건네주는 봇입니다.",
-    "url": "https://www.cio.com/article/4196328/where-metas-whatsapp-agent-can-actually-win.html",
-    "image": null,
-    "date": "2026-07-14T10:00:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4191656/deluxe-corporation-beats-the-odds-with-mainframe-migration.html",
-    "platform": "CIO",
-    "title": "Deluxe Corporation beats the odds with mainframe migration using AI",
-    "lang": "en",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "Deluxe Corporation beats the odds with mainframe migration using AI",
-    "summary_ko": "Deluxe Corporation은 AI를 사용한 메인프레임 마이그레이션으로 어려움을 극복했습니다. Deluxe는 최근 50년이 넘는 메인프레임에서 성공적으로 마이그레이션하면서 역경을 이겨냈습니다. 회사는 약 12개월 만에 큰 문제 없이 클라우드 환경으로 이전할 수 있었고 AI는 힘든 작업을 일부 수행했습니다. 절약 금액은 약 4달러입니다.",
-    "url": "https://www.cio.com/article/4191656/deluxe-corporation-beats-the-odds-with-mainframe-migration.html",
-    "image": null,
-    "date": "2026-07-14T09:30:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4196496/ibm-ai-%ec%b6%94%eb%a1%a0%c2%b7%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b2%a8%eb%83%a5%ed%95%9c-z17%c2%b7%eb%a6%ac%eb%88%85%ec%8a%a4%ec%9b%90-%ec%8b%a0.html",
-    "platform": "CIO",
-    "title": "IBM, AI 추론·하이브리드 클라우드 겨냥한 z17·리눅스원 신제품 발표",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "IBM, AI 추론·하이브리드 클라우드 겨냥한 z17·리눅스원 신제품 발표",
-    "summary_ko": "IBM이 IBM Z와 리눅스원 시스템에 새로운 단일 프레임(single frame) 및 랙마운트(rack mount) 모델을 추가하며 메인프레임 제품군의 적용 범위를 확대한다. IBM z17 제품군에는 메인프레임의 성능을 보다 작고 유연하게 구성할 수 있는 폼팩터에 담은 단일 프레임 및 랙마운트 모델이 추가됐다.",
-    "url": "https://www.cio.com/article/4196496/ibm-ai-%ec%b6%94%eb%a1%a0%c2%b7%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b2%a8%eb%83%a5%ed%95%9c-z17%c2%b7%eb%a6%ac%eb%88%85%ec%8a%a4%ec%9b%90-%ec%8b%a0.html",
-    "image": null,
-    "date": "2026-07-14T08:45:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4196592/ai%eb%8f%84-%ed%95%9c%ea%b8%80%ec%b2%98%eb%9f%bc%ea%b3%bc%ea%b8%b0%ec%a0%95%ed%86%b5%eb%b6%80-%ec%a0%84-%ea%b5%ad%eb%af%bc-%eb%ac%b4%eb%a3%8c-ai-%ec%b1%97%eb%b4%87-%ec%a7%80%ec%9b%90.html",
-    "platform": "CIO",
-    "title": "“AI도 한글처럼”…과기정통부, 전 국민 무료 AI 챗봇 지원사업 공고",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“AI도 한글처럼”…과기정통부, 전 국민 무료 AI 챗봇 지원사업 공고",
-    "summary_ko": "과학기술정보통신부와 정보통신산업진흥원(NIPA)은 13일 ‘전 국민 AI 서비스 보편적 활용 지원(모두의 AI)’ 사업 공모를 시작했다고 밝혔다. 정부는 국산 AI 모델 확보 성과를 바탕으로 모든 국민이 쉽고 부담 없이 AI를 활용할 수 있는 환경을 조성하는 것이 이번 사업의 목표라고 설명했다. 사업 안내문에서 정부는 생성형 AI가 일상적인 도구로 빠르게 확산되고 있지만, AI 접근성과 활용 역량의 격차가 새로운 사회·경제적 불평등으로 이어질 수 있다고 진단했다.",
-    "url": "https://www.cio.com/article/4196592/ai%eb%8f%84-%ed%95%9c%ea%b8%80%ec%b2%98%eb%9f%bc%ea%b3%bc%ea%b8%b0%ec%a0%95%ed%86%b5%eb%b6%80-%ec%a0%84-%ea%b5%ad%eb%af%bc-%eb%ac%b4%eb%a3%8c-ai-%ec%b1%97%eb%b4%87-%ec%a7%80%ec%9b%90.html",
-    "image": null,
-    "date": "2026-07-14T08:15:08.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4196431/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%b4%9d%ec%9d%b4-%ec%95%84%eb%8b%8c-%ea%b8%b0%ec%88%a0%eb%a1%9c-%eb%82%98%eb%9d%bc%eb%a5%bc-%ec%a7%80%ed%82%a4%eb%8b%a4%ea%b9%80%ed%95%9c%ec%84%b1-%ea%b5%ad.html",
-    "platform": "CIO",
-    "title": "인터뷰 | 총이 아닌 기술로 나라를 지키다…김한성 국방전산정보원 원장",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "인터뷰 | 총이 아닌 기술로 나라를 지키다…김한성 국방전산정보원 원장",
-    "summary_ko": "오늘날 전쟁의 승패는 화력만으로 갈리지 않는다. 누가 더 빨리 적을 식별하고, 누가 더 정확하게 표적의 우선순위를 매기느냐에도 달려 있다. 즉 데이터와 알고리즘이 전장의 문법을 새롭게 쓰고 있다. 사이버작전사령관을 지낸 김한성 국방전산정보원 원장은 이 변화를 누구보다 일찍 체감한 사람이다. 그리고 지금 그는 군의 AI 국방의 근간이 될 데이터와 정보체계를 구축하고 있다. 명령에 따르던 군인이 처음 손을 든 곳, 국방전산정보원 용산 국방부 청사 근처 카페에서 만난 김한성 원장은 최근 직접 둘러본 AI 기술과 기업 이야기를 꺼내며 연신 즐거운 표정을 지었다.",
-    "url": "https://www.cio.com/article/4196431/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%b4%9d%ec%9d%b4-%ec%95%84%eb%8b%8c-%ea%b8%b0%ec%88%a0%eb%a1%9c-%eb%82%98%eb%9d%bc%eb%a5%bc-%ec%a7%80%ed%82%a4%eb%8b%a4%ea%b9%80%ed%95%9c%ec%84%b1-%ea%b5%ad.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/07/KIM.jpg?quality=50&amp;strip=all&amp;w=1024",
-    "date": "2026-07-14T03:17:31.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4196404/ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%a7%80%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%a7%84%ed%99%94%ed%95%b4%ec%95%bc-%ed%95%98%eb%8a%94%ea%b0%80.html",
-    "platform": "CIO",
-    "title": "AI 시대, 기업 스토리지는 어떻게 진화해야 하는가",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 시대, 기업 스토리지는 어떻게 진화해야 하는가",
-    "summary_ko": "전 세계 기업이 AI 중심의 디지털 전환을 빠르게 추진하면서, 스토리지 인프라에 대한 요구도 전례 없는 수준으로 높아지고 있다. 대규모 언어 모델(LLM), 실시간 분석, 자동화 기술이 확산되면서 ‘미션 크리티컬’의 의미도 달라지고 있다. 이제 기업의 핵심 시스템은 단순히 안정적으로 데이터를 저장하는 수준을 넘어, 대량의 데이터를 빠르게 처리하고, 언제든 사용할 수 있으며, 보안 위협에도 흔들리지 않아야 한다. 확장성·보안·고가용성을 모두 갖춘 스토리지 인프라 전략 CIO.",
-    "url": "https://www.cio.com/article/4196404/ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ec%8a%a4%ed%86%a0%eb%a6%ac%ec%a7%80%eb%8a%94-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%a7%84%ed%99%94%ed%95%b4%ec%95%bc-%ed%95%98%eb%8a%94%ea%b0%80.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/07/Featured-Image_Synology-2.png?w=1024",
-    "date": "2026-07-14T00:01:34.000Z",
     "likes": 0,
     "comments": 0
   }
