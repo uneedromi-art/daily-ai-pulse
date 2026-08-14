@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9mj4/its_out/",
+    "platform": "Reddit",
+    "title": "IT'S OUT",
+    "author": {
+      "name": "/u/Certain-Cod-1404",
+      "handle": "/u//u/Certain-Cod-1404",
+      "avatar_color": "#ff4500"
+    },
+    "content": "IT'S OUT",
+    "summary_ko": "끝났어",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9mj4/its_out/",
+    "image": "https://external-preview.redd.it/tA-RT3Ivb7voKtI3EcgYtYFafwW8cjq96bgndRtH4_Y.png?width=640&crop=smart&auto=webp&s=6e7e71ca732b19beaf9380134099412beca25fd4",
+    "date": "2026-08-14T14:59:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vo439e/_/",
+    "platform": "Reddit",
+    "title": "???",
+    "author": {
+      "name": "/u/KeanuRave100",
+      "handle": "/u//u/KeanuRave100",
+      "avatar_color": "#ff4500"
+    },
+    "content": "???",
+    "summary_ko": "???",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vo439e/_/",
+    "image": "https://preview.redd.it/fie7scftnbjh1.png?width=640&crop=smart&auto=webp&s=2a5cf8a35d971886427227060bed7c88acca207c",
+    "date": "2026-08-14T10:59:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/",
+    "platform": "Reddit",
+    "title": "GLM 5.3 Released",
+    "author": {
+      "name": "/u/jmorant555",
+      "handle": "/u//u/jmorant555",
+      "avatar_color": "#ff4500"
+    },
+    "content": "GLM 5.3 Released",
+    "summary_ko": "GLM 5.3 출시",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/",
+    "image": "https://preview.redd.it/eixnxdnvz9jh1.png?width=640&crop=smart&auto=webp&s=2247868071d2d80c73f9ce9e95b5c3085bb85fa3",
+    "date": "2026-08-14T05:23:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4209448/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%95%b4%ed%82%b9-%eb%aa%a8%eb%8d%b8-%ec%95%84%eb%8b%8c-%ed%95%98%eb%84%a4%ec%8a%a4%ea%b0%80-%eb%ac%b8%ec%a0%9cciso%ea%b0%80-%ec%a0%90%ea%b2%80.html",
+    "platform": "CIO",
+    "title": "AI 에이전트 해킹, 모델 아닌 ‘하네스’가 문제…CISO가 점검해야 할 3가지",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 에이전트 해킹, 모델 아닌 ‘하네스’가 문제…CISO가 점검해야 할 3가지",
+    "summary_ko": "AI 에이전트를 위험하게 만드는 요소가 무엇인지 보안 연구자에게 물으면, 대부분은 먼저 AI 모델을 떠올린다. 모델이 무엇을 거부하거나 거부하지 않는지, 얼마나 쉽게 탈옥(jailbreak)될 수 있는지, 모델 가중치(weights)를 신뢰할 수 있는지 등이 주된 관심사다. 하지만 이러한 인식은 점차 시대에 뒤떨어지고 있다. 익스플로잇 시연, 독립적인 레드팀 테스트, 보안 연구자들의 평가 등 최근 발표되는 보안 연구는 문제의 핵심이 모델이 아니라 모델과 외부 환경을 연결하는 코드에 있음을 보여주고 있다. 최근에는 이 코드를 ‘하네스(harness)’라고 부른다.",
+    "url": "https://www.cio.com/article/4209448/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%95%b4%ed%82%b9-%eb%aa%a8%eb%8d%b8-%ec%95%84%eb%8b%8c-%ed%95%98%eb%84%a4%ec%8a%a4%ea%b0%80-%eb%ac%b8%ec%a0%9cciso%ea%b0%80-%ec%a0%90%ea%b2%80.html",
+    "image": null,
+    "date": "2026-08-14T01:31:48.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vntd45/_/",
+    "platform": "Reddit",
+    "title": "👁️👄👁️",
+    "author": {
+      "name": "/u/WittyEgg2037",
+      "handle": "/u//u/WittyEgg2037",
+      "avatar_color": "#ff4500"
+    },
+    "content": "👁️👄👁️",
+    "summary_ko": "👁️👄👁️",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vntd45/_/",
+    "image": "https://preview.redd.it/qhp8v7rks8jh1.jpeg?width=640&crop=smart&auto=webp&s=91b1afea97984ea81161ab15413a70f6e5590a13",
+    "date": "2026-08-14T01:20:58.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4209438/%ec%b9%bc%eb%9f%bc-%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-%ed%94%84%eb%a1%9c%ed%95%84%ec%9d%b4-%ea%b3%b5%ea%b2%a9-%ec%9e%ac%eb%a3%8c-%ec%9e%84%ec%9b%90%ec%a7%84-%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac.html",
+    "platform": "CIO",
+    "title": "칼럼 | 링크드인 프로필이 공격 재료…임원진 딥페이크 사칭, 기업 보안의 새로운 과제",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 링크드인 프로필이 공격 재료…임원진 딥페이크 사칭, 기업 보안의 새로운 과제",
+    "summary_ko": "2년 전, 필자는 약 40분 동안 화상회의에 참석해 정상적인 기업 인수 대금 지급이라고 믿고 승인을 내린 한 최고재무책임자(CFO)를 만난 적이 있다. 회의에는 CEO와 이사회 구성원 두 명이 함께 참여해 익숙한 목소리로 대화를 나눴고, 실제 회의처럼 느껴질 만큼 자연스러운 즉흥적인 대화도 이어졌다. 그러나 이들 모두는 실제 인물이 아니었다. 음성은 실적 발표(Earnings Call) 녹음에서 복제됐고, 영상은 유튜브에 공개된 컨퍼런스 영상을 조합해 만들어졌다. 이를 드러낸 것은 화면 깨짐이나 흐릿한 손동작 같은 기술적 오류가 아니었다.",
+    "url": "https://www.cio.com/article/4209438/%ec%b9%bc%eb%9f%bc-%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-%ed%94%84%eb%a1%9c%ed%95%84%ec%9d%b4-%ea%b3%b5%ea%b2%a9-%ec%9e%ac%eb%a3%8c-%ec%9e%84%ec%9b%90%ec%a7%84-%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac.html",
+    "image": null,
+    "date": "2026-08-14T01:17:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4209430/ai-%ec%88%98%ec%9a%94%ea%b0%80-%ec%98%ac%eb%a6%b0-%eb%b6%80%ed%92%88%ea%b0%92-%ec%9c%a0%eb%9f%bd-%ec%a0%80%ea%b0%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%eb%8f%84-%eb%aa%bb-%eb%b2%84%ed%85%bc%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "AI 수요가 올린 부품값, 유럽 저가 클라우드도 못 버텼다…OVH 서버 최대 87% 인상",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 수요가 올린 부품값, 유럽 저가 클라우드도 못 버텼다…OVH 서버 최대 87% 인상",
+    "summary_ko": "프랑스 클라우드 기업 OVH클라우드(OVHcloud)가 신규 및 기존 고객을 대상으로 서버 가격을 최대 87% 인상한다. 회사는 AI 수요 급증으로 데이터센터에서 사용하는 메모리(RAM)와 스토리지 가격이 크게 오른 것이 이번 가격 인상의 배경이라고 설명했다. 유럽 클라우드 사업자인 OVH클라우드는 저렴한 베어메탈 서버와 퍼블릭 클라우드 서비스를 주력으로 제공하고 있다. 지난 1년 동안 OVH클라우드가 직면한 고민은 AI 인프라를 구축하는 CIO들에게도 익숙한 문제다. 회사는 수요를 예측하기 어려운 상황에서 필요한 부품을 적기에 확보해야 하는 과제를 안고 있었다.",
+    "url": "https://www.cio.com/article/4209430/ai-%ec%88%98%ec%9a%94%ea%b0%80-%ec%98%ac%eb%a6%b0-%eb%b6%80%ed%92%88%ea%b0%92-%ec%9c%a0%eb%9f%bd-%ec%a0%80%ea%b0%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%eb%8f%84-%eb%aa%bb-%eb%b2%84%ed%85%bc%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-08-14T01:01:01.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4209426/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%8a%b9%ec%9d%b8-%ed%94%bc%eb%a1%9c-%ec%a4%84%ec%9d%b8%eb%8b%a4%ec%a0%84%eb%ac%b8%ea%b0%80.html",
+    "platform": "CIO",
+    "title": "앤트로픽 “클로드 코드 승인 피로 줄인다”…전문가 “보안 리스크는 커질 수도”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "앤트로픽 “클로드 코드 승인 피로 줄인다”…전문가 “보안 리스크는 커질 수도”",
+    "summary_ko": "앤트로픽이 AI 코딩 에이전트 클로드 코드의 오토 모드를 유료 및 엔터프라이즈 사용자에게 기본 설정으로 적용한다. 이에 따라 개발자는 코딩 에이전트가 수행하는 작업을 일일이 승인하지 않아도 된다. 앤트로픽은 코딩 에이전트 문서를 통해 “2026년 8월 14일부터 프로(Pro), 맥스(Max), 팀(Team) 요금제의 신규 세션에서는 오토 모드가 기본 권한 모드로 적용된다”라며 “향후 한 달 안에 클로드 엔터프라이즈와 API, 클라우드 플랫폼 사용자에게도 동일한 변경 사항을 적용할 계획”이라고 밝혔다.",
+    "url": "https://www.cio.com/article/4209426/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%8a%b9%ec%9d%b8-%ed%94%bc%eb%a1%9c-%ec%a4%84%ec%9d%b8%eb%8b%a4%ec%a0%84%eb%ac%b8%ea%b0%80.html",
+    "image": null,
+    "date": "2026-08-14T00:26:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/",
     "platform": "Reddit",
     "title": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
@@ -2757,100 +2901,6 @@
     "url": "https://www.cio.com/article/4197529/%ec%9b%90%ec%a0%84%eb%8f%84-ai-%ec%8b%9c%eb%8c%80%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%e7%be%8e-doe-%ec%a0%95%eb%b3%b4%ea%b4%80%eb%a6%ac-%ed%98%84%eb%8c%80%ed%99%94-%ea%b2%bd.html",
     "image": null,
     "date": "2026-07-16T01:05:50.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
-    "platform": "Google",
-    "title": "Towards demystifying the creativity of diffusion models",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Algorithms & Theory",
-    "summary_ko": "확산 모델의 창의성을 이해하기 위해",
-    "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
-    "image": null,
-    "date": "2026-07-15T18:06:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4197183/ms-sms%c2%b7%ec%9d%8c%ec%84%b1-%ec%9d%b8%ec%a6%9d-%ec%a2%85%eb%a3%8c-%ec%88%98%ec%88%9c%ed%8c%a8%ec%8a%a4%ed%82%a4-%ec%a0%84%ed%99%98-%ec%95%9e%eb%91%94-%ea%b8%b0%ec%97%85-%eb%8c%80%ec%9d%91.html",
-    "platform": "CIO",
-    "title": "MS, SMS·음성 인증 종료 수순…패스키 전환 앞둔 기업 대응법은?",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "MS, SMS·음성 인증 종료 수순…패스키 전환 앞둔 기업 대응법은?",
-    "summary_ko": "패스키는 이미 오래전부터 등장한 기술이지만, 여러 이유로 기업 전반의 도입은 지금까지 더디게 진행돼 왔다. 그러나 머지않아 많은 MS 고객은 더 이상 이를 선택할 수 없게 된다. MS는 오는 9월 1일부터 클라우드 기반 ID 및 액세스 관리(IAM) 서비스인 MS 엔트라 ID의 기본 인증 방식으로 패스키를 적용한다. 이후 전환 기간을 거쳐 2027년 2월 1일부터 MS가 제공하는 SMS 및 음성 인증 서비스는 공식적으로 종료된다.",
-    "url": "https://www.cio.com/article/4197183/ms-sms%c2%b7%ec%9d%8c%ec%84%b1-%ec%9d%b8%ec%a6%9d-%ec%a2%85%eb%a3%8c-%ec%88%98%ec%88%9c%ed%8c%a8%ec%8a%a4%ed%82%a4-%ec%a0%84%ed%99%98-%ec%95%9e%eb%91%94-%ea%b8%b0%ec%97%85-%eb%8c%80%ec%9d%91.html",
-    "image": null,
-    "date": "2026-07-15T08:09:17.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4197158/%ec%b9%bc%eb%9f%bc-ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%a7%9c%eb%8f%84-%ec%a3%bc%eb%8b%88%ec%96%b4%ea%b0%80-%ed%95%b4%ec%95%bc-%ed%95%a0-%ea%b2%83%eb%8b%b5-%eb%a7%90%ea%b3%a0.html",
-    "platform": "CIO",
-    "title": "칼럼 | AI가 코드를 짜도 주니어가 해야 할 것…”답 말고 선택지를 요구하라”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | AI가 코드를 짜도 주니어가 해야 할 것…”답 말고 선택지를 요구하라”",
-    "summary_ko": "몇 주 전, 대학을 갓 졸업한 신입 엔지니어이자 회사 후배가 필자에게 쉽게 답하기 어려운 질문을 던졌다. “시니어 엔지니어, 나아가 스태프 엔지니어가 되려면 어떻게 해야 하나요? 무엇을 배우고, 어떻게 공부해야 하나요? ” 당연한 질문이다. 하지만 불과 1년 전보다 답하기는 훨씬 어려워졌다. 예전에는 성장 경로가 비교적 명확했다. 신입 소프트웨어 엔지니어는 경험 많은 멘토의 지도를 받으며 기본적인 업무부터 시작했다. 코드를 작성하고, 궁금한 점이 생기면 질문하고, 풀 리퀘스트(Pull Request)를 올린 뒤 코드 리뷰에서 피드백을 받았다.",
-    "url": "https://www.cio.com/article/4197158/%ec%b9%bc%eb%9f%bc-ai%ea%b0%80-%ec%bd%94%eb%93%9c%eb%a5%bc-%ec%a7%9c%eb%8f%84-%ec%a3%bc%eb%8b%88%ec%96%b4%ea%b0%80-%ed%95%b4%ec%95%bc-%ed%95%a0-%ea%b2%83%eb%8b%b5-%eb%a7%90%ea%b3%a0.html",
-    "image": null,
-    "date": "2026-07-15T07:06:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4197096/%ea%b0%9c%ec%9d%b8-%ec%83%9d%ec%82%b0%ec%84%b1-%eb%81%8c%ec%96%b4%ec%98%ac%eb%a6%b0-ai-%ed%8c%80%ec%9b%8c%ed%81%ac-%ed%96%a5%ec%83%81%ec%9d%80-%ec%95%84%ec%a7%81%ed%94%bc%ea%b7%b8.html",
-    "platform": "CIO",
-    "title": "“개인 생산성 끌어올린 AI, 팀워크 향상은 아직”…피그마, AI 협업형 도구로 차별화 나서",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“개인 생산성 끌어올린 AI, 팀워크 향상은 아직”…피그마, AI 협업형 도구로 차별화 나서",
-    "summary_ko": "피그마 최고제품책임자(CPO) 유키 야마시타는 14일 서울에서 열린 기자간담회에서 “AI는 개인을 더욱 강력하게 만들고 있지만 팀 전체에는 같은 수준의 효과를 내지 못하고 있다”며 “사람들이 각자 AI 에이전트와 대화하며 아이디어를 발전시키지만, 정작 팀원들은 서로의 작업을 보지 못하는 사일로 현상이 나타나고 있다”고 말했다. 그는 이러한 문제를 해결하기 위해 모든 작업을 하나의 캔버스 안에서 공유하고 함께 발전시키는 환경이 중요하다고 설명했다. 개인의 AI 활용 역량보다 팀 전체가 지식과 결과물을 공유하는 구조가 앞으로 더욱 경쟁력이 될 것이라는 의미다.",
-    "url": "https://www.cio.com/article/4197096/%ea%b0%9c%ec%9d%b8-%ec%83%9d%ec%82%b0%ec%84%b1-%eb%81%8c%ec%96%b4%ec%98%ac%eb%a6%b0-ai-%ed%8c%80%ec%9b%8c%ed%81%ac-%ed%96%a5%ec%83%81%ec%9d%80-%ec%95%84%ec%a7%81%ed%94%bc%ea%b7%b8.html",
-    "image": null,
-    "date": "2026-07-15T06:28:52.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4197143/%ea%b5%ac%ec%a7%81%ec%9e%90-52%c2%b7%ea%b8%b0%ec%97%85-73-ai%ec%97%90-%eb%a7%a1%ea%b8%b4-%ec%b1%84%ec%9a%a9%ec%8b%a0%eb%a2%b0%eb%8a%94-%ec%88%99%ec%a0%9c%eb%a1%9c.html",
-    "platform": "CIO",
-    "title": "구직자 52%·기업 73%, AI에 맡긴 채용…신뢰는 숙제로",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "구직자 52%·기업 73%, AI에 맡긴 채용…신뢰는 숙제로",
-    "summary_ko": "AI는 이제 미국 기업 전반에 깊숙이 자리 잡았으며, 기술 업계의 채용 과정도 예외가 아니다. 이력서 작성 서비스 기업 마이퍼펙트레쥬메(My Perfect Resume)의 조사에 따르면 기업의 73%가 채용 의사결정에 AI를 활용하고 있으며, 52%는 조직 개편과 직무 계획 수립에도 AI를 사용한다고 답했다. 구직자 역시 AI 활용을 빠르게 늘리고 있다. SAP 조사에 따르면 현재 구직자의 52%가 구직 활동에 AI를 활용하고 있으며, 이 가운데 85%는 지원 서류를 다듬는 데, 73%는 면접 준비에 AI를 이용한다고 응답했다.",
-    "url": "https://www.cio.com/article/4197143/%ea%b5%ac%ec%a7%81%ec%9e%90-52%c2%b7%ea%b8%b0%ec%97%85-73-ai%ec%97%90-%eb%a7%a1%ea%b8%b4-%ec%b1%84%ec%9a%a9%ec%8b%a0%eb%a2%b0%eb%8a%94-%ec%88%99%ec%a0%9c%eb%a1%9c.html",
-    "image": null,
-    "date": "2026-07-15T06:14:45.000Z",
     "likes": 0,
     "comments": 0
   }
