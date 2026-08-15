@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2nmi/aged_like_fine_wine/",
+    "platform": "Reddit",
+    "title": "Aged like fine wine",
+    "author": {
+      "name": "/u/TigleLive",
+      "handle": "/u//u/TigleLive",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Aged like fine wine",
+    "summary_ko": "고급 와인처럼 숙성됨",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2nmi/aged_like_fine_wine/",
+    "image": "https://preview.redd.it/28oikdh4hjjh1.jpeg?width=640&crop=smart&auto=webp&s=490b14aa3d06d1479d624c4562af859545a92e7e",
+    "date": "2026-08-15T13:17:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vp1a85/cant_agree_more/",
+    "platform": "Reddit",
+    "title": "Can't agree more",
+    "author": {
+      "name": "/u/qpsqp",
+      "handle": "/u//u/qpsqp",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Can't agree more",
+    "summary_ko": "더 이상 동의할 수 없다",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vp1a85/cant_agree_more/",
+    "image": "https://preview.redd.it/tz60o5qn5jjh1.jpeg?width=640&crop=smart&auto=webp&s=ab071057720081bdd91542b18d7b75dd27021b56",
+    "date": "2026-08-15T12:12:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
+    "platform": "Reddit",
+    "title": "Qwen 3.8 35BA3B spotted",
+    "author": {
+      "name": "/u/BazzyIm",
+      "handle": "/u//u/BazzyIm",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Qwen 3.8 35BA3B spotted",
+    "summary_ko": "Qwen 3.8 35BA3B 발견",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
+    "image": "https://external-preview.redd.it/HP6NuR30rVZuR18nagK5w6YdfM0ZaUtuImBvlJzBNYI.png?width=140&height=70&auto=webp&s=7c42d7c0e027e5f059012ccc9e7a0a7d711d3631",
+    "date": "2026-08-15T08:49:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
+    "platform": "Reddit",
+    "title": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
+    "author": {
+      "name": "/u/Neurogence",
+      "handle": "/u//u/Neurogence",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
+    "summary_ko": "Anthropic은 Mythos 5보다 훨씬 더 나은 모델을 내부적으로 사용하지만 이를 출시할 계획은 없습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
+    "image": null,
+    "date": "2026-08-14T22:36:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9mj4/its_out/",
     "platform": "Reddit",
     "title": "IT'S OUT",
@@ -2757,150 +2825,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uygxt3/anthropic_and_openai_dont_have_secret_sauce/",
     "image": null,
     "date": "2026-07-16T22:04:16.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uy9cft/kimi_k3_benchmarks/",
-    "platform": "Reddit",
-    "title": "Kimi K3 Benchmarks",
-    "author": {
-      "name": "/u/WhyLifeIs4",
-      "handle": "/u//u/WhyLifeIs4",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Kimi K3 Benchmarks",
-    "summary_ko": "Kimi K3 벤치마크",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy9cft/kimi_k3_benchmarks/",
-    "image": "https://preview.redd.it/yuyk4c99mmdh1.jpeg?width=640&crop=smart&auto=webp&s=5b8bccc63d365b3e3b450508579ec0fad61bda49",
-    "date": "2026-07-16T17:25:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uy3oij/chinese_fable_5_is_here_aka_kimi_k3/",
-    "platform": "Reddit",
-    "title": "Chinese fable 5 is here !! Aka kimi k3",
-    "author": {
-      "name": "/u/Independent-Wind4462",
-      "handle": "/u//u/Independent-Wind4462",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Chinese fable 5 is here !! Aka kimi k3",
-    "summary_ko": "중국 우화 5가 왔습니다 !! 일명 키미 k3",
-    "url": "https://www.reddit.com/r/singularity/comments/1uy3oij/chinese_fable_5_is_here_aka_kimi_k3/",
-    "image": "https://preview.redd.it/uv4k60ydlldh1.jpeg?width=640&crop=smart&auto=webp&s=c270dd3fd85379699641200b43ce4a2a042e1b0c",
-    "date": "2026-07-16T13:59:05.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uy3a0q/kimi_k3_released_on_web_and_app/",
-    "platform": "Reddit",
-    "title": "Kimi K3 released on web and app",
-    "author": {
-      "name": "/u/External_Mood4719",
-      "handle": "/u//u/External_Mood4719",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Kimi K3 released on web and app",
-    "summary_ko": "키미K3 웹과 앱 출시",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy3a0q/kimi_k3_released_on_web_and_app/",
-    "image": "https://preview.redd.it/ymn0oaggildh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=4fcbb266ce3df1a1cd77e94af058581678f864a4",
-    "date": "2026-07-16T13:43:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uxwzi4/george_lucas_says_rejecting_ai_is_like_rejecting/",
-    "platform": "Reddit",
-    "title": "George Lucas says rejecting AI is like rejecting cars in favour of horses: 'There's nothing you can do about it… it's the future'",
-    "author": {
-      "name": "/u/Anen-o-me",
-      "handle": "/u//u/Anen-o-me",
-      "avatar_color": "#ff4500"
-    },
-    "content": "George Lucas says rejecting AI is like rejecting cars in favour of horses: 'There's nothing you can do about it… it's the future'",
-    "summary_ko": "조지 루카스(George Lucas)는 AI를 거부하는 것은 말을 위해 자동차를 거부하는 것과 같다고 말합니다. '당신이 할 수 있는 일은 아무것도 없습니다… 그것은 미래입니다.'.",
-    "url": "https://www.reddit.com/r/singularity/comments/1uxwzi4/george_lucas_says_rejecting_ai_is_like_rejecting/",
-    "image": "https://external-preview.redd.it/5MrTuv1P4tf-6MJTV1UtK7V0X1nq1Lx7LrO7HJMheNo.jpeg?width=640&crop=smart&auto=webp&s=ba15fb0f132f2d2a82c6dbe623f3f344ed425813",
-    "date": "2026-07-16T08:36:42.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4197575/ai%eb%8a%94-%ed%8c%80-%ec%8a%a4%ed%8f%ac%ec%b8%a0%eb%8b%a4cio-%ed%98%bc%ec%9e%90-%ed%92%80-%ec%88%98-%ec%97%86%eb%8a%94-%ea%b8%b0%ec%97%85-ai-%ec%a4%80%eb%b9%84%eb%8f%84%ec%9d%98-%ed%98%84.html",
-    "platform": "CIO",
-    "title": "AI는 팀 스포츠다…CIO 혼자 풀 수 없는 기업 AI 준비도의 현실",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI는 팀 스포츠다…CIO 혼자 풀 수 없는 기업 AI 준비도의 현실",
-    "summary_ko": "대부분의 기업은 이사회나 경영진 차원에서 AI 도입을 추진하라는 지침을 받고 있다. 공급업체들은 에이전트형 AI 플랫폼을 잇달아 선보이고 있으며, AI를 빠르게 도입해야 한다는 압박도 갈수록 커지고 있다. 하지만 실제 현장의 상황은 다르다. 로페즈 리서치(Lopez Research)에 따르면 전체 조직의 83%는 데이터 품질을 AI 도입의 가장 큰 과제로 꼽았고, 74%는 AI 투자 대비 효과(ROI)를 입증하는 데 어려움을 겪고 있다고 답했다.",
-    "url": "https://www.cio.com/article/4197575/ai%eb%8a%94-%ed%8c%80-%ec%8a%a4%ed%8f%ac%ec%b8%a0%eb%8b%a4cio-%ed%98%bc%ec%9e%90-%ed%92%80-%ec%88%98-%ec%97%86%eb%8a%94-%ea%b8%b0%ec%97%85-ai-%ec%a4%80%eb%b9%84%eb%8f%84%ec%9d%98-%ed%98%84.html",
-    "image": null,
-    "date": "2026-07-16T04:35:44.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4197569/%ec%b5%9c%ea%b3%a0%ec%9d%98-%eb%b3%b4%ec%95%88-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%8a%94-%eb%ac%b4%ec%97%87%ec%9d%b4-%eb%8b%a4%eb%a5%b8%ea%b0%80ai-%ec%8b%9c%eb%8c%80-%ed%95%84%ec%88%98.html",
-    "platform": "CIO",
-    "title": "최고의 보안 엔지니어는 무엇이 다른가…AI 시대 필수 역량 7가지",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "최고의 보안 엔지니어는 무엇이 다른가…AI 시대 필수 역량 7가지",
-    "summary_ko": "보안 엔지니어는 기업 사이버보안에서 핵심적인 역할을 담당한다. 조직의 데이터와 애플리케이션, 시스템, 네트워크를 비롯한 다양한 IT 자산을 각종 사이버 위협으로부터 보호하기 위한 보안 시스템을 설계하고 구축하며 운영하는 전문가이기 때문이다. CISO를 비롯해 조직의 보안을 총괄하는 리더라면 단순히 자격을 갖춘 보안 엔지니어가 아니라, 뛰어난 역량과 잠재력을 갖춘 최고 수준의 인재를 확보하는 데 우선순위를 둬야 한다. AI가 빠르게 확산되면서 기업이 직면하는 새로운 보안 위협이 늘어나고 있는 지금, 이러한 중요성은 더욱 커지고 있다.",
-    "url": "https://www.cio.com/article/4197569/%ec%b5%9c%ea%b3%a0%ec%9d%98-%eb%b3%b4%ec%95%88-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%8a%94-%eb%ac%b4%ec%97%87%ec%9d%b4-%eb%8b%a4%eb%a5%b8%ea%b0%80ai-%ec%8b%9c%eb%8c%80-%ed%95%84%ec%88%98.html",
-    "image": null,
-    "date": "2026-07-16T04:01:19.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4197540/agi-%ec%8b%9c%eb%8c%80-%ec%95%88%ec%a0%84%ea%b8%b0%ec%a4%80-%eb%88%84%ea%b0%80-%eb%a7%8c%eb%93%9c%eb%82%98%eb%94%a5%eb%a7%88%ec%9d%b8%eb%93%9c-ceo-%ec%a0%9c%ec%95%88%ec%97%90-%ed%95%84.html",
-    "platform": "CIO",
-    "title": "AGI 시대 안전기준 누가 만드나…딥마인드 CEO 제안에 “필요” vs “빅테크 셀프 규제”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AGI 시대 안전기준 누가 만드나…딥마인드 CEO 제안에 “필요” vs “빅테크 셀프 규제”",
-    "summary_ko": "구글 딥마인드(Google Deep Mind)의 최고경영자(CEO) 데미스 허사비스(Demis Hassabis)가 미국 정부가 주도하는 AI 산업 자율규제 체계의 필요성을 다시 한번 강조했다. 그는 특히 범용인공지능(AGI)과 국가안보 분야를 중심으로 한 규제 체계가 필요하다고 주장했다. 다만 이러한 구상이 현실화되더라도 국가안보를 핵심 축으로 삼는 접근 방식은 미국 이외 국가에서는 쉽게 받아들여지기 어려울 수 있다는 지적이 나온다.",
-    "url": "https://www.cio.com/article/4197540/agi-%ec%8b%9c%eb%8c%80-%ec%95%88%ec%a0%84%ea%b8%b0%ec%a4%80-%eb%88%84%ea%b0%80-%eb%a7%8c%eb%93%9c%eb%82%98%eb%94%a5%eb%a7%88%ec%9d%b8%eb%93%9c-ceo-%ec%a0%9c%ec%95%88%ec%97%90-%ed%95%84.html",
-    "image": null,
-    "date": "2026-07-16T02:29:46.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4197529/%ec%9b%90%ec%a0%84%eb%8f%84-ai-%ec%8b%9c%eb%8c%80%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%e7%be%8e-doe-%ec%a0%95%eb%b3%b4%ea%b4%80%eb%a6%ac-%ed%98%84%eb%8c%80%ed%99%94-%ea%b2%bd.html",
-    "platform": "CIO",
-    "title": "원전도 AI 시대…오픈텍스트, 美 DOE 정보관리 현대화 경험 소개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "원전도 AI 시대…오픈텍스트, 美 DOE 정보관리 현대화 경험 소개",
-    "summary_ko": "오픈텍스트는 미국 에너지부(DOE) 산하 환경정화 사업에서 대규모 기록 관리 현대화를 지원하며 이 분야의 경험을 축적해왔다. 미국 에너지부 오크리지 환경정화 사업을 담당하는 유나이티드클린업오크리지(United Cleanup Oak Ridge, UCOR)는 맨해튼 프로젝트가 진행된 1940~1950년대까지 거슬러 올라가는 수백만 건의 핵 관련 기록을 관리하고 있다. 오픈텍스트에 따르면, 원자력 산업에서는 수십 년에 걸쳐 축적된 방대한 기록물을 정확하게 관리하고 규제 기준에 맞게 보존하는 것이 중요한 과제다.",
-    "url": "https://www.cio.com/article/4197529/%ec%9b%90%ec%a0%84%eb%8f%84-ai-%ec%8b%9c%eb%8c%80%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%e7%be%8e-doe-%ec%a0%95%eb%b3%b4%ea%b4%80%eb%a6%ac-%ed%98%84%eb%8c%80%ed%99%94-%ea%b2%bd.html",
-    "image": null,
-    "date": "2026-07-16T01:05:50.000Z",
     "likes": 0,
     "comments": 0
   }
