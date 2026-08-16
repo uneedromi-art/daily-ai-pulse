@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
+    "platform": "Reddit",
+    "title": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
+    "author": {
+      "name": "/u/yogthos",
+      "handle": "/u//u/yogthos",
+      "avatar_color": "#ff4500"
+    },
+    "content": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
+    "summary_ko": "AI는 수학자보다 뛰어나지 않습니다. 그것은 그들을 기억하지 못하는 것입니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
+    "image": "https://external-preview.redd.it/DySwy5Aq12BCtyp7McrU4doA_Lir4KR8ikxwPq1BweY.jpeg?width=640&crop=smart&auto=webp&s=5dc3209e02f7717bc65d373c5be80989655da9e8",
+    "date": "2026-08-16T02:32:48.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vpjnsc/whats_going_on_here/",
+    "platform": "Reddit",
+    "title": "What's going on here?",
+    "author": {
+      "name": "/u/senorrandom007",
+      "handle": "/u//u/senorrandom007",
+      "avatar_color": "#ff4500"
+    },
+    "content": "What's going on here?",
+    "summary_ko": "여기서 무슨 일이 일어나고 있는 걸까요?",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vpjnsc/whats_going_on_here/",
+    "image": "https://preview.redd.it/kd2f39q52njh1.jpeg?width=640&crop=smart&auto=webp&s=8c0153c769006c31b116183d49b32dcbcff393cb",
+    "date": "2026-08-16T01:19:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/",
+    "platform": "Reddit",
+    "title": "Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC",
+    "author": {
+      "name": "/u/Ok-Breakfast1878",
+      "handle": "/u//u/Ok-Breakfast1878",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC",
+    "summary_ko": "Qwen3.8-27B 대 Qwen3.6-27B가 BASIC에서 광선 추적기를 작성함",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/",
+    "image": "https://preview.redd.it/cjjqj9n7smjh1.png?width=140&height=105&auto=webp&s=e632a1a28885ca173a47ec8d3ba3aa0ddc4f2e24",
+    "date": "2026-08-16T00:45:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
+    "platform": "Reddit",
+    "title": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
+    "author": {
+      "name": "/u/Public_Print_9360",
+      "handle": "/u//u/Public_Print_9360",
+      "avatar_color": "#ff4500"
+    },
+    "content": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
+    "summary_ko": "ASI 이후의 세상이 얼마나 이질적일지에 대해 우리는 심리적으로 준비가 되어 있지 않다고 생각합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
+    "image": null,
+    "date": "2026-08-15T23:30:42.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2nmi/aged_like_fine_wine/",
     "platform": "Reddit",
     "title": "Aged like fine wine",
@@ -2757,74 +2825,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
     "image": "https://external-preview.redd.it/C01ovfWCK5um_9mqREZLjclXSGbDZUwSX-05qRAenwE.jpeg?width=640&crop=smart&auto=webp&s=fd5757331ab4914e7ede7bee5e9753cc3841b89b",
     "date": "2026-07-17T23:29:26.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uz3ff6/moonshot_ai_kimi_office_presumably_2_days_before/",
-    "platform": "Reddit",
-    "title": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
-    "author": {
-      "name": "/u/RetiredApostle",
-      "handle": "/u//u/RetiredApostle",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Moonshot AI (Kimi) office (presumably 2 days before the K3 launch). A $20B valuation startup. Not as flashy as SF rivals",
-    "summary_ko": "문샷 AI(키미) 사무실(K3 출시 이틀 전으로 추정). 200억 달러 가치의 스타트업. SF 라이벌만큼 화려하지는 않다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1uz3ff6/moonshot_ai_kimi_office_presumably_2_days_before/",
-    "image": "https://preview.redd.it/adcjbvn98tdh1.png?width=640&crop=smart&auto=webp&s=e16dbda822bbf5825c14a203dccec4a50f34628a",
-    "date": "2026-07-17T15:45:15.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uytamy/chinese_president_xi_jinping_speaks_at_world_ai/",
-    "platform": "Reddit",
-    "title": "Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote\"openness and win-win\"",
-    "author": {
-      "name": "/u/Nunki08",
-      "handle": "/u//u/Nunki08",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote\"openness and win-win\"",
-    "summary_ko": "시진핑 중국 국가주석, 세계 AI 컨퍼런스에서 연설하고 '개방성과 상생' 촉진을 위한 오픈소스 의지 재확인.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uytamy/chinese_president_xi_jinping_speaks_at_world_ai/",
-    "image": "https://preview.redd.it/7w3pnhw8yqdh1.jpeg?width=640&crop=smart&auto=webp&s=a1c017d1d7c2add9f7fd22dbec6bc75890bf907a",
-    "date": "2026-07-17T08:00:58.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uypik5/chinese_president_xi_jinping_speaks_at_world_ai/",
-    "platform": "Reddit",
-    "title": "Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote\"openness and win-win\"",
-    "author": {
-      "name": "/u/TorturedPoet30",
-      "handle": "/u//u/TorturedPoet30",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Chinese President Xi Jinping speaks at World AI Conference and reaffirms commitment to open source to promote\"openness and win-win\"",
-    "summary_ko": "시진핑 중국 국가주석, 세계 AI 컨퍼런스에서 연설하고 '개방성과 상생' 촉진을 위한 오픈소스 의지 재확인.",
-    "url": "https://www.reddit.com/r/singularity/comments/1uypik5/chinese_president_xi_jinping_speaks_at_world_ai/",
-    "image": "https://preview.redd.it/1b2s142iwpdh1.png?width=320&crop=smart&auto=webp&s=12a33f0c686db7df8cea8fdb373f43cf867c1fe4",
-    "date": "2026-07-17T04:31:29.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uygxt3/anthropic_and_openai_dont_have_secret_sauce/",
-    "platform": "Reddit",
-    "title": "Anthropic and OpenAI don't have secret sauce",
-    "author": {
-      "name": "/u/a9udn9u",
-      "handle": "/u//u/a9udn9u",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anthropic and OpenAI don't have secret sauce",
-    "summary_ko": "Anthropic과 OpenAI에는 비밀 소스가 없습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uygxt3/anthropic_and_openai_dont_have_secret_sauce/",
-    "image": null,
-    "date": "2026-07-16T22:04:16.000Z",
     "likes": 0,
     "comments": 0
   }
