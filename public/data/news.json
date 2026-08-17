@@ -1,5 +1,91 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1vqy1p1/oc_chinese_models/",
+    "platform": "Reddit",
+    "title": "[OC] Chinese models",
+    "author": {
+      "name": "/u/Speckart",
+      "handle": "/u//u/Speckart",
+      "avatar_color": "#ff4500"
+    },
+    "content": "[OC] Chinese models",
+    "summary_ko": "[OC] 중국 모델",
+    "url": "https://www.reddit.com/r/singularity/comments/1vqy1p1/oc_chinese_models/",
+    "image": "https://preview.redd.it/46er10v3vyjh1.jpeg?width=640&crop=smart&auto=webp&s=991fd8793d00745d9002d7e992d91681b5afbe38",
+    "date": "2026-08-17T17:03:56.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vqsrnv/read_more/",
+    "platform": "Reddit",
+    "title": "Read more: https://x.com/gavincrooks/status/2088643200038883830",
+    "author": {
+      "name": "/u/Southern-Break5505",
+      "handle": "/u//u/Southern-Break5505",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Read more: https://x.com/gavincrooks/status/2088643200038883830",
+    "summary_ko": "더 읽어보세요: https://x.com/gavincrooks/status/2088643200038883830.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vqsrnv/read_more/",
+    "image": "https://preview.redd.it/elyceygvvxjh1.jpeg?width=640&crop=smart&auto=webp&s=7a2c351dd71dc0f3880d5d7c4b92f6fd53caa003",
+    "date": "2026-08-17T13:44:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/",
+    "platform": "Reddit",
+    "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
+    "author": {
+      "name": "/u/chiribe",
+      "handle": "/u//u/chiribe",
+      "avatar_color": "#ff4500"
+    },
+    "content": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
+    "summary_ko": "Qwen 3.8 27B를 통해 1백만 개 이상의 토큰을 푸시한 후 16GB VRAM(73k 컨텍스트, 에이전트 코딩)에 대한 최적의 llama.cpp 구성은 다음과 같습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/",
+    "image": "https://preview.redd.it/9new0k9toxjh1.png?width=140&height=82&auto=webp&s=1e5a1ae2b537d4e282a31a1efce1b1915e0b61e9",
+    "date": "2026-08-17T13:05:26.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+    "platform": "Google",
+    "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "General Science",
+    "summary_ko": "BMI 너머 보기: 스마트폰 이미지를 통한 심대사 위험 추정",
+    "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+    "image": null,
+    "date": "2026-08-17T10:34:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vqgt0x/and_im_not_afraid_of_losing_my_social_credits/",
+    "platform": "Reddit",
+    "title": "…and I’m not afraid of losing my social credits.",
+    "author": {
+      "name": "/u/JLeonsarmiento",
+      "handle": "/u//u/JLeonsarmiento",
+      "avatar_color": "#ff4500"
+    },
+    "content": "…and I’m not afraid of losing my social credits.",
+    "summary_ko": "…그리고 저는 사회적 신용을 잃는 것을 두려워하지 않습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqgt0x/and_im_not_afraid_of_losing_my_social_credits/",
+    "image": "https://preview.redd.it/b6rjr50urujh1.jpeg?width=320&crop=smart&auto=webp&s=c568c8e44d48487c5f45006c9f4f4f6bb9e23929",
+    "date": "2026-08-17T03:16:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
     "platform": "Reddit",
     "title": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
@@ -2757,74 +2843,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1v17ck7/david_sacks_says_us_ai_guardrails_are_making/",
     "image": "https://preview.redd.it/d1aczpxxaaeh1.png?width=320&crop=smart&auto=webp&s=da2a9a831704b212133b3c8c1488a44ac33d4de6",
     "date": "2026-07-20T01:07:35.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
-    "platform": "Reddit",
-    "title": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
-    "author": {
-      "name": "/u/jvnpromisedland",
-      "handle": "/u//u/jvnpromisedland",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Bad vibes from the \"Head of Strategic Futures at OpenAI\"(X: @deanwball)",
-    "summary_ko": "\"OpenAI의 전략적 미래 책임자\"(X: @deanwball)의 나쁜 기운",
-    "url": "https://www.reddit.com/r/singularity/comments/1v001bu/bad_vibes_from_the_head_of_strategic_futures_at/",
-    "image": "https://preview.redd.it/qb4koznqh0eh1.png?width=640&crop=smart&auto=webp&s=c513c48240f12d383c2ae3b10a30421db39b4556",
-    "date": "2026-07-18T16:15:16.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/",
-    "platform": "Reddit",
-    "title": "What kind of dark magic is Deepseek using?",
-    "author": {
-      "name": "/u/Fuckinglivemealone",
-      "handle": "/u//u/Fuckinglivemealone",
-      "avatar_color": "#ff4500"
-    },
-    "content": "What kind of dark magic is Deepseek using?",
-    "summary_ko": "Deepseek은 어떤 종류의 어둠의 마법을 사용하나요?",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/",
-    "image": "https://preview.redd.it/9eofhmo4cydh1.png?width=640&crop=smart&auto=webp&s=aa6be328defc088b38effe810fe80d9e3b58944f",
-    "date": "2026-07-18T08:58:03.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1uzkcln/tibo_strikes_back/",
-    "platform": "Reddit",
-    "title": "Tibo Strikes Back.",
-    "author": {
-      "name": "/u/PranayJhaTheMan",
-      "handle": "/u//u/PranayJhaTheMan",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Tibo Strikes Back.",
-    "summary_ko": "티보의 역습.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1uzkcln/tibo_strikes_back/",
-    "image": "https://preview.redd.it/g19qbp58kwdh1.png?width=640&crop=smart&auto=webp&s=38785571210aad41841bc8ec356d67c353594e76",
-    "date": "2026-07-18T03:07:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
-    "platform": "Reddit",
-    "title": "White House launches “Gold Eagle,” moving to control frontier AI releases and decide who can access new models",
-    "author": {
-      "name": "/u/Outside-Iron-8242",
-      "handle": "/u//u/Outside-Iron-8242",
-      "avatar_color": "#ff4500"
-    },
-    "content": "White House launches “Gold Eagle,” moving to control frontier AI releases and decide who can access new models",
-    "summary_ko": "백악관, 최첨단 AI 릴리스를 제어하고 새 모델에 액세스할 수 있는 사람을 결정하는 \"Gold Eagle\" 출시.",
-    "url": "https://www.reddit.com/r/singularity/comments/1uzfor4/white_house_launches_gold_eagle_moving_to_control/",
-    "image": "https://external-preview.redd.it/C01ovfWCK5um_9mqREZLjclXSGbDZUwSX-05qRAenwE.jpeg?width=640&crop=smart&auto=webp&s=fd5757331ab4914e7ede7bee5e9753cc3841b89b",
-    "date": "2026-07-17T23:29:26.000Z",
     "likes": 0,
     "comments": 0
   }
