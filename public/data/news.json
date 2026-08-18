@@ -1,5 +1,100 @@
 [
   {
+    "id": "https://www.cio.com/article/4210880/%ec%95%8c%eb%a6%ac%eb%b0%94%eb%b0%94-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-1%eb%85%84-%eb%a7%8c%ec%97%90-%e9%9f%93-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%b6%94%ea%b0%80-ai-%ec%88%98.html",
+    "platform": "CIO",
+    "title": "알리바바 클라우드, 1년 만에 韓 데이터센터 추가…AI 수요 선제 대응",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "알리바바 클라우드, 1년 만에 韓 데이터센터 추가…AI 수요 선제 대응",
+    "summary_ko": "알리바바 클라우드가 한국 리전에 세 번째 데이터센터를 열고 국내 AI·클라우드 시장 공략에 속도를 낸다. 지난해 6월 두 번째 데이터센터를 가동한 지 약 1년 만이다. 윤용준 알리바바 클라우드 인텔리전스 한국 총괄 지사장은 18일 서울에서 열린 기자간담회에서 “한국 리전 내 데이터센터가 3개로 늘어나면서 서비스수준협약(SLA)이 기존 99. 95%에서 99. 99%로 상향됐다”며 “하나의 데이터센터에 장애가 발생하더라도 나머지 데이터센터로 안정적인 운영이 가능해졌고, 접속 포인트가 늘어나면서 저지연 연결도 가능해졌다”고 밝혔다.",
+    "url": "https://www.cio.com/article/4210880/%ec%95%8c%eb%a6%ac%eb%b0%94%eb%b0%94-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-1%eb%85%84-%eb%a7%8c%ec%97%90-%e9%9f%93-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%b6%94%ea%b0%80-ai-%ec%88%98.html",
+    "image": null,
+    "date": "2026-08-18T12:18:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4210824/mcp-%ec%8b%a4%ed%97%98%ec%9d%84-%eb%84%98%ec%96%b4-%ec%9a%b4%ec%98%81-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%a1%9c%ec%83%9d%ed%83%9c%ea%b3%84%c2%b7%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%c2%b7%ed%81%b4.html",
+    "platform": "CIO",
+    "title": "MCP, 실험을 넘어 운영 인프라로…생태계·거버넌스·클라우드 현장이 말한 다음 단계",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "MCP, 실험을 넘어 운영 인프라로…생태계·거버넌스·클라우드 현장이 말한 다음 단계",
+    "summary_ko": "“월 5억 다운로드” MCP 생태계의 성장 첫 번째 키노트에 나선 앤트로픽의 기술 스태프이자 MCP 프로젝트 메인테이너인 덴 델리마스키(Den Delimarsky)는 MCP가 기업뿐 아니라 개발자와 오픈소스 생태계 전반으로 확산하고 있다고 강조했다. 특히 파이썬, 타입스크립트, C# 언어 등 3개 SDK의 월간 다운로드가 전년 동기 대비 13배 증가해 약 5억건에 이르렀다고 밝혔다. 누적 성장 속도는 더욱 가파르다. 발표에 따르면 이들 3개 SDK의 누적 다운로드는 30억 6,000만건을 기록했다.",
+    "url": "https://www.cio.com/article/4210824/mcp-%ec%8b%a4%ed%97%98%ec%9d%84-%eb%84%98%ec%96%b4-%ec%9a%b4%ec%98%81-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%a1%9c%ec%83%9d%ed%83%9c%ea%b3%84%c2%b7%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%c2%b7%ed%81%b4.html",
+    "image": null,
+    "date": "2026-08-18T08:18:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4210804/ai-%ed%83%91%ec%9e%ac%ed%96%88%ec%a7%80%eb%a7%8c-%ea%b3%a0%ea%b0%9d%ec%9d%80-%eb%ac%b4%ea%b4%80%ec%8b%ac%ec%a0%88%eb%b0%98%ec%9d%b4-%ed%99%9c%ec%9a%a9%eb%a5%a0-25%eb%8f%84-%ec%95%88.html",
+    "platform": "CIO",
+    "title": "AI 탑재했지만 고객은 무관심…절반이 “활용률 25%도 안 돼”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 탑재했지만 고객은 무관심…절반이 “활용률 25%도 안 돼”",
+    "summary_ko": "기존 제품에 AI 기능을 탑재하는 소프트웨어 기업들이 예상보다 큰 난관에 직면하고 있다. 정작 고객이 새 AI 기능에 큰 관심을 보이지 않기 때문이다. 소프트웨어 기업 인수 전문 업체 바니언 소프트웨어(Banyan Software)가 최근 실시한 조사에 따르면, 기존 제품에 AI 기능을 추가한 소프트웨어 기업의 51%는 전체 고객 가운데 25% 미만만 새 기능을 실제로 사용한다고 답했다. 바니언은 조사 보고서에서 이러한 ‘배포 격차(deployment gap)’가 고객이 실제로 사용할 AI 기능을 겨냥한 기획과 성과 측정이 부족했기 때문에 발생했다고 분석했다.",
+    "url": "https://www.cio.com/article/4210804/ai-%ed%83%91%ec%9e%ac%ed%96%88%ec%a7%80%eb%a7%8c-%ea%b3%a0%ea%b0%9d%ec%9d%80-%eb%ac%b4%ea%b4%80%ec%8b%ac%ec%a0%88%eb%b0%98%ec%9d%b4-%ed%99%9c%ec%9a%a9%eb%a5%a0-25%eb%8f%84-%ec%95%88.html",
+    "image": null,
+    "date": "2026-08-18T02:36:35.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4210801/%eb%94%a5%ec%8b%9c%ed%81%ac-v4-api-%ea%b0%80%ea%b2%a9-%ec%b5%9c%eb%8c%80-11%eb%b0%b0-%ec%9d%b8%ec%83%81-%ec%8b%9c%ea%b0%84%eb%8c%80%eb%b3%84-%ec%9a%94%ea%b8%88%ec%a0%9c-%eb%8f%84%ec%9e%85.html",
+    "platform": "CIO",
+    "title": "딥시크, V4 API 가격 최대 11배 인상…’시간대별 요금제’ 도입",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "딥시크, V4 API 가격 최대 11배 인상…’시간대별 요금제’ 도입",
+    "summary_ko": "AI 기업 딥시크의 가장 큰 경쟁력 가운데 하나는 압도적으로 저렴한 가격이었다. 하지만 이러한 가격 경쟁력에도 변화가 시작됐다. 딥시크는 V4 모델 제품군의 API 요금을 큰 폭으로 인상한다. 일부 항목은 최대 1,100% 이상 오르지만, 모든 사용자에게 동일한 부담이 발생하는 것은 아니다. 회사는 피크 시간대와 비피크 시간대를 구분한 차등 요금제를 도입하고, 비피크 시간에는 절반 수준의 요금을 적용해 사용자가 보다 유연하게 워크로드를 운영하도록 유도하고 있다. 이번 가격 정책은 딥시크 V4 프로의 정식 출시(GA)와 V4 플래시 업그레이드 발표와 함께 공개됐다.",
+    "url": "https://www.cio.com/article/4210801/%eb%94%a5%ec%8b%9c%ed%81%ac-v4-api-%ea%b0%80%ea%b2%a9-%ec%b5%9c%eb%8c%80-11%eb%b0%b0-%ec%9d%b8%ec%83%81-%ec%8b%9c%ea%b0%84%eb%8c%80%eb%b3%84-%ec%9a%94%ea%b8%88%ec%a0%9c-%eb%8f%84%ec%9e%85.html",
+    "image": null,
+    "date": "2026-08-18T02:09:01.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4210574/ibm-%ec%98%a4%ed%94%88ai-fde-%ec%95%9e%ec%84%b8%ec%9b%8c-%ea%b8%b0%ec%97%85-ai-%ec%a0%84%ed%99%98-%ec%a7%80%ec%9b%90-%eb%82%98%ec%84%9c.html",
+    "platform": "CIO",
+    "title": "IBM, 오픈AI FDE 앞세워 기업 AI 전환 지원 나서",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "IBM, 오픈AI FDE 앞세워 기업 AI 전환 지원 나서",
+    "summary_ko": "IBM이 오픈AI와 협력을 확대해 오픈AI의 최신 AI 모델과 코덱스, 챗GPT 등을 IBM의 AI 컨설팅 플랫폼인 IBM 컨설팅 어드밴티지(IBM Consulting Advantage)에 통합한다고 13일 발표했다. 양사는 기존에 진행해 온 사이버보안 분야 협력도 한층 강화할 계획이다. 이번 협력의 일환으로 금융서비스, 정부, 통신, 유통 등 산업별 AI 솔루션을 공동 개발한다. 또한 재무, 조달, 고객 운영, 인사(HR) 등 기업의 핵심 업무 영역에서 AI 활용을 확대하는 데도 협력할 예정이다.",
+    "url": "https://www.cio.com/article/4210574/ibm-%ec%98%a4%ed%94%88ai-fde-%ec%95%9e%ec%84%b8%ec%9b%8c-%ea%b8%b0%ec%97%85-ai-%ec%a0%84%ed%99%98-%ec%a7%80%ec%9b%90-%eb%82%98%ec%84%9c.html",
+    "image": null,
+    "date": "2026-08-18T01:55:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1vqy1p1/oc_chinese_models/",
     "platform": "Reddit",
     "title": "[OC] Chinese models",
