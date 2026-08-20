@@ -1,5 +1,168 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1vtqalk/ai_is_finally_curing_cancer/",
+    "platform": "Reddit",
+    "title": "AI is finally curing cancer",
+    "author": {
+      "name": "/u/Different-Froyo9497",
+      "handle": "/u//u/Different-Froyo9497",
+      "avatar_color": "#ff4500"
+    },
+    "content": "AI is finally curing cancer",
+    "summary_ko": "AI가 마침내 암을 치료한다",
+    "url": "https://www.reddit.com/r/singularity/comments/1vtqalk/ai_is_finally_curing_cancer/",
+    "image": "https://preview.redd.it/c0oma57ogkkh1.jpeg?width=640&crop=smart&auto=webp&s=cf7d49ea365a52efcececbed0c499d0183663619",
+    "date": "2026-08-20T17:39:54.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vthwpm/daxais_all_terrain_robothorse_debuts_at_wrc26/",
+    "platform": "Reddit",
+    "title": "DaxAI's all terrain robot-horse debuts at WRC'26: 100Km/10h autonomy, 300Kg max load, 40Km/h max speed",
+    "author": {
+      "name": "/u/Distinct-Question-16",
+      "handle": "/u//u/Distinct-Question-16",
+      "avatar_color": "#ff4500"
+    },
+    "content": "DaxAI's all terrain robot-horse debuts at WRC'26: 100Km/10h autonomy, 300Kg max load, 40Km/h max speed",
+    "summary_ko": "DaxAI의 전지형 로봇 말이 WRC'26에서 데뷔: 100Km/10h 자율성, 300Kg 최대 하중, 40Km/h 최대 속도.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vthwpm/daxais_all_terrain_robothorse_debuts_at_wrc26/",
+    "image": "https://external-preview.redd.it/cXM3dDloeGJ2aWtoMdnVuKkgsQ2zAedDwLAqLkpOn3nnegyQNauaWKXGumgv.png?width=320&crop=smart&auto=webp&s=f8f7da83025b91e5afdea449af448170c2784cb7",
+    "date": "2026-08-20T12:18:50.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4211910/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ed%83%9c%eb%b8%94%eb%a1%9c-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b0%95%ed%99%94%ec%9e%90%ec%97%b0%ec%96%b4-%eb%b6%84%ec%84%9d.html",
+    "platform": "CIO",
+    "title": "세일즈포스, 태블로 AI 에이전트 강화…‘자연어 분석’에 무제한 토큰 더했다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "세일즈포스, 태블로 AI 에이전트 강화…‘자연어 분석’에 무제한 토큰 더했다",
+    "summary_ko": "김영균 세일즈포스 코리아 태블로 사업총괄과 매튜 밀러(Matthew Miller) 글로벌 태블로 제품 관리 부문 부사장은 20일 서울에서 열린 세일즈포스의 연례 AI·데이터 컨퍼런스 ‘데이터팸 서울 2026(Data Fam Seoul 2026)’에서 태블로의 AI·에이전틱 애널리틱스 전략과 주요 신기능을 소개했다. 밀러 부사장은 AI가 사람을 대체하는 기술이라기보다 인간의 판단과 사고 능력을 증폭하는 기술이라는 점을 강조했다.",
+    "url": "https://www.cio.com/article/4211910/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ed%83%9c%eb%b8%94%eb%a1%9c-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b0%95%ed%99%94%ec%9e%90%ec%97%b0%ec%96%b4-%eb%b6%84%ec%84%9d.html",
+    "image": null,
+    "date": "2026-08-20T10:16:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4211807/%ea%b5%ac%ea%b8%80-tpu-amd-cpu%ec%99%80-%ed%95%9c-%ed%8c%a8%ed%82%a4%ec%a7%80%eb%a1%9c%eb%a0%88%ec%9d%b4%ed%84%b4%ec%8b%9c-%ec%9e%a1%ea%b3%a0-%ea%b0%95%ed%99%94%ed%95%99%ec%8a%b5-%ec%9e%a1.html",
+    "platform": "CIO",
+    "title": "구글 TPU, AMD CPU와 한 패키지로…레이턴시 잡고 강화학습 잡는다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "구글 TPU, AMD CPU와 한 패키지로…레이턴시 잡고 강화학습 잡는다",
+    "summary_ko": "구글이 인공지능(AI) 가속과 범용 컴퓨팅을 결합하는 워크로드에 최적화된 차세대 텐서처리장치(TPU) 설계를 위해 AMD와 협력하고 있는 것으로 알려졌다. 복수의 업계 보도에 따르면 양사는 CPU 코어를 TPU 프로세서 패키지에 직접 통합하는 하이브리드 AI 가속기를 검토하고 있다. 이 설계는 강화학습과 새롭게 부상하는 에이전트형 AI 워크로드를 겨냥한 것으로, AI 가속기가 범용 프로세서와 더욱 긴밀하게 상호작용해야 하는 환경을 염두에 두고 있다. TPU와 CPU를 하나의 패키지에 통합하는 개념 자체는 새로운 것이 아니다.",
+    "url": "https://www.cio.com/article/4211807/%ea%b5%ac%ea%b8%80-tpu-amd-cpu%ec%99%80-%ed%95%9c-%ed%8c%a8%ed%82%a4%ec%a7%80%eb%a1%9c%eb%a0%88%ec%9d%b4%ed%84%b4%ec%8b%9c-%ec%9e%a1%ea%b3%a0-%ea%b0%95%ed%99%94%ed%95%99%ec%8a%b5-%ec%9e%a1.html",
+    "image": null,
+    "date": "2026-08-20T07:19:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4211782/%eb%8d%b0%eb%aa%a8%eb%8a%94-%ec%84%b1%ea%b3%b5-%ec%9a%b4%ec%98%81%ec%9d%80-%ec%8b%a4%ed%8c%a8ai-%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ed%95%a8%ec%a0%95%ec%97%90%ec%84%9c-%eb%b2%97%ec%96%b4.html",
+    "platform": "CIO",
+    "title": "“데모는 성공, 운영은 실패”…AI 파일럿 함정에서 벗어나는 방법",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“데모는 성공, 운영은 실패”…AI 파일럿 함정에서 벗어나는 방법",
+    "summary_ko": "많은 기업에서 AI는 파일럿 프로젝트를 시작하기는 쉽지만 이를 전사적으로 확산하는 일은 훨씬 어려운 과제로 드러나고 있다. 클라우드 소프트웨어 기업 도모(Domo)의 최고 AI 및 분석 책임자(CAIO)인 벤 샤인(Ben Schein)은 파일럿 프로젝트가 저렴해 보이는 이유는 제한된 데이터와 소수의 사용자만을 대상으로 운영되기 때문이라고 설명했다. 샤인은 “하지만 진짜 비용은 배포 단계에서 발생한다.",
+    "url": "https://www.cio.com/article/4211782/%eb%8d%b0%eb%aa%a8%eb%8a%94-%ec%84%b1%ea%b3%b5-%ec%9a%b4%ec%98%81%ec%9d%80-%ec%8b%a4%ed%8c%a8ai-%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ed%95%a8%ec%a0%95%ec%97%90%ec%84%9c-%eb%b2%97%ec%96%b4.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/08/John-DEmic-CTO-Revenium.png?w=1240&amp;h=826&amp;crop=1",
+    "date": "2026-08-20T07:11:44.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4211780/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%8c%80%eb%a7%8c-%ec%a0%95%eb%b6%80%eb%a7%9d-%ec%b9%a8%ed%88%ac%ec%9e%90%ec%9c%a8%ed%98%95-%ec%82%ac%ec%9d%b4%eb%b2%84-%ea%b3%b5%ea%b2%a9-%ec%8b%9c.html",
+    "platform": "CIO",
+    "title": "AI 에이전트, 대만 정부망 침투…자율형 사이버 공격 시대 열리나",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 에이전트, 대만 정부망 침투…자율형 사이버 공격 시대 열리나",
+    "summary_ko": "오픈소스 프레임워크를 기반으로 구축된 자율형 AI 에이전트가 대만 정부 시스템에 침투해 계정을 탈취하고 원자력 안전 관련 기관을 탐색한 다중일간의 사이버 공격을 수행한 것으로 나타났다. 연구진은 이번 사례가 AI 기반 공격 작전이 새로운 단계에 접어들었음을 보여준다고 분석했다. 사이버 보안 기업 드림(Dream)이 발표한 연구에 따르면 이번 공격은 7월 초 나흘에 걸쳐 진행됐다. 여러 AI 에이전트가 동시에 작동하며 네트워크를 매핑하고 취약점을 식별한 뒤, 상호 연결된 시스템을 대상으로 침투 과정을 병렬로 수행했다.",
+    "url": "https://www.cio.com/article/4211780/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%8c%80%eb%a7%8c-%ec%a0%95%eb%b6%80%eb%a7%9d-%ec%b9%a8%ed%88%ac%ec%9e%90%ec%9c%a8%ed%98%95-%ec%82%ac%ec%9d%b4%eb%b2%84-%ea%b3%b5%ea%b2%a9-%ec%8b%9c.html",
+    "image": null,
+    "date": "2026-08-20T06:15:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4211763/%ec%b9%bc%eb%9f%bc-%ed%8c%94%eb%9e%80%ed%8b%b0%ec%96%b4%ec%8b%9d-fde-%ea%b7%b8%eb%8c%80%eb%a1%9c-%eb%94%b0%eb%9d%bc-%ed%96%88%eb%8b%a4%ea%b0%80-%eb%a7%9d%ed%95%9c%eb%8b%a4%ec%a0%9c.html",
+    "platform": "CIO",
+    "title": "칼럼 | ‘팔란티어식 FDE’ 그대로 따라 했다가 낭패…제품 빌더·운영자, 유형 구분이 먼저다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | ‘팔란티어식 FDE’ 그대로 따라 했다가 낭패…제품 빌더·운영자, 유형 구분이 먼저다",
+    "summary_ko": "“고객과 긴밀하게 협업하며 함께 문제를 해결한다”는 접근 방식은 분명 매력적으로 들린다. 특히 ‘포워드 디플로이드 엔지니어(Forward Deployed Engineer, FDE)’ 개념을 처음 도입한 팔란티어(Palantir)가 매출 50억 달러(약 6조 9,000억 원) 이상을 기록하며 84% 성장하고 있다는 점을 고려하면 더욱 그렇다. 하지만 FDE’는 매우 포괄적인 용어이며, 어떤 비즈니스를 운영하느냐에 따라 의미가 크게 달라진다. 필자는 팔란티어에서 약 5년 동안 포워드 디플로이드 소프트웨어 엔지니어로 일했다.",
+    "url": "https://www.cio.com/article/4211763/%ec%b9%bc%eb%9f%bc-%ed%8c%94%eb%9e%80%ed%8b%b0%ec%96%b4%ec%8b%9d-fde-%ea%b7%b8%eb%8c%80%eb%a1%9c-%eb%94%b0%eb%9d%bc-%ed%96%88%eb%8b%a4%ea%b0%80-%eb%a7%9d%ed%95%9c%eb%8b%a4%ec%a0%9c.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/08/nature-of-work-vs-product-leverage.png?w=1024",
+    "date": "2026-08-20T05:58:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
+    "platform": "Reddit",
+    "title": "Qwen3.8-27b has the highest level of \"agency\" I've ever seen in a local model",
+    "author": {
+      "name": "/u/synth_mania",
+      "handle": "/u//u/synth_mania",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Qwen3.8-27b has the highest level of \"agency\" I've ever seen in a local model",
+    "summary_ko": "Qwen3.8-27b는 로컬 모델에서 본 것 중 가장 높은 수준의 \"에이전시\"를 가지고 있습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
+    "image": "https://preview.redd.it/gs573xy8yfkh1.jpeg?width=640&crop=smart&auto=webp&s=9b4d446b6025beb00d950bff340d72125c5ff75c",
+    "date": "2026-08-20T02:45:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vt155o/introducing_gen15_a_oneshot_learner/",
+    "platform": "Reddit",
+    "title": "Introducing GEN-1.5, a one-shot learner",
+    "author": {
+      "name": "/u/GraceToSentience",
+      "handle": "/u//u/GraceToSentience",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Introducing GEN-1.5, a one-shot learner",
+    "summary_ko": "원샷학습기 GEN-1.5를 소개합니다",
+    "url": "https://www.reddit.com/r/singularity/comments/1vt155o/introducing_gen15_a_oneshot_learner/",
+    "image": "https://external-preview.redd.it/cXFwbndsbzZxZWtoMRjfbHPs_4jZlHVod3oSQqaCTbqG4DwRC5prfBMGUUHc.png?width=640&crop=smart&auto=webp&s=ffa5039292f8474e9c567af80c38cda4f93ee140",
+    "date": "2026-08-19T22:22:36.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4210880/%ec%95%8c%eb%a6%ac%eb%b0%94%eb%b0%94-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-1%eb%85%84-%eb%a7%8c%ec%97%90-%e9%9f%93-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%b6%94%ea%b0%80-ai-%ec%88%98.html",
     "platform": "CIO",
     "title": "알리바바 클라우드, 1년 만에 韓 데이터센터 추가…AI 수요 선제 대응",
@@ -2775,44 +2938,6 @@
     "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
     "image": null,
     "date": "2026-07-22T18:40:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4199222/%eb%89%b4%ec%9a%95%ec%a3%bc-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ed%97%88%ea%b0%80-%ec%9d%bc%ec%8b%9c-%ec%a4%91%eb%8b%a8%ec%a0%84%eb%a0%a5%eb%a7%9d%c2%b7%ec%a7%80%ec%97%ad.html",
-    "platform": "CIO",
-    "title": "뉴욕주, AI 데이터센터 허가 일시 중단…전력망·지역사회 보호 나선다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "뉴욕주, AI 데이터센터 허가 일시 중단…전력망·지역사회 보호 나선다",
-    "summary_ko": "AI 활용이 빠르게 확산되면서 데이터센터 수용 용량에 대한 수요는 그 어느 때보다 높아지고 있다. 그러나 뉴욕주는 데이터센터 업계에 속도 조절이 필요하다는 메시지를 던졌다. 캐시 호컬 뉴욕주지사는 이번 주 신규 초대형(hyperscale) 데이터센터 개발을 일시 중단하는 행정명령에 서명했다. 주 정부는 이를 “미국 최초의 초대형 데이터센터 개발 유예 조치(moratorium)”라고 설명했다. 초대형 데이터센터는 일반적으로 수천 대의 서버를 운영하며 수십~수백 메가와트(MW)의 전력을 소비하는 대규모 시설이다.",
-    "url": "https://www.cio.com/article/4199222/%eb%89%b4%ec%9a%95%ec%a3%bc-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ed%97%88%ea%b0%80-%ec%9d%bc%ec%8b%9c-%ec%a4%91%eb%8b%a8%ec%a0%84%eb%a0%a5%eb%a7%9d%c2%b7%ec%a7%80%ec%97%ad.html",
-    "image": null,
-    "date": "2026-07-21T05:57:35.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4199197/%ec%9a%b0%eb%a6%ac-ai-%ec%a7%80%ea%b8%88-%eb%ad%90-%ed%95%98%ea%b3%a0-%ec%9e%88%eb%82%98%ed%99%9c%eb%8f%99%c2%b7%ec%9e%a5%ec%95%a0%c2%b7%eb%b9%84%ec%9a%a9-%ed%95%9c%eb%88%88%ec%97%90.html",
-    "platform": "CIO",
-    "title": "“우리 AI, 지금 뭐 하고 있나”…활동·장애·비용 한눈에 보는 AI옵스 도구 19선",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“우리 AI, 지금 뭐 하고 있나”…활동·장애·비용 한눈에 보는 AI옵스 도구 19선",
-    "summary_ko": "기업 전반에 배치된 AI 에이전트와 LLM을 파악하고 추적·모니터링하며, 다양한 워크플로에서 안정적으로 운영할 수 있도록 지원하는 도구가 필요해졌다. 이에 데브옵스(Dev Ops) 업계는 이러한 요구에 대응해 새로운 하위 분야인 ‘AI옵스(AIOps)’, ‘에이전트옵스(Agent Ops)’, 또는 ‘에이전트 옵저버빌리티(Agent Observability)’로 불리는 기술과 도구를 개발하기 시작했다. 에이전트옵스가 해결하려는 과제 중 상당수는 기존 데브옵스 도구와 프로세스가 다뤄온 문제와 크게 다르지 않다.",
-    "url": "https://www.cio.com/article/4199197/%ec%9a%b0%eb%a6%ac-ai-%ec%a7%80%ea%b8%88-%eb%ad%90-%ed%95%98%ea%b3%a0-%ec%9e%88%eb%82%98%ed%99%9c%eb%8f%99%c2%b7%ec%9e%a5%ec%95%a0%c2%b7%eb%b9%84%ec%9a%a9-%ed%95%9c%eb%88%88%ec%97%90.html",
-    "image": null,
-    "date": "2026-07-21T04:51:35.000Z",
     "likes": 0,
     "comments": 0
   }
