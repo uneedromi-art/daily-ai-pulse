@@ -1,5 +1,147 @@
 [
   {
+    "id": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+    "platform": "Google",
+    "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Generative AI",
+    "summary_ko": "웨어러블 센서 데이터에서 후보 바이오마커의 우선순위를 지정하는 AI 도구",
+    "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+    "image": null,
+    "date": "2026-08-21T17:02:24.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vuhlhn/nvidias_coding_agent_scored_100_on_arcagi3/",
+    "platform": "Reddit",
+    "title": "NVIDIA’s coding agent scored 100% on ARC-AGI-3 interactive reasoning benchmark",
+    "author": {
+      "name": "/u/MagicZhang",
+      "handle": "/u//u/MagicZhang",
+      "avatar_color": "#ff4500"
+    },
+    "content": "NVIDIA’s coding agent scored 100% on ARC-AGI-3 interactive reasoning benchmark",
+    "summary_ko": "NVIDIA의 코딩 에이전트는 ARC-AGI-3 대화형 추론 벤치마크에서 100%를 기록했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vuhlhn/nvidias_coding_agent_scored_100_on_arcagi3/",
+    "image": "https://preview.redd.it/j0zurgq7lqkh1.jpeg?width=640&crop=smart&auto=webp&s=b9fb769dc79262a403153ed8aafb88c63d231391",
+    "date": "2026-08-21T14:15:56.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4212294/%ec%b9%bc%eb%9f%bc-gpu-%ec%b2%ad%ea%b5%ac%ec%84%9c%ea%b0%80-aws-%ec%b2%ad%ea%b5%ac%ec%84%9c%eb%a5%bc-%eb%8b%ae%ec%95%84%ea%b0%80%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
+    "platform": "CIO",
+    "title": "칼럼 | GPU 청구서가 AWS 청구서를 닮아가는 이유",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | GPU 청구서가 AWS 청구서를 닮아가는 이유",
+    "summary_ko": "대화는 대개 칭찬으로 시작된다. AI 기능은 예정대로 출시됐고, 사용자 반응도 좋으며, 이용 지표도 기대한 방향으로 움직인다. 하지만 재무팀이 분기 실적을 마감하는 순간 분위기는 달라진다. 모두가 성공이라고 평가했던 그 기능이 실제로는 요청 하나를 처리할 때마다 손실을 내고 있다는 사실이 드러난다. CTO가 전화를 거는 이유도 바로 그 때문이다. 필자는 거의 매주 이런 내용의 전화를 받는다.",
+    "url": "https://www.cio.com/article/4212294/%ec%b9%bc%eb%9f%bc-gpu-%ec%b2%ad%ea%b5%ac%ec%84%9c%ea%b0%80-aws-%ec%b2%ad%ea%b5%ac%ec%84%9c%eb%a5%bc-%eb%8b%ae%ec%95%84%ea%b0%80%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
+    "image": null,
+    "date": "2026-08-21T11:52:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+    "platform": "Google",
+    "title": "How mobility gives language models a deeper understanding of place",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Algorithms & Theory",
+    "summary_ko": "이동성이 언어 모델에 장소에 대한 더 깊은 이해를 제공하는 방법",
+    "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+    "image": null,
+    "date": "2026-08-21T10:54:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp/",
+    "platform": "Reddit",
+    "title": "DeepSeek-V4-Flash-Vision-Exp",
+    "author": {
+      "name": "/u/Xhehab_",
+      "handle": "/u//u/Xhehab_",
+      "avatar_color": "#ff4500"
+    },
+    "content": "DeepSeek-V4-Flash-Vision-Exp",
+    "summary_ko": "DeepSeek-V4-Flash-Vision-Exp",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp/",
+    "image": "https://preview.redd.it/6cz55ojs4pkh1.jpeg?width=640&crop=smart&auto=webp&s=2d5f2343f33af0058e5525453b40692f643739aa",
+    "date": "2026-08-21T09:22:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vu87p5/a_stealth_model_called_oxalpha_has_been_released/",
+    "platform": "Reddit",
+    "title": "A stealth model called Ox-Alpha has been released, outperforming Fable on SWE.",
+    "author": {
+      "name": "/u/troll_khan",
+      "handle": "/u//u/troll_khan",
+      "avatar_color": "#ff4500"
+    },
+    "content": "A stealth model called Ox-Alpha has been released, outperforming Fable on SWE.",
+    "summary_ko": "SWE에서 Fable을 능가하는 Ox-Alpha라는 스텔스 모델이 출시되었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vu87p5/a_stealth_model_called_oxalpha_has_been_released/",
+    "image": null,
+    "date": "2026-08-21T06:20:26.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4212285/%ea%b5%ac%ea%b8%80%c2%b7ms%c2%b7%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ec%9a%a9-800vdc-%ec%a0%84%eb%a0%a5-%ed%91%9c%ec%a4%80-%ea%b5%ac%ec%b6%95.html",
+    "platform": "CIO",
+    "title": "구글·MS·엔비디아, AI 데이터센터용 800VDC 전력 표준 구축 추진",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "구글·MS·엔비디아, AI 데이터센터용 800VDC 전력 표준 구축 추진",
+    "summary_ko": "구글, 마이크로소프트(MS), 엔비디아가 오픈 컴퓨트 프로젝트(Open Compute Project, OCP)를 통해 차세대 고밀도 AI 데이터센터 전력 공급을 위한 800V 직류(800VDC)를 개방형 표준으로 구축하는 작업을 추진하고 있다. 3사는 OCP 생태계 참여 기업들과 함께 전력 변환, 전력 품질, 시스템 인터페이스, 안전성 등을 포함한 800VDC 전력 분배의 공통 요구사항을 마련하고 있다. 이번 프로젝트는 AI 워크로드 증가로 데이터센터의 전력 소비가 급격히 늘어나는 상황에서 전력 인프라의 복잡성을 줄이는 것을 목표로 한다.",
+    "url": "https://www.cio.com/article/4212285/%ea%b5%ac%ea%b8%80%c2%b7ms%c2%b7%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ec%9a%a9-800vdc-%ec%a0%84%eb%a0%a5-%ed%91%9c%ec%a4%80-%ea%b5%ac%ec%b6%95.html",
+    "image": null,
+    "date": "2026-08-21T06:05:42.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vty34j/the_singularity_as_seen_by_1960s_scifi_writers_is/",
+    "platform": "Reddit",
+    "title": "The Singularity as Seen by 1960s Sci-Fi Writers Is Eerily Familiar",
+    "author": {
+      "name": "/u/lovelacedeconstruct",
+      "handle": "/u//u/lovelacedeconstruct",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The Singularity as Seen by 1960s Sci-Fi Writers Is Eerily Familiar",
+    "summary_ko": "1960년대 SF 작가들이 본 특이점은 이상할 정도로 친숙하다",
+    "url": "https://www.reddit.com/r/singularity/comments/1vty34j/the_singularity_as_seen_by_1960s_scifi_writers_is/",
+    "image": "https://external-preview.redd.it/c3hqZnUyeG51bGtoMfq0AIPwFkeZ3xfSBKR0IazegXCliisZWnIoKR0i6USA.png?width=640&crop=smart&auto=webp&s=99f273acdd2c43041e929978b3e459512b04f30b",
+    "date": "2026-08-20T22:25:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1vtqalk/ai_is_finally_curing_cancer/",
     "platform": "Reddit",
     "title": "AI is finally curing cancer",
@@ -2920,24 +3062,6 @@
     "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
     "image": null,
     "date": "2026-07-22T21:32:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
-    "platform": "Google",
-    "title": "Towards a quantum computer that learns from its errors",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Machine Intelligence",
-    "summary_ko": "오류로부터 학습하는 양자컴퓨터를 향하여",
-    "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/",
-    "image": null,
-    "date": "2026-07-22T18:40:21.000Z",
     "likes": 0,
     "comments": 0
   }
