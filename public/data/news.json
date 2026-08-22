@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1vvhlfi/93_secondshumanoid_robots_now_run_faster_than/",
+    "platform": "Reddit",
+    "title": "9.3 seconds…Humanoid robots now run faster than humans",
+    "author": {
+      "name": "/u/Overflame",
+      "handle": "/u//u/Overflame",
+      "avatar_color": "#ff4500"
+    },
+    "content": "9.3 seconds…Humanoid robots now run faster than humans",
+    "summary_ko": "9.3초…휴머노이드 로봇, 이제 인간보다 더 빠르게 달린다",
+    "url": "https://www.reddit.com/r/singularity/comments/1vvhlfi/93_secondshumanoid_robots_now_run_faster_than/",
+    "image": "https://external-preview.redd.it/d2JqZ3pwOHdpeWtoMTboMkhRG4B8lP9wtWLsiZgo1zKIiuyIEKqnNowMAm9l.png?width=640&crop=smart&auto=webp&s=a3d9bfeb1bbd5692ed058472b2cb2212817b8f47",
+    "date": "2026-08-22T16:57:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vvgs2o/ai_prompt_was/",
+    "platform": "Reddit",
+    "title": "AI prompt was:",
+    "author": {
+      "name": "/u/Humble_maple",
+      "handle": "/u//u/Humble_maple",
+      "avatar_color": "#ff4500"
+    },
+    "content": "AI prompt was:",
+    "summary_ko": "AI 프롬프트는 다음과 같습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vvgs2o/ai_prompt_was/",
+    "image": "https://preview.redd.it/cfpdyz04dykh1.jpeg?width=640&crop=smart&auto=webp&s=7bb443610260617fe124755fadaa68de67f272a4",
+    "date": "2026-08-22T16:24:45.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vv79k5/the_amount_of_activity_on_github_right_now_is/",
+    "platform": "Reddit",
+    "title": "The amount of activity on GitHub right now is crazy. Thoughts?",
+    "author": {
+      "name": "/u/Electronic-Ad5094",
+      "handle": "/u//u/Electronic-Ad5094",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The amount of activity on GitHub right now is crazy. Thoughts?",
+    "summary_ko": "현재 GitHub의 활동량은 엄청납니다. 생각?",
+    "url": "https://www.reddit.com/r/singularity/comments/1vv79k5/the_amount_of_activity_on_github_right_now_is/",
+    "image": "https://preview.redd.it/3hd4ovoo5wkh1.png?width=640&crop=smart&auto=webp&s=b99168e1dfadea0f2cb5b49fd12ebc121b84c65c",
+    "date": "2026-08-22T08:59:34.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vv4dlc/new_antiai_sloptube_clickbait_format_just_dropped/",
+    "platform": "Reddit",
+    "title": "New anti-ai sloptube clickbait format just dropped",
+    "author": {
+      "name": "/u/plantsnlionstho",
+      "handle": "/u//u/plantsnlionstho",
+      "avatar_color": "#ff4500"
+    },
+    "content": "New anti-ai sloptube clickbait format just dropped",
+    "summary_ko": "새로운 안티 AI 슬롭튜브 클릭베이트 형식이 방금 출시되었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vv4dlc/new_antiai_sloptube_clickbait_format_just_dropped/",
+    "image": "https://preview.redd.it/d8ducngvavkh1.png?width=640&crop=smart&auto=webp&s=a0b94c89521fbb9d0fba004f4b6eeb67c89b6691",
+    "date": "2026-08-22T06:10:25.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
     "platform": "Google",
     "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
@@ -2949,119 +3017,6 @@
     "url": "https://www.cio.com/article/4200682/%ed%86%b5%ea%b3%84%eb%a1%9c-%eb%b3%b8-ai-%ec%a0%84%eb%9e%b5roi%eb%b6%80%ed%84%b0-%ec%8b%a0%eb%a2%b0%ea%b9%8c%ec%a7%80-cio%ec%9d%98-7%eb%8c%80-%ea%b3%bc%ec%a0%9c.html",
     "image": null,
     "date": "2026-07-24T00:43:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4200678/%ec%b7%a8%ec%95%bd%ec%a0%90-%ec%b0%be%ea%b8%b0-%ec%a0%84%ec%97%90-%ed%9b%84%eb%b3%b4%eb%b6%80%ed%84%b0-%ec%b6%94%eb%a6%b0%eb%8b%a4%ec%8b%9c%ec%8a%a4%ec%bd%94-%ec%bd%94%eb%93%9c-%eb%b6%84.html",
-    "platform": "CIO",
-    "title": "“취약점 찾기 전에 후보부터 추린다”…시스코, 코드 분석 AI ‘안타레스’ 공개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“취약점 찾기 전에 후보부터 추린다”…시스코, 코드 분석 AI ‘안타레스’ 공개",
-    "summary_ko": "시스코는 오픈 웨이트(Open-weight) AI 모델 제품군인 ‘안타레스(Antares)’를 공개했다. 이 모델은 보안팀이 본격적인 분석에 앞서 소프트웨어 저장소에서 취약점이 존재할 가능성이 높은 코드 영역을 빠르게 추려낼 수 있도록 설계됐다. 안타레스는 특정 CVE(Common Vulnerabilities and Exposures)를 탐지하거나 패치를 생성하는 모델이 아니다.",
-    "url": "https://www.cio.com/article/4200678/%ec%b7%a8%ec%95%bd%ec%a0%90-%ec%b0%be%ea%b8%b0-%ec%a0%84%ec%97%90-%ed%9b%84%eb%b3%b4%eb%b6%80%ed%84%b0-%ec%b6%94%eb%a6%b0%eb%8b%a4%ec%8b%9c%ec%8a%a4%ec%bd%94-%ec%bd%94%eb%93%9c-%eb%b6%84.html",
-    "image": null,
-    "date": "2026-07-23T13:04:22.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4200534/%ec%a4%91%ea%b5%ad-ai-%eb%aa%a8%eb%8d%b8-%eb%b9%84%ec%9a%a9-%ea%b2%bd%ec%9f%81%eb%a0%a5%ec%9d%80-%eb%a7%a4%eb%a0%a5%ec%a0%81%ea%b8%b0%ec%97%85%ec%9d%80-%ec%96%b4%eb%94%94%ea%b9%8c%ec%a7%80.html",
-    "platform": "CIO",
-    "title": "중국 AI 모델, 비용 경쟁력은 매력적…기업은 어디까지 활용해야 하나",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "중국 AI 모델, 비용 경쟁력은 매력적…기업은 어디까지 활용해야 하나",
-    "summary_ko": "중국 AI 스타트업 딥시크가 3년 전 등장한 이후 기업 경영진은 중국산 AI 모델을 업무에 활용하는 데 꾸준한 우려를 보여왔다. 하지만 최근 알리바바의 2조 4,000억 개 파라미터 모델 ‘큐웬(Qwen) 3. 8 맥스‘와 문샷(Moonshot)의 2조 8,000억 개 파라미터 모델 ‘키미(Kimi) K3’가 한층 향상된 성능을 내세우면서 기업 IT 리더들은 제한적인 용도라도 이들 모델을 도입할 가치가 있는지 다시 검토해야 하는 상황에 놓였다.",
-    "url": "https://www.cio.com/article/4200534/%ec%a4%91%ea%b5%ad-ai-%eb%aa%a8%eb%8d%b8-%eb%b9%84%ec%9a%a9-%ea%b2%bd%ec%9f%81%eb%a0%a5%ec%9d%80-%eb%a7%a4%eb%a0%a5%ec%a0%81%ea%b8%b0%ec%97%85%ec%9d%80-%ec%96%b4%eb%94%94%ea%b9%8c%ec%a7%80.html",
-    "image": null,
-    "date": "2026-07-23T12:57:46.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4200474/%ec%8b%a0%eb%a2%b0-%eb%82%b4%ec%9e%ac%ed%99%94%ea%b0%80-ai-%ec%8b%9c%eb%8c%80-%ed%95%b5%ec%8b%ac-%ea%b3%bc%ec%a0%9c-%eb%a9%94%ed%83%80-%ec%b0%a8%ea%b8%b0-ciso%ec%97%90-%ed%8e%98%ec%9d%b4.html",
-    "platform": "CIO",
-    "title": "“신뢰 내재화가 AI 시대 핵심 과제”…메타, 차기 CISO에 페이팔 출신 아사프 케렌 선임",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“신뢰 내재화가 AI 시대 핵심 과제”…메타, 차기 CISO에 페이팔 출신 아사프 케렌 선임",
-    "summary_ko": "케렌은 23일 링크드인을 통해 “메타의 차기 최고정보보호책임자로 합류했다”며 “앞으로 몇 달 동안 메타의 기존 CISO였던 가이 로젠과 보안팀과 긴밀히 협력하며 새로운 역할을 준비할 것”이라고 밝혔다. 케렌은 2024년 3월부터 2026년 7월까지 퀄트릭스(Qualtrics)에서 수석부사장(SVP) 겸 최고보안책임자(CSO)를 맡아 글로벌 보안 전략을 총괄했다.",
-    "url": "https://www.cio.com/article/4200474/%ec%8b%a0%eb%a2%b0-%eb%82%b4%ec%9e%ac%ed%99%94%ea%b0%80-ai-%ec%8b%9c%eb%8c%80-%ed%95%b5%ec%8b%ac-%ea%b3%bc%ec%a0%9c-%eb%a9%94%ed%83%80-%ec%b0%a8%ea%b8%b0-ciso%ec%97%90-%ed%8e%98%ec%9d%b4.html",
-    "image": null,
-    "date": "2026-07-23T09:38:26.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4200423/%ed%81%b4%eb%a1%9c%eb%93%9c-%eb%af%b8%ed%86%a0%ec%8a%a4-faq%c2%b7%c2%b7%c2%b7%ea%b8%b0%eb%8a%a5-%ec%a0%91%ea%b7%bc-%eb%b0%a9%ec%8b%9d-%ea%b2%bd%ec%9f%81-%ea%b8%b0%ec%88%a0-%ea%b7%b8%eb%a6%ac.html",
-    "platform": "CIO",
-    "title": "클로드 미토스 FAQ···기능, 접근 방식, 경쟁 기술, 그리고 보안 전략에 미칠 영향",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "클로드 미토스 FAQ···기능, 접근 방식, 경쟁 기술, 그리고 보안 전략에 미칠 영향",
-    "summary_ko": "클로드 미토스란 무엇인가 클로드 미토스는 앤트로픽이 개발한 첨단 AI 모델로, 사이버보안과 의료 분야에 특화돼 최적화됐다. 미토스 5(Mythos 5)는 보다 광범위한 출시를 앞두고 지난 4월 엄선된 소수의 기술 파트너에게 먼저 공개됐다. 앤트로픽은 인프라 제공업체, 오픈소스 개발자, 주요 기술 기업에 미토스를 제한적이고 통제된 방식으로 제공하는 컨소시엄인 프로젝트 글래스윙(Project Glasswing)을 출범시켰다. 이 프로그램은 방어자가 공격자보다 더 빠르게 취약점을 찾아 해결할 수 있도록 지원하기 위해 마련됐다.",
-    "url": "https://www.cio.com/article/4200423/%ed%81%b4%eb%a1%9c%eb%93%9c-%eb%af%b8%ed%86%a0%ec%8a%a4-faq%c2%b7%c2%b7%c2%b7%ea%b8%b0%eb%8a%a5-%ec%a0%91%ea%b7%bc-%eb%b0%a9%ec%8b%9d-%ea%b2%bd%ec%9f%81-%ea%b8%b0%ec%88%a0-%ea%b7%b8%eb%a6%ac.html",
-    "image": null,
-    "date": "2026-07-23T05:14:36.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4200419/ms-%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84%ea%b3%bc-%ec%86%90%ec%9e%a1%ea%b3%a0-%ec%a3%bc%ea%b6%8c%ed%98%95-ai-%ec%8a%b9%eb%b6%80%ec%88%98%ea%b8%b0%ec%97%85-ai-%ec%84%a0%ed%83%9d%ea%b6%8c.html",
-    "platform": "CIO",
-    "title": "MS, 미스트랄과 손잡고 주권형 AI 승부수…기업 AI 선택권 넓힌다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "MS, 미스트랄과 손잡고 주권형 AI 승부수…기업 AI 선택권 넓힌다",
-    "summary_ko": "MS와 미스트랄은 기업 AI의 미래가 특정 플랫폼에 종속되는 단일 시스템이 아니라 주권형 AI 인프라와 다양한 AI 모델을 선택할 수 있는 환경에 있다고 보고 있다. 양사는 MS의 수십억 달러 규모 투자 계획을 포함한 전략적 파트너십의 ‘대폭 확대‘를 발표했다. 이에 따라 미스트랄은 유럽 내 GPU 인프라를 확충하고 최첨단 다국어 AI 모델의 제공 범위를 확대한다. MS는 주권형 클라우드 역량을 강화한다. 양사는 공동 시장 진출(Go-to-Market) 전략도 추진한다.",
-    "url": "https://www.cio.com/article/4200419/ms-%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84%ea%b3%bc-%ec%86%90%ec%9e%a1%ea%b3%a0-%ec%a3%bc%ea%b6%8c%ed%98%95-ai-%ec%8a%b9%eb%b6%80%ec%88%98%ea%b8%b0%ec%97%85-ai-%ec%84%a0%ed%83%9d%ea%b6%8c.html",
-    "image": null,
-    "date": "2026-07-23T04:39:35.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
-    "platform": "Google",
-    "title": "SymptomAI: Towards a conversational AI agent for everyday symptom assessment",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "General Science",
-    "summary_ko": "증상 AI: 일상적인 증상 평가를 위한 대화형 AI 에이전트를 향하여",
-    "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/",
-    "image": null,
-    "date": "2026-07-22T21:32:00.000Z",
     "likes": 0,
     "comments": 0
   }
