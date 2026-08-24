@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1vx7hk4/100m_hurdles_final/",
+    "platform": "Reddit",
+    "title": "100m Hurdles Final",
+    "author": {
+      "name": "/u/ghouleye",
+      "handle": "/u//u/ghouleye",
+      "avatar_color": "#ff4500"
+    },
+    "content": "100m Hurdles Final",
+    "summary_ko": "100m 허들 결승",
+    "url": "https://www.reddit.com/r/singularity/comments/1vx7hk4/100m_hurdles_final/",
+    "image": "https://external-preview.redd.it/ZXhmdGxyOGNtY2xoMUxZ0pxyRW99BNuA4p2ijJU3HRJJbtu3AGUpERX8NOKh.png?width=640&crop=smart&auto=webp&s=0eda82f693422738f9d5ef2f2784ef64b7e33d9f",
+    "date": "2026-08-24T16:21:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vx6ivx/apple_m5_server/",
+    "platform": "Reddit",
+    "title": "Apple M5 Server",
+    "author": {
+      "name": "/u/Rymssss",
+      "handle": "/u//u/Rymssss",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Apple M5 Server",
+    "summary_ko": "애플 M5 서버",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx6ivx/apple_m5_server/",
+    "image": "https://preview.redd.it/cl1r3u7wfclh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=cbea8a5e02732faab3b58c8e2040841cb7ab81d1",
+    "date": "2026-08-24T15:47:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vwvghi/xiaomi_ai_cube_announced_with_12tbs_memory/",
+    "platform": "Reddit",
+    "title": "Xiaomi AI Cube announced with 1.2TB/s memory bandwidth",
+    "author": {
+      "name": "/u/Mysterious_Finish543",
+      "handle": "/u//u/Mysterious_Finish543",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Xiaomi AI Cube announced with 1.2TB/s memory bandwidth",
+    "summary_ko": "Xiaomi AI Cube, 1.2TB/s 메모리 대역폭 발표",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwvghi/xiaomi_ai_cube_announced_with_12tbs_memory/",
+    "image": "https://preview.redd.it/5ug2qcs7u9lh1.jpg?width=140&height=105&auto=webp&s=677175ef9d94afd6f050fa8f37674691ff11f5b5",
+    "date": "2026-08-24T07:04:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4212725/amd-%ec%9b%b9%ec%97%90%ec%84%9c-ai-%eb%8f%84%ec%9e%85-%eb%b9%84%ec%9a%a9-%eb%b9%84%ea%b5%90%ed%95%98%eb%8a%94-%ed%86%a0%ed%81%ac%eb%85%b8%eb%af%b9%ec%8a%a4-%ea%b3%84%ec%82%b0%ea%b8%b0-%ec%84%a0.html",
+    "platform": "CIO",
+    "title": "AMD, 웹에서 AI 도입 비용 비교하는 ‘토크노믹스 계산기’ 선보여",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AMD, 웹에서 AI 도입 비용 비교하는 ‘토크노믹스 계산기’ 선보여",
+    "summary_ko": "AMD 클라이언트 토크노믹스 계산기는 기업 IT 리더가 AI 워크로드를 다양한 환경에서 운영할 경우 발생하는 비용을 비교하고, AI 사용량과 인프라 전략에 따른 총비용 변화를 분석할 수 있도록 설계됐다. 다만 AMD는 계산기에서 제공되는 결과가 실제 비용을 보장하는 값이 아니라 추정치라고 설명했다. 또한 계산기는 예상 비용과 환경별 경제성을 비교하기 위한 참고 자료로 제공되며, 가격은 미국 달러(USD)를 기준으로 산출된다. 계산 결과는 제품 구매나 판매를 제안하는 것이 아니며, 실제 구축 환경이나 사용 조건에 따라 비용은 달라질 수 있다.",
+    "url": "https://www.cio.com/article/4212725/amd-%ec%9b%b9%ec%97%90%ec%84%9c-ai-%eb%8f%84%ec%9e%85-%eb%b9%84%ec%9a%a9-%eb%b9%84%ea%b5%90%ed%95%98%eb%8a%94-%ed%86%a0%ed%81%ac%eb%85%b8%eb%af%b9%ec%8a%a4-%ea%b3%84%ec%82%b0%ea%b8%b0-%ec%84%a0.html",
+    "image": null,
+    "date": "2026-08-24T06:09:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4212722/ai-%eb%b3%b4%ec%97%ac%ec%a4%98%ec%97%90%ec%84%9c-%eb%8f%88-%eb%b2%84%eb%8a%94-ai-%eb%b3%b4%ec%97%ac%ec%a4%98%eb%a1%9ccio-%ed%8f%89%ea%b0%80-%ea%b8%b0%ec%a4%80-%eb%b0%94%eb%80%8c.html",
+    "platform": "CIO",
+    "title": "‘AI 보여줘’에서 ‘돈 버는 AI 보여줘’로…CIO 평가 기준 바뀌었다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "‘AI 보여줘’에서 ‘돈 버는 AI 보여줘’로…CIO 평가 기준 바뀌었다",
+    "summary_ko": "2026년은 AI 투자수익률(ROI)이 실질적인 성과로 입증돼야 하는 해로 여겨졌다. 수년간 이어진 AI 실험과 파일럿 프로젝트 대부분이 실제 운영 단계로 확장되지 못하면서, CEO들이 CIO에게 가장 우선적으로 요구한 과제는 AI 투자 효과를 가시적으로 입증하는 것이었다. 이 같은 압박 속에서 CIO들의 긴장감도 커졌다. AI 플랫폼 기업 데이터이쿠(Dataiku)가 지난 2월 발표한 조사에 따르면, IT 리더의 71%는 올해 중반까지 AI의 가치를 입증하지 못하면 예산 삭감이나 자리까지 위협받을 수 있다고 생각하는 것으로 나타났다.",
+    "url": "https://www.cio.com/article/4212722/ai-%eb%b3%b4%ec%97%ac%ec%a4%98%ec%97%90%ec%84%9c-%eb%8f%88-%eb%b2%84%eb%8a%94-ai-%eb%b3%b4%ec%97%ac%ec%a4%98%eb%a1%9ccio-%ed%8f%89%ea%b0%80-%ea%b8%b0%ec%a4%80-%eb%b0%94%eb%80%8c.html",
+    "image": null,
+    "date": "2026-08-24T05:52:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4212720/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%9e%98-%ec%9e%91%eb%8f%99%ed%95%98%eb%8a%94%ec%a7%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ed%99%95%ec%9d%b8%ed%95%a0%ea%b9%8c%ed%8f%89%ea%b0%80%c2%b7.html",
+    "platform": "CIO",
+    "title": "AI 에이전트, 잘 작동하는지 어떻게 확인할까…평가·벤치마킹 도구 13종",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 에이전트, 잘 작동하는지 어떻게 확인할까…평가·벤치마킹 도구 13종",
+    "summary_ko": "LLM은 지금도 그 작동 방식을 완전히 설명하기 어려운 ‘마법 같은’ 기술로 여겨진다. 이를 직접 개발하는 엔지니어들조차 윈스턴 처칠의 표현을 빌려 “수수께끼 속에 감춰진 미스터리, 그 안의 불가해한 존재(a riddle, wrapped in a mystery, inside an enigma)”라고 표현할 정도다. 이 때문에 기업 환경에서 LLM을 활용하는 조직이라면 누구나 복잡한 가중치(weight) 구조를 들여다보고, 이 거대한 수치 모델이 실제로 어떻게 작동하는지 이해할 수 있는 수단이 필요하다. 최근에는 이러한 작업을 지원하는 도구가 빠르게 늘어나고 있다.",
+    "url": "https://www.cio.com/article/4212720/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%9e%98-%ec%9e%91%eb%8f%99%ed%95%98%eb%8a%94%ec%a7%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ed%99%95%ec%9d%b8%ed%95%a0%ea%b9%8c%ed%8f%89%ea%b0%80%c2%b7.html",
+    "image": null,
+    "date": "2026-08-24T05:40:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4212584/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ed%95%ad%ec%83%81-%eb%8b%b5%ec%9d%80-%ec%95%84%eb%8b%88%eb%8b%a410%eb%b6%84%ec%9d%98-1-%eb%b9%84%ec%9a%a9%ec%9c%bc%eb%a1%9c-rpa%ea%b0%80-%eb%8d%94.html",
+    "platform": "CIO",
+    "title": "에이전틱 AI, 항상 답은 아니다…”10분의 1 비용으로 RPA가 더 효율적일 수도”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "에이전틱 AI, 항상 답은 아니다…”10분의 1 비용으로 RPA가 더 효율적일 수도”",
+    "summary_ko": "규모와 업종을 막론한 기업들이 업무 자동화를 위해 생성형 AI와 에이전트 AI를 빠르게 도입하고 있다. 하지만 이러한 시도가 항상 기대한 성과로 이어지는 것은 아니다. 일부 문제는 AI 기술 특유의 새로운 과제다. 그러나 상당수는 RPA가 확산되던 시기에 이미 경험했던 문제들이다. 당시의 경험을 통해 충분히 대비할 수 있었지만, 새로운 기술 도입에 집중하는 과정에서 그 교훈이 점차 잊히고 있다는 지적이 나온다.",
+    "url": "https://www.cio.com/article/4212584/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ed%95%ad%ec%83%81-%eb%8b%b5%ec%9d%80-%ec%95%84%eb%8b%88%eb%8b%a410%eb%b6%84%ec%9d%98-1-%eb%b9%84%ec%9a%a9%ec%9c%bc%eb%a1%9c-rpa%ea%b0%80-%eb%8d%94.html",
+    "image": null,
+    "date": "2026-08-24T01:16:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
+    "platform": "Reddit",
+    "title": "Sam Altman with some sad statements about AI",
+    "author": {
+      "name": "/u/SwingDingeling",
+      "handle": "/u//u/SwingDingeling",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Sam Altman with some sad statements about AI",
+    "summary_ko": "AI에 대한 슬픈 말을 전하는 샘 알트만(Sam Altman)",
+    "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
+    "image": null,
+    "date": "2026-08-23T21:39:38.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1vvhlfi/93_secondshumanoid_robots_now_run_faster_than/",
     "platform": "Reddit",
     "title": "9.3 seconds…Humanoid robots now run faster than humans",
@@ -2824,74 +2968,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7nrfm/we_could_really_use_qwen38_in_27b_35b_122b_and/",
     "image": null,
     "date": "2026-07-27T02:34:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/",
-    "platform": "Reddit",
-    "title": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
-    "author": {
-      "name": "/u/MysteryWra",
-      "handle": "/u//u/MysteryWra",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Google comes out in favor of OpenWeight models. (It is now EVERY tech giant vs Anthropic)",
-    "summary_ko": "Google은 OpenWeight 모델을 선호합니다. (이제 모든 거대 기술 대 인류가 됩니다).",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v6axx3/google_comes_out_in_favor_of_openweight_models_it/",
-    "image": null,
-    "date": "2026-07-25T15:12:42.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1v66o8k/opus_5_arc_agi_score_was_benchmaxxed/",
-    "platform": "Reddit",
-    "title": "Opus 5 ARC AGI score was benchmaxxed",
-    "author": {
-      "name": "/u/Charuru",
-      "handle": "/u//u/Charuru",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Opus 5 ARC AGI score was benchmaxxed",
-    "summary_ko": "Opus 5 ARC AGI 점수가 최대 벤치마크되었습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1v66o8k/opus_5_arc_agi_score_was_benchmaxxed/",
-    "image": "https://preview.redd.it/j5nlhihq9dfh1.png?width=640&crop=smart&auto=webp&s=592f2d4375907df7e7961da1ef012b37ec17dabd",
-    "date": "2026-07-25T12:08:16.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1v60izq/robot_powered_by_qualcomms_new_ai_chip_dies/",
-    "platform": "Reddit",
-    "title": "Robot powered by Qualcomm’s new AI chip dies mid-presentation",
-    "author": {
-      "name": "/u/SuggestionMission516",
-      "handle": "/u//u/SuggestionMission516",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Robot powered by Qualcomm’s new AI chip dies mid-presentation",
-    "summary_ko": "Qualcomm의 새로운 AI 칩으로 구동되는 로봇이 프레젠테이션 중간에 사망함",
-    "url": "https://www.reddit.com/r/singularity/comments/1v60izq/robot_powered_by_qualcomms_new_ai_chip_dies/",
-    "image": "https://external-preview.redd.it/NWVjb3RieHJsYmZoMRydPXdvgPw4xO0VF7_GG0AS2kZCRFC7gfgu1_ff_naM.png?width=640&crop=smart&auto=webp&s=1b76dcd0b7b17fa847efd47533998eac36c8581e",
-    "date": "2026-07-25T06:34:02.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1v5s14x/reuters_openai_didnt_know_about_hack_for_a_week/",
-    "platform": "Reddit",
-    "title": "Reuters: OpenAI didn’t know about hack for a week. Agents had left instructions for future versions of itself on how to free itself",
-    "author": {
-      "name": "/u/socoolandawesome",
-      "handle": "/u//u/socoolandawesome",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Reuters: OpenAI didn’t know about hack for a week. Agents had left instructions for future versions of itself on how to free itself",
-    "summary_ko": "로이터: OpenAI는 일주일 동안 해킹에 대해 알지 못했습니다. 에이전트는 자신을 해제하는 방법에 대한 향후 버전의 지침을 남겼습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1v5s14x/reuters_openai_didnt_know_about_hack_for_a_week/",
-    "image": "https://preview.redd.it/8urxtu2fl9fh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=8bea049f4575f9cf30c6196faef2db91646f24d5",
-    "date": "2026-07-24T23:46:06.000Z",
     "likes": 0,
     "comments": 0
   }
