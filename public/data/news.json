@@ -1,5 +1,148 @@
 [
   {
+    "id": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+    "platform": "Google",
+    "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Human-Computer Interaction and Visualization",
+    "summary_ko": "에이전트 손: XR에서 공간 기반 에이전트 대화를 위한 대화형 손 제스처 생성",
+    "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
+    "image": null,
+    "date": "2026-08-25T19:10:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and/",
+    "platform": "Reddit",
+    "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+    "author": {
+      "name": "/u/themixtergames",
+      "handle": "/u//u/themixtergames",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+    "summary_ko": "Apple, 최대 512GB의 통합 메모리를 탑재한 M5 Max 및 M5 Ultra를 탑재한 새로운 Mac Studio 출시.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and/",
+    "image": "https://external-preview.redd.it/qqol8OBiT9JSUCIZmfpi4S-KFFzSVIhU-j6PvKKXZdA.jpeg?width=640&crop=smart&auto=webp&s=a1faff0777f1c3f4bc93a4e47ca50b0646fb4c49",
+    "date": "2026-08-25T13:11:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vxybmy/qwen_38_flash_next_day_0_support_from_unsloth/",
+    "platform": "Reddit",
+    "title": "Qwen 3.8 Flash Next day 0 support from unsloth",
+    "author": {
+      "name": "/u/jacek2023",
+      "handle": "/u//u/jacek2023",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Qwen 3.8 Flash Next day 0 support from unsloth",
+    "summary_ko": "Qwen 3.8 Flash Next day 0 unsloth 지원",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxybmy/qwen_38_flash_next_day_0_support_from_unsloth/",
+    "image": "https://preview.redd.it/112vz4wqkilh1.jpeg?width=640&crop=smart&auto=webp&s=23c6fed299c3ad8225b9a9e8dafc0715c0144a38",
+    "date": "2026-08-25T12:23:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwtyd/qwen38flashnext_tomorrow/",
+    "platform": "Reddit",
+    "title": "Qwen3.8-Flash-Next tomorrow",
+    "author": {
+      "name": "/u/rerri",
+      "handle": "/u//u/rerri",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Qwen3.8-Flash-Next tomorrow",
+    "summary_ko": "Qwen3.8-Flash-다음내일",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwtyd/qwen38flashnext_tomorrow/",
+    "image": "https://external-preview.redd.it/Z4u4braWhbHDqxXT7p8EHRqWEEzexwWUfFcB_ovsKUw.png?width=640&crop=smart&auto=webp&s=2e3bd38b98595ec348939156305056e48df16996",
+    "date": "2026-08-25T11:13:28.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1vxnqaq/5hr_limit_is_back_for_plus_users_100_and_200_get/",
+    "platform": "Reddit",
+    "title": "5hr Limit is back for Plus users. $100 and $200 get a few more months.",
+    "author": {
+      "name": "/u/Bloated_Plaid",
+      "handle": "/u//u/Bloated_Plaid",
+      "avatar_color": "#ff4500"
+    },
+    "content": "5hr Limit is back for Plus users. $100 and $200 get a few more months.",
+    "summary_ko": "Plus 사용자에게는 5시간 제한이 다시 제공됩니다. 100달러와 200달러에는 몇 달이 더 걸립니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1vxnqaq/5hr_limit_is_back_for_plus_users_100_and_200_get/",
+    "image": "https://preview.redd.it/7n0k63vmqflh1.jpeg?width=640&crop=smart&auto=webp&s=bc92d90c9fc94a0d1d329e337a71842ee9607c1a",
+    "date": "2026-08-25T02:50:49.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4213364/%ec%b9%bc%eb%9f%bc-%ed%9a%a8%ec%9c%a8%ec%9d%80-ai%ea%b0%80-%eb%a7%8c%eb%93%a0%eb%8b%a4%ec%b6%a9%ec%84%b1-%ea%b3%a0%ea%b0%9d%ec%9d%80-%ec%82%ac%eb%9e%8c%ec%9d%b4-%eb%a7%8c%eb%93%a0%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "칼럼 | 효율은 AI가 만든다…충성 고객은 사람이 만든다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 효율은 AI가 만든다…충성 고객은 사람이 만든다",
+    "summary_ko": "AI는 비즈니스 환경을 빠르게 재편하고 있다. AI는 회의 내용을 요약하고 프레젠테이션을 작성하며, 커뮤니케이션을 개인화하고, 고객 행동을 분석하며, 반복적인 업무를 자동화하고, 과거에는 팀이 며칠씩 걸려 찾아냈던 인사이트를 빠르게 도출할 수 있다. AI를 전략적으로 도입한 조직은 그렇지 않은 조직보다 생산성이 높아질 가능성이 매우 크다. 분명 반가운 소식이다. 하지만 의미 있는 기술적 우위는 결국 누구나 활용할 수 있게 된다는 점이 과제다. AI가 점점 더 보편화되면서 효율성 자체도 차별화 요소가 아닌 기본 역량으로 바뀌고 있다.",
+    "url": "https://www.cio.com/article/4213364/%ec%b9%bc%eb%9f%bc-%ed%9a%a8%ec%9c%a8%ec%9d%80-ai%ea%b0%80-%eb%a7%8c%eb%93%a0%eb%8b%a4%ec%b6%a9%ec%84%b1-%ea%b3%a0%ea%b0%9d%ec%9d%80-%ec%82%ac%eb%9e%8c%ec%9d%b4-%eb%a7%8c%eb%93%a0%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-08-25T02:22:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4213359/%ec%95%a0%ec%9e%90%ec%9d%bc%ec%8b%9d-15%eb%b6%84-%ec%9c%84%ed%98%91-%eb%aa%a8%eb%8d%b8%eb%a7%81ai-%ec%8b%9c%eb%8c%80-ciso%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%a0%91%ea%b7%bc%eb%b2%95.html",
+    "platform": "CIO",
+    "title": "애자일식 15분 위협 모델링…AI 시대 CISO의 새로운 접근법",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "애자일식 15분 위협 모델링…AI 시대 CISO의 새로운 접근법",
+    "summary_ko": "몇 주 전, 바쁜 하루를 보내던 위협 모델링 전문가 애덤 쇼스택(Adam Shostack)은 한 고객사로부터 이메일을 받았다. 해당 조직의 한 직원이 바이브 코딩(vibe coding)으로 애플리케이션을 개발해 고객 데이터를 처리하는 업무에 활용하고 있었다. 고객사는 이 도구가 어떤 보안 위험을 초래할 수 있는지, 그리고 이에 어떻게 대응해야 하는지 알고 싶어 했다. 시간이 촉박했던 쇼스택은 시스템을 분석하는 데 단 15분만 투자하기로 했다. 분석 결과는 기대 이상이었다. 그는 환각과 편향을 비롯한 “의미 있는 위협 목록”을 도출했다.",
+    "url": "https://www.cio.com/article/4213359/%ec%95%a0%ec%9e%90%ec%9d%bc%ec%8b%9d-15%eb%b6%84-%ec%9c%84%ed%98%91-%eb%aa%a8%eb%8d%b8%eb%a7%81ai-%ec%8b%9c%eb%8c%80-ciso%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%a0%91%ea%b7%bc%eb%b2%95.html",
+    "image": null,
+    "date": "2026-08-25T02:03:33.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4213351/%ed%86%a0%ed%81%b0-%eb%8b%a8%ea%b0%80%eb%8a%94-%eb%82%b4%eb%a0%a4%ea%b0%80%eb%8a%94%eb%8d%b0-%ed%95%98%eb%93%9c%ec%9b%a8%ec%96%b4%eb%8a%94-%ec%98%a4%eb%a5%b8%eb%8b%a4%ec%97%94%eb%b9%84.html",
+    "platform": "CIO",
+    "title": "토큰 단가는 내려가는데 하드웨어는 오른다…엔비디아 15% 추가 인상의 역설",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "토큰 단가는 내려가는데 하드웨어는 오른다…엔비디아 15% 추가 인상의 역설",
+    "summary_ko": "지난 7월 거의 모든 제품군의 가격을 약 30% 인상한 데 이어, 엔비디아가 급등하는 메모리 가격을 이유로 베라 루빈(Vera Rubin)과 그레이스 블랙웰(Grace Blackwell) 칩 기반 서버를 포함한 서버 가격을 추가로 15% 인상할 것으로 알려졌다. 블룸버그에 따르면, 이번 15% 인상은 2027년 초 출하되는 시스템부터 적용될 예정이다. 업계에서는 이를 AI 인프라 전반에 걸쳐 이어질 것으로 예상되는 일련의 가격 인상의 시작으로 보고 있다.",
+    "url": "https://www.cio.com/article/4213351/%ed%86%a0%ed%81%b0-%eb%8b%a8%ea%b0%80%eb%8a%94-%eb%82%b4%eb%a0%a4%ea%b0%80%eb%8a%94%eb%8d%b0-%ed%95%98%eb%93%9c%ec%9b%a8%ec%96%b4%eb%8a%94-%ec%98%a4%eb%a5%b8%eb%8b%a4%ec%97%94%eb%b9%84.html",
+    "image": null,
+    "date": "2026-08-25T01:48:12.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1vx7hk4/100m_hurdles_final/",
     "platform": "Reddit",
     "title": "100m Hurdles Final",
