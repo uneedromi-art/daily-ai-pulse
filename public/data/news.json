@@ -1,5 +1,186 @@
 [
   {
+    "id": "https://www.cio.com/article/4214475/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ec%84%b1%ed%8c%a8%eb%8a%94-%eb%b3%80%ed%99%94-%ea%b4%80%eb%a6%ac%ec%9e%a5%ec%95%a0-%ed%8b%b0%ec%bc%93-%ec%b5%9c%eb%8c%80-70-%ea%b0%90.html",
+    "platform": "CIO",
+    "title": "오픈텍스트 “AI 성패는 변화 관리”…장애 티켓 최대 70% 감소 사례 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "오픈텍스트 “AI 성패는 변화 관리”…장애 티켓 최대 70% 감소 사례 공개",
+    "summary_ko": "가트너에 따르면 인프라·운영(I&O) 분야 AI 프로젝트 가운데 목표한 투자 대비 효과(ROI)를 충분히 달성한 사례는 28%에 그쳤으며, 20%는 프로젝트가 실패한 것으로 나타났다. 오픈텍스트는 이러한 결과의 원인을 AI 기술이 아닌 프로세스 정비 부족과 조직의 준비 미흡에서 찾을 수 있다고 설명했다.",
+    "url": "https://www.cio.com/article/4214475/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ec%84%b1%ed%8c%a8%eb%8a%94-%eb%b3%80%ed%99%94-%ea%b4%80%eb%a6%ac%ec%9e%a5%ec%95%a0-%ed%8b%b0%ec%bc%93-%ec%b5%9c%eb%8c%80-70-%ea%b0%90.html",
+    "image": null,
+    "date": "2026-08-27T00:04:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+    "platform": "Google",
+    "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Health & Bioscience",
+    "summary_ko": "Gluco FM: 지속적인 혈당 모니터링을 위한 기초 모델",
+    "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+    "image": null,
+    "date": "2026-08-26T18:42:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vz40zv/can_we_reconsider_the_megathreads/",
+    "platform": "Reddit",
+    "title": "Can we reconsider the megathreads?",
+    "author": {
+      "name": "/u/TKristof",
+      "handle": "/u//u/TKristof",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Can we reconsider the megathreads?",
+    "summary_ko": "메가스레드를 다시 생각해 볼 수 있을까요?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz40zv/can_we_reconsider_the_megathreads/",
+    "image": null,
+    "date": "2026-08-26T17:40:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vz1dkz/whoever_the_fuck_predicted_we_would_have_gpt_55/",
+    "platform": "Reddit",
+    "title": "Whoever the fuck predicted we would have gpt 5.5 performance in coding on consumer hardware a couple months ago now, i applaud you",
+    "author": {
+      "name": "/u/GrokiniGPT",
+      "handle": "/u//u/GrokiniGPT",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Whoever the fuck predicted we would have gpt 5.5 performance in coding on consumer hardware a couple months ago now, i applaud you",
+    "summary_ko": "몇 달 전 우리가 소비자 하드웨어 코딩에서 gpt 5.5 성능을 발휘할 것이라고 예측한 사람이 누구였든, 박수를 보냅니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz1dkz/whoever_the_fuck_predicted_we_would_have_gpt_55/",
+    "image": null,
+    "date": "2026-08-26T16:07:15.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1vyyli5/sam_altman_tells_time_that_openai_will_achieve/",
+    "platform": "Reddit",
+    "title": "Sam Altman tells TIME that OpenAI will achieve AGI by the end of this year.",
+    "author": {
+      "name": "/u/troll_khan",
+      "handle": "/u//u/troll_khan",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Sam Altman tells TIME that OpenAI will achieve AGI by the end of this year.",
+    "summary_ko": "Sam Altman은 OpenAI가 올해 말까지 AGI를 달성할 것이라고 TIME에 말했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1vyyli5/sam_altman_tells_time_that_openai_will_achieve/",
+    "image": null,
+    "date": "2026-08-26T14:25:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vyy3k6/glm53flash_frontier_intelligence_flash_cost/",
+    "platform": "Reddit",
+    "title": "GLM-5.3-Flash: Frontier Intelligence, Flash Cost",
+    "author": {
+      "name": "/u/BriguePalhaco",
+      "handle": "/u//u/BriguePalhaco",
+      "avatar_color": "#ff4500"
+    },
+    "content": "GLM-5.3-Flash: Frontier Intelligence, Flash Cost",
+    "summary_ko": "GLM-5.3-플래시: 프론티어 인텔리전스, 플래시 비용",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyy3k6/glm53flash_frontier_intelligence_flash_cost/",
+    "image": null,
+    "date": "2026-08-26T14:06:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4214021/%eb%ac%b4%eb%94%94%ec%8a%a4-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88%ec%99%80-%ec%97%b0%eb%8f%99%ea%b8%88%ec%9c%b5-ai%ec%97%90-%ec%8b%a0.html",
+    "platform": "CIO",
+    "title": "무디스, 제미나이 엔터프라이즈와 연동…금융 AI에 신용등급 데이터 공급",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "무디스, 제미나이 엔터프라이즈와 연동…금융 AI에 신용등급 데이터 공급",
+    "summary_ko": "이번 통합으로 금융 서비스용 제미나이 엔터프라이즈를 사용하는 금융 전문가는 무디스 레이팅스(Moody’s Ratings)의 신용등급과 리서치는 물론 기업, 엔터티, 리스크 관련 선별된 인텔리전스에 플랫폼 내에서 직접 접근할 수 있게 됐다. 무디스는 해당 서비스의 출시 파트너로 참여했다.",
+    "url": "https://www.cio.com/article/4214021/%eb%ac%b4%eb%94%94%ec%8a%a4-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4%ec%a6%88%ec%99%80-%ec%97%b0%eb%8f%99%ea%b8%88%ec%9c%b5-ai%ec%97%90-%ec%8b%a0.html",
+    "image": null,
+    "date": "2026-08-26T07:48:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4214017/%ed%95%b4%ec%99%b8-%eb%a7%a4%ec%b6%9c%ec%9d%b4-%ea%b5%ad%eb%82%b4-%ec%b6%94%ec%9b%94%eb%a4%bc%ed%8a%bc-1000%ec%96%b5%ec%9b%90-%ec%8b%a0%ea%b7%9c-%ed%88%ac%ec%9e%90%eb%a1%9c-%ea%b8%80.html",
+    "platform": "CIO",
+    "title": "해외 매출이 국내 추월…뤼튼, 1,000억원 신규 투자로 글로벌 시장 공략 강화",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "해외 매출이 국내 추월…뤼튼, 1,000억원 신규 투자로 글로벌 시장 공략 강화",
+    "summary_ko": "이번 투자에는 코어라인벤처스와 유진자산운용이 신규 투자자로 참여했다. 기존 투자사인 굿워터캐피탈, 앤틀러 글로벌, 우리벤처파트너스, 수이제네리스파트너스, 산업은행, 캡스톤파트너스도 후속 투자에 나섰다. 미국 실리콘밸리 멘로파크와 일본 도쿄에 거점을 둔 코어라인벤처스는 소비자 서비스와 B2B 기술 분야를 중심으로 한국·미국·일본 기업에 투자해 왔으며, 주요 투자 사례로 카카오와 해피 엘리먼츠(Happy Elements) 등을 보유하고 있다.",
+    "url": "https://www.cio.com/article/4214017/%ed%95%b4%ec%99%b8-%eb%a7%a4%ec%b6%9c%ec%9d%b4-%ea%b5%ad%eb%82%b4-%ec%b6%94%ec%9b%94%eb%a4%bc%ed%8a%bc-1000%ec%96%b5%ec%9b%90-%ec%8b%a0%ea%b7%9c-%ed%88%ac%ec%9e%90%eb%a1%9c-%ea%b8%80.html",
+    "image": null,
+    "date": "2026-08-26T07:33:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4213980/%ec%b9%bc%eb%9f%bc-%ec%a2%8c%ec%84%9d-%ec%88%98%eb%a1%9c-%ec%98%88%ec%82%b0-%ec%a7%b0%eb%8b%a4%ea%b0%80-%ed%86%a0%ed%81%b0-%ed%8f%ad%ed%83%84-%eb%a7%9e%eb%8a%94%eb%8b%a4ai-%eb%b9%84.html",
+    "platform": "CIO",
+    "title": "칼럼 | 좌석 수로 예산 짰다가 토큰 폭탄 맞는다…AI 비용의 함정",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 좌석 수로 예산 짰다가 토큰 폭탄 맞는다…AI 비용의 함정",
+    "summary_ko": "지난 2년 대부분의 기간 동안 필자는 AI 비용을 지난 30년간 소프트웨어를 도입하며 적용해 온 방식대로 계산했다. 사용자당 라이선스 비용을 기준으로 예산을 한 번 편성하고, 1년에 한 번 정도 다시 검토하는 방식이다. 대부분의 IT 리더가 지금까지 예산을 계획할 때 기준으로 삼아온 가격 모델도 바로 이것이었다. 그러나 파일럿 단계가 아닌 실제 운영 환경에서 AI 시스템을 구축하기 시작하면서 이런 사고방식은 현실의 청구서를 마주하는 순간 더 이상 통하지 않는다는 사실을 깨달았다.",
+    "url": "https://www.cio.com/article/4213980/%ec%b9%bc%eb%9f%bc-%ec%a2%8c%ec%84%9d-%ec%88%98%eb%a1%9c-%ec%98%88%ec%82%b0-%ec%a7%b0%eb%8b%a4%ea%b0%80-%ed%86%a0%ed%81%b0-%ed%8f%ad%ed%83%84-%eb%a7%9e%eb%8a%94%eb%8b%a4ai-%eb%b9%84.html",
+    "image": null,
+    "date": "2026-08-26T07:27:40.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4213928/it-%ea%b4%80%eb%a6%ac%ec%9e%90%ec%97%90%ec%84%9c-cio%ea%b9%8c%ec%a7%80%ec%b0%a8%ec%84%b8%eb%8c%80-it-%eb%a6%ac%eb%8d%94%eb%93%a4%ec%9d%b4-%ea%bc%bd%ec%9d%80-%ec%84%b1%ea%b3%b5-%eb%b9%84.html",
+    "platform": "CIO",
+    "title": "IT 관리자에서 CIO까지…차세대 IT 리더들이 꼽은 성공 비결",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "IT 관리자에서 CIO까지…차세대 IT 리더들이 꼽은 성공 비결",
+    "summary_ko": "올리버 갈리키는 더 이상 CIO 자리에 오르는 모습을 상상할 필요가 없다. 최근 그 목표를 현실로 이뤘기 때문이다. 갈리키는 8월 10일 메모리얼 허먼 헬스 시스템(Memorial Hermann Health System)의 임상 애플리케이션 및 엔지니어링 담당 부사장에서 메드스타 헬스 시스템(Med Star Health System)의 부CIO 겸 애플리케이션 담당 부사장으로 자리를 옮겼다. 그는 이번 승진의 배경으로 커리어 전반에 걸쳐 기술 역량과 소프트 스킬을 함께 쌓아온 점을 꼽았다.",
+    "url": "https://www.cio.com/article/4213928/it-%ea%b4%80%eb%a6%ac%ec%9e%90%ec%97%90%ec%84%9c-cio%ea%b9%8c%ec%a7%80%ec%b0%a8%ec%84%b8%eb%8c%80-it-%eb%a6%ac%eb%8d%94%eb%93%a4%ec%9d%b4-%ea%bc%bd%ec%9d%80-%ec%84%b1%ea%b3%b5-%eb%b9%84.html",
+    "image": null,
+    "date": "2026-08-26T07:19:07.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
     "platform": "Google",
     "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
@@ -2914,203 +3095,6 @@
     "url": "https://www.cio.com/article/4201836/mcp-%ec%84%b8%ec%85%98-%ea%b8%b0%eb%b0%98-%ea%b5%ac%ec%a1%b0-%eb%b2%84%eb%a6%b0%eb%8b%a4ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
     "image": null,
     "date": "2026-07-28T00:54:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v8hli2/a_user_has_managed_to_run_kimi_k3_on_80xrtx_5090/",
-    "platform": "Reddit",
-    "title": "A user has managed to run Kimi K3 on 80xRTX 5090, via 25GbE Ethernet.",
-    "author": {
-      "name": "/u/panchovix",
-      "handle": "/u//u/panchovix",
-      "avatar_color": "#ff4500"
-    },
-    "content": "A user has managed to run Kimi K3 on 80xRTX 5090, via 25GbE Ethernet.",
-    "summary_ko": "사용자가 25GbE 이더넷을 통해 80xRTX 5090에서 Kimi K3를 실행했습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8hli2/a_user_has_managed_to_run_kimi_k3_on_80xrtx_5090/",
-    "image": null,
-    "date": "2026-07-27T23:56:10.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v8hk6b/anthropic_is_calling_for_a_ban_on_openweights/",
-    "platform": "Reddit",
-    "title": "Anthropic is calling for a ban on open-weights models by proposing mandatory requirements they will probably never be able to meet",
-    "author": {
-      "name": "/u/realmvp77",
-      "handle": "/u//u/realmvp77",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anthropic is calling for a ban on open-weights models by proposing mandatory requirements they will probably never be able to meet",
-    "summary_ko": "Anthropic은 아마도 결코 충족할 수 없는 필수 요구 사항을 제안함으로써 개방형 가중치 모델에 대한 금지를 요구하고 있습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8hk6b/anthropic_is_calling_for_a_ban_on_openweights/",
-    "image": "https://preview.redd.it/1llu13ff0vfh1.png?width=320&crop=smart&auto=webp&s=40ac21799a582920072418dc23c84a965778ec0f",
-    "date": "2026-07-27T23:54:35.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v8364f/kimi_k3_weights_now_released/",
-    "platform": "Reddit",
-    "title": "Kimi K3 weights now released.",
-    "author": {
-      "name": "/u/SavunOski",
-      "handle": "/u//u/SavunOski",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Kimi K3 weights now released.",
-    "summary_ko": "Kimi K3 웨이트가 출시되었습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8364f/kimi_k3_weights_now_released/",
-    "image": "https://preview.redd.it/nlw2mqk9gsfh1.jpeg?width=640&crop=smart&auto=webp&s=45fcb7df195400c006c65e9cde0c40c5436c40c6",
-    "date": "2026-07-27T15:11:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1v81dax/nvidia_invest_in_ssi/",
-    "platform": "Reddit",
-    "title": "Nvidia invest in SSI",
-    "author": {
-      "name": "/u/leo-virtis",
-      "handle": "/u//u/leo-virtis",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Nvidia invest in SSI",
-    "summary_ko": "엔비디아가 SSI에 투자",
-    "url": "https://www.reddit.com/r/singularity/comments/1v81dax/nvidia_invest_in_ssi/",
-    "image": "https://preview.redd.it/pmgdagwe4sfh1.jpeg?width=640&crop=smart&auto=webp&s=8c33f9dab68ad938e011d261fe40ece79ba8c189",
-    "date": "2026-07-27T14:04:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v7yand/jensen_huang_during_the_hugging_face_incident/",
-    "platform": "Reddit",
-    "title": "Jensen Huang: During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.",
-    "author": {
-      "name": "/u/Nunki08",
-      "handle": "/u//u/Nunki08",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Jensen Huang: During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.",
-    "summary_ko": "Jensen Huang: Hugging Face 사건 당시 폐쇄형 AI가 필수 포렌식을 차단했습니다. 개방형 프론티어 모델은 침입을 억제하는 데 도움이 되었습니다. 이것이 바로 우리가 Open Secure AI Alliance를 만든 이유입니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7yand/jensen_huang_during_the_hugging_face_incident/",
-    "image": "https://preview.redd.it/7l4bbylqhrfh1.jpeg?width=640&crop=smart&auto=webp&s=f9f8fe7d166995e8e8e7a8a8e6344656f9c52cc2",
-    "date": "2026-07-27T11:59:03.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4201695/%ec%98%a4%ed%94%88ai-%ed%94%84%eb%a0%88%ec%a6%8c%ec%8a%a4%eb%a1%9c-%ec%bd%9c%ec%84%bc%ed%84%b0-%ec%8b%9c%ec%9e%a5-%ec%a7%84%ec%9e%85ai%ea%b0%80-%ec%9d%bc%ec%83%81-%ec%9a%94%ec%b2%ad.html",
-    "platform": "CIO",
-    "title": "오픈AI, ‘프레즌스’로 콜센터 시장 진입…”AI가 일상 요청 처리, 판단·공감은 여전히 사람 몫”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "오픈AI, ‘프레즌스’로 콜센터 시장 진입…”AI가 일상 요청 처리, 판단·공감은 여전히 사람 몫”",
-    "summary_ko": "오픈AI가 고객과 직원의 요청을 처리하는 음성 및 채팅 에이전트를 구축할 수 있는 기업용 서비스 프레즌스(Presence)를 출시했다. 이 서비스는 현재 일선 고객지원 조직이 담당하는 일부 업무를 자동화하는 것을 목표로 한다. 프레즌스 에이전트는 질문에 답변하는 것은 물론 IT 시스템을 직접 조작할 수 있다. 기업은 에이전트가 수행할 수 있는 작업 범위를 직접 설정할 수 있으며, 특정 작업은 사람의 승인을 받도록 하거나 상담을 직원에게 이관하도록 구성할 수도 있다. 오픈AI는 이미 영어 전화 상담 채널에 프레즌스를 도입해 운영하고 있다.",
-    "url": "https://www.cio.com/article/4201695/%ec%98%a4%ed%94%88ai-%ed%94%84%eb%a0%88%ec%a6%8c%ec%8a%a4%eb%a1%9c-%ec%bd%9c%ec%84%bc%ed%84%b0-%ec%8b%9c%ec%9e%a5-%ec%a7%84%ec%9e%85ai%ea%b0%80-%ec%9d%bc%ec%83%81-%ec%9a%94%ec%b2%ad.html",
-    "image": null,
-    "date": "2026-07-27T09:03:06.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4201671/%eb%ac%b4%eb%8b%a8-ai-%eb%8f%84%ea%b5%ac-%ec%82%ac%ec%9a%a9%ed%95%98%eb%8a%94-%ea%b2%bd%ec%98%81%ec%a7%84-%eb%8a%98%ec%96%b4%ea%b8%b0%ec%97%85-ai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4.html",
-    "platform": "CIO",
-    "title": "무단 AI 도구 사용하는 경영진 늘어…기업 AI 거버넌스 ‘빨간불’",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "무단 AI 도구 사용하는 경영진 늘어…기업 AI 거버넌스 ‘빨간불’",
-    "summary_ko": "마이크로소프트(MS) 솔루션 파트너인 트러스티드테크(Trusted Tech)의 설문조사에 따르면, 고위 의사결정자의 약 3분의 2가 승인받지 않은 AI 도구를 사용한다고 인정했다. 이는 하위 직급 직원의 응답률인 31%의 두 배를 넘는 수준이다. 직원 4명 중 3명이 섀도우 AI 사용이 보안이나 데이터 프라이버시 측면에서 위험을 초래할 수 있다고 인식하고 있음에도, 고위 경영진 사이에서는 섀도우 AI 사용이 여전히 광범위하게 이뤄지고 있는 것으로 나타났다.",
-    "url": "https://www.cio.com/article/4201671/%eb%ac%b4%eb%8b%a8-ai-%eb%8f%84%ea%b5%ac-%ec%82%ac%ec%9a%a9%ed%95%98%eb%8a%94-%ea%b2%bd%ec%98%81%ec%a7%84-%eb%8a%98%ec%96%b4%ea%b8%b0%ec%97%85-ai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4.html",
-    "image": null,
-    "date": "2026-07-27T08:53:29.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4201666/%eb%84%a4%ec%9d%b4%eb%b2%84-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ec%a0%84%eb%9e%b5%ec%a0%81-%ed%88%ac%ec%9e%90-%ec%9c%a0%ec%b9%98100%ec%96%b5%eb%8b%ac%eb%9f%ac-%ea%b7%9c%eb%aa%a8-ai.html",
-    "platform": "CIO",
-    "title": "네이버, 엔비디아 전략적 투자 유치…100억달러 규모 AI 인프라 계약 체결",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "네이버, 엔비디아 전략적 투자 유치…100억달러 규모 AI 인프라 계약 체결",
-    "summary_ko": "네이버는 엔비디아로부터 제3자 배정 유상증자를 통해 10억 달러 규모의 전략적 투자를 체결하고, 90억 달러 규모의 GPU 인프라 및 데이터센터 확보를 위해 글로벌 투자사 브룩필드를 독점적 우선 협상대상자로 선정했다. 이번 100억 달러 규모의 계약으로 네이버는 AI팩토리 사업의 핵심 축인 GPU 수급과 장비 조달이라는 선결 과제를 빠르게 해결하며 전략적 우위를 확보했다. 엔비디아의 이번 투자는 지난 6월 양사가 발표한 ‘기가와트(GW)급 초대형 글로벌 AI팩토리 구축 협약’의 후속 조치다.",
-    "url": "https://www.cio.com/article/4201666/%eb%84%a4%ec%9d%b4%eb%b2%84-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ec%a0%84%eb%9e%b5%ec%a0%81-%ed%88%ac%ec%9e%90-%ec%9c%a0%ec%b9%98100%ec%96%b5%eb%8b%ac%eb%9f%ac-%ea%b7%9c%eb%aa%a8-ai.html",
-    "image": null,
-    "date": "2026-07-27T08:46:11.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4201626/%ec%9d%b4%ec%9e%ac%eb%aa%85-%eb%8c%80%ed%86%b5%eb%a0%b9-%eb%b9%85%ed%85%8c%ed%81%ac-ceo-%eb%a9%b4%eb%8b%b4-%ec%b2%ab-%ec%9d%bc%ec%a0%95%ec%9c%bc%eb%a1%9c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd.html",
-    "platform": "CIO",
-    "title": "이재명 대통령, 빅테크 CEO 면담 첫 일정으로 앤트로픽 대표 만나…”한국, 아시아 AI 인프라 핵심 거점 기대”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "이재명 대통령, 빅테크 CEO 면담 첫 일정으로 앤트로픽 대표 만나…”한국, 아시아 AI 인프라 핵심 거점 기대”",
-    "summary_ko": "정부 공식 보도자료에 따르면, 이 대통령은 빅테크 CEO 면담의 첫 번째 일정으로, 다리오 아모데이 앤트로픽 CEO를 만나 대한민국과 앤트로픽의 동반 성장을 위한 투자 파트너십 확대와 책임 있는 AI 발전을 위한 협력 방안 등에 대해 다양한 의견을 나눴다. 이 대통령은 모두발언에서 “한국은 앤트로픽의 아시아 AI 인프라 핵심 거점이 될 수 있는 최적의 파트너로, 미토스로 확인된 앤트로픽의 세계적인 AI 모델 역량과 대한민국의 반도체, AI 데이터센터 등 AI 역량과 대규모 AI 소비시장의 잠재력이 결합한다면 양측 모두에게 성장의 기회가 될 것”이라고 말했다.",
-    "url": "https://www.cio.com/article/4201626/%ec%9d%b4%ec%9e%ac%eb%aa%85-%eb%8c%80%ed%86%b5%eb%a0%b9-%eb%b9%85%ed%85%8c%ed%81%ac-ceo-%eb%a9%b4%eb%8b%b4-%ec%b2%ab-%ec%9d%bc%ec%a0%95%ec%9c%bc%eb%a1%9c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd.html",
-    "image": null,
-    "date": "2026-07-27T07:24:19.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4201603/%ea%b8%b4-%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8%eb%8a%94-%ec%82%ac%eb%9d%bc%ec%a7%88-%ea%b2%83%ec%a0%a0%ec%8a%a4%ed%8c%8c%ed%81%ac%ea%b0%80-%ea%b7%b8%eb%a6%ac%eb%8a%94-%eb%a7%a5%eb%9d%bd.html",
-    "platform": "CIO",
-    "title": "“긴 프롬프트는 사라질 것”…젠스파크가 그리는 ‘맥락 기반 AI’ 시대",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“긴 프롬프트는 사라질 것”…젠스파크가 그리는 ‘맥락 기반 AI’ 시대",
-    "summary_ko": "젠스파크는 지난 24일 한국 사업 공식 출시 기념으로 열린 기자간담회에서 AI 워크스페이스 6. 0과 ‘세컨드 브레인(Second Brain)’을 공개하며 이러한 비전을 제시했다. 회사는 한국을 핵심 시장으로 선정하고 향후 3년간 1억 달러(약 1,469억 원)를 투자해 한국 지사의 인력을 확충하고 파트너십을 확대할 계획이라고 밝혔다. 이미 한국 지사를 설립한 젠스파크는 최근 국내 인력을 채용하는 등 조직 확대에도 속도를 내고 있다.",
-    "url": "https://www.cio.com/article/4201603/%ea%b8%b4-%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8%eb%8a%94-%ec%82%ac%eb%9d%bc%ec%a7%88-%ea%b2%83%ec%a0%a0%ec%8a%a4%ed%8c%8c%ed%81%ac%ea%b0%80-%ea%b7%b8%eb%a6%ac%eb%8a%94-%eb%a7%a5%eb%9d%bd.html",
-    "image": null,
-    "date": "2026-07-27T06:44:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v7nrfm/we_could_really_use_qwen38_in_27b_35b_122b_and/",
-    "platform": "Reddit",
-    "title": "We could really use Qwen3.8 in 27B, 35B, 122B and 397B sizes",
-    "author": {
-      "name": "/u/Responsible_Fig_1271",
-      "handle": "/u//u/Responsible_Fig_1271",
-      "avatar_color": "#ff4500"
-    },
-    "content": "We could really use Qwen3.8 in 27B, 35B, 122B and 397B sizes",
-    "summary_ko": "실제로 Qwen3.8을 27B, 35B, 122B 및 397B 크기로 사용할 수 있습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7nrfm/we_could_really_use_qwen38_in_27b_35b_122b_and/",
-    "image": null,
-    "date": "2026-07-27T02:34:43.000Z",
     "likes": 0,
     "comments": 0
   }
