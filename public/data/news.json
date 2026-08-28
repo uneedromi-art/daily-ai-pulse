@@ -1,5 +1,118 @@
 [
   {
+    "id": "https://www.cio.com/article/4215095/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ea%b0%80-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4%eb%a5%bc-%ec%82%ac%eb%a0%a4%eb%8a%94-%ec%9d%b4%ec%9c%a0%ec%b9%a9-%eb%8b%a4%ec%9d%8c%ec%9d%80-ai.html",
+    "platform": "CIO",
+    "title": "엔비디아가 허깅페이스를 사려는 이유…칩 다음은 AI 유통 ‘길목’ 장악",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "엔비디아가 허깅페이스를 사려는 이유…칩 다음은 AI 유통 ‘길목’ 장악",
+    "summary_ko": "엔비디아가 AI 플랫폼 기업 허깅페이스(Hugging Face)를 약 129억 달러(약 17조 7,800억 원)에 인수하는 방안을 추진 중인 것으로 알려졌다. 거래가 성사되면 엔비디아는 반도체 중심 사업을 넘어 기업이 AI 모델을 활용하고 배포하는 플랫폼 영역까지 영향력을 확대하게 된다. 미국 IT 전문 매체 디인포메이션(The Information)은 26일 복수의 소식통을 인용해 이 같은 내용을 보도했다. 다만 양사는 이번 거래를 공식적으로 확인하지 않았다.",
+    "url": "https://www.cio.com/article/4215095/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ea%b0%80-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4%eb%a5%bc-%ec%82%ac%eb%a0%a4%eb%8a%94-%ec%9d%b4%ec%9c%a0%ec%b9%a9-%eb%8b%a4%ec%9d%8c%ec%9d%80-ai.html",
+    "image": null,
+    "date": "2026-08-28T01:33:17.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+    "platform": "Google",
+    "title": "Planetary prediction engine: Automating global models via Earth AI",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Earth AI",
+    "summary_ko": "행성 예측 엔진: Earth AI를 통해 글로벌 모델 자동화",
+    "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+    "image": null,
+    "date": "2026-08-27T17:37:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4214606/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%aa%87-%ea%b0%9c%eb%b3%b4%eb%8b%a4-%ec%96%bc%eb%a7%88%ec%9d%98-%ea%b0%80%ec%b9%98-%eb%83%88%eb%82%98%ed%95%9c%ea%b5%ad-%ea%b8%88.html",
+    "platform": "CIO",
+    "title": "“에이전트 몇 개보다 얼마의 가치 냈나”…한국 금융권, AI 성과 측정 과도기 진입",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“에이전트 몇 개보다 얼마의 가치 냈나”…한국 금융권, AI 성과 측정 과도기 진입",
+    "summary_ko": "노경훈 AWS코리아 금융산업·공공부문 리더는 27일 AWS 파이낸셜 서비스 포럼을 기념한 기자간담회에서 최근 금융 업계에서 나타나는 변화를 공유했다. 노 리더는 올해 들어 금융사들이 AI를 실제 업무에 적용하는 단계로 빠르게 이동하면서, 기술 도입 자체보다 운영과 관리, 실질적인 성과에 대한 고민이 커지고 있다고 설명했다. 이번 행사에 참여한 최기영 앤트로픽코리아 대표도 비슷한 맥락에서 국내 금융권의 핵심 변화로 AI가 개념검증(Po C)을 넘어 실제 업무 환경으로 이동하고 있다는 점을 꼽았다.",
+    "url": "https://www.cio.com/article/4214606/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%aa%87-%ea%b0%9c%eb%b3%b4%eb%8b%a4-%ec%96%bc%eb%a7%88%ec%9d%98-%ea%b0%80%ec%b9%98-%eb%83%88%eb%82%98%ed%95%9c%ea%b5%ad-%ea%b8%88.html",
+    "image": null,
+    "date": "2026-08-27T07:04:56.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4214553/cvss-%ec%a0%90%ec%88%98%eb%a1%a0-%eb%b6%80%ec%a1%b1ai-%ec%8b%9c%eb%8c%80-%eb%b3%b4%ec%95%88%ec%9d%80-%ec%9d%b8%ed%84%b0%eb%84%b7-%eb%85%b8%ec%b6%9c-%ec%9e%90%ec%82%b0%eb%b6%80.html",
+    "platform": "CIO",
+    "title": "“CVSS 점수론 부족”…AI 시대 보안은 ‘인터넷 노출 자산’부터 살펴봐야",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“CVSS 점수론 부족”…AI 시대 보안은 ‘인터넷 노출 자산’부터 살펴봐야",
+    "summary_ko": "시스코의 위협 인텔리전스 조직인 시스코 탈로스(Cisco Talos)에 따르면 중국어권 사이버 범죄 조직이 AI 기반 도구를 활용해 인터넷에 노출된 윈도우와 리눅스 웹 서버를 침해하고 있는 것으로 나타났다. 탈로스는 이러한 활동이 공격자의 공격 방식이 점차 자동화되고 있음을 보여준다고 분석했다. 탈로스는 이 조직을 ‘UAT-10147‘로 추적하고 있으며, 침해 과정에서 AI가 생성한 운영 가이드가 실제로 사용된 정황을 확인했다고 밝혔다.",
+    "url": "https://www.cio.com/article/4214553/cvss-%ec%a0%90%ec%88%98%eb%a1%a0-%eb%b6%80%ec%a1%b1ai-%ec%8b%9c%eb%8c%80-%eb%b3%b4%ec%95%88%ec%9d%80-%ec%9d%b8%ed%84%b0%eb%84%b7-%eb%85%b8%ec%b6%9c-%ec%9e%90%ec%82%b0%eb%b6%80.html",
+    "image": null,
+    "date": "2026-08-27T01:58:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4214509/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ea%b3%bc-%ec%86%90%ec%9e%a1%ea%b3%a0-%ed%81%b4%eb%a1%9c%eb%93%9c%ed%8f%ac%ec%8a%a4-%ec%b6%9c%ec%8b%9c.html",
+    "platform": "CIO",
+    "title": "세일즈포스, 앤트로픽과 손잡고 ‘클로드포스’ 출시…클로드에서 CRM 직접 활용",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "세일즈포스, 앤트로픽과 손잡고 ‘클로드포스’ 출시…클로드에서 CRM 직접 활용",
+    "summary_ko": "세일즈포스와 앤트로픽은 전략적 파트너십을 확대하고 새로운 서비스인 ‘클로드포스(Claudeforce)’를 선보였다고 발표했다. 이를 통해 양사 고객은 클로드(Claude)에서 세일즈포스의 데이터, 워크플로우, 비즈니스 로직, 액션, 거버넌스를 활용할 수 있게 된다. 세일즈포스 애플리케이션 및 마케팅 부문 사장 패트릭 스톡스(Patrick Stokes)는 27일 CIO.",
+    "url": "https://www.cio.com/article/4214509/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ea%b3%bc-%ec%86%90%ec%9e%a1%ea%b3%a0-%ed%81%b4%eb%a1%9c%eb%93%9c%ed%8f%ac%ec%8a%a4-%ec%b6%9c%ec%8b%9c.html",
+    "image": null,
+    "date": "2026-08-27T01:19:28.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4214477/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-9%ec%b4%88-%eb%a7%8c%ec%97%90-db%eb%a5%bc-%eb%82%a0%eb%a0%b8%eb%8b%a4cio-%ed%86%b5%ec%a0%9c%ea%b6%8c%ec%9d%84-%eb%90%98%ec%b0%be%ec%9d%84.html",
+    "platform": "CIO",
+    "title": "AI 에이전트가 9초 만에 DB를 날렸다…CIO, 통제권을 되찾을 수 있을까",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 에이전트가 9초 만에 DB를 날렸다…CIO, 통제권을 되찾을 수 있을까",
+    "summary_ko": "AI 에이전트가 운영 데이터베이스를 삭제하는 데 걸린 시간은 단 9초였다. 미국 렌터카 운영 관리 소프트웨어 스타트업 포켓OS(Pocket OS)에서 벌어진 일이다. 지난 4월 포켓OS가 사용하던 클로드 오퍼스 4. 6 기반 커서(Cursor) 코딩 에이전트는 인증 정보 불일치 오류를 해결하기 위해 API 토큰을 활성화했다. 그러나 이 토큰은 문제를 해결하는 대신 운영 데이터베이스까지 삭제했다. 포켓OS 설립자 제르 크레인(Jer Crane)은 이 사실을 전혀 알지 못했고, 이후 X를 통해 “그 사실을 알았다면 해당 토큰을 절대 저장하지 않았을 것”이라고 밝혔다.",
+    "url": "https://www.cio.com/article/4214477/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-9%ec%b4%88-%eb%a7%8c%ec%97%90-db%eb%a5%bc-%eb%82%a0%eb%a0%b8%eb%8b%a4cio-%ed%86%b5%ec%a0%9c%ea%b6%8c%ec%9d%84-%eb%90%98%ec%b0%be%ec%9d%84.html",
+    "image": null,
+    "date": "2026-08-27T01:01:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4214475/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ec%84%b1%ed%8c%a8%eb%8a%94-%eb%b3%80%ed%99%94-%ea%b4%80%eb%a6%ac%ec%9e%a5%ec%95%a0-%ed%8b%b0%ec%bc%93-%ec%b5%9c%eb%8c%80-70-%ea%b0%90.html",
     "platform": "CIO",
     "title": "오픈텍스트 “AI 성패는 변화 관리”…장애 티켓 최대 70% 감소 사례 공개",
@@ -2949,152 +3062,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1v9mq82/google_deepmind_dismantles_nobelwinning_alphafold/",
     "image": null,
     "date": "2026-07-29T05:24:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1v9h6y9/nvidia_is_expected_to_raise_geforce_rtx_gpu/",
-    "platform": "Reddit",
-    "title": "Nvidia is expected to raise GeForce RTX GPU prices again by up to 30%",
-    "author": {
-      "name": "/u/ab2377",
-      "handle": "/u//u/ab2377",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Nvidia is expected to raise GeForce RTX GPU prices again by up to 30%",
-    "summary_ko": "Nvidia는 GeForce RTX GPU 가격을 최대 30%까지 다시 인상할 것으로 예상됩니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v9h6y9/nvidia_is_expected_to_raise_geforce_rtx_gpu/",
-    "image": "https://external-preview.redd.it/OHnm0D5XAWPA4pBJD9Xwjm7m-Odp3cdhWx_AJgD35nY.jpeg?width=640&crop=smart&auto=webp&s=28d512a1a331e8317c77b2e82af1335791d19362",
-    "date": "2026-07-29T01:05:03.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1v8wt2e/gpt5_the_world_best_model_just_1_year_ago_is/",
-    "platform": "Reddit",
-    "title": "GPT-5, the world best model just 1 year ago, is today inferior to Qwen3.6 27B and most today’s low-tier models",
-    "author": {
-      "name": "/u/zoratosthenes",
-      "handle": "/u//u/zoratosthenes",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GPT-5, the world best model just 1 year ago, is today inferior to Qwen3.6 27B and most today’s low-tier models",
-    "summary_ko": "불과 1년 전만 해도 세계 최고 모델이었던 GPT-5는 오늘날 Qwen3.6 27B와 오늘날 대부분의 하위 모델보다 열등합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1v8wt2e/gpt5_the_world_best_model_just_1_year_ago_is/",
-    "image": "https://preview.redd.it/qtjsnxm6qyfh1.jpeg?width=640&crop=smart&auto=webp&s=6568a44635ff7151f6f998ac546e7f115be65b60",
-    "date": "2026-07-28T12:17:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4202112/ai-%eb%aa%a8%eb%8d%b8-%eb%84%98%ec%96%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b2%bd%ec%9f%81%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a1%9c-4-0%ec%9c%bc%eb%a1%9c-%ea%b8%b0%ec%88%a0-%ec%a3%bc.html",
-    "platform": "CIO",
-    "title": "AI 모델 넘어 AI 인프라 경쟁…오케스트로, ‘4.0’으로 기술 주권 승부수",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 모델 넘어 AI 인프라 경쟁…오케스트로, ‘4.0’으로 기술 주권 승부수",
-    "summary_ko": "김민준 오케스트로 이사회 의장은 AI 경쟁 구도를 AI 모델, AI 반도체, AI 인프라 소프트웨어의 세 축으로 재정의했다. 그는 “AI 모델과 반도체가 AI의 두뇌와 엔진이라면 AI 인프라 소프트웨어는 이를 연결해 실제 산업에서 움직이게 하는 운영체제”라며 “세 축이 함께 발전해야 AI 산업이 비로소 완성된다”고 말했다.",
-    "url": "https://www.cio.com/article/4202112/ai-%eb%aa%a8%eb%8d%b8-%eb%84%98%ec%96%b4-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b2%bd%ec%9f%81%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a1%9c-4-0%ec%9c%bc%eb%a1%9c-%ea%b8%b0%ec%88%a0-%ec%a3%bc.html",
-    "image": null,
-    "date": "2026-07-28T07:43:06.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4202110/%ec%b9%b4%ec%b9%b4%ec%98%a4-%ec%98%a8%eb%94%94%eb%b0%94%ec%9d%b4%ec%8a%a4-ai-%ea%b2%a8%eb%83%a5%ed%95%9c-%ec%b9%b4%eb%82%98%eb%82%98-2-%ea%b2%bd%eb%9f%89-%ec%96%b8%ec%96%b4%eb%aa%a8%eb%8d%b8-4.html",
-    "platform": "CIO",
-    "title": "카카오, 온디바이스 AI 겨냥한 ‘카나나-2’ 경량 언어모델 4종 오픈소스 공개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "카카오, 온디바이스 AI 겨냥한 ‘카나나-2’ 경량 언어모델 4종 오픈소스 공개",
-    "summary_ko": "카카오는 28일 허깅페이스에 스마트폰 등과 같은 디바이스에서 구동할 수 있는 경량 언어모델(SLM) 4종을 오픈소스로 공개했다고 밝혔다. 카나나-2 경량 언어모델 시리즈로, ▲Kanana-2-1. 3B-base ▲Kanana-2-1. 3B-instruct ▲Kanana-2-3B-base ▲Kanana-2-3B-instruct다. 이번에 공개된 모델은 ‘카나나 인 카카오톡’, ‘카카오톡 대화요약 및 통화요약’, ‘AI 국민비서’ 등 카카오의 다양한 AI 서비스에 활용되고 있는 경량 언어모델을 기반으로 한다.",
-    "url": "https://www.cio.com/article/4202110/%ec%b9%b4%ec%b9%b4%ec%98%a4-%ec%98%a8%eb%94%94%eb%b0%94%ec%9d%b4%ec%8a%a4-ai-%ea%b2%a8%eb%83%a5%ed%95%9c-%ec%b9%b4%eb%82%98%eb%82%98-2-%ea%b2%bd%eb%9f%89-%ec%96%b8%ec%96%b4%eb%aa%a8%eb%8d%b8-4.html",
-    "image": null,
-    "date": "2026-07-28T07:16:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1v8lj7w/someone_made_a_nms_style_exploration_game_in_a/",
-    "platform": "Reddit",
-    "title": "Someone made a NMS style exploration game in a day with Opus 5",
-    "author": {
-      "name": "/u/LightVelox",
-      "handle": "/u//u/LightVelox",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Someone made a NMS style exploration game in a day with Opus 5",
-    "summary_ko": "누군가 Opus 5로 하루 만에 NMS 스타일 탐험 게임을 만들었습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1v8lj7w/someone_made_a_nms_style_exploration_game_in_a/",
-    "image": "https://external-preview.redd.it/cnVmZjhxejB3dmZoMUzQrm-Mx3YPjdd0LsOsUnQZgTDvh4wGhSXEZRqp3b1B.png?width=640&crop=smart&auto=webp&s=9d0def1cddc196ede8f1e39536e302df32cda615",
-    "date": "2026-07-28T02:46:12.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4201881/%ec%b9%bc%eb%9f%bc-ai%eb%8a%94-%eb%a7%88%eb%9d%bc%ed%86%a4-%eb%b9%84%ec%9a%a9-%ec%a0%88%ea%b0%90%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ed%86%a0%ed%81%b0%ea%b3%bc-c.html",
-    "platform": "CIO",
-    "title": "칼럼 | AI는 마라톤…비용 절감보다 중요한 것은 토큰과 C레벨 의지",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | AI는 마라톤…비용 절감보다 중요한 것은 토큰과 C레벨 의지",
-    "summary_ko": "30년 넘게 엔터프라이즈 기술 분야에서 일하며 AI가 연구실의 실험 기술에서 오늘날 기업 이사회의 핵심 의제로 자리 잡는 과정을 지켜봤다. 하지만 지난 몇 년간 고객과 함께 AI를 구축하며 얻은 경험은 무엇보다도 냉정한 현실을 깨닫게 했다. 초기의 과도한 기대는 사라졌고, 이제 CIO에게는 AI를 통해 실질적인 기업 가치를 창출해야 하는 과제가 주어졌다. 구글, 오픈AI, 앤트로픽의 기술을 현장에 적용하며 얻은 경험을 바탕으로, 기술 종류와 관계없이 모든 리더가 전략 수립의 기준으로 삼아야 할 핵심 교훈을 소개한다.",
-    "url": "https://www.cio.com/article/4201881/%ec%b9%bc%eb%9f%bc-ai%eb%8a%94-%eb%a7%88%eb%9d%bc%ed%86%a4-%eb%b9%84%ec%9a%a9-%ec%a0%88%ea%b0%90%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ed%86%a0%ed%81%b0%ea%b3%bc-c.html",
-    "image": null,
-    "date": "2026-07-28T00:59:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4201852/y2k%ec%b2%98%eb%9f%bc-%ed%91%9c%ec%8b%9c%ed%95%b4%eb%91%90%eb%9d%bc-dns-%eb%b3%b4%ec%95%88%ed%82%a4-%ea%b5%90%ec%b2%b4-%ec%95%9e%eb%91%90%ea%b3%a0-%ea%b8%b0%ec%97%85-%ec%88%a8%ec%9d%80-%ec%9d%98.html",
-    "platform": "CIO",
-    "title": "“Y2K처럼 표시해두라”…DNS 보안키 교체 앞두고 기업 숨은 의존성 ‘줄장애’ 경보",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“Y2K처럼 표시해두라”…DNS 보안키 교체 앞두고 기업 숨은 의존성 ‘줄장애’ 경보",
-    "summary_ko": "시스템 장애를 정확히 예측하는 일은 쉽지 않다. 하지만 CIO라면 2026년 10월 11일부터 2027년 1월 11일까지를 달력에 표시해 둘 필요가 있다. 이 기간 동안 원인을 파악하기 어려운 광범위한 시스템 장애가 발생할 가능성이 있기 때문이다. 그 배경에는 2026년 10월 11일 시행되는 DNSSEC(Domain Name System Security Extensions) 업데이트가 있다. 이 업데이트는 2027년 1월 11일 완전히 적용되는데, 겉보기에는 서로 무관해 보이는 다양한 시스템 장애를 연쇄적으로 일으킬 가능성이 있다는 분석이다.",
-    "url": "https://www.cio.com/article/4201852/y2k%ec%b2%98%eb%9f%bc-%ed%91%9c%ec%8b%9c%ed%95%b4%eb%91%90%eb%9d%bc-dns-%eb%b3%b4%ec%95%88%ed%82%a4-%ea%b5%90%ec%b2%b4-%ec%95%9e%eb%91%90%ea%b3%a0-%ea%b8%b0%ec%97%85-%ec%88%a8%ec%9d%80-%ec%9d%98.html",
-    "image": null,
-    "date": "2026-07-28T00:56:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4201836/mcp-%ec%84%b8%ec%85%98-%ea%b8%b0%eb%b0%98-%ea%b5%ac%ec%a1%b0-%eb%b2%84%eb%a6%b0%eb%8b%a4ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
-    "platform": "CIO",
-    "title": "MCP, 세션 기반 구조 버린다…AI 애플리케이션 클라우드 배포 쉬워져",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "MCP, 세션 기반 구조 버린다…AI 애플리케이션 클라우드 배포 쉬워져",
-    "summary_ko": "AI 모델을 외부 도구와 기업 데이터에 연결하는 표준으로 부상하고 있는 MCP(Model Context Protocol)이 출범 이후 최대 규모의 아키텍처 개편을 추진한다. 7월 28일 공개될 예정인 최신 릴리스 후보(RC)는 프로토콜 수준의 세션(session)을 제거하고 상태 비저장(stateless) 아키텍처를 도입한다. 업계에서는 기업들이 AI 파일럿 프로젝트를 실제 운영 환경으로 확대하는 과정에서 MCP를 기존 클라우드 인프라에 더욱 쉽게 배포하고 확장할 수 있도록 하기 위한 변화라고 평가했다.",
-    "url": "https://www.cio.com/article/4201836/mcp-%ec%84%b8%ec%85%98-%ea%b8%b0%eb%b0%98-%ea%b5%ac%ec%a1%b0-%eb%b2%84%eb%a6%b0%eb%8b%a4ai-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
-    "image": null,
-    "date": "2026-07-28T00:54:00.000Z",
     "likes": 0,
     "comments": 0
   }
