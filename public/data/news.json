@@ -1,5 +1,43 @@
 [
   {
+    "id": "https://www.cio.com/article/4215287/%ec%a1%b0%ec%a7%81-%ea%b0%9c%ed%8e%b8%eb%a7%8c%ec%9c%bc%eb%a1%9c%eb%8a%94-%ec%95%88-%eb%90%9c%eb%8b%a4ai-%ec%8b%9c%eb%8c%80-cio%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%b3%80%ed%99%94-%ea%b4%80.html",
+    "platform": "CIO",
+    "title": "조직 개편만으로는 안 된다…AI 시대 CIO를 위한 변화 관리 5계명",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "조직 개편만으로는 안 된다…AI 시대 CIO를 위한 변화 관리 5계명",
+    "summary_ko": "모한 산카라라만(Mohan Sankararaman) 미국 지역은행 퍼스트 호라이즌(First Horizon) 수석부사장 겸 CIO는 몇 년에 한 번 대규모 기술 혁신 프로젝트를 추진해 조직 전체를 한 번에 바꾸는 기존의 기술 중심 혁신 방식을 ‘함정’이라고 표현한다. 그는 은행이 리스크를 관리하듯 디지털 전환도 단계적으로 추진하고, 필요하면 언제든 방향을 조정할 수 있는 방식으로 접근하는 데 집중하고 있다. AI 시대를 맞아 변화 관리 방식을 다시 고민해야 하는 것은 모든 CIO가 안고 있는 공통 과제다.",
+    "url": "https://www.cio.com/article/4215287/%ec%a1%b0%ec%a7%81-%ea%b0%9c%ed%8e%b8%eb%a7%8c%ec%9c%bc%eb%a1%9c%eb%8a%94-%ec%95%88-%eb%90%9c%eb%8b%a4ai-%ec%8b%9c%eb%8c%80-cio%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%b3%80%ed%99%94-%ea%b4%80.html",
+    "image": null,
+    "date": "2026-08-28T10:08:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4215282/ai%ea%b0%80-%ec%82%ac%eb%9e%8c%ec%9d%84-%eb%8c%80%ec%b2%b4%ed%95%9c%eb%8b%a4%eb%8d%98-%eb%a9%94%ed%83%80%ec%84%b1%ea%b3%bc%eb%b3%b4%eb%8b%a4-%ec%9e%a5%ec%95%a0%eb%a7%8c-%eb%8a%98%ec%97%88.html",
+    "platform": "CIO",
+    "title": "‘AI가 사람을 대체한다’던 메타…성과보다 장애만 늘었다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "‘AI가 사람을 대체한다’던 메타…성과보다 장애만 늘었다",
+    "summary_ko": "올해 초 업계에서 가장 적극적으로 AI 도입을 추진해 온 기업 가운데 하나인 메타는 일부 조직 인원의 최대 60%를 감축하고 이를 AI로 대체하는 방안을 추진했다. 이는 메타를 ‘AI 네이티브(AI Native)’ 기업으로 전환하기 위한 ‘프로젝트 OT(Organization Transformation)’의 핵심 계획이었다. 그러나 26일 공개된 로이터의 보도에 따르면 내부 데이터에서 기대한 성과가 나타나지 않자 메타는 시행 직전에 계획을 철회했다.",
+    "url": "https://www.cio.com/article/4215282/ai%ea%b0%80-%ec%82%ac%eb%9e%8c%ec%9d%84-%eb%8c%80%ec%b2%b4%ed%95%9c%eb%8b%a4%eb%8d%98-%eb%a9%94%ed%83%80%ec%84%b1%ea%b3%bc%eb%b3%b4%eb%8b%a4-%ec%9e%a5%ec%95%a0%eb%a7%8c-%eb%8a%98%ec%97%88.html",
+    "image": null,
+    "date": "2026-08-28T10:00:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4215095/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ea%b0%80-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4%eb%a5%bc-%ec%82%ac%eb%a0%a4%eb%8a%94-%ec%9d%b4%ec%9c%a0%ec%b9%a9-%eb%8b%a4%ec%9d%8c%ec%9d%80-ai.html",
     "platform": "CIO",
     "title": "엔비디아가 허깅페이스를 사려는 이유…칩 다음은 AI 유통 ‘길목’ 장악",
@@ -2878,190 +2916,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapsbz/think_of_the_children_another_excuse_for_them_to/",
     "image": "https://preview.redd.it/94ht2tw9gcgh1.png?width=640&crop=smart&auto=webp&s=c84ea95eee62a4fe08337895b2504b2cede1d851",
     "date": "2026-07-30T10:28:13.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4202756/%ec%b9%bc%eb%9f%bc-ai%eb%8a%94-%ed%81%b4%ec%88%98%eb%a1%9d-%ec%a2%8b%ec%9d%84%ea%b9%8c%ea%b8%b0%ec%97%85%ec%9d%b4-slm%ec%9c%bc%eb%a1%9c-%eb%88%88%ec%9d%84-%eb%8f%8c%eb%a6%ac%eb%8a%94.html",
-    "platform": "CIO",
-    "title": "칼럼 | AI는 클수록 좋을까…기업이 SLM으로 눈을 돌리는 이유",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | AI는 클수록 좋을까…기업이 SLM으로 눈을 돌리는 이유",
-    "summary_ko": "AI 기술이 빠르게 확산되면서 AI에 대한 신뢰 문제가 점점 더 중요한 과제로 떠오르고 있다. 대규모 언어모델(Large language models, LLM)은 여전히 환각 현상과 부정확한 출력이라는 고질적인 문제를 해결하지 못하고 있다. LLM은 주어진 맥락만으로 정답을 확신할 수 없거나 아예 알 수 없는 상황에서도 답을 생성하도록 학습된 확률 기반 시스템이다. 사람은 특히 금전적 손실이나 평판에 영향을 미칠 수 있는 상황에서는 “모르겠다”고 인정하는 경우가 많다. 반면 LLM은 어떤 상황에서도 확신에 찬 답변을 내놓도록 설계되어 있다.",
-    "url": "https://www.cio.com/article/4202756/%ec%b9%bc%eb%9f%bc-ai%eb%8a%94-%ed%81%b4%ec%88%98%eb%a1%9d-%ec%a2%8b%ec%9d%84%ea%b9%8c%ea%b8%b0%ec%97%85%ec%9d%b4-slm%ec%9c%bc%eb%a1%9c-%eb%88%88%ec%9d%84-%eb%8f%8c%eb%a6%ac%eb%8a%94.html",
-    "image": null,
-    "date": "2026-07-30T01:02:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4202745/%ed%98%81%ec%8b%a0%ec%9d%b4%eb%83%90-%ec%95%88%ec%a0%95%ec%9d%b4%eb%83%90cio%ea%b0%80-%ed%8b%80%eb%a6%ac%eb%a9%b4-%ec%95%88-%eb%90%98%eb%8a%94-6%ea%b0%80%ec%a7%80-%ec%a0%84%eb%9e%b5.html",
-    "platform": "CIO",
-    "title": "“혁신이냐 안정이냐”…CIO가 틀리면 안 되는 6가지 전략적 선택",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“혁신이냐 안정이냐”…CIO가 틀리면 안 되는 6가지 전략적 선택",
-    "summary_ko": "모든 경영진이 그렇겠지만, CIO도 어려운 선택을 내려야 한다. 회의 관리 플랫폼 업체 CTI 미팅 테크놀로지(CTI Meeting Technology)의 CIO 브라이언 프루(Brian Fruh)는 경력 전반에 걸쳐 수많은 선택의 기로에 섰다. 혁신에 과감히 투자할 것인지, 안정적인 운영 환경을 우선할 것인지, 업무에서 속도를 중시할 것인지 보안을 우선할 것인지, 그리고 디지털 전환, 현대화, 비용 최적화에 각각 얼마나 투자해야 하는지 등을 끊임없이 고민해야 했다.",
-    "url": "https://www.cio.com/article/4202745/%ed%98%81%ec%8b%a0%ec%9d%b4%eb%83%90-%ec%95%88%ec%a0%95%ec%9d%b4%eb%83%90cio%ea%b0%80-%ed%8b%80%eb%a6%ac%eb%a9%b4-%ec%95%88-%eb%90%98%eb%8a%94-6%ea%b0%80%ec%a7%80-%ec%a0%84%eb%9e%b5.html",
-    "image": null,
-    "date": "2026-07-30T00:59:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4202740/saas-%ec%a2%85%eb%a7%90%ec%9d%80-%ec%95%84%ec%a7%81-%ec%97%86%ec%97%88%eb%8b%a4sap%c2%b7%ec%84%9c%eb%b9%84%ec%8a%a4%eb%82%98%ec%9a%b0%c2%b7ibm-%ea%b2%ac%ec%a1%b0%ed%95%9c-%ec%84%b1.html",
-    "platform": "CIO",
-    "title": "‘SaaS 종말’은 아직 없었다…SAP·서비스나우·IBM, 견조한 성장세 유지",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "‘SaaS 종말’은 아직 없었다…SAP·서비스나우·IBM, 견조한 성장세 유지",
-    "summary_ko": "주요 엔터프라이즈 소프트웨어 기업들이 발표한 올해 2분기 실적은 AI가 기업 IT 지출 구조를 바꾸기 시작했지만, 일부 업계에서 제기하는 이른바 ‘Saa S 종말론(Saa Spocalypse)’이 현실화될 정도의 급격한 소프트웨어 수요 감소는 아직 나타나지 않았음을 보여준다. 서비스나우(Service Now), SAP, IBM의 올해 2분기 실적을 최근 여러 분기 흐름과 함께 살펴보면 클라우드와 소프트웨어 사업은 전반적으로 성장세를 이어갔다. 다만 IBM은 고객들이 AI 인프라 투자에 예산을 우선 배정하면서 일부 소프트웨어 계약이 지연됐다고 밝혔다.",
-    "url": "https://www.cio.com/article/4202740/saas-%ec%a2%85%eb%a7%90%ec%9d%80-%ec%95%84%ec%a7%81-%ec%97%86%ec%97%88%eb%8b%a4sap%c2%b7%ec%84%9c%eb%b9%84%ec%8a%a4%eb%82%98%ec%9a%b0%c2%b7ibm-%ea%b2%ac%ec%a1%b0%ed%95%9c-%ec%84%b1.html",
-    "image": null,
-    "date": "2026-07-30T00:58:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4202732/ai-%ed%99%9c%ec%9a%a9-%eb%8a%a5%eb%a0%a5%ec%9d%b4-%ed%95%84%ec%88%98%eb%af%b8%ea%b5%ad-it-%ec%b1%84%ec%9a%a9%ea%b3%b5%ea%b3%a0-75%ec%84%9c-%ec%9a%94%ea%b5%ac.html",
-    "platform": "CIO",
-    "title": "‘AI 활용 능력’이 필수…미국 IT 채용공고 75%서 요구",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "‘AI 활용 능력’이 필수…미국 IT 채용공고 75%서 요구",
-    "summary_ko": "미국 기술 인력 채용 플랫폼 다이스(Dice)의 ‘2026년 7월 일자리 보고서(July 2026 Jobs Report)’에 따르면, AI 역량은 계속해서 IT 채용 시장의 핵심 요소로 자리 잡고 있다. 올해 6월 미국 기술 분야 채용 공고의 75%가 AI 활용 역량(AI fluency)을 요구했으며, 이는 전년 동기 대비 178% 증가한 수치다. 업종별로는 컨설팅 업계가 가장 많은 IT 인력을 채용하고 있으며, 소프트웨어 업계가 그 뒤를 이었다. 이어 항공우주·방위산업, 금융·은행, 제조업이 상위 5개 업종에 포함됐다.",
-    "url": "https://www.cio.com/article/4202732/ai-%ed%99%9c%ec%9a%a9-%eb%8a%a5%eb%a0%a5%ec%9d%b4-%ed%95%84%ec%88%98%eb%af%b8%ea%b5%ad-it-%ec%b1%84%ec%9a%a9%ea%b3%b5%ea%b3%a0-75%ec%84%9c-%ec%9a%94%ea%b5%ac.html",
-    "image": null,
-    "date": "2026-07-30T00:47:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1va0rce/first_kimi_k3_results_on_home_lab_4ts/",
-    "platform": "Reddit",
-    "title": "First Kimi K3 results on home lab ~ 4t/s",
-    "author": {
-      "name": "/u/iVoider",
-      "handle": "/u//u/iVoider",
-      "avatar_color": "#ff4500"
-    },
-    "content": "First Kimi K3 results on home lab ~ 4t/s",
-    "summary_ko": "홈 랩의 첫 번째 Kimi K3 결과 ~ 4t/s",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1va0rce/first_kimi_k3_results_on_home_lab_4ts/",
-    "image": "https://preview.redd.it/o65n2kt017gh1.png?width=640&crop=smart&auto=webp&s=376efed1a7d1bb98107ccbbbebff24518929b7cb",
-    "date": "2026-07-29T16:13:30.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1v9v4of/claude_opus_5_is_insane/",
-    "platform": "Reddit",
-    "title": "Claude Opus 5 is Insane",
-    "author": {
-      "name": "/u/Rare_Bunch4348",
-      "handle": "/u//u/Rare_Bunch4348",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Claude Opus 5 is Insane",
-    "summary_ko": "클로드 오푸스 5는 미쳤다",
-    "url": "https://www.reddit.com/r/singularity/comments/1v9v4of/claude_opus_5_is_insane/",
-    "image": "https://external-preview.redd.it/aWowbmRzNXR6NWdoMbW3SwN7yEmeurH7D4tTRoVR-9rPz8rhfYzwsabc7VXQ.png?width=640&crop=smart&auto=webp&s=c4040474caa769a0bc6249a0fbb60cea409fc4d4",
-    "date": "2026-07-29T12:43:54.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4202694/ai-%ec%8b%9c%eb%8c%80-%ec%82%ac%ea%b3%a0%eb%8a%94-%ed%94%bc%ed%95%a0-%ec%88%98-%ec%97%86%eb%8b%a4ciso-%ec%98%88%eb%b0%a9-%ec%a0%84%eb%ac%b8%ea%b0%80%ec%97%90%ec%84%9c-%eb%b3%b5%ec%9b%90.html",
-    "platform": "CIO",
-    "title": "AI 시대, 사고는 피할 수 없다…CISO, 예방 전문가에서 복원 설계자로 진화",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 시대, 사고는 피할 수 없다…CISO, 예방 전문가에서 복원 설계자로 진화",
-    "summary_ko": "CISO의 역할은 기존의 예방 중심에서 사고 대응과 비즈니스 복원력, 복구를 더욱 중시하는 방향으로 확대되면서, 이제는 사실상 조직의 최고복원력책임자(CRO) 역할까지 맡게 됐다. 컨설팅 기업 온X(On X)와 IT 서비스 제공 업체 CBTS의 자문 CISO인 존 브루게만(John Bruggeman)은 “IT 분야에서 경력을 쌓아온 경험 많은 CISO라면 누구나 서비스 가용성을 최우선으로 생각하는 운영 관점을 갖고 있다”라며 “‘조직의 시스템이 완전히 멈춰 핵심 업무를 수행하지 못하는 상황을 어떻게 막을 것인가’를 항상 고민한다”라고 설명했다.",
-    "url": "https://www.cio.com/article/4202694/ai-%ec%8b%9c%eb%8c%80-%ec%82%ac%ea%b3%a0%eb%8a%94-%ed%94%bc%ed%95%a0-%ec%88%98-%ec%97%86%eb%8b%a4ciso-%ec%98%88%eb%b0%a9-%ec%a0%84%eb%ac%b8%ea%b0%80%ec%97%90%ec%84%9c-%eb%b3%b5%ec%9b%90.html",
-    "image": null,
-    "date": "2026-07-29T08:59:56.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4202668/%ec%b5%9c%ec%8b%a0-ai%eb%b3%b4%eb%8b%a4-%ed%9a%a8%ec%9c%a8%ec%84%b1-%ed%83%9d%ed%95%9c-ms%eb%a9%80%ed%8b%b0%eb%aa%a8%eb%8d%b8-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ed%94%84.html",
-    "platform": "CIO",
-    "title": "최신 AI보다 효율성 택한 MS…멀티모델 보안 플랫폼 ‘프로젝트 퍼셉션’ 공개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "최신 AI보다 효율성 택한 MS…멀티모델 보안 플랫폼 ‘프로젝트 퍼셉션’ 공개",
-    "summary_ko": "MS가 기업 보안팀이 조직의 보안 상태(Security Posture)를 지속적으로 평가하고 개선할 수 있도록 지원하는 새로운 AI 기반 서비스를 공개했다. 이 서비스는 취약점 탐지, 공격 시뮬레이션, 잠재적 위협 탐지 및 분류, 대응 방안 수립 등을 수행하는 일련의 AI 에이전트를 통해 보안 운영을 자동화한다. ‘프로젝트 퍼셉션(Project Perception)’이라는 이름의 이 서비스는 오는 8월 3일 퍼블릭 프리뷰 형태로 제공된다.",
-    "url": "https://www.cio.com/article/4202668/%ec%b5%9c%ec%8b%a0-ai%eb%b3%b4%eb%8b%a4-%ed%9a%a8%ec%9c%a8%ec%84%b1-%ed%83%9d%ed%95%9c-ms%eb%a9%80%ed%8b%b0%eb%aa%a8%eb%8d%b8-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ed%94%84.html",
-    "image": null,
-    "date": "2026-07-29T08:14:25.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4202148/%ed%9a%8c%ec%9d%98%ec%8b%a4-%ea%b8%b0%eb%b0%80%ec%9d%b4-%ec%95%88%ea%b2%bd-%eb%84%88%eb%a8%b8%eb%a1%9c-%ec%83%8c%eb%8b%a4ai-%ec%8a%a4%eb%a7%88%ed%8a%b8-%ec%95%88%ea%b2%bd%e7%99%bc-%eb%8d%b0.html",
-    "platform": "CIO",
-    "title": "회의실 기밀이 안경 너머로 샌다?…AI 스마트 안경發 데이터 유출 위협에 CISO 골머리",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "회의실 기밀이 안경 너머로 샌다?…AI 스마트 안경發 데이터 유출 위협에 CISO 골머리",
-    "summary_ko": "삼성이 애플, 구글, 메타 등과 함께 AI 기반 스마트 안경 시장에 뛰어들면서 기업 최고정보보호책임자(CISO)와 IT 리더들은 다시 한번 이러한 기기에 대한 기업 차원의 사용 제한이 필요한지 검토해야 하는 상황에 놓였다. AI 스마트 안경이 기업 데이터 유출은 물론 개인정보 보호와 규제 준수 측면에서 새로운 위험을 초래할 가능성이 크기 때문이다. 문제는 이러한 정책이 필요하다고 판단하더라도, 사무실 밖까지 일관되게 적용하고 집행하는 것은 현실적으로 거의 불가능하다는 점이다.",
-    "url": "https://www.cio.com/article/4202148/%ed%9a%8c%ec%9d%98%ec%8b%a4-%ea%b8%b0%eb%b0%80%ec%9d%b4-%ec%95%88%ea%b2%bd-%eb%84%88%eb%a8%b8%eb%a1%9c-%ec%83%8c%eb%8b%a4ai-%ec%8a%a4%eb%a7%88%ed%8a%b8-%ec%95%88%ea%b2%bd%e7%99%bc-%eb%8d%b0.html",
-    "image": null,
-    "date": "2026-07-29T07:17:47.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1v9mq82/google_deepmind_dismantles_nobelwinning_alphafold/",
-    "platform": "Reddit",
-    "title": "Google DeepMind dismantles Nobel-winning AlphaFold team, loses top talent in major shift toward Gemini and AI Agents. Will it remain research-first lab?",
-    "author": {
-      "name": "/u/TorturedPoet30",
-      "handle": "/u//u/TorturedPoet30",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Google DeepMind dismantles Nobel-winning AlphaFold team, loses top talent in major shift toward Gemini and AI Agents. Will it remain research-first lab?",
-    "summary_ko": "Google DeepMind는 노벨상을 수상한 AlphaFold 팀을 해체하고 Gemini 및 AI 에이전트로의 주요 전환에서 최고의 인재를 잃습니다. 연구 우선 연구실로 남을 것인가?",
-    "url": "https://www.reddit.com/r/singularity/comments/1v9mq82/google_deepmind_dismantles_nobelwinning_alphafold/",
-    "image": null,
-    "date": "2026-07-29T05:24:41.000Z",
     "likes": 0,
     "comments": 0
   }
