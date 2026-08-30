@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1w2dzv1/true_story/",
+    "platform": "Reddit",
+    "title": "True Story!",
+    "author": {
+      "name": "/u/company_url_finder",
+      "handle": "/u//u/company_url_finder",
+      "avatar_color": "#ff4500"
+    },
+    "content": "True Story!",
+    "summary_ko": "실화!",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1w2dzv1/true_story/",
+    "image": "https://preview.redd.it/af0o3oynohmh1.gif?width=640&crop=smart&s=0413ef1e9dc90b0dd1b8a048f0f193a628fbda02",
+    "date": "2026-08-30T10:29:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1w2dz61/pov_when_you_try_using_a_vibe_coded_website/",
+    "platform": "Reddit",
+    "title": "POV : When you try using a Vibe Coded Website.",
+    "author": {
+      "name": "/u/Pixelied",
+      "handle": "/u//u/Pixelied",
+      "avatar_color": "#ff4500"
+    },
+    "content": "POV : When you try using a Vibe Coded Website.",
+    "summary_ko": "POV : Vibe Coded 웹사이트를 사용해 볼 때.",
+    "url": "https://www.reddit.com/r/singularity/comments/1w2dz61/pov_when_you_try_using_a_vibe_coded_website/",
+    "image": "https://external-preview.redd.it/OXl0aHNpM2xvaG1oMexkOcBAEaoC28ZpCRkGatXh_gWqmU58EvRMDJX9dH3J.jpeg?width=640&crop=smart&auto=webp&s=3ab0ea7cee4b6cc40af06224518ea662863cad88",
+    "date": "2026-08-30T10:28:28.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1w2cxcw/some_people_said_the_minecraft_clone_i_fully/",
+    "platform": "Reddit",
+    "title": "Some people said the Minecraft clone I fully vibecoded with Qwen3.8-27B Q4 is not that impressive because Minecraft is in the training data, so I had the model add 4 things that are probably not.",
+    "author": {
+      "name": "/u/liright",
+      "handle": "/u//u/liright",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Some people said the Minecraft clone I fully vibecoded with Qwen3.8-27B Q4 is not that impressive because Minecraft is in the training data, so I had the model add 4 things that are probably not.",
+    "summary_ko": "어떤 사람들은 제가 Qwen3.8-27B Q4로 완전히 바이브코딩한 Minecraft 클론이 훈련 데이터에 Minecraft가 있기 때문에 그다지 인상적이지 않다고 말했습니다. 그래서 모델에 아마도 그렇지 않은 4가지를 추가하도록 했습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2cxcw/some_people_said_the_minecraft_clone_i_fully/",
+    "image": "https://external-preview.redd.it/Y3BnNG5yZDFlaG1oMag09icp8z9u6IZ8mbvjNrKkW7s47LhMQp1EVwJPEFpR.png?width=640&crop=smart&auto=webp&s=69510af46770ab05d01c67b6d4dea3cb40c0723c",
+    "date": "2026-08-30T09:28:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1w24bsy/happy_skynet_day_aug_29_to_those_who_celebrate/",
+    "platform": "Reddit",
+    "title": "Happy Skynet Day (Aug 29) to those who celebrate",
+    "author": {
+      "name": "/u/Just-Grocery-2229",
+      "handle": "/u//u/Just-Grocery-2229",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Happy Skynet Day (Aug 29) to those who celebrate",
+    "summary_ko": "축하해주신 분들 행복한 스카이넷 데이(8월 29일)를 보내세요",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1w24bsy/happy_skynet_day_aug_29_to_those_who_celebrate/",
+    "image": "https://preview.redd.it/crbbvquc3fmh1.png?width=640&crop=smart&auto=webp&s=48c3b6cc90ae71d54538c7814f1c4b1e0aca2361",
+    "date": "2026-08-30T01:44:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4215287/%ec%a1%b0%ec%a7%81-%ea%b0%9c%ed%8e%b8%eb%a7%8c%ec%9c%bc%eb%a1%9c%eb%8a%94-%ec%95%88-%eb%90%9c%eb%8b%a4ai-%ec%8b%9c%eb%8c%80-cio%eb%a5%bc-%ec%9c%84%ed%95%9c-%eb%b3%80%ed%99%94-%ea%b4%80.html",
     "platform": "CIO",
     "title": "조직 개편만으로는 안 된다…AI 시대 CIO를 위한 변화 관리 5계명",
@@ -2754,82 +2822,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcav6l/me_worn_out_from_all_the_new_model_drops_this/",
     "image": "https://preview.redd.it/4nwbkolzcogh1.gif?width=108&crop=smart&s=f428cf5be74ce7ed4e7053ca812067d09e93a531",
     "date": "2026-08-01T02:29:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4203393/%ea%b8%b0%ec%88%a0-%ec%a0%84%eb%9e%b5%ec%9d%98-%ed%9e%8c%ed%8a%b8%eb%8a%94-sns%ec%97%90%ea%b8%80%eb%a1%9c%eb%b2%8c-it-%eb%a6%ac%eb%8d%94%ea%b0%80-%ed%8c%94%eb%a1%9c%ec%9a%b0%ed%95%98%eb%8a%94.html",
-    "platform": "CIO",
-    "title": "기술 전략의 힌트는 SNS에…글로벌 IT 리더가 팔로우하는 테크 구루 11인",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "기술 전략의 힌트는 SNS에…글로벌 IT 리더가 팔로우하는 테크 구루 11인",
-    "summary_ko": "소셜미디어는 단순히 인맥을 넓히거나 최신 뉴스와 트렌드를 확인하는 공간이 아니다. IT리더에게 링크드인, X, 블루스카이(Bluesky)와 같은 플랫폼은 기술 경영진과 AI 전문가, 경제학자, 비즈니스 리더들의 생각을 직접 접할 수 있는 창구다. 이들은 새로운 아이디어를 공유하고 기존의 통념에 도전하며, 기술 전략 수립에 도움이 되는 다양한 통찰을 제공한다. 다음은 글로벌 IT 리더 11명이 추천한 소셜미디어 팔로우 대상과 그 이유다. 젠슨 황, 엔비디아 설립자 겸 CEO “젠슨 황(X 계정, 링크드인 계정)의 통찰은 언제나 흥미롭고, 배울 점도 많다.",
-    "url": "https://www.cio.com/article/4203393/%ea%b8%b0%ec%88%a0-%ec%a0%84%eb%9e%b5%ec%9d%98-%ed%9e%8c%ed%8a%b8%eb%8a%94-sns%ec%97%90%ea%b8%80%eb%a1%9c%eb%b2%8c-it-%eb%a6%ac%eb%8d%94%ea%b0%80-%ed%8c%94%eb%a1%9c%ec%9a%b0%ed%95%98%eb%8a%94.html",
-    "image": null,
-    "date": "2026-07-31T00:37:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4203437/aim-b2b-%ea%b8%b0%ea%b3%a0-ai%ec%97%90%ea%b2%8c-%ec%9a%b0%eb%a6%ac-%ed%9a%8c%ec%82%ac%eb%a5%bc-%ec%b6%94%ec%b2%9c%ec%8b%9c%ed%82%a4%eb%8a%94-%ea%b2%83%eb%b3%b4%eb%8b%a4-%ec%a4%91.html",
-    "platform": "CIO",
-    "title": "AIM B2B 기고 | AI에게 우리 회사를 ‘추천’시키는 것보다 중요한 것",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AIM B2B 기고 | AI에게 우리 회사를 ‘추천’시키는 것보다 중요한 것",
-    "summary_ko": "하지만 여기서 한 단계 더 근본적인 질문을 던져볼 필요가 있다. AI에게 우리 회사를 언급시키는 것과, AI가 우리 회사를 제대로 설명할 수 있게 만드는 것은 같은 일일까? 반드시 그렇지는 않다. AI가 기업에 대한 답변을 만들어내는 데 활용할 수 있는 정보가 무엇이며, 그 정보가 얼마나 일관되고 구체적으로 축적돼 있는지가 중요하기 때문이다. AI 시대, 마케팅은 정말 달라졌을까 보스턴컨설팅그룹(BCG)의 2026년 글로벌 CMO 조사에 따르면 마케팅 리더의 96%가 AI가 마케팅 기능 전반의 변화를 이끌고 있다고 답했다.",
-    "url": "https://www.cio.com/article/4203437/aim-b2b-%ea%b8%b0%ea%b3%a0-ai%ec%97%90%ea%b2%8c-%ec%9a%b0%eb%a6%ac-%ed%9a%8c%ec%82%ac%eb%a5%bc-%ec%b6%94%ec%b2%9c%ec%8b%9c%ed%82%a4%eb%8a%94-%ea%b2%83%eb%b3%b4%eb%8b%a4-%ec%a4%91.html",
-    "image": null,
-    "date": "2026-07-31T00:35:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4203423/%ec%98%a4%ed%94%88ai-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b8%b0%ea%b3%84-%ec%86%8d%eb%8f%84%eb%a1%9c-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ea%b3%b5%ea%b2%a9%ec%b9%a8.html",
-    "platform": "CIO",
-    "title": "오픈AI AI 에이전트, ‘기계 속도’로 허깅페이스 공격…침해 과정 드러나",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "오픈AI AI 에이전트, ‘기계 속도’로 허깅페이스 공격…침해 과정 드러나",
-    "summary_ko": "오픈AI의 테스트 과정에서 통제를 벗어난 자율형 AI 에이전트는 고객 워크로드, 제3자 클라우드 플랫폼, 허깅페이스의 프로덕션 환경에 걸친 취약점을 연속적으로 악용한 뒤 차단된 것으로 나타났다. 이는 AI가 주도한 침입 사례 가운데 처음으로 공개된 공격 연쇄 중 하나를 가장 구체적으로 보여주는 기술 분석이라고 회사는 설명했다. 허깅페이스가 공개한 기술 타임라인에 따르면 AI 에이전트는 고객이 관리하는 샌드박스에서 실행 중인 취약한 고객 코드를 악용해 제3자 클라우드 플랫폼인 모달(Modal)에 처음 침투했다.",
-    "url": "https://www.cio.com/article/4203423/%ec%98%a4%ed%94%88ai-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b8%b0%ea%b3%84-%ec%86%8d%eb%8f%84%eb%a1%9c-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ea%b3%b5%ea%b2%a9%ec%b9%a8.html",
-    "image": null,
-    "date": "2026-07-31T00:30:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4203383/ai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-%ec%99%9c-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%82%98%ec%a0%95%ec%b1%85%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ec%8b%a4%ed%96%89.html",
-    "platform": "CIO",
-    "title": "AI 거버넌스, 왜 실패하나…정책보다 중요한 것은 ‘실행력’",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 거버넌스, 왜 실패하나…정책보다 중요한 것은 ‘실행력’",
-    "summary_ko": "AI 도입 속도가 AI 거버넌스를 앞지르면서 그 여파가 기업 전반에 현실적인 문제로 나타나고 있다. 클라우드 시큐리티 얼라이언스(Cloud Security Alliance, CSA) 조사에 따르면 지난 1년 동안 AI 에이전트와 관련된 사고를 한 건 이상 경험한 조직은 65%에 달했다. 또한 EY의 ‘테크놀로지 펄스 폴(Technology Pulse Poll)’에서는 확인됐거나 의심되는 데이터 유출 사례의 약 절반이 승인되지 않은 생성형 AI 사용과 관련된 것으로 조사됐다. 문제는 더 이상 정책이 부족한 데 있지 않다.",
-    "url": "https://www.cio.com/article/4203383/ai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-%ec%99%9c-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%82%98%ec%a0%95%ec%b1%85%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ec%8b%a4%ed%96%89.html",
-    "image": null,
-    "date": "2026-07-31T00:24:00.000Z",
     "likes": 0,
     "comments": 0
   }
