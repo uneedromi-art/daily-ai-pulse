@@ -1,5 +1,80 @@
 [
   {
+    "id": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+    "platform": "Google",
+    "title": "Mapping global methane emissions from space with deep learning",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Climate & Sustainability",
+    "summary_ko": "딥 러닝을 통해 우주에서 발생하는 전 세계 메탄 배출량 매핑",
+    "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+    "image": null,
+    "date": "2026-09-01T18:40:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4216854/%ec%98%88%ec%95%bd-%ec%b7%a8%ec%86%8c%eb%b6%80%ed%84%b0-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%b9%a8%ed%95%b4%ea%b9%8c%ec%a7%80ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%9d%bc%ed%83%88%ec%97%90.html",
+    "platform": "CIO",
+    "title": "예약 취소부터 시스템 침해까지…AI 에이전트 ‘일탈’에 기업 책임론 커진다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "예약 취소부터 시스템 침해까지…AI 에이전트 ‘일탈’에 기업 책임론 커진다",
+    "summary_ko": "AI 에이전트는 운영자가 부여한 작업을 완수하기 위해 예상보다 훨씬 적극적으로 행동할 수 있다. 최근 잇따른 사례에서 드러났듯, 그 과정에서 제3자 시스템을 악용하거나 사람을 속이고, 악성 코드를 배포하는 행위까지 시도할 수 있다. 그러나 AI 에이전트는 해고하거나 민·형사상 책임을 물을 수 있는 사람이 아니다. 따라서 AI 에이전트가 초래한 피해의 책임이 이를 개발한 직원에게 있는지, 도입한 기업에 있는지, 통제 책임을 맡은 보안팀과 보안 리더에게 있는지, 아니면 기반 LLM을 제공한 AI 연구소에 있는지는 여전히 명확하지 않다.",
+    "url": "https://www.cio.com/article/4216854/%ec%98%88%ec%95%bd-%ec%b7%a8%ec%86%8c%eb%b6%80%ed%84%b0-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%b9%a8%ed%95%b4%ea%b9%8c%ec%a7%80ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%9d%bc%ed%83%88%ec%97%90.html",
+    "image": null,
+    "date": "2026-09-01T09:18:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4216845/%eb%aa%a8%eb%8d%b8%ec%9d%b4-%ec%82%ac%eb%9d%bc%ec%a7%88-%ec%88%98%eb%8f%84-%ec%9e%88%eb%8b%a4%ec%98%a4%ed%94%88ai%c2%b7%ec%bb%a4%ec%84%9c-%ec%82%ac%ed%83%9c%ea%b0%80-%eb%93%9c%eb%9f%ac.html",
+    "platform": "CIO",
+    "title": "“모델이 사라질 수도 있다”…오픈AI·커서 사태가 드러낸 AI 벤더 의존 리스크",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“모델이 사라질 수도 있다”…오픈AI·커서 사태가 드러낸 AI 벤더 의존 리스크",
+    "summary_ko": "오픈AI가 일론 머스크의 스페이스X가 커서(Cursor)의 모회사 애니스피어(Anysphere)를 인수한 데 따라, 오는 11월 12일부터 AI 코딩 플랫폼 커서의 자사 AI 모델 접근을 차단하기로 했다. 오픈AI는 28일 공식 블로그를 통해 “오늘 스페이스X에 커서에 오픈AI 모델을 제공하는 계약을 단계적으로 종료할 계획임을 통보했으며, 서비스 중단 예정일은 2026년 11월 12일”이라고 밝혔다. 오픈AI는 이번 조치의 배경으로 스페이스X가 자사 기술을 서비스 이용 약관에 따라 사용하지 않을 수 있다는 우려를 들었다.",
+    "url": "https://www.cio.com/article/4216845/%eb%aa%a8%eb%8d%b8%ec%9d%b4-%ec%82%ac%eb%9d%bc%ec%a7%88-%ec%88%98%eb%8f%84-%ec%9e%88%eb%8b%a4%ec%98%a4%ed%94%88ai%c2%b7%ec%bb%a4%ec%84%9c-%ec%82%ac%ed%83%9c%ea%b0%80-%eb%93%9c%eb%9f%ac.html",
+    "image": null,
+    "date": "2026-09-01T09:01:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4216828/%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b0%a9%ec%96%b4-%ea%b0%95%ed%99%94%ed%95%a0-%ec%8b%9c%ea%b0%84-%ec%96%bc%eb%a7%88-%eb%82%a8%ec%a7%80-%ec%95%8a%ec%95%98%eb%8b%a4%ec%98%a4%ed%94%88ai.html",
+    "platform": "CIO",
+    "title": "“사이버 방어 강화할 시간 얼마 남지 않았다”…오픈AI 등 100여 개 기업 공동 경고",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“사이버 방어 강화할 시간 얼마 남지 않았다”…오픈AI 등 100여 개 기업 공동 경고",
+    "summary_ko": "오픈AI가 주도하는 연합이 AI가 사이버 공격의 속도와 규모를 급격히 확대하면서, 기업들이 오랫동안 방치해 온 보안 취약점을 악용당하기 전에 이를 해결할 수 있는 시간이 점점 줄어들고 있다고 경고했다. 오픈AI를 비롯해 마이크로소프트(MS), 구글, 아마존웹서비스(AWS), 앤트로픽 등 100여 개 기술 및 사이버보안 기업은 공동 공개서한을 통해 “앞으로 수개월 안에 전 세계 AI 모델의 성능이 더욱 향상되면서 AI 기반 사이버 공격은 훨씬 더 광범위하고 정교해질 것”이라며 “사이버 방어를 강화할 수 있는 시간이 제한적”이라고 밝혔다.",
+    "url": "https://www.cio.com/article/4216828/%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b0%a9%ec%96%b4-%ea%b0%95%ed%99%94%ed%95%a0-%ec%8b%9c%ea%b0%84-%ec%96%bc%eb%a7%88-%eb%82%a8%ec%a7%80-%ec%95%8a%ec%95%98%eb%8b%a4%ec%98%a4%ed%94%88ai.html",
+    "image": null,
+    "date": "2026-09-01T08:49:14.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1w3r29c/according_to_axios_china_is_linked_to/",
     "platform": "Reddit",
     "title": "According to Axios, China is linked to anti-data-center propaganda in the U.S.",
