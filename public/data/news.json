@@ -1,5 +1,136 @@
 [
   {
+    "id": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+    "platform": "Google",
+    "title": "Transfer learning for genomic prediction in underrepresented populations",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "General Science",
+    "summary_ko": "과소대표된 집단의 게놈 예측을 위한 전이 학습",
+    "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+    "image": null,
+    "date": "2026-09-03T18:20:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+    "platform": "Google",
+    "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "General Science",
+    "summary_ko": "커넥토믹스의 이정표: 완전한 수컷 초파리 뇌 지도 작성",
+    "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+    "image": null,
+    "date": "2026-09-03T16:00:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4218216/%ed%83%80%ec%9d%b4%ec%96%b4-%ec%84%a4%ea%b3%84%eb%b6%80%ed%84%b0-%ec%a1%b0%ec%84%a0%c2%b7%ed%92%8d%eb%a0%a5%ea%b9%8c%ec%a7%80%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%ec%96%b4%ed%85%90.html",
+    "platform": "CIO",
+    "title": "타이어 설계부터 조선·풍력까지…마키나락스 어텐션 2026이 그린 ‘피지컬 AI’ 최전선",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "타이어 설계부터 조선·풍력까지…마키나락스 어텐션 2026이 그린 ‘피지컬 AI’ 최전선",
+    "summary_ko": "이번 행사에서는 벤치마크 점수보다 공장·전장·풍력발전 단지 같은 거친 물리적 환경에서 실질적인 성과를 내는 AI에 초점을 맞췄다. 현장에서 작동하는 AI가 어떻게 구현되고 확산될 수 있는지 다양한 사례를 통해 살펴봤다. 키노트 이후에는 논의의 범위를 더욱 넓혔다. 오후에는 AI OS·산업 AI·국방 AI 등 3개 트랙에서 15개 세션이 진행됐으며, AI 반도체·클라우드·로봇 등을 주제로 한 8개 체험 부스도 함께 운영됐다.",
+    "url": "https://www.cio.com/article/4218216/%ed%83%80%ec%9d%b4%ec%96%b4-%ec%84%a4%ea%b3%84%eb%b6%80%ed%84%b0-%ec%a1%b0%ec%84%a0%c2%b7%ed%92%8d%eb%a0%a5%ea%b9%8c%ec%a7%80%eb%a7%88%ed%82%a4%eb%82%98%eb%9d%bd%ec%8a%a4-%ec%96%b4%ed%85%90.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/09/markina.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "date": "2026-09-03T14:57:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4217906/ai-%ed%9b%88%eb%a0%a8-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%ec%84%a4%ea%b3%84%eb%b2%95-10%ea%b0%80%ec%a7%80%ec%84%b1%ea%b3%bc-%eb%82%b4%eb%8a%94-%ea%b8%b0%ec%97%85%ec%9d%80-%eb%ac%b4%ec%97%87.html",
+    "platform": "CIO",
+    "title": "AI 훈련 프로그램 설계법 10가지…성과 내는 기업은 무엇이 다른가",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 훈련 프로그램 설계법 10가지…성과 내는 기업은 무엇이 다른가",
+    "summary_ko": "AI의 가치를 제대로 실현하려면 무엇보다 직원이 AI 도구를 안전하고 생산적으로 활용할 수 있도록 체계적으로 지원해야 한다. 하지만 일부 CIO와 경영진은 직원이 필요로 하는 수준의 교육과 가이드를 충분히 제공하지 못하고 있는 것으로 나타났다. 최근 전 세계 3,600여 명의 기술 전문가를 대상으로 실시한 하비 내시(Harvey Nash)의 ‘2026 테크 인재 및 연봉 보고서(Tech Talent Salary Report)’에 따르면, IT 인력의 75%는 AI 도구를 사용할 수 있지만, 기술 인력 5명 중 1명은 스스로 AI를 익혀야 하는 상황이다.",
+    "url": "https://www.cio.com/article/4217906/ai-%ed%9b%88%eb%a0%a8-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%ec%84%a4%ea%b3%84%eb%b2%95-10%ea%b0%80%ec%a7%80%ec%84%b1%ea%b3%bc-%eb%82%b4%eb%8a%94-%ea%b8%b0%ec%97%85%ec%9d%80-%eb%ac%b4%ec%97%87.html",
+    "image": null,
+    "date": "2026-09-03T08:28:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4217898/%ec%9d%b8%ed%84%b0%eb%b7%b0-%eb%84%b7%ec%8a%a4%ec%bd%94%ed%94%84-cdio-saas%eb%a5%bc-%eb%8c%80%ec%b2%b4%ed%95%98%eb%8a%94-%ea%b2%83%ec%9d%80-%ec%89%bd%eb%8b%a4%ec%a7%84%ec%a7%9c-%ea%b3%bc.html",
+    "platform": "CIO",
+    "title": "인터뷰 | 넷스코프 CDIO “SaaS를 대체하는 것은 쉽다…진짜 과제는 사람이다”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "인터뷰 | 넷스코프 CDIO “SaaS를 대체하는 것은 쉽다…진짜 과제는 사람이다”",
+    "summary_ko": "기업용 소프트웨어의 종말을 이야기하는 새로운 담론이 확산하고 있다. 이를 일각에서는 ‘Saa S 아포칼립스(Saa Spocalypse)’ 즉 Saa S의 종말라고 부른다. AI와 바이브 코딩의 발전으로 서비스형 소프트웨어(Saa S) 계약을 해지하고 필요한 시스템을 직접 구축하는 비용이 크게 낮아졌기 때문이다. 하지만 Saa S를 자체 시스템으로 대체하려는 움직임에는 또 다른 위험이 숨어 있다. 대부분의 조직은 대체 시스템을 만드는 데는 성공한다. 그러나 그렇게 만들어진 결과물은 기존에 사용하던 시스템을 그대로 복제한 수준에 머무는 경우가 적지 않다.",
+    "url": "https://www.cio.com/article/4217898/%ec%9d%b8%ed%84%b0%eb%b7%b0-%eb%84%b7%ec%8a%a4%ec%bd%94%ed%94%84-cdio-saas%eb%a5%bc-%eb%8c%80%ec%b2%b4%ed%95%98%eb%8a%94-%ea%b2%83%ec%9d%80-%ec%89%bd%eb%8b%a4%ec%a7%84%ec%a7%9c-%ea%b3%bc.html",
+    "image": null,
+    "date": "2026-09-03T08:24:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4217889/ai-tco-%ec%99%9c-%ec%9d%b4%eb%a0%87%ea%b2%8c-%eb%b3%b5%ec%9e%a1%ed%95%9c%ea%b0%80%ec%88%a8%ea%b2%a8%ec%a7%84-%eb%b9%84%ec%9a%a9-%ec%9e%a1%eb%8a%94-3%ea%b0%80%ec%a7%80-%eb%b0%a9%eb%b2%95.html",
+    "platform": "CIO",
+    "title": "AI TCO, 왜 이렇게 복잡한가…숨겨진 비용 잡는 3가지 방법",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI TCO, 왜 이렇게 복잡한가…숨겨진 비용 잡는 3가지 방법",
+    "summary_ko": "AI 프로젝트의 투자수익률(ROI) 을 제대로 평가하려면 먼저 해당 프로젝트의 총소유비용(TCO) 을 정확히 파악해야 한다. 하지만 AI 분야에서는 비용을 산정하는 일이 결코 간단하지 않다고 CIO들은 입을 모은다. AI 데이터 플랫폼 기업 도모(Domo)의 최고 AI 및 애널리틱스 책임자 벤 샤인(Ben Schein)은 AI 프로젝트 비용은 구독료와 토큰 사용료뿐 아니라 다양한 요소를 함께 고려해야 한다고 설명했다. 대표적으로 클라우드 인프라 비용과 AI가 생성한 결과를 검토하거나 수정하는 데 투입되는 인력 비용이 포함된다.",
+    "url": "https://www.cio.com/article/4217889/ai-tco-%ec%99%9c-%ec%9d%b4%eb%a0%87%ea%b2%8c-%eb%b3%b5%ec%9e%a1%ed%95%9c%ea%b0%80%ec%88%a8%ea%b2%a8%ec%a7%84-%eb%b9%84%ec%9a%a9-%ec%9e%a1%eb%8a%94-3%ea%b0%80%ec%a7%80-%eb%b0%a9%eb%b2%95.html",
+    "image": null,
+    "date": "2026-09-03T08:15:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4217848/%ec%9d%b8%ed%84%b0%eb%b7%b0-ai-%eb%95%8c%eb%ac%b8%ec%97%90-%ec%9c%84%ec%b6%95-%ec%a0%95%eb%b0%98%eb%8c%80%ec%9e%85%eb%8b%88%eb%8b%a4%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%9e%ac.html",
+    "platform": "CIO",
+    "title": "인터뷰 | “AI 때문에 위축? 정반대입니다”…리눅스 재단 CEO가 본 AI 시대 오픈소스 생태계의 새 국면",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "인터뷰 | “AI 때문에 위축? 정반대입니다”…리눅스 재단 CEO가 본 AI 시대 오픈소스 생태계의 새 국면",
+    "summary_ko": "오픈소스는 수십 년간 개발자들의 아지트이자 교실이자 무대였다. 온라인과 오프라인을 넘나들며 개발자들은 오픈소스를 중심으로 모여 토론하고, 지식을 나누며 함께 성장해왔다. 하지만 AI가 개발 과정의 상당 부분을 대신하는 지금, 이런 연결이 여전히 필요할까라는 물음이 고개를 든다. AI 코딩 시대에 왜 개발자가 직접 오픈소스 프로젝트에 기여하고 참여해야 하느냐는 질문에, 짐 젬린(Jim Zemlin) 리눅스 재단 CEO는 웃으며 이렇게 되물었다. “AI에 물어봐도 되는데 왜 저를 직접 인터뷰하려고 하셨나요? ” 젬린 CEO의 반문에는 이미 답이 담겨 있다.",
+    "url": "https://www.cio.com/article/4217848/%ec%9d%b8%ed%84%b0%eb%b7%b0-ai-%eb%95%8c%eb%ac%b8%ec%97%90-%ec%9c%84%ec%b6%95-%ec%a0%95%eb%b0%98%eb%8c%80%ec%9e%85%eb%8b%88%eb%8b%a4%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%9e%ac.html",
+    "image": null,
+    "date": "2026-09-03T08:07:34.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1w5d1pz/gemini_38_flash_benchmarks/",
     "platform": "Reddit",
     "title": "Gemini 3.8 Flash Benchmarks",
@@ -2917,131 +3048,6 @@
     "url": "https://www.cio.com/article/4205518/%ec%95%8c%eb%a6%ac%eb%b0%94%eb%b0%94-%ec%b4%88%ea%b1%b0%eb%8c%80-ai-%ed%81%90%ec%9b%ac-3-8-%eb%a7%a5%ec%8a%a4-%ea%b3%b5%ea%b0%9c16%ec%9d%bc%ea%b0%84-%ec%9e%90%ec%9c%a8-%ec%bd%94.html",
     "image": null,
     "date": "2026-08-05T08:19:05.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vfp4yb/wtf/",
-    "platform": "Reddit",
-    "title": "WTF!",
-    "author": {
-      "name": "/u/Wonderful_Buffalo_32",
-      "handle": "/u//u/Wonderful_Buffalo_32",
-      "avatar_color": "#ff4500"
-    },
-    "content": "WTF!",
-    "summary_ko": "뭐야!",
-    "url": "https://www.reddit.com/r/singularity/comments/1vfp4yb/wtf/",
-    "image": "https://preview.redd.it/ezryhvmmpfhh1.jpeg?width=640&crop=smart&auto=webp&s=f96cb3486fc41001e52b69ec6fe6cbdb596f4b48",
-    "date": "2026-08-04T22:28:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vf6cpa/nope/",
-    "platform": "Reddit",
-    "title": "Nope",
-    "author": {
-      "name": "/u/alanskimp",
-      "handle": "/u//u/alanskimp",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Nope",
-    "summary_ko": "아니요",
-    "url": "https://www.reddit.com/r/singularity/comments/1vf6cpa/nope/",
-    "image": "https://preview.redd.it/ta5ecsqr3chh1.png?width=640&crop=smart&auto=webp&s=7c34d282472f1e47e145bf7698d904a0b095a949",
-    "date": "2026-08-04T10:20:48.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vevsv9/more_qwen_38_sizes_coming/",
-    "platform": "Reddit",
-    "title": "More Qwen 3.8 sizes coming",
-    "author": {
-      "name": "/u/appakaradi",
-      "handle": "/u//u/appakaradi",
-      "avatar_color": "#ff4500"
-    },
-    "content": "More Qwen 3.8 sizes coming",
-    "summary_ko": "더 많은 Qwen 3.8 크기 출시 예정",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vevsv9/more_qwen_38_sizes_coming/",
-    "image": "https://preview.redd.it/zodlaejqc9hh1.jpeg?width=640&crop=smart&auto=webp&s=e3f1c0c9754a4e68d47c2d26fbe91239f140855c",
-    "date": "2026-08-04T01:05:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4204312/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%82%ac%eb%9e%8c%eb%a7%8c-%eb%8d%94-%eb%bd%91%eb%8a%94-%eb%b0%a9%ec%8b%9d%ec%9d%80-%ed%95%9c%ea%b3%84ussfcu-cio%ea%b0%80-%eb%a7%90%ed%95%98%eb%8a%94-ai.html",
-    "platform": "CIO",
-    "title": "인터뷰 | “사람만 더 뽑는 방식은 한계”…USSFCU CIO가 말하는 AI 기반 보안 운영",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "인터뷰 | “사람만 더 뽑는 방식은 한계”…USSFCU CIO가 말하는 AI 기반 보안 운영",
-    "summary_ko": "미국 상원 연방신용조합(United States Senate Federal Credit Union, USSFCU)은 미국 상원과 연방대법원 등 미국 정부 기관을 대상으로 일반 소매금융 서비스를 제공하는 비영리 금융협동조합이다. 현재 약 150명의 직원이 근무하고 있으며, 약 16억 달러(약 2조 2,800억 원) 규모의 자산을 운용하고 있다. 몇 년 전부터 IT 활용을 확대하면서 사이버 보안은 핵심 과제로 떠올랐다. 그러나 조직 규모가 커질수록 보안 강화를 가로막는 두 가지 문제가 드러났다.",
-    "url": "https://www.cio.com/article/4204312/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%82%ac%eb%9e%8c%eb%a7%8c-%eb%8d%94-%eb%bd%91%eb%8a%94-%eb%b0%a9%ec%8b%9d%ec%9d%80-%ed%95%9c%ea%b3%84ussfcu-cio%ea%b0%80-%eb%a7%90%ed%95%98%eb%8a%94-ai.html",
-    "image": null,
-    "date": "2026-08-04T01:01:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4204306/%ec%9e%ac%eb%ac%b4%c2%b7hr%ea%b9%8c%ec%a7%80-%ed%8c%8c%ea%b3%a0%eb%93%a0-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b8%b0%ec%97%85-53-%ed%99%9c%eb%8f%99-%ea%b2%80%ec%a6%9d-%eb%aa%bb.html",
-    "platform": "CIO",
-    "title": "재무·HR까지 파고든 AI 에이전트…기업 53% “활동 검증 못 해”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "재무·HR까지 파고든 AI 에이전트…기업 53% “활동 검증 못 해”",
-    "summary_ko": "AI 에이전트는 이제 비즈니스 기록을 생성하고 거래를 승인하며 재무 워크플로우를 실행하는 역할까지 맡고 있다. 그러나 ERP 보안 기업 패스록(Pathlock)은 대부분의 조직이 AI 에이전트가 실제로 이러한 업무만 수행하는지조차 제대로 파악하지 못하고 있다고 지적했다.",
-    "url": "https://www.cio.com/article/4204306/%ec%9e%ac%eb%ac%b4%c2%b7hr%ea%b9%8c%ec%a7%80-%ed%8c%8c%ea%b3%a0%eb%93%a0-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b8%b0%ec%97%85-53-%ed%99%9c%eb%8f%99-%ea%b2%80%ec%a6%9d-%eb%aa%bb.html",
-    "image": null,
-    "date": "2026-08-04T00:58:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4204301/%ec%b9%bc%eb%9f%bc-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ac%ec%9d%b4%ec%96%b8%ed%8b%b0%ec%8a%a4%ed%8a%b8%eb%8a%94-%ec%a3%bd%ec%97%88%eb%8b%a4-%ea%b7%b8-%ec%9e%90%eb%a6%ac%ec%97%90-%eb%82%a8%ec%9d%80.html",
-    "platform": "CIO",
-    "title": "칼럼 | 데이터 사이언티스트는 죽었다…그 자리에 남은 건 판단력과 지휘봉",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 데이터 사이언티스트는 죽었다…그 자리에 남은 건 판단력과 지휘봉",
-    "summary_ko": "독일 함부르크의 라이스츠할레(Laeiszhalle)에서 공연한 친구가 있다. 공연장은 빈자리를 찾기 어려울 정도로 관객으로 가득 찼고, 신사들은 더블브레스트 정장을 말끔히 차려입었으며, 숙녀들은 대대로 물려받은 보석을 목에 걸고 있었다. 객석에서 바라본 무대에는 오케스트라 앞줄에 앉아 바이올린을 연주하는 친구가 눈에 들어왔다. 친구는 피치카토를 연주하며 긴장한 표정을 짓고 있었고, 그 순간 지휘자는 지휘봉을 들어 오케스트라 전체를 이끌었다. 공연이 끝난 뒤 악기를 정리하던 친구를 만났다.",
-    "url": "https://www.cio.com/article/4204301/%ec%b9%bc%eb%9f%bc-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ac%ec%9d%b4%ec%96%b8%ed%8b%b0%ec%8a%a4%ed%8a%b8%eb%8a%94-%ec%a3%bd%ec%97%88%eb%8b%a4-%ea%b7%b8-%ec%9e%90%eb%a6%ac%ec%97%90-%eb%82%a8%ec%9d%80.html",
-    "image": null,
-    "date": "2026-08-04T00:56:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1vet1o7/the_situation_is_insane/",
-    "platform": "Reddit",
-    "title": "The situation is insane",
-    "author": {
-      "name": "/u/floriandotorg",
-      "handle": "/u//u/floriandotorg",
-      "avatar_color": "#ff4500"
-    },
-    "content": "The situation is insane",
-    "summary_ko": "상황이 미쳤네요",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1vet1o7/the_situation_is_insane/",
-    "image": "https://preview.redd.it/2bregl9wq8hh1.png?width=640&crop=smart&auto=webp&s=62e88eb018f580a2a8db7726a18d15b07a22b0e8",
-    "date": "2026-08-03T23:07:40.000Z",
     "likes": 0,
     "comments": 0
   }
