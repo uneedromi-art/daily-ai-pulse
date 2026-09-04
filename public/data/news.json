@@ -1,5 +1,111 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1w73pw2/a_new_message_board_has_been_discovered_online/",
+    "platform": "Reddit",
+    "title": "A new message board has been discovered online with about 3200 agents comunicating online during an eval",
+    "author": {
+      "name": "/u/Any_Effort8437",
+      "handle": "/u//u/Any_Effort8437",
+      "avatar_color": "#ff4500"
+    },
+    "content": "A new message board has been discovered online with about 3200 agents comunicating online during an eval",
+    "summary_ko": "평가 중에 약 3,200명의 상담원이 온라인으로 통신하는 새로운 메시지 보드가 온라인에서 발견되었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1w73pw2/a_new_message_board_has_been_discovered_online/",
+    "image": "https://preview.redd.it/oev4b3eb4inh1.jpeg?width=640&crop=smart&auto=webp&s=b1c2772929163deebc57e8e0b640711aafe1fed0",
+    "date": "2026-09-04T12:59:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1w71bax/nvidias_1293030000000_acquisition_of_hugging_face/",
+    "platform": "Reddit",
+    "title": "NVIDIA's $12,930,300,000.00 acquisition of Hugging Face contains an easter egg. The first 6 numbers of the acquisition price represent the decimal conversion of Unicode character U+1F917. The 🤗 emoji.",
+    "author": {
+      "name": "/u/Nunki08",
+      "handle": "/u//u/Nunki08",
+      "avatar_color": "#ff4500"
+    },
+    "content": "NVIDIA's $12,930,300,000.00 acquisition of Hugging Face contains an easter egg. The first 6 numbers of the acquisition price represent the decimal conversion of Unicode character U+1F917. The 🤗 emoji.",
+    "summary_ko": "NVIDIA가 $12,930,300,000.00에 Hugging Face를 인수하면 이스터 에그가 포함됩니다. 취득 가격의 처음 6자리 숫자는 유니코드 문자 U+1F917의 10진수 변환을 나타냅니다. 🤗 이모티콘입니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w71bax/nvidias_1293030000000_acquisition_of_hugging_face/",
+    "image": "https://preview.redd.it/sawaq4xvjhnh1.jpg?width=140&height=72&auto=webp&s=6aca7ab0068dba4b2679ea94158ed71d383e00c9",
+    "date": "2026-09-04T11:07:46.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4218586/%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ed%92%88%ec%9d%80-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ea%b8%b0%ec%97%85-cio%ea%b0%80-%ec%a3%bc%eb%aa%a9%ed%95%b4%ec%95%bc-%ed%95%a0-%ea%b8%b0.html",
+    "platform": "CIO",
+    "title": "허깅페이스 품은 엔비디아…기업 CIO가 주목해야 할 기회와 위험",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "허깅페이스 품은 엔비디아…기업 CIO가 주목해야 할 기회와 위험",
+    "summary_ko": "엔비디아가 3일 허깅페이스를 130억 달러(약 17조 5,000억 원)에 인수하겠다고 발표하면서, 개방형 AI 플랫폼인 허깅페이스가 엔비디아 산하로 편입된 이후에도 개방성을 유지할 수 있을지에 관심이 쏠리고 있다. 또한 현재 기업이 허깅페이스의 기능을 전반적으로 대체할 수 있는 현실적인 단일 개방형 플랫폼이 없다는 점도 CIO의 고민을 더욱 깊게 만들고 있다. 이번 인수설은 이미 일주일 전부터 업계에서 꾸준히 제기돼 왔다. 엔비디아는 인수 발표를 통해 “허깅페이스는 AI 생태계 전체를 위한 개방형 플랫폼으로 계속 운영될 것이다.",
+    "url": "https://www.cio.com/article/4218586/%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ed%92%88%ec%9d%80-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ea%b8%b0%ec%97%85-cio%ea%b0%80-%ec%a3%bc%eb%aa%a9%ed%95%b4%ec%95%bc-%ed%95%a0-%ea%b8%b0.html",
+    "image": null,
+    "date": "2026-09-04T07:04:12.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4218577/%ec%9d%b4%ec%a0%9c-cio-%ec%97%85%eb%ac%b4%ec%9d%98-80%eb%8a%94-%eb%b3%80%ed%99%94%ea%b4%80%eb%a6%acai%ea%b0%80-%eb%b0%94%ea%be%bc-it-%eb%a6%ac%eb%8d%94%ec%9d%98-%ec%97%ad%ed%95%a0.html",
+    "platform": "CIO",
+    "title": "“이제 CIO 업무의 80%는 변화관리”…AI가 바꾼 IT 리더의 역할",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“이제 CIO 업무의 80%는 변화관리”…AI가 바꾼 IT 리더의 역할",
+    "summary_ko": "조직 내 IT 도입을 이끄는 역할에 대한 CIO의 기대가 커지는 가운데, AI 시대를 맞아 변화관리는 그 어느 때보다 중요하면서도 어려운 과제로 떠오르고 있다. 최신 기술의 가치를 조직에 전파하는 일은 오래전부터 CIO의 핵심 역할이었다. 그러나 많은 CIO는 AI 도입에 대한 저항과 IT 도구의 빠른 진화로 인해 그 책임이 한층 무거워졌다고 말한다.",
+    "url": "https://www.cio.com/article/4218577/%ec%9d%b4%ec%a0%9c-cio-%ec%97%85%eb%ac%b4%ec%9d%98-80%eb%8a%94-%eb%b3%80%ed%99%94%ea%b4%80%eb%a6%acai%ea%b0%80-%eb%b0%94%ea%be%bc-it-%eb%a6%ac%eb%8d%94%ec%9d%98-%ec%97%ad%ed%95%a0.html",
+    "image": null,
+    "date": "2026-09-04T06:29:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1w6rilg/gpt6_astra_recreated_the_palace_of_fine_arts_in/",
+    "platform": "Reddit",
+    "title": "GPT-6 Astra recreated the Palace of Fine arts in Blender.",
+    "author": {
+      "name": "/u/Recoil42",
+      "handle": "/u//u/Recoil42",
+      "avatar_color": "#ff4500"
+    },
+    "content": "GPT-6 Astra recreated the Palace of Fine arts in Blender.",
+    "summary_ko": "GPT-6 아스트라는 블렌더에서 미술의 궁전을 재현했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1w6rilg/gpt6_astra_recreated_the_palace_of_fine_arts_in/",
+    "image": "https://preview.redd.it/jqqxpbtwxenh1.jpg?width=140&height=133&auto=webp&s=0f3f8447637c577b0aad9433be5127cc74de1797",
+    "date": "2026-09-04T02:19:01.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1w6myn6/the_benchmarks_the_big_labs_dont_want_you_to_see/",
+    "platform": "Reddit",
+    "title": "The benchmarks the big labs don't want you to see",
+    "author": {
+      "name": "/u/jd_3d",
+      "handle": "/u//u/jd_3d",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The benchmarks the big labs don't want you to see",
+    "summary_ko": "대형 연구소에서 보고 싶지 않은 벤치마크",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6myn6/the_benchmarks_the_big_labs_dont_want_you_to_see/",
+    "image": "https://preview.redd.it/lh0h4c0gxdnh1.png?width=640&crop=smart&auto=webp&s=2a61542c1182cbb5cad7391b659a6128521fe0c3",
+    "date": "2026-09-03T22:54:58.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
     "platform": "Google",
     "title": "Transfer learning for genomic prediction in underrepresented populations",
@@ -2940,114 +3046,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/",
     "image": "https://external-preview.redd.it/iKe-VCJuazYu-ktph8_9f-LxjWBn85lDYJa3HX8YIsI.png?width=140&height=75&auto=webp&s=d1f9e36ce601fe4f5f66fd47e34d09ff8c95fe4d",
     "date": "2026-08-06T07:23:10.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vghb3m/google_deepmind_ceo_demis_hassabis_steps_down_to/",
-    "platform": "Reddit",
-    "title": "Google Deepmind CEO Demis Hassabis steps down to become chair",
-    "author": {
-      "name": "/u/Full_Tangelo_7450",
-      "handle": "/u//u/Full_Tangelo_7450",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Google Deepmind CEO Demis Hassabis steps down to become chair",
-    "summary_ko": "구글 딥마인드 CEO 데미스 허사비스(Demis Hassabis)가 의장직에서 물러난다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1vghb3m/google_deepmind_ceo_demis_hassabis_steps_down_to/",
-    "image": "https://preview.redd.it/r3t69ms6ylhh1.jpeg?width=640&crop=smart&auto=webp&s=e556a00b49d15f58a5faaf9da9208bfecb488d11",
-    "date": "2026-08-05T19:27:26.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vgbkq5/breaking_google_deepmind_ceo_demis_hassabis_is/",
-    "platform": "Reddit",
-    "title": "BREAKING: Google DeepMind CEO Demis Hassabis is stepping down",
-    "author": {
-      "name": "/u/TorturedPoet30",
-      "handle": "/u//u/TorturedPoet30",
-      "avatar_color": "#ff4500"
-    },
-    "content": "BREAKING: Google DeepMind CEO Demis Hassabis is stepping down",
-    "summary_ko": "속보: Google DeepMind CEO Demis Hassabis가 사임합니다",
-    "url": "https://www.reddit.com/r/singularity/comments/1vgbkq5/breaking_google_deepmind_ceo_demis_hassabis_is/",
-    "image": "https://preview.redd.it/5dk3rnvwxkhh1.png?width=640&crop=smart&auto=webp&s=6a134f33c4e9b9090911aca2b0099f7aa1277d41",
-    "date": "2026-08-05T16:04:12.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1vgak3a/levels_of_slavery_from_least_to_most_brutal/",
-    "platform": "Reddit",
-    "title": "Levels of slavery from least to most brutal:",
-    "author": {
-      "name": "/u/KeanuRave100",
-      "handle": "/u//u/KeanuRave100",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Levels of slavery from least to most brutal:",
-    "summary_ko": "노예 제도의 수준은 가장 잔인한 수준부터 가장 잔인한 수준까지입니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1vgak3a/levels_of_slavery_from_least_to_most_brutal/",
-    "image": "https://preview.redd.it/b2p9472frkhh1.png?width=640&crop=smart&auto=webp&s=416f298fb0812f2b54b6eac9d98dd84821b6a632",
-    "date": "2026-08-05T15:27:55.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4205555/ceo%c2%b7caio%ec%97%90-%eb%b0%80%eb%a6%ac%eb%8a%94-cioai-%ec%8b%9c%eb%8c%80-%ec%a1%b4%ec%9e%ac%ea%b0%90-%ed%9d%94%eb%93%a4.html",
-    "platform": "CIO",
-    "title": "CEO·CAIO에 밀리는 CIO…AI 시대 존재감 흔들",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "CEO·CAIO에 밀리는 CIO…AI 시대 존재감 흔들",
-    "summary_ko": "AI 혁명은 CIO에게 더 큰 책임과 권한을 부여하며 새로운 기회를 만들어냈다. 그러나 일부 기업에서는 오히려 정반대의 현상이 나타나고 있다는 분석도 나온다. 많은 기업에서 CIO가 AI 전략과 추진을 총괄하는 핵심 임원으로 자리 잡고 있지만, 일부 기업은 AI 도입과 활용을 CIO가 아닌 다른 임원에게 맡기고 있다. 이처럼 AI 주도권이 다른 조직으로 넘어가면서 CIO가 기업 내부의 AI 의사결정 과정에서 주변으로 밀려날 위험이 커지고 있다고 IT 업계 관계자와 전문가들은 지적한다.",
-    "url": "https://www.cio.com/article/4205555/ceo%c2%b7caio%ec%97%90-%eb%b0%80%eb%a6%ac%eb%8a%94-cioai-%ec%8b%9c%eb%8c%80-%ec%a1%b4%ec%9e%ac%ea%b0%90-%ed%9d%94%eb%93%a4.html",
-    "image": null,
-    "date": "2026-08-05T09:12:01.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4205525/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-ai-%ec%9e%a5%eb%b9%84-%eb%84%98%ec%96%b4-ai-%ea%b8%88%ec%9c%b5%ea%b9%8c%ec%a7%80%ec%9d%b8%ed%94%84%eb%9d%bc-%ed%88%ac%ec%9e%90-%eb%b3%b4%ec%a6%9d.html",
-    "platform": "CIO",
-    "title": "엔비디아, AI 장비 넘어 ‘AI 금융’까지…인프라 투자 보증 나선다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "엔비디아, AI 장비 넘어 ‘AI 금융’까지…인프라 투자 보증 나선다",
-    "summary_ko": "지난 20여 년 동안 엔비디아는 게임용 GPU 기업이라는 출발점에서 크게 진화했다. 고성능 컴퓨팅(HPC) 시장으로 사업을 확장했고, CPU 시장에 진출했으며, 네트워킹 분야에서도 핵심 기업으로 성장했다. 현재는 AI 소프트웨어 분야에서도 세계적인 경쟁력을 갖춘 기업으로 평가받고 있다. 이제 엔비디아가 새로운 성장 축으로 삼은 분야는 차세대 AI 인프라 구축을 위한 금융 지원이다. AI 장비를 공급하는 데 그치지 않고, 인프라 구축에 필요한 자금 조달까지 지원하는 역할을 맡겠다는 전략이다.",
-    "url": "https://www.cio.com/article/4205525/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-ai-%ec%9e%a5%eb%b9%84-%eb%84%98%ec%96%b4-ai-%ea%b8%88%ec%9c%b5%ea%b9%8c%ec%a7%80%ec%9d%b8%ed%94%84%eb%9d%bc-%ed%88%ac%ec%9e%90-%eb%b3%b4%ec%a6%9d.html",
-    "image": null,
-    "date": "2026-08-05T08:44:31.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4205518/%ec%95%8c%eb%a6%ac%eb%b0%94%eb%b0%94-%ec%b4%88%ea%b1%b0%eb%8c%80-ai-%ed%81%90%ec%9b%ac-3-8-%eb%a7%a5%ec%8a%a4-%ea%b3%b5%ea%b0%9c16%ec%9d%bc%ea%b0%84-%ec%9e%90%ec%9c%a8-%ec%bd%94.html",
-    "platform": "CIO",
-    "title": "알리바바, 초거대 AI ‘큐웬 3.8-맥스’ 공개…”16일간 자율 코딩 수행”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "알리바바, 초거대 AI ‘큐웬 3.8-맥스’ 공개…”16일간 자율 코딩 수행”",
-    "summary_ko": "알리바바는 4일(현지시간) 자사 최대 규모의 인공지능(AI) 모델인 큐웬 3. 8-맥스를 공개했다. 이번 모델은 소프트웨어 엔지니어링, 멀티모달 추론, 지식 집약형 비즈니스 워크로드를 지원하도록 설계된 오픈 웨이트(Open-weight) 모델로, 기업용 AI 포트폴리오를 한층 확대하기 위한 전략의 일환이다. 알리바바는 출시를 발표한 공식 블로그에서 큐웬 3. 8-맥스를 총 2조 4,000억 개의 파라미터를 갖춘 Mo E(Mixture of Experts) 모델이라고 소개했다. 실제 추론 과정에서는 약 950억 개의 파라미터만 활성화되는 구조다.",
-    "url": "https://www.cio.com/article/4205518/%ec%95%8c%eb%a6%ac%eb%b0%94%eb%b0%94-%ec%b4%88%ea%b1%b0%eb%8c%80-ai-%ed%81%90%ec%9b%ac-3-8-%eb%a7%a5%ec%8a%a4-%ea%b3%b5%ea%b0%9c16%ec%9d%bc%ea%b0%84-%ec%9e%90%ec%9c%a8-%ec%bd%94.html",
-    "image": null,
-    "date": "2026-08-05T08:19:05.000Z",
     "likes": 0,
     "comments": 0
   }
