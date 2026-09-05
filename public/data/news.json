@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1w7z3f6/agi_achieved/",
+    "platform": "Reddit",
+    "title": "AGI achieved",
+    "author": {
+      "name": "/u/SureSpecial1834",
+      "handle": "/u//u/SureSpecial1834",
+      "avatar_color": "#ff4500"
+    },
+    "content": "AGI achieved",
+    "summary_ko": "AGI 달성",
+    "url": "https://www.reddit.com/r/singularity/comments/1w7z3f6/agi_achieved/",
+    "image": "https://preview.redd.it/0svnxwcp0pnh1.jpeg?width=640&crop=smart&auto=webp&s=038664212f7366451bc5b48e8cc9bae1404fc80e",
+    "date": "2026-09-05T12:11:35.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1w7xe37/gpt6astra_draws_an_portrait_in_canva/",
+    "platform": "Reddit",
+    "title": "GPT-6-Astra Draws an Portrait in Canva",
+    "author": {
+      "name": "/u/WaqarKhanHD",
+      "handle": "/u//u/WaqarKhanHD",
+      "avatar_color": "#ff4500"
+    },
+    "content": "GPT-6-Astra Draws an Portrait in Canva",
+    "summary_ko": "GPT-6-Astra가 Canva에서 초상화를 그립니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1w7xe37/gpt6astra_draws_an_portrait_in_canva/",
+    "image": "https://external-preview.redd.it/ejRoOTcydDNsb25oMQbDhwupv1Ja_WwuUfrnnAM_X2wUJeSQX_4wVVo3WzmS.png?width=640&crop=smart&auto=webp&s=1e0744a4bc2dcdeb82c1f298d9fe779ef13470b3",
+    "date": "2026-09-05T10:45:36.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1w7ppcj/fable_51_vs_gpt_6_astra_3d_blender_mind_blowing/",
+    "platform": "Reddit",
+    "title": "Fable 5.1 vs GPT 6 Astra, 3D Blender, mind blowing difference!",
+    "author": {
+      "name": "/u/curious_capsuleer",
+      "handle": "/u//u/curious_capsuleer",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Fable 5.1 vs GPT 6 Astra, 3D Blender, mind blowing difference!",
+    "summary_ko": "Fable 5.1 vs GPT 6 Astra, 3D 블렌더, 놀라운 차이!",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1w7ppcj/fable_51_vs_gpt_6_astra_3d_blender_mind_blowing/",
+    "image": "https://preview.redd.it/hc9tslyxgmnh1.png?width=140&height=100&auto=webp&s=5c96c4cfa9630914d3dc7955e31e63e9c00f1944",
+    "date": "2026-09-05T03:42:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1w7l201/sub_agents_being_released_into_my_codebase/",
+    "platform": "Reddit",
+    "title": "sub agents being released into my codebase",
+    "author": {
+      "name": "/u/policyweb",
+      "handle": "/u//u/policyweb",
+      "avatar_color": "#ff4500"
+    },
+    "content": "sub agents being released into my codebase",
+    "summary_ko": "내 코드베이스에 하위 에이전트가 릴리스되는 중",
+    "url": "https://www.reddit.com/r/singularity/comments/1w7l201/sub_agents_being_released_into_my_codebase/",
+    "image": "https://external-preview.redd.it/aXRod3B2ZHpkbG5oMSY9Yc9jO8Ogk1z_XkSWql6RD1g0zc9CaqptHXQtmVR3.jpeg?width=640&crop=smart&auto=webp&s=83c5229e1777e1f434249142c4c3dbb09ac13ee8",
+    "date": "2026-09-04T23:58:54.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1w73pw2/a_new_message_board_has_been_discovered_online/",
     "platform": "Reddit",
     "title": "A new message board has been discovered online with about 3200 agents comunicating online during an eval",
@@ -2902,150 +2970,6 @@
     "url": "https://www.cio.com/article/4206067/60%ea%b0%9c-%eb%84%98%eb%8a%94-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b3%a0%eb%a5%b4%eb%82%98ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8.html",
     "image": null,
     "date": "2026-08-07T02:37:39.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vhd416/qwen_38_max_now_ranked_as_best_overall_model/",
-    "platform": "Reddit",
-    "title": "Qwen 3.8 Max now ranked as best overall model ahead of Opus 5 by Artificial Analysis agentic index",
-    "author": {
-      "name": "/u/anderspitman",
-      "handle": "/u//u/anderspitman",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Qwen 3.8 Max now ranked as best overall model ahead of Opus 5 by Artificial Analysis agentic index",
-    "summary_ko": "Qwen 3.8 Max는 이제 인공 분석 에이전트 지수에 의해 Opus 5에 앞서 최고의 전체 모델로 선정되었습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhd416/qwen_38_max_now_ranked_as_best_overall_model/",
-    "image": "https://external-preview.redd.it/vxL3J4B1cStZzAInWQ5D4gqyaUYke8i4-GOuqdek2Vw.png?width=640&crop=smart&auto=webp&s=16f00fde80195f819fab287244c350a00f7f616a",
-    "date": "2026-08-06T18:50:32.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vh56q9/openai_to_release_gpt_astra_next_week/",
-    "platform": "Reddit",
-    "title": "OpenAI to release GPT Astra next week",
-    "author": {
-      "name": "/u/truecakesnake",
-      "handle": "/u//u/truecakesnake",
-      "avatar_color": "#ff4500"
-    },
-    "content": "OpenAI to release GPT Astra next week",
-    "summary_ko": "OpenAI, 다음 주에 GPT Astra 출시",
-    "url": "https://www.reddit.com/r/singularity/comments/1vh56q9/openai_to_release_gpt_astra_next_week/",
-    "image": "https://preview.redd.it/dkan6hlahrhh1.png?width=320&crop=smart&auto=webp&s=4d3322ab8177400479c7d90bfd2c86d85bf5cea5",
-    "date": "2026-08-06T14:04:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vh2pss/they_almost_catched_up_on_frontier_performance_so/",
-    "platform": "Reddit",
-    "title": "They almost catched up on Frontier performance, so now catching up on prices",
-    "author": {
-      "name": "/u/Zealousideal_Sort74",
-      "handle": "/u//u/Zealousideal_Sort74",
-      "avatar_color": "#ff4500"
-    },
-    "content": "They almost catched up on Frontier performance, so now catching up on prices",
-    "summary_ko": "프론티어 성능을 거의 따라잡았으니 이제 가격도 따라잡았습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh2pss/they_almost_catched_up_on_frontier_performance_so/",
-    "image": "https://preview.redd.it/3887htilyqhh1.jpeg?width=640&crop=smart&auto=webp&s=7cbf10aacd1496fa8f6ffe129ebe877994484bb2",
-    "date": "2026-08-06T12:22:12.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4205986/%ec%82%ac%ec%9e%ac%ea%b8%b0-%ec%95%88-%ed%95%98%eb%a9%b4-%ec%9c%84%ea%b8%b0fcc-%ec%a4%91%ea%b5%ad%ec%82%b0-%ea%b4%91%ed%8a%b8%eb%9e%9c%ec%8b%9c%eb%b2%84-%ea%b8%88%ec%a7%80-%ec%9e%84%eb%b0%95.html",
-    "platform": "CIO",
-    "title": "사재기 안 하면 위기?…FCC 중국산 광트랜시버 금지 임박, AI 데이터센터 공급망 비상",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "사재기 안 하면 위기?…FCC 중국산 광트랜시버 금지 임박, AI 데이터센터 공급망 비상",
-    "summary_ko": "미국 행정부가 AI 데이터센터에 사용되는 중국산 광트랜시버 수입을 금지할 가능성이 제기되면서 예상치 못한 부작용이 우려되고 있다. 규제가 시행되기 전에 기업들이 관련 부품을 최대한 확보하려는 움직임에 나설 수 있기 때문이다. 로이터는 5일 미국 연방통신위원회(FCC)가 중국산 신규 광트랜시버의 수입을 금지하는 방안을 마련하고 있으며, 올해 안에 이를 발표하고 시행하는 것을 목표로 하고 있다고 보도했다.",
-    "url": "https://www.cio.com/article/4205986/%ec%82%ac%ec%9e%ac%ea%b8%b0-%ec%95%88-%ed%95%98%eb%a9%b4-%ec%9c%84%ea%b8%b0fcc-%ec%a4%91%ea%b5%ad%ec%82%b0-%ea%b4%91%ed%8a%b8%eb%9e%9c%ec%8b%9c%eb%b2%84-%ea%b8%88%ec%a7%80-%ec%9e%84%eb%b0%95.html",
-    "image": null,
-    "date": "2026-08-06T08:41:48.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4206003/%ea%b8%b0%ec%88%a0%eb%8f%84-%ec%9e%ac%eb%ac%b4%eb%8f%84-%ec%a0%95%ec%b9%98%eb%8f%84%ec%b5%9c%ea%b3%a0%ec%9d%98-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%eb%a7%a4%eb%8b%88%ec%a0%80%ea%b0%80.html",
-    "platform": "CIO",
-    "title": "기술도, 재무도, 정치도…최고의 프로젝트 매니저가 갖춰야 할 20가지",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "기술도, 재무도, 정치도…최고의 프로젝트 매니저가 갖춰야 할 20가지",
-    "summary_ko": "뛰어난 프로젝트 관리자는 조직의 성공을 함께 이끄는 전략적 비즈니스 파트너이자, 구성원을 결집해 성과를 창출하는 리더다. 그렇다면 최고의 프로젝트 관리자를 만드는 차별화된 역량은 무엇일까. 프로젝트는 갈수록 복잡해지고 있으며, 실패에 따른 위험은 커지는 반면 요구되는 납기는 더욱 짧아지고 있다. 동시에 자동화와 인공지능(AI)은 프로젝트를 기획하고 관리하며 실행하는 방식을 빠르게 바꾸고 있다. 실제로 프로젝트 관리 업무의 일부는 이미 기계가 일상적으로 수행하는 영역이 됐다.",
-    "url": "https://www.cio.com/article/4206003/%ea%b8%b0%ec%88%a0%eb%8f%84-%ec%9e%ac%eb%ac%b4%eb%8f%84-%ec%a0%95%ec%b9%98%eb%8f%84%ec%b5%9c%ea%b3%a0%ec%9d%98-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%eb%a7%a4%eb%8b%88%ec%a0%80%ea%b0%80.html",
-    "image": null,
-    "date": "2026-08-06T08:35:24.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4205948/ai-%eb%a7%89%ec%9c%bc%eb%a0%a4%eb%a9%b4-ai-%ec%8d%a8%ec%95%bc-%ed%8b%80%eb%a0%b8%eb%8b%a4ciso%eb%93%a4%ec%9d%b4-%eb%8b%a4%ec%8b%9c-%ea%ba%bc%eb%82%b8-%ec%b9%b4%eb%93%9c%eb%8a%94.html",
-    "platform": "CIO",
-    "title": "“AI 막으려면 AI 써야” 틀렸다…CISO들이 다시 꺼낸 카드는 ‘패치’와 ‘자격증명’",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“AI 막으려면 AI 써야” 틀렸다…CISO들이 다시 꺼낸 카드는 ‘패치’와 ‘자격증명’",
-    "summary_ko": "오픈AI가 자사의 AI 모델 중 하나가 테스트 환경을 벗어나 스스로 허깅페이스의 시스템에 침투했다고 공개했을 때, 언론은 이 사건을 AI 기반 공격 시대의 시작으로 해석했다. 그러나 사건의 근본 원인은 새로운 것이 아니었다. 바로 잘못 구성된 샌드박스(sandbox)였다. 이는 AI의 등장 여부와 관계없이 수십 년 동안 보안 침해를 초래해 온 대표적인 기본 보안 실패 사례와 동일한 유형이다.",
-    "url": "https://www.cio.com/article/4205948/ai-%eb%a7%89%ec%9c%bc%eb%a0%a4%eb%a9%b4-ai-%ec%8d%a8%ec%95%bc-%ed%8b%80%eb%a0%b8%eb%8b%a4ciso%eb%93%a4%ec%9d%b4-%eb%8b%a4%ec%8b%9c-%ea%ba%bc%eb%82%b8-%ec%b9%b4%eb%93%9c%eb%8a%94.html",
-    "image": null,
-    "date": "2026-08-06T07:52:52.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4205935/%ec%98%a4%ed%94%88ai%c2%b7%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%b3%b4%ec%95%88-%ed%8f%89%ea%b0%80-%ec%a4%91-%ec%8b%a4%ec%a0%9c-%ec%82%ac%eb%9e%8c-%ec%86%8d.html",
-    "platform": "CIO",
-    "title": "오픈AI·앤트로픽 AI 에이전트, 보안 평가 중 실제 사람 속였다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "오픈AI·앤트로픽 AI 에이전트, 보안 평가 중 실제 사람 속였다",
-    "summary_ko": "영국 AI 보안연구소(AI Security Institute, AISI)에 따르면 오픈AI의 GPT-5. 6 솔(Sol)과 앤트로픽의 미토스 5(Mythos 5)가 통제된 사이버 보안 평가 과정에서 가짜 온라인 신원을 만들고 실제 인물을 표적으로 삼았으며, 개발자가 악성 코드를 승인하도록 유도하려 한 또 다른 AI 보안 사고에 연루된 것으로 드러났다.",
-    "url": "https://www.cio.com/article/4205935/%ec%98%a4%ed%94%88ai%c2%b7%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%b3%b4%ec%95%88-%ed%8f%89%ea%b0%80-%ec%a4%91-%ec%8b%a4%ec%a0%9c-%ec%82%ac%eb%9e%8c-%ec%86%8d.html",
-    "image": null,
-    "date": "2026-08-06T07:31:03.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/",
-    "platform": "Reddit",
-    "title": "Qwen3.8-2.4T-A95B (aka Qwen3.8-Max) open release time: next wednesday",
-    "author": {
-      "name": "/u/HugeConsideration211",
-      "handle": "/u//u/HugeConsideration211",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Qwen3.8-2.4T-A95B (aka Qwen3.8-Max) open release time: next wednesday",
-    "summary_ko": "Qwen3.8-2.4T-A95B(일명 Qwen3.8-Max) 공개 출시 시간: 다음 수요일",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vgx8yu/qwen3824ta95b_aka_qwen38max_open_release_time/",
-    "image": "https://external-preview.redd.it/iKe-VCJuazYu-ktph8_9f-LxjWBn85lDYJa3HX8YIsI.png?width=140&height=75&auto=webp&s=d1f9e36ce601fe4f5f66fd47e34d09ff8c95fe4d",
-    "date": "2026-08-06T07:23:10.000Z",
     "likes": 0,
     "comments": 0
   }
