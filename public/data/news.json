@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1w9mp3k/astra_is_now_a_certified_human/",
+    "platform": "Reddit",
+    "title": "Astra is now a certified human",
+    "author": {
+      "name": "/u/enilea",
+      "handle": "/u//u/enilea",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Astra is now a certified human",
+    "summary_ko": "아스트라는 이제 인증받은 인간이다",
+    "url": "https://www.reddit.com/r/singularity/comments/1w9mp3k/astra_is_now_a_certified_human/",
+    "image": "https://preview.redd.it/octby766a2oh1.png?width=640&crop=smart&auto=webp&s=2aa2bd2b755809c420f79ba7948fd424a8c4abe4",
+    "date": "2026-09-07T08:48:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4219014/gpt-6-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ea%b3%b5%ea%b0%9c%ed%95%9c-%ec%98%a4%ed%94%88ai%ec%a4%91%eb%8c%80-%eb%b3%b4%ec%95%88-%eb%93%b1%ea%b8%89%ec%9d%b4-%eb%8d%98%ec%a7%84-%ea%b8%b0.html",
+    "platform": "CIO",
+    "title": "GPT-6 아스트라 공개한 오픈AI…’중대’ 보안 등급이 던진 기업 AI 관리의 숙제",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "GPT-6 아스트라 공개한 오픈AI…’중대’ 보안 등급이 던진 기업 AI 관리의 숙제",
+    "summary_ko": "오픈AI가 4일(현지시간) 새로운 플래그십 모델 GPT-6 아스트라를 공개했다. 회사는 이번 발표에서 아스트라가 자사의 ‘준비성 프레임워크(Preparedness Framework)’에 따른 사이버보안 위험 평가에서 ‘중대(Critical)’ 등급 기준을 넘어섰다고 밝혔다. 오픈AI는 이 등급이 추가적인 배포 제한 조치를 적용하는 기준이라고 설명했다.",
+    "url": "https://www.cio.com/article/4219014/gpt-6-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ea%b3%b5%ea%b0%9c%ed%95%9c-%ec%98%a4%ed%94%88ai%ec%a4%91%eb%8c%80-%eb%b3%b4%ec%95%88-%eb%93%b1%ea%b8%89%ec%9d%b4-%eb%8d%98%ec%a7%84-%ea%b8%b0.html",
+    "image": null,
+    "date": "2026-09-07T04:23:50.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4219006/%ec%9e%90%eb%8f%99%ed%99%94%eb%8a%94-%eb%b9%a8%eb%9e%90%ea%b3%a0-%eb%8c%80%eb%b9%84%eb%8a%94-%ec%97%86%ec%97%88%eb%8b%a4%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ea%b7%b8%eb%a1%9d.html",
+    "platform": "CIO",
+    "title": "자동화는 빨랐고, 대비는 없었다…챗GPT·클로드·그록 동시 장애가 남긴 교훈",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "자동화는 빨랐고, 대비는 없었다…챗GPT·클로드·그록 동시 장애가 남긴 교훈",
+    "summary_ko": "AI 시대를 맞아 기업들은 새로운 고민에 직면했다. 핵심 업무를 맡긴 에이전트형 AI가 갑자기 멈춘다면 어떤 일이 벌어질까. 이 같은 우려는 지난주 현실이 됐다. 오픈AI의 챗GPT, 앤트로픽의 클로드, 스페이스XA의 그록이 거의 동시에, 그것도 뚜렷한 원인 없이 장시간 장애를 겪었다. 미국 동부시간 기준 이날 오전 챗GPT는 약 2시간 동안 여러 모델에서 장애가 발생했고, 클로드는 약 4시간, 그록은 약 3시간 30분 동안 서비스에 문제가 이어졌다. 세 기업 모두 오류가 평소보다 크게 증가한 사실을 인정하고 복구 조치를 시행했다.",
+    "url": "https://www.cio.com/article/4219006/%ec%9e%90%eb%8f%99%ed%99%94%eb%8a%94-%eb%b9%a8%eb%9e%90%ea%b3%a0-%eb%8c%80%eb%b9%84%eb%8a%94-%ec%97%86%ec%97%88%eb%8b%a4%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ea%b7%b8%eb%a1%9d.html",
+    "image": null,
+    "date": "2026-09-07T02:54:38.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4219003/%eb%a9%94%ed%83%80-%ec%a7%81%ec%9b%90-%ed%8f%89%ea%b0%80%ec%84%9c-ai-%ed%86%a0%ed%81%b0-%ec%82%ac%ec%9a%a9%eb%9f%89-%ec%a0%9c%ec%99%b8%ec%84%b1%ea%b3%bc-%ec%a4%91%ec%8b%ac%ec%9c%bc.html",
+    "platform": "CIO",
+    "title": "메타, 직원 평가서 ‘AI 토큰 사용량’ 제외…성과 중심으로 전환",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "메타, 직원 평가서 ‘AI 토큰 사용량’ 제외…성과 중심으로 전환",
+    "summary_ko": "메타가 연간 성과 평가에서 직원들의 AI 사용량을 평가 기준으로 삼지 않기로 했다. 앞서 이른바 ‘토큰 맥싱(token maxing)’을 중심으로 AI 활용을 장려했던 초기 방침에서 한발 물러선 것이다. IT 언론사 디인포메이션(The Information)에 따르면 메타는 직원들에게 “AI 도입 현황 대시보드나 토큰 사용량을 성과를 평가하는 기준으로 활용하지 않을 것”이라고 밝혔다. 이 같은 방침은 마허 사바(Maher Saba)와 산토시 자나르단(Santosh Janardhan) 임원이 배포한 사내 메모를 통해 공유됐다.",
+    "url": "https://www.cio.com/article/4219003/%eb%a9%94%ed%83%80-%ec%a7%81%ec%9b%90-%ed%8f%89%ea%b0%80%ec%84%9c-ai-%ed%86%a0%ed%81%b0-%ec%82%ac%ec%9a%a9%eb%9f%89-%ec%a0%9c%ec%99%b8%ec%84%b1%ea%b3%bc-%ec%a4%91%ec%8b%ac%ec%9c%bc.html",
+    "image": null,
+    "date": "2026-09-07T02:30:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1w9f4ko/denzel_washington_explains_why_its_not_ai_slop/",
+    "platform": "Reddit",
+    "title": "Denzel Washington explains why it's not \"AI slop\"",
+    "author": {
+      "name": "/u/onil_gova",
+      "handle": "/u//u/onil_gova",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Denzel Washington explains why it's not \"AI slop\"",
+    "summary_ko": "Denzel Washington이 \"AI 슬롭\"이 아닌 이유를 설명합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1w9f4ko/denzel_washington_explains_why_its_not_ai_slop/",
+    "image": "https://external-preview.redd.it/YW9lOGF1MHphMG9oMYo9zkEnXPuovGNkEixNKPKh5sff0IeLe7Dfc60kvnL8.png?width=640&crop=smart&auto=webp&s=96dfca8794b336aa489a3caf5e406f6769e220b8",
+    "date": "2026-09-07T02:08:56.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1w9dmf3/the_man_who_invented_the_term_agi_declares_that/",
+    "platform": "Reddit",
+    "title": "The man who invented the term 'AGI' declares that AGI is here",
+    "author": {
+      "name": "/u/Cagnazzo82",
+      "handle": "/u//u/Cagnazzo82",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The man who invented the term 'AGI' declares that AGI is here",
+    "summary_ko": "AGI라는 용어를 창안한 사람은 AGI가 여기에 있다고 선언합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1w9dmf3/the_man_who_invented_the_term_agi_declares_that/",
+    "image": "https://preview.redd.it/xebx5pb0yznh1.png?width=320&crop=smart&auto=webp&s=01580e0462eaaa7ba8107b7a92a79b327764c434",
+    "date": "2026-09-07T00:56:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1w9cbcb/ceo_jensen_huang_says_artificial_general/",
+    "platform": "Reddit",
+    "title": "CEO Jensen Huang says Artificial General Intelligence (AGI) has arrived.",
+    "author": {
+      "name": "/u/TheGoldenLeaper",
+      "handle": "/u//u/TheGoldenLeaper",
+      "avatar_color": "#ff4500"
+    },
+    "content": "CEO Jensen Huang says Artificial General Intelligence (AGI) has arrived.",
+    "summary_ko": "Jensen Huang CEO는 인공일반지능(AGI)이 도래했다고 말했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1w9cbcb/ceo_jensen_huang_says_artificial_general/",
+    "image": "https://preview.redd.it/qvctks1knznh1.png?width=640&crop=smart&auto=webp&s=c4ecb076bdbe2e37a38d787dbb530a2cc412e989",
+    "date": "2026-09-06T23:57:54.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1w93mgg/gpt6_astra_finished_the_game_rimworld_in_15_hours/",
     "platform": "Reddit",
     "title": "GPT-6 Astra finished the game RimWorld in 15 hours.",
@@ -2807,74 +2932,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjcljq/rtx_5090_96gb_spotted_on_alibaba/",
     "image": "https://preview.redd.it/rzunb9uu39ih1.png?width=640&crop=smart&auto=webp&s=8a871629ca059e9bc1e608f1db7ec33ef070cdc9",
     "date": "2026-08-09T01:20:24.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vivgeq/this_is_why_the_vast_majority_arent_taking_any/",
-    "platform": "Reddit",
-    "title": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
-    "author": {
-      "name": "/u/PressPlayPlease7",
-      "handle": "/u//u/PressPlayPlease7",
-      "avatar_color": "#ff4500"
-    },
-    "content": "This is why the vast majority aren't taking any \"this new model is dangerous\" messages seriously. They've cried wolf FAR too many times. They could literally announce that a nuclear war caused by AI is 24 hours away and many wouldn't bat an eye",
-    "summary_ko": "이것이 대다수의 사람들이 \"이 새로운 모델은 위험하다\"는 메시지를 심각하게 받아들이지 않는 이유입니다. 그들은 늑대를 너무 많이 울부짖었습니다. AI로 인한 핵전쟁이 24시간 앞으로 다가왔으며 많은 사람들이 눈 하나 깜짝하지 않을 것이라고 문자 그대로 발표할 수 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1vivgeq/this_is_why_the_vast_majority_arent_taking_any/",
-    "image": "https://preview.redd.it/11ht1un0g5ih1.png?width=640&crop=smart&auto=webp&s=2652fc46af65da2e4355b49b4688a07df812545a",
-    "date": "2026-08-08T13:01:25.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1viqtgm/2027_memory_capacity_is_reportedly_sold_out/",
-    "platform": "Reddit",
-    "title": "2027 Memory Capacity Is Reportedly Sold Out",
-    "author": {
-      "name": "/u/johnnyApplePRNG",
-      "handle": "/u//u/johnnyApplePRNG",
-      "avatar_color": "#ff4500"
-    },
-    "content": "2027 Memory Capacity Is Reportedly Sold Out",
-    "summary_ko": "2027년 메모리 용량이 매진된 것으로 알려졌습니다",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viqtgm/2027_memory_capacity_is_reportedly_sold_out/",
-    "image": "https://external-preview.redd.it/RULANo01uf3INcx62jxJ05Z56Nn9ube37FArEuVZSGw.jpeg?width=640&crop=smart&auto=webp&s=420022a24539ce6b1dda06070b7b1719ff27155f",
-    "date": "2026-08-08T08:45:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vioml5/ai_model_trained_in_dna_invents_16_new_viruses/",
-    "platform": "Reddit",
-    "title": "AI Model Trained In DNA Invents 16 New Viruses Not Found In Nature",
-    "author": {
-      "name": "/u/Steap-Edit",
-      "handle": "/u//u/Steap-Edit",
-      "avatar_color": "#ff4500"
-    },
-    "content": "AI Model Trained In DNA Invents 16 New Viruses Not Found In Nature",
-    "summary_ko": "DNA로 훈련된 AI 모델, 자연에서는 발견되지 않는 16종의 새로운 바이러스 발견",
-    "url": "https://www.reddit.com/r/singularity/comments/1vioml5/ai_model_trained_in_dna_invents_16_new_viruses/",
-    "image": "https://external-preview.redd.it/RHwP9wfLO4doWMHwzgM2W0z7bQxHaLx0aTCGOIGfxT0.jpeg?width=640&crop=smart&auto=webp&s=42e0233d099dd7edb2798ed1e2d449a7660feb56",
-    "date": "2026-08-08T06:34:02.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vifymf/sam_on_astras_delayed_release/",
-    "platform": "Reddit",
-    "title": "Sam on Astra’s delayed release",
-    "author": {
-      "name": "/u/Outside-Iron-8242",
-      "handle": "/u//u/Outside-Iron-8242",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Sam on Astra’s delayed release",
-    "summary_ko": "Astra의 출시 지연에 대한 Sam",
-    "url": "https://www.reddit.com/r/singularity/comments/1vifymf/sam_on_astras_delayed_release/",
-    "image": "https://preview.redd.it/786xxw09d1ih1.png?width=640&crop=smart&auto=webp&s=c984e646e34e43afde303abd4d316cc0d657adba",
-    "date": "2026-08-07T23:18:34.000Z",
     "likes": 0,
     "comments": 0
   }
