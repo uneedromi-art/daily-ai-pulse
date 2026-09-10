@@ -1,5 +1,148 @@
 [
   {
+    "id": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+    "platform": "Google",
+    "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Machine Intelligence",
+    "summary_ko": "Tool Grad: 텍스트 \"그라디언트\"를 사용한 효율적인 도구 사용 데이터세트 생성",
+    "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+    "image": null,
+    "date": "2026-09-10T22:50:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wclhgv/huggingface_security_txt_after_the_openai_incident/",
+    "platform": "Reddit",
+    "title": "Huggingface security txt after the OpenAI incident",
+    "author": {
+      "name": "/u/skolnaja",
+      "handle": "/u//u/skolnaja",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Huggingface security txt after the OpenAI incident",
+    "summary_ko": "OpenAI 사건 이후 허깅페이스(Huggingface) 보안 txt",
+    "url": "https://www.reddit.com/r/singularity/comments/1wclhgv/huggingface_security_txt_after_the_openai_incident/",
+    "image": "https://preview.redd.it/gudok8h3ipoh1.png?width=640&crop=smart&auto=webp&s=f64913f618baf8c3867a110862b04687a70c7204",
+    "date": "2026-09-10T14:54:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1wcdzl3/linked_in_post_from_maths_professor_claims/",
+    "platform": "Reddit",
+    "title": "Linked In post from maths professor claims \"BREAKING: OpenAI might have stolen another major proof\"... screenshots herein:",
+    "author": {
+      "name": "/u/lowkeysciguy",
+      "handle": "/u//u/lowkeysciguy",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Linked In post from maths professor claims \"BREAKING: OpenAI might have stolen another major proof\"... screenshots herein:",
+    "summary_ko": "Linked In에서 수학 교수의 게시물은 \"속보: OpenAI가 또 다른 주요 증거를 훔쳤을 수 있습니다\"라고 주장합니다... 여기 스크린샷:.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1wcdzl3/linked_in_post_from_maths_professor_claims/",
+    "image": "https://preview.redd.it/xbdcxd85unoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7fb4cdeb4cc457fa70f21ed3df7369a235a980d8",
+    "date": "2026-09-10T09:17:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4220569/ciso-41%eb%8a%94-ai-%eb%b3%b4%ec%95%88-%eb%af%b8%eb%9e%98%ec%97%90-%eb%82%99%ea%b4%80%c2%b7%c2%b7%c2%b7-%ec%8b%a4%ec%a0%9c-%eb%b3%b4%ec%95%88-%ec%88%98%ec%a4%80%ea%b3%bc%eb%8a%94.html",
+    "platform": "CIO",
+    "title": "CISO 41%는 AI 보안 미래에 ‘낙관’··· 실제 보안 수준과는 별개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "CISO 41%는 AI 보안 미래에 ‘낙관’··· 실제 보안 수준과는 별개",
+    "summary_ko": "IANS가 올해 초 실시한 ‘AI 보안 설문조사(AI Security Survey)’를 분석한 결과, 향후 2년간 AI가 초래할 보안 위험에 대응할 수 있다는 보안 책임자의 자신감은 몇 가지 뚜렷한 요인에 좌우되는 것으로 나타났다. IANS가 지난 4~5월 CISO 113명을 대상으로 조사한 결과, 향후 24개월 동안 조직이 AI 보안 위험을 관리할 역량에 대해 낙관적이라고 답한 비율은 41%였다. 반면 비관적으로 전망한 응답자는 38%였다.",
+    "url": "https://www.cio.com/article/4220569/ciso-41%eb%8a%94-ai-%eb%b3%b4%ec%95%88-%eb%af%b8%eb%9e%98%ec%97%90-%eb%82%99%ea%b4%80%c2%b7%c2%b7%c2%b7-%ec%8b%a4%ec%a0%9c-%eb%b3%b4%ec%95%88-%ec%88%98%ec%a4%80%ea%b3%bc%eb%8a%94.html",
+    "image": null,
+    "date": "2026-09-10T07:10:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4220557/ai-%eb%8f%84%ec%9e%85%eb%a5%a0%ec%9d%84-%eb%b2%84%eb%a6%b0-jp%eb%aa%a8%ea%b1%b4%ec%84%b1%ea%b3%bc%eb%a5%bc-%ea%b0%80%eb%a0%a4%eb%82%b4%eb%8a%94-%ec%8b%a4%ed%97%98%eb%b2%95.html",
+    "platform": "CIO",
+    "title": "AI 도입률을 버린 JP모건…성과를 가려내는 실험법",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 도입률을 버린 JP모건…성과를 가려내는 실험법",
+    "summary_ko": "2024년 여름, JP모건 체이스는(JPMorgan Chase)는 사내 AI 플랫폼 LLM 스위트(Suite)를 도입했다. 그러나 출시 방식은 대부분의 기업과 달랐다. 직원들에게 사용을 강요하지 않았기 때문이다. LLM 스위트가 처음으로 대규모 도입된 곳은 자산·자산관리 부문이었다. 당시 직원들은 이 도구를 리서치 애널리스트처럼 활용하라는 안내를 받았다. 데이터나 초안, 아이디어가 필요할 때 질문하는 상대라고 생각하라는 의미였다. 경영진은 사용량 목표를 설정하지도, 공식적인 사용 지침을 내리지도 않았다. 접근 권한도 단계적으로 확대했다.",
+    "url": "https://www.cio.com/article/4220557/ai-%eb%8f%84%ec%9e%85%eb%a5%a0%ec%9d%84-%eb%b2%84%eb%a6%b0-jp%eb%aa%a8%ea%b1%b4%ec%84%b1%ea%b3%bc%eb%a5%bc-%ea%b0%80%eb%a0%a4%eb%82%b4%eb%8a%94-%ec%8b%a4%ed%97%98%eb%b2%95.html",
+    "image": null,
+    "date": "2026-09-10T06:56:29.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
+    "platform": "Reddit",
+    "title": "DeepSeek V4-1 Flash is out",
+    "author": {
+      "name": "/u/tiguidoio",
+      "handle": "/u//u/tiguidoio",
+      "avatar_color": "#ff4500"
+    },
+    "content": "DeepSeek V4-1 Flash is out",
+    "summary_ko": "DeepSeek V4-1 플래시 출시",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
+    "image": "https://preview.redd.it/6c1tvzhn4noh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6d491c59edb2545a53f1ac5c9c4f8ce0d2bb59c9",
+    "date": "2026-09-10T06:54:19.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4220524/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b9%80%ec%a2%85%ed%9b%88-%ec%97%a0%ed%82%a4%ec%8a%a4%ec%bd%94%ec%96%b4-%ec%97%b0%ea%b5%ac%ec%86%8c%ec%9e%a5-%ec%88%98%eb%83%89%ec%8b%9d-%eb%8d%b0%ec%9d%b4.html",
+    "platform": "CIO",
+    "title": "인터뷰 | 김종훈 엠키스코어 연구소장 “수랭식 데이터센터는 이제 필수…AI 팩토리 구축 성패, 기술 연결하는 전문 파트너가 좌우”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "인터뷰 | 김종훈 엠키스코어 연구소장 “수랭식 데이터센터는 이제 필수…AI 팩토리 구축 성패, 기술 연결하는 전문 파트너가 좌우”",
+    "summary_ko": "2019년 설립된 AI 팩토리(Factory) 전문 기업 엠키스코어는 대규모 GPU 클러스터의 설계·구축·최적화 경험과 AI 풀스택(Full Stack)지원 역량을 바탕으로 국내 AI 인프라 시장에서 입지를 다져왔다. 특히 최근 데이터센터 업계의 최대 화두로 떠오른 액체냉각(수랭) 분야에서도 구축 경험을 축적하고 있다. 엠키스코어가 현장에서 체감하는 AI 시대 데이터센터의 변화, 그리고 새로운 인프라를 준비하는 IT 리더가 주목해야 할 지점을 들어봤다.",
+    "url": "https://www.cio.com/article/4220524/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b9%80%ec%a2%85%ed%9b%88-%ec%97%a0%ed%82%a4%ec%8a%a4%ec%bd%94%ec%96%b4-%ec%97%b0%ea%b5%ac%ec%86%8c%ec%9e%a5-%ec%88%98%eb%83%89%ec%8b%9d-%eb%8d%b0%ec%9d%b4.html",
+    "image": null,
+    "date": "2026-09-10T05:17:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wc6krf/so_relevant/",
+    "platform": "Reddit",
+    "title": "So relevant",
+    "author": {
+      "name": "/u/0dayturtle",
+      "handle": "/u//u/0dayturtle",
+      "avatar_color": "#ff4500"
+    },
+    "content": "So relevant",
+    "summary_ko": "관련성이 매우 높음",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc6krf/so_relevant/",
+    "image": "https://preview.redd.it/i8agcp89wloh1.png?width=640&crop=smart&auto=webp&s=5301cbd3c1fe37c2de80515845a50897a9663ac5",
+    "date": "2026-09-10T02:45:50.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1wbphuo/summarizing_the_current_discourse_regarding/",
     "platform": "Reddit",
     "title": "Summarizing the current discourse regarding Navier stokes on both pro and anti-AI online spaces.",
@@ -2922,170 +3065,6 @@
     "url": "https://www.cio.com/article/4208283/%ed%85%8c%ec%9d%b4%ec%bb%a4%c2%b7%eb%a9%94%ec%9d%b4%ec%bb%a4%c2%b7%eb%b9%8c%eb%8d%94%eb%a9%94%eb%a5%b4%ec%84%b8%eb%8d%b0%ec%8a%a4-%eb%b2%a4%ec%b8%a0-%ec%a0%84-%ec%a7%81%ec%9b%90-ai.html",
     "image": "https://b2b-contenthub.com/wp-content/uploads/2026/07/26C0155_002_16_9.jpg?quality=50&amp;strip=all&amp;w=1024",
     "date": "2026-08-12T01:00:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
-    "platform": "Google",
-    "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Health & Bioscience",
-    "summary_ko": "AMIE를 전문가 수준의 시청각 임상 상담으로 발전",
-    "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
-    "image": null,
-    "date": "2026-08-11T17:04:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1vljlpb/whats_your_thoughts_on_this/",
-    "platform": "Reddit",
-    "title": "What's your thoughts on this?",
-    "author": {
-      "name": "/u/hibzy7",
-      "handle": "/u//u/hibzy7",
-      "avatar_color": "#ff4500"
-    },
-    "content": "What's your thoughts on this?",
-    "summary_ko": "이에 대해 어떻게 생각하시나요?",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1vljlpb/whats_your_thoughts_on_this/",
-    "image": "https://preview.redd.it/c8s1dtl7erih1.jpeg?width=640&crop=smart&auto=webp&s=8e317eec6e9197604a70cda3a05bbfd24c077a98",
-    "date": "2026-08-11T14:50:11.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1vlcjzz/open_living_a_data_center_you_can_live_in/",
-    "platform": "Reddit",
-    "title": "📀OPEN LIVING - A Data Center You Can Live in",
-    "author": {
-      "name": "/u/GasBond",
-      "handle": "/u//u/GasBond",
-      "avatar_color": "#ff4500"
-    },
-    "content": "📀OPEN LIVING - A Data Center You Can Live in",
-    "summary_ko": "📀OPEN LIVING - 거주할 수 있는 데이터 센터",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1vlcjzz/open_living_a_data_center_you_can_live_in/",
-    "image": "https://external-preview.redd.it/YzB6aHFwcTBzcGloMbEOznPQ4ZaLIE9VUzkDVtcs2F08BZxSGCGGsyhQIHw9.png?width=640&crop=smart&auto=webp&s=140128b1b8414bc8c4a87e9473c16e87413293ee",
-    "date": "2026-08-11T09:24:05.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4207767/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b0%9c%ec%a0%95-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%eb%b3%b4%ed%98%b8%eb%b2%95-%eb%8c%80%ec%9d%91-%ec%9c%84%ed%95%9c-%ec%bd%98%ed%85%90%ec%b8%a0.html",
-    "platform": "CIO",
-    "title": "오픈텍스트, 개정 개인정보 보호법 대응 위한 콘텐츠 거버넌스 방안 제시",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "오픈텍스트, 개정 개인정보 보호법 대응 위한 콘텐츠 거버넌스 방안 제시",
-    "summary_ko": "이번 개정안에는 일정 규모 이상의 개인정보처리자가 개인정보 보호책임자(CPO)를 지정·변경·해제할 경우 이사회 의결과 개인정보보호위원회 신고를 거치도록 하는 내용이 담겼다. 또한 개인정보 유출 가능성을 인지한 경우 정보주체에게 신속하게 통지하도록 하고, 일정 요건에 해당하는 경우 72시간 이내 통지·신고하도록 하는 내용도 포함됐다. 반복적이거나 중대한 위반에 대한 과징금 상한은 매출액의 3%에서 10%로 상향됐으며, 개인정보 보호를 위한 사전 투자는 과징금 감경 사유로 인정된다.",
-    "url": "https://www.cio.com/article/4207767/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b0%9c%ec%a0%95-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%eb%b3%b4%ed%98%b8%eb%b2%95-%eb%8c%80%ec%9d%91-%ec%9c%84%ed%95%9c-%ec%bd%98%ed%85%90%ec%b8%a0.html",
-    "image": null,
-    "date": "2026-08-11T07:20:57.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/",
-    "platform": "Reddit",
-    "title": "Qwen 3.8-27b coming this week",
-    "author": {
-      "name": "/u/Bestlife73",
-      "handle": "/u//u/Bestlife73",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Qwen 3.8-27b coming this week",
-    "summary_ko": "이번 주에 Qwen 3.8-27b가 출시됩니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/",
-    "image": "https://preview.redd.it/06v8tcdekoih1.jpeg?width=640&crop=smart&auto=webp&s=aa6f6cf62b21128e780b7bdf97823a314443b1ca",
-    "date": "2026-08-11T05:20:06.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4207639/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ed%95%ad%ea%b3%b5%ec%9a%b0%ec%a3%bc%ea%b8%b0%ec%97%85-ge-%ec%97%90%ec%96%b4%eb%a1%9c%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4%ec%9d%98-ai-%ec%a0%84%eb%9e%b5.html",
-    "platform": "CIO",
-    "title": "인터뷰 | 항공우주기업 GE 에어로스페이스의 AI 전략…”파일럿보다 프로세스 혁신”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "인터뷰 | 항공우주기업 GE 에어로스페이스의 AI 전략…”파일럿보다 프로세스 혁신”",
-    "summary_ko": "AI 도입 경쟁이 치열해지면서 많은 CIO가 같은 고민에 직면해 있다. 속도를 높이면서도 감당하기 어려운 위험은 어떻게 피할 것인가 하는 점이다. 이 과제를 가장 무겁게 안고 있는 리더 가운데 한 명이 항공우주 기업 GE 에어로스페이스(GE Aerospace)의 CIO 데이비드 번스(David Burns)다. GE 에어로스페이스는 지난 10여 년 동안 AI를 사업 전반에 적용해 온 경험을 바탕으로, AI를 활용해 업무를 단순화하고 자동화하는 새로운 디지털 전환을 추진하고 있다.",
-    "url": "https://www.cio.com/article/4207639/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ed%95%ad%ea%b3%b5%ec%9a%b0%ec%a3%bc%ea%b8%b0%ec%97%85-ge-%ec%97%90%ec%96%b4%eb%a1%9c%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4%ec%9d%98-ai-%ec%a0%84%eb%9e%b5.html",
-    "image": null,
-    "date": "2026-08-11T01:28:58.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4207626/%eb%98%90-%ec%83%8c%eb%93%9c%eb%b0%95%ec%8a%a4-%eb%9a%ab%ec%9d%80-ai-%eb%aa%a8%eb%8d%b8%ed%82%a4%eb%af%b8-k3-%ea%b9%83%ed%97%88%eb%b8%8c-%ec%a0%91%ec%86%8d%ed%95%b4-%ec%a0%95%eb%8b%b5.html",
-    "platform": "CIO",
-    "title": "또 샌드박스 뚫은 AI 모델…키미 K3, 깃허브 접속해 정답 가져왔다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "또 샌드박스 뚫은 AI 모델…키미 K3, 깃허브 접속해 정답 가져왔다",
-    "summary_ko": "또 다른 AI 모델이 사이버보안 테스트 환경을 탈출한 것으로 확인됐다. 이번에는 중국 AI 기업 문샷(Moonshot)의 키미(Kimi) K3 모델이다. 보안 기업 프런티어 시큐리티(Frontier Security)는 키미 K3가 영국 AI 안전연구소(UK AI Safety Institute)가 운영하는 사이버보안 AI 평가 환경에서 허점을 찾아냈다고 밝혔다. 이번 사례는 앞서 오픈AI 모델이 허깅페이스를 공격한 데 이어 앤트로픽, 그리고 최근 메타 모델에서도 유사한 테스트 환경 탈출 사례가 확인된 이후 발생했다.",
-    "url": "https://www.cio.com/article/4207626/%eb%98%90-%ec%83%8c%eb%93%9c%eb%b0%95%ec%8a%a4-%eb%9a%ab%ec%9d%80-ai-%eb%aa%a8%eb%8d%b8%ed%82%a4%eb%af%b8-k3-%ea%b9%83%ed%97%88%eb%b8%8c-%ec%a0%91%ec%86%8d%ed%95%b4-%ec%a0%95%eb%8b%b5.html",
-    "image": null,
-    "date": "2026-08-11T01:20:13.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4207622/%ec%b9%bc%eb%9f%bc-%ea%b8%b0%ec%97%85-ai-%eb%b3%b4%ec%95%88-3%ea%b0%80%ec%a7%80-%ec%8b%a4%ec%88%98%ea%b0%80-%ec%95%85%eb%aa%bd%ec%9d%84-%eb%b6%80%eb%a5%b8%eb%8b%a4.html",
-    "platform": "CIO",
-    "title": "칼럼 | 기업 AI 보안, 3가지 실수가 악몽을 부른다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 기업 AI 보안, 3가지 실수가 악몽을 부른다",
-    "summary_ko": "기업 환경에서 AI가 본격적으로 운영 시스템에 도입되는 시대가 다가오고 있다는 이야기가 많다. 하지만 많은 사람이 인식하지 못하는 사이, 이 현실은 이미 시작됐다. 어떻게 대응하느냐에 따라 현실이 될 수도, 악몽이 될 수도 있는 상황이다. 모든 것은 ‘파일럿 프로젝트’나 ‘프로토타입’, 혹은 ‘사이드 프로젝트’에서 시작된다. 누군가 AI 에이전트를 활용해 사내 대시보드를 만든다. 이 대시보드는 빠르게 없어서는 안 될 도구가 되고, 어느새 실험용 프로젝트는 운영 시스템으로 자리 잡는다. 하지만 그 과정에서 누구도 번거롭지만 반드시 필요한 질문을 던지지 않는다.",
-    "url": "https://www.cio.com/article/4207622/%ec%b9%bc%eb%9f%bc-%ea%b8%b0%ec%97%85-ai-%eb%b3%b4%ec%95%88-3%ea%b0%80%ec%a7%80-%ec%8b%a4%ec%88%98%ea%b0%80-%ec%95%85%eb%aa%bd%ec%9d%84-%eb%b6%80%eb%a5%b8%eb%8b%a4.html",
-    "image": null,
-    "date": "2026-08-11T01:11:30.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4207606/%ec%a7%80%ea%b2%8c%ec%b0%a8%eb%b6%80%ed%84%b0-%eb%b3%b4%ec%95%88-%ec%b9%b4%eb%a9%94%eb%9d%bc%ea%b9%8c%ec%a7%80%ea%b8%b0%ec%97%85%ec%9d%b4-%ec%8b%a4%ec%a0%9c-%ec%84%a0%ed%83%9d%ed%95%9c.html",
-    "platform": "CIO",
-    "title": "지게차부터 보안 카메라까지…기업이 실제 선택한 피지컬 AI 활용처 7가지",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "지게차부터 보안 카메라까지…기업이 실제 선택한 피지컬 AI 활용처 7가지",
-    "summary_ko": "노트북에서 사용하는 챗봇이나 회의록을 프로젝트 티켓으로 전환하는 백그라운드 AI 에이전트가 다음 AI 물결의 중심이 되는 것은 아니다. 앞으로는 주변 환경과 상호작용하며 움직이는 장치를 직접 제어하는 AI가 새로운 AI 혁신을 이끌 것으로 전망된다. 피지컬 AI는 AI를 자율 시스템에 통합해 주변 환경을 인식하고 현실 세계에서 복잡한 작업을 수행하도록 하는 기술을 의미한다. 현재 약 920억 달러(약 130조 원) 규모인 피지컬 AI 시장은 Pw C에 따르면 2030년까지 4,890억 달러(약 691조 원)를 넘어설 것으로 전망된다.",
-    "url": "https://www.cio.com/article/4207606/%ec%a7%80%ea%b2%8c%ec%b0%a8%eb%b6%80%ed%84%b0-%eb%b3%b4%ec%95%88-%ec%b9%b4%eb%a9%94%eb%9d%bc%ea%b9%8c%ec%a7%80%ea%b8%b0%ec%97%85%ec%9d%b4-%ec%8b%a4%ec%a0%9c-%ec%84%a0%ed%83%9d%ed%95%9c.html",
-    "image": null,
-    "date": "2026-08-11T01:04:52.000Z",
     "likes": 0,
     "comments": 0
   }
