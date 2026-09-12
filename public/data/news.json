@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1wekeow/sam_dario_and_elon_have_all_agreed_to_slow_down/",
+    "platform": "Reddit",
+    "title": "Sam, Dario and Elon have all agreed to slow down on AI acceleration",
+    "author": {
+      "name": "/u/LeviAJ15",
+      "handle": "/u//u/LeviAJ15",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Sam, Dario and Elon have all agreed to slow down on AI acceleration",
+    "summary_ko": "Sam, Dario 및 Elon은 모두 AI 가속 속도를 늦추는 데 동의했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1wekeow/sam_dario_and_elon_have_all_agreed_to_slow_down/",
+    "image": "https://preview.redd.it/w9vy2jspv4ph1.jpeg?width=640&crop=smart&auto=webp&s=63ed06bb13313d364143eb9690c6f93f8152940a",
+    "date": "2026-09-12T18:36:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1weh7iu/open_letter_from_100000_cancer_researchers/",
+    "platform": "Reddit",
+    "title": "Open Letter from 100000 cancer researchers against AI use for cancer",
+    "author": {
+      "name": "/u/soggy_bert",
+      "handle": "/u//u/soggy_bert",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Open Letter from 100000 cancer researchers against AI use for cancer",
+    "summary_ko": "암에 대한 AI 사용에 반대하는 100,000명의 암 연구자들의 공개 서한",
+    "url": "https://www.reddit.com/r/singularity/comments/1weh7iu/open_letter_from_100000_cancer_researchers/",
+    "image": "https://preview.redd.it/etx9c6by94ph1.png?width=320&crop=smart&auto=webp&s=c59cee05b535e35b9f26ac06b1198c9f36359573",
+    "date": "2026-09-12T16:34:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1weh77m/sam_altman_agrees_with_dario/",
+    "platform": "Reddit",
+    "title": "Sam Altman agrees with Dario!",
+    "author": {
+      "name": "/u/acoolrandomusername",
+      "handle": "/u//u/acoolrandomusername",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Sam Altman agrees with Dario!",
+    "summary_ko": "Sam Altman은 Dario의 의견에 동의합니다!",
+    "url": "https://www.reddit.com/r/singularity/comments/1weh77m/sam_altman_agrees_with_dario/",
+    "image": "https://preview.redd.it/nyf3uddy94ph1.png?width=320&crop=smart&auto=webp&s=38704cfb4b8fe716f791c6bef0282f2b04d0d8f5",
+    "date": "2026-09-12T16:34:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just/",
+    "platform": "Reddit",
+    "title": "3.8-27B has ruined 3.5/3.6-35B’s for me. It’s just *absurdly* superior.",
+    "author": {
+      "name": "/u/JLeonsarmiento",
+      "handle": "/u//u/JLeonsarmiento",
+      "avatar_color": "#ff4500"
+    },
+    "content": "3.8-27B has ruined 3.5/3.6-35B’s for me. It’s just *absurdly* superior.",
+    "summary_ko": "3. 8-27B는 3. 5/3. 6-35B를 망쳤습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just/",
+    "image": "https://preview.redd.it/09z7dwple2ph1.jpeg?width=640&crop=smart&auto=webp&s=35f4de856ae1ce10f82619d2547447bd121d81c6",
+    "date": "2026-09-12T10:16:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4221007/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%8b%9c%eb%8c%80-3%ea%b0%80%ec%a7%80-%ea%b2%bd%ec%a0%9c-%ec%8b%9c%eb%82%98%eb%a6%ac%ec%98%a4-%ea%b3%b5%ea%b0%9c%ea%b3%a0%ec%84%b1%ec%9e%a5.html",
     "platform": "CIO",
     "title": "앤트로픽, AI 시대 3가지 경제 시나리오 공개…’고성장’과 ‘대규모 실업’ 공존",
@@ -2884,131 +2952,6 @@
     "url": "https://www.cio.com/article/4209426/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%8a%b9%ec%9d%b8-%ed%94%bc%eb%a1%9c-%ec%a4%84%ec%9d%b8%eb%8b%a4%ec%a0%84%eb%ac%b8%ea%b0%80.html",
     "image": null,
     "date": "2026-08-14T00:26:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/",
-    "platform": "Reddit",
-    "title": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
-    "author": {
-      "name": "/u/mossy_troll_84",
-      "handle": "/u//u/mossy_troll_84",
-      "avatar_color": "#ff4500"
-    },
-    "content": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
-    "summary_ko": "deepseek-ai/DeepSeek-V4-Pro-0813 · 포옹하는 얼굴",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/",
-    "image": "https://external-preview.redd.it/7YqDgq3lNDmhu0oHQmFkgtazI18pKtpmtgtD7S75LrA.png?width=640&crop=smart&auto=webp&s=06ef735df8a564b59c13deef85d758000cc692e2",
-    "date": "2026-08-13T12:37:23.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/",
-    "platform": "Reddit",
-    "title": "DeepSeek announce price increases of 50-1000%",
-    "author": {
-      "name": "/u/AlyoshaV",
-      "handle": "/u//u/AlyoshaV",
-      "avatar_color": "#ff4500"
-    },
-    "content": "DeepSeek announce price increases of 50-1000%",
-    "summary_ko": "DeepSeek, 50~1000% 가격 인상 발표",
-    "url": "https://www.reddit.com/r/singularity/comments/1vn8qsr/deepseek_announce_price_increases_of_501000/",
-    "image": "https://preview.redd.it/ml5w5wlst4jh1.jpeg?width=640&crop=smart&auto=webp&s=e54afe88a08e37ac832a91ce9e7b74323171cdff",
-    "date": "2026-08-13T12:01:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vn4020/the_countdown_to_qwen3827b_starts_now/",
-    "platform": "Reddit",
-    "title": "The countdown to Qwen3.8-27B starts now!",
-    "author": {
-      "name": "/u/Ok-Shower7286",
-      "handle": "/u//u/Ok-Shower7286",
-      "avatar_color": "#ff4500"
-    },
-    "content": "The countdown to Qwen3.8-27B starts now!",
-    "summary_ko": "Qwen3.8-27B의 카운트다운이 지금 시작됩니다!",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn4020/the_countdown_to_qwen3827b_starts_now/",
-    "image": "https://external-preview.redd.it/7evYurtRZy1dWw_722OJZ9KshO-Vjsdt_Qf94hyXWtk.png?width=640&crop=smart&auto=webp&s=ba13fd0505e2f5e54d4021a82c93b6b8c8cc0c08",
-    "date": "2026-08-13T07:36:51.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4208948/%ea%b0%90%ec%a7%80%eb%8a%94-%ec%b4%88-%eb%8b%a8%ec%9c%84-%ed%94%bc%ed%95%b4-%ed%8c%8c%ec%95%85%ec%9d%80-%ec%8b%9c%ea%b0%84-%eb%8b%a8%ec%9c%84ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%82%ac.html",
-    "platform": "CIO",
-    "title": "감지는 초 단위, 피해 파악은 시간 단위…AI 에이전트 사고의 맹점",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "감지는 초 단위, 피해 파악은 시간 단위…AI 에이전트 사고의 맹점",
-    "summary_ko": "IT 및 보안 리더 대다수는 AI 에이전트가 이상 행동을 보일 경우 이를 탐지할 수 있는 역량을 갖추고 있다고 자신하지만, 에이전트가 의도된 권한 범위를 벗어나 작동했을 때 발생하는 피해를 신속하게 통제할 수 있는 조직은 많지 않은 것으로 나타났다. IT 옵저버빌리티 업체 와나웨어(Wan Aware)가 IT 및 보안 리더를 대상으로 실시한 조사에 따르면, 응답자의 90%는 오작동하는 AI 에이전트를 탐지할 수 있다고 답했다. 그러나 사고 발생 후 하위 시스템으로 확산되는 영향을 수분 내에 추적할 수 있다고 답한 비율은 26%에 그쳤다.",
-    "url": "https://www.cio.com/article/4208948/%ea%b0%90%ec%a7%80%eb%8a%94-%ec%b4%88-%eb%8b%a8%ec%9c%84-%ed%94%bc%ed%95%b4-%ed%8c%8c%ec%95%85%ec%9d%80-%ec%8b%9c%ea%b0%84-%eb%8b%a8%ec%9c%84ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%82%ac.html",
-    "image": null,
-    "date": "2026-08-13T07:22:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4208937/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%c2%b7%ec%9b%94%ea%b0%80-700%ec%a1%b0-%ed%88%ac%ec%9e%90-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c%eb%b2%94it-%eb%a6%ac%eb%8d%94%eb%8a%94-%ec%b9%a9%ea%b0%92.html",
-    "platform": "CIO",
-    "title": "엔비디아·월가, 700조 투자 플랫폼 출범…IT 리더는 ‘칩값 상승·공급난’ 우려",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "엔비디아·월가, 700조 투자 플랫폼 출범…IT 리더는 ‘칩값 상승·공급난’ 우려",
-    "summary_ko": "엔비디아는 아폴로(Apollo), 블랙록(Black Rock), 블랙스톤(Blackstone), 브룩필드(Brookfield), 골드만삭스(Goldman Sachs), KKR 등 6개 금융사와 함께 5,000억 달러(약 712조 원) 규모의 투자 플랫폼을 조성한다. 이를 통해 최첨단 AI 연구소와 AI 클라우드 사업자, 일반 기업 등 엔비디아 고객이 AI 칩을 신용 기반으로 구매할 수 있도록 지원할 계획이다. 이 같은 대규모 자금 공급이 기업 AI 시장에 어떤 영향을 미칠지는 아직 불확실하다.",
-    "url": "https://www.cio.com/article/4208937/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%c2%b7%ec%9b%94%ea%b0%80-700%ec%a1%b0-%ed%88%ac%ec%9e%90-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c%eb%b2%94it-%eb%a6%ac%eb%8d%94%eb%8a%94-%ec%b9%a9%ea%b0%92.html",
-    "image": null,
-    "date": "2026-08-13T07:07:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vn0oww/white_house_creates_framework_for_private/",
-    "platform": "Reddit",
-    "title": "White House creates framework for private companies to launch government authorized cyberattacks",
-    "author": {
-      "name": "/u/Outside-Iron-8242",
-      "handle": "/u//u/Outside-Iron-8242",
-      "avatar_color": "#ff4500"
-    },
-    "content": "White House creates framework for private companies to launch government authorized cyberattacks",
-    "summary_ko": "백악관, 민간 기업이 정부 승인 사이버 공격을 시작할 수 있는 프레임워크 마련",
-    "url": "https://www.reddit.com/r/singularity/comments/1vn0oww/white_house_creates_framework_for_private/",
-    "image": "https://external-preview.redd.it/4FzYal9cqXZ3s9Qt8n9HScEecjdldqOd04HXExzO8i8.jpeg?width=640&crop=smart&auto=webp&s=eb89e898879eb7adef969749433776a6f6a543ad",
-    "date": "2026-08-13T04:32:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4208827/%ec%99%84%ec%a0%84-%ec%9e%90%ec%9c%a8-ai%ec%9d%98-%ed%95%9c%ea%b3%84%ec%9d%b8%ea%b0%84%ea%b3%bc-%ed%98%91%ec%97%85%ed%95%9c-http-%ed%84%b0%eb%af%b8%eb%84%a4%ec%9d%b4%ed%84%b0%ea%b0%80.html",
-    "platform": "CIO",
-    "title": "완전 자율 AI의 한계…인간과 협업한 ‘HTTP 터미네이터’가 보여준 보안 연구의 미래",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "완전 자율 AI의 한계…인간과 협업한 ‘HTTP 터미네이터’가 보여준 보안 연구의 미래",
-    "summary_ko": "HTTP 터미네이터(HTTP Terminator)는 HTTP 요청 스머글링(HTTP Request Smuggling)에 취약한 수백 개 웹사이트를 찾아내 대규모로 실제 공격을 수행했으며, ‘공유 파서 혼동(Shared-Parser Confusion)’이라 명명한 완전히 새로운 취약점 계열까지 발견한 AI 시스템이다. 하지만 이 성과는 AI만의 힘으로 이뤄진 것이 아니다. 연구 전 과정에서 인간 연구자의 지속적인 개입과 지도가 있었으며, 이것이야말로 이번 연구에서 가장 주목할 만한 성과라고 할 수 있다.",
-    "url": "https://www.cio.com/article/4208827/%ec%99%84%ec%a0%84-%ec%9e%90%ec%9c%a8-ai%ec%9d%98-%ed%95%9c%ea%b3%84%ec%9d%b8%ea%b0%84%ea%b3%bc-%ed%98%91%ec%97%85%ed%95%9c-http-%ed%84%b0%eb%af%b8%eb%84%a4%ec%9d%b4%ed%84%b0%ea%b0%80.html",
-    "image": null,
-    "date": "2026-08-13T00:39:25.000Z",
     "likes": 0,
     "comments": 0
   }
