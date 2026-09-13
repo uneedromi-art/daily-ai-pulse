@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1wfduzz/trump_is_refusing_a_slowdown/",
+    "platform": "Reddit",
+    "title": "Trump is refusing a slowdown",
+    "author": {
+      "name": "/u/ThatIsNotIllegal",
+      "handle": "/u//u/ThatIsNotIllegal",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Trump is refusing a slowdown",
+    "summary_ko": "트럼프, 경기둔화 거부",
+    "url": "https://www.reddit.com/r/singularity/comments/1wfduzz/trump_is_refusing_a_slowdown/",
+    "image": "https://preview.redd.it/wdqxwwn5obph1.jpeg?width=320&crop=smart&auto=webp&s=54ebd5ba0c0aac83e0f2d5033822cd7be1a48b5c",
+    "date": "2026-09-13T17:26:33.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wf4hl5/theyre_colluding_to_kill_open_source/",
+    "platform": "Reddit",
+    "title": "They’re colluding to kill open source",
+    "author": {
+      "name": "/u/awesomeoh1234",
+      "handle": "/u//u/awesomeoh1234",
+      "avatar_color": "#ff4500"
+    },
+    "content": "They’re colluding to kill open source",
+    "summary_ko": "그들은 오픈 소스를 죽이려고 공모하고 있습니다",
+    "url": "https://www.reddit.com/r/singularity/comments/1wf4hl5/theyre_colluding_to_kill_open_source/",
+    "image": "https://preview.redd.it/ujs70qdzp9ph1.jpeg?width=640&crop=smart&auto=webp&s=11e68afa330763c3de7429e6a07d6d9b34701a2d",
+    "date": "2026-09-13T10:53:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era/",
+    "platform": "Reddit",
+    "title": "The Local LLM community feels like the golden era of the internet all over again",
+    "author": {
+      "name": "/u/feelspeaceman",
+      "handle": "/u//u/feelspeaceman",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The Local LLM community feels like the golden era of the internet all over again",
+    "summary_ko": "로컬 LLM 커뮤니티는 다시 한번 인터넷의 황금 시대처럼 느껴집니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era/",
+    "image": null,
+    "date": "2026-09-13T09:56:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1weujw6/the_hugging_bay/",
+    "platform": "Reddit",
+    "title": "The Hugging Bay",
+    "author": {
+      "name": "/u/Thrumpwart",
+      "handle": "/u//u/Thrumpwart",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The Hugging Bay",
+    "summary_ko": "허깅 베이",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weujw6/the_hugging_bay/",
+    "image": "https://external-preview.redd.it/oyHsCUP91kfyQbhdeHlXARHwAN73N7l7k1qznoTVe2M.jpeg?width=640&crop=smart&auto=webp&s=70e18883406d3da84db73a33654698322b106e91",
+    "date": "2026-09-13T01:46:47.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1wekeow/sam_dario_and_elon_have_all_agreed_to_slow_down/",
     "platform": "Reddit",
     "title": "Sam, Dario and Elon have all agreed to slow down on AI acceleration",
@@ -117,7 +185,7 @@
       "avatar_url": null
     },
     "content": "오픈AI, 美 의회에 AI 안전 규제 촉구…기업 CIO도 거버넌스 강화 대비해야",
-    "summary_ko": "오픈AI가 미국 의회에 가장 강력한 AI 시스템을 개발하는 기업을 대상으로 의무적인 안전 규제를 도입할 것을 촉구했다. AI 기술이 빠른 속도로 발전하면서 자율적인 안전 조치만으로는 더 이상 충분하지 않다는 것이 회사의 판단이다. 챗GPT 개발사인 오픈AI는 공식 입장문을 통해 새로운 규제는 AI 시스템의 성능과 위험 수준을 기준으로 마련돼야 하며, 최첨단 모델을 개발하는 소수의 자본력과 기술력을 갖춘 기업에 집중돼야 한다고 밝혔다. 반면, 이보다 훨씬 낮은 수준의 AI 시스템을 개발하는 스타트업과 연구기관까지 동일한 규제를 적용해서는 안 된다고 설명했다.",
+    "summary_ko": "오픈AI가 미국 의회에 가장 강력한 AI 시스템을 개발하는 기업을 대상으로 의무적인 안전 규제를 도입할 것을 촉구했다. AI 기술이 빠른 속도로 발전하면서 자율적인 안전 조치만으로는 더 이상 충분하지 않다는 것이 회사의 판단이다. 챗GPT 개발사인 오픈AI는 9일 공식 입장문을 통해 새로운 규제는 AI 시스템의 성능과 위험 수준을 기준으로 마련돼야 하며, 최첨단 모델을 개발하는 소수의 자본력과 기술력을 갖춘 기업에 집중돼야 한다고 밝혔다. 반면, 이보다 훨씬 낮은 수준의 AI 시스템을 개발하는 스타트업과 연구기관까지 동일한 규제를 적용해서는 안 된다고 설명했다.",
     "url": "https://www.cio.com/article/4220955/%ec%98%a4%ed%94%88ai-%e7%be%8e-%ec%9d%98%ed%9a%8c%ec%97%90-ai-%ec%95%88%ec%a0%84-%ea%b7%9c%ec%a0%9c-%ec%b4%89%ea%b5%ac%ea%b8%b0%ec%97%85-cio%eb%8f%84-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4.html",
     "image": null,
     "date": "2026-09-11T06:37:34.000Z",
@@ -2791,167 +2859,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
     "image": "https://external-preview.redd.it/HP6NuR30rVZuR18nagK5w6YdfM0ZaUtuImBvlJzBNYI.png?width=140&height=70&auto=webp&s=7c42d7c0e027e5f059012ccc9e7a0a7d711d3631",
     "date": "2026-08-15T08:49:06.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
-    "platform": "Reddit",
-    "title": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
-    "author": {
-      "name": "/u/Neurogence",
-      "handle": "/u//u/Neurogence",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anthropic Internally Uses A Model That Is Significantly Better Than Mythos 5, But Has No Plans To Release It",
-    "summary_ko": "Anthropic은 Mythos 5보다 훨씬 더 나은 모델을 내부적으로 사용하지만 이를 출시할 계획은 없습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1volqxh/anthropic_internally_uses_a_model_that_is/",
-    "image": null,
-    "date": "2026-08-14T22:36:30.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9mj4/its_out/",
-    "platform": "Reddit",
-    "title": "IT'S OUT",
-    "author": {
-      "name": "/u/Certain-Cod-1404",
-      "handle": "/u//u/Certain-Cod-1404",
-      "avatar_color": "#ff4500"
-    },
-    "content": "IT'S OUT",
-    "summary_ko": "끝났어",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vo9mj4/its_out/",
-    "image": "https://external-preview.redd.it/tA-RT3Ivb7voKtI3EcgYtYFafwW8cjq96bgndRtH4_Y.png?width=640&crop=smart&auto=webp&s=6e7e71ca732b19beaf9380134099412beca25fd4",
-    "date": "2026-08-14T14:59:51.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1vo439e/_/",
-    "platform": "Reddit",
-    "title": "???",
-    "author": {
-      "name": "/u/KeanuRave100",
-      "handle": "/u//u/KeanuRave100",
-      "avatar_color": "#ff4500"
-    },
-    "content": "???",
-    "summary_ko": "???",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1vo439e/_/",
-    "image": "https://preview.redd.it/fie7scftnbjh1.png?width=640&crop=smart&auto=webp&s=2a5cf8a35d971886427227060bed7c88acca207c",
-    "date": "2026-08-14T10:59:53.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/",
-    "platform": "Reddit",
-    "title": "GLM 5.3 Released",
-    "author": {
-      "name": "/u/jmorant555",
-      "handle": "/u//u/jmorant555",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GLM 5.3 Released",
-    "summary_ko": "GLM 5.3 출시",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/",
-    "image": "https://preview.redd.it/eixnxdnvz9jh1.png?width=640&crop=smart&auto=webp&s=2247868071d2d80c73f9ce9e95b5c3085bb85fa3",
-    "date": "2026-08-14T05:23:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4209448/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%95%b4%ed%82%b9-%eb%aa%a8%eb%8d%b8-%ec%95%84%eb%8b%8c-%ed%95%98%eb%84%a4%ec%8a%a4%ea%b0%80-%eb%ac%b8%ec%a0%9cciso%ea%b0%80-%ec%a0%90%ea%b2%80.html",
-    "platform": "CIO",
-    "title": "AI 에이전트 해킹, 모델 아닌 ‘하네스’가 문제…CISO가 점검해야 할 3가지",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 에이전트 해킹, 모델 아닌 ‘하네스’가 문제…CISO가 점검해야 할 3가지",
-    "summary_ko": "AI 에이전트를 위험하게 만드는 요소가 무엇인지 보안 연구자에게 물으면, 대부분은 먼저 AI 모델을 떠올린다. 모델이 무엇을 거부하거나 거부하지 않는지, 얼마나 쉽게 탈옥(jailbreak)될 수 있는지, 모델 가중치(weights)를 신뢰할 수 있는지 등이 주된 관심사다. 하지만 이러한 인식은 점차 시대에 뒤떨어지고 있다. 익스플로잇 시연, 독립적인 레드팀 테스트, 보안 연구자들의 평가 등 최근 발표되는 보안 연구는 문제의 핵심이 모델이 아니라 모델과 외부 환경을 연결하는 코드에 있음을 보여주고 있다. 최근에는 이 코드를 ‘하네스(harness)’라고 부른다.",
-    "url": "https://www.cio.com/article/4209448/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%95%b4%ed%82%b9-%eb%aa%a8%eb%8d%b8-%ec%95%84%eb%8b%8c-%ed%95%98%eb%84%a4%ec%8a%a4%ea%b0%80-%eb%ac%b8%ec%a0%9cciso%ea%b0%80-%ec%a0%90%ea%b2%80.html",
-    "image": null,
-    "date": "2026-08-14T01:31:48.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1vntd45/_/",
-    "platform": "Reddit",
-    "title": "👁️👄👁️",
-    "author": {
-      "name": "/u/WittyEgg2037",
-      "handle": "/u//u/WittyEgg2037",
-      "avatar_color": "#ff4500"
-    },
-    "content": "👁️👄👁️",
-    "summary_ko": "👁️👄👁️",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1vntd45/_/",
-    "image": "https://preview.redd.it/qhp8v7rks8jh1.jpeg?width=640&crop=smart&auto=webp&s=91b1afea97984ea81161ab15413a70f6e5590a13",
-    "date": "2026-08-14T01:20:58.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4209438/%ec%b9%bc%eb%9f%bc-%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-%ed%94%84%eb%a1%9c%ed%95%84%ec%9d%b4-%ea%b3%b5%ea%b2%a9-%ec%9e%ac%eb%a3%8c-%ec%9e%84%ec%9b%90%ec%a7%84-%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac.html",
-    "platform": "CIO",
-    "title": "칼럼 | 링크드인 프로필이 공격 재료…임원진 딥페이크 사칭, 기업 보안의 새로운 과제",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 링크드인 프로필이 공격 재료…임원진 딥페이크 사칭, 기업 보안의 새로운 과제",
-    "summary_ko": "2년 전, 필자는 약 40분 동안 화상회의에 참석해 정상적인 기업 인수 대금 지급이라고 믿고 승인을 내린 한 최고재무책임자(CFO)를 만난 적이 있다. 회의에는 CEO와 이사회 구성원 두 명이 함께 참여해 익숙한 목소리로 대화를 나눴고, 실제 회의처럼 느껴질 만큼 자연스러운 즉흥적인 대화도 이어졌다. 그러나 이들 모두는 실제 인물이 아니었다. 음성은 실적 발표(Earnings Call) 녹음에서 복제됐고, 영상은 유튜브에 공개된 컨퍼런스 영상을 조합해 만들어졌다. 이를 드러낸 것은 화면 깨짐이나 흐릿한 손동작 같은 기술적 오류가 아니었다.",
-    "url": "https://www.cio.com/article/4209438/%ec%b9%bc%eb%9f%bc-%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-%ed%94%84%eb%a1%9c%ed%95%84%ec%9d%b4-%ea%b3%b5%ea%b2%a9-%ec%9e%ac%eb%a3%8c-%ec%9e%84%ec%9b%90%ec%a7%84-%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac.html",
-    "image": null,
-    "date": "2026-08-14T01:17:18.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4209430/ai-%ec%88%98%ec%9a%94%ea%b0%80-%ec%98%ac%eb%a6%b0-%eb%b6%80%ed%92%88%ea%b0%92-%ec%9c%a0%eb%9f%bd-%ec%a0%80%ea%b0%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%eb%8f%84-%eb%aa%bb-%eb%b2%84%ed%85%bc%eb%8b%a4.html",
-    "platform": "CIO",
-    "title": "AI 수요가 올린 부품값, 유럽 저가 클라우드도 못 버텼다…OVH 서버 최대 87% 인상",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 수요가 올린 부품값, 유럽 저가 클라우드도 못 버텼다…OVH 서버 최대 87% 인상",
-    "summary_ko": "프랑스 클라우드 기업 OVH클라우드(OVHcloud)가 신규 및 기존 고객을 대상으로 서버 가격을 최대 87% 인상한다. 회사는 AI 수요 급증으로 데이터센터에서 사용하는 메모리(RAM)와 스토리지 가격이 크게 오른 것이 이번 가격 인상의 배경이라고 설명했다. 유럽 클라우드 사업자인 OVH클라우드는 저렴한 베어메탈 서버와 퍼블릭 클라우드 서비스를 주력으로 제공하고 있다. 지난 1년 동안 OVH클라우드가 직면한 고민은 AI 인프라를 구축하는 CIO들에게도 익숙한 문제다. 회사는 수요를 예측하기 어려운 상황에서 필요한 부품을 적기에 확보해야 하는 과제를 안고 있었다.",
-    "url": "https://www.cio.com/article/4209430/ai-%ec%88%98%ec%9a%94%ea%b0%80-%ec%98%ac%eb%a6%b0-%eb%b6%80%ed%92%88%ea%b0%92-%ec%9c%a0%eb%9f%bd-%ec%a0%80%ea%b0%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%eb%8f%84-%eb%aa%bb-%eb%b2%84%ed%85%bc%eb%8b%a4.html",
-    "image": null,
-    "date": "2026-08-14T01:01:01.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4209426/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%8a%b9%ec%9d%b8-%ed%94%bc%eb%a1%9c-%ec%a4%84%ec%9d%b8%eb%8b%a4%ec%a0%84%eb%ac%b8%ea%b0%80.html",
-    "platform": "CIO",
-    "title": "앤트로픽 “클로드 코드 승인 피로 줄인다”…전문가 “보안 리스크는 커질 수도”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "앤트로픽 “클로드 코드 승인 피로 줄인다”…전문가 “보안 리스크는 커질 수도”",
-    "summary_ko": "앤트로픽이 AI 코딩 에이전트 클로드 코드의 오토 모드를 유료 및 엔터프라이즈 사용자에게 기본 설정으로 적용한다. 이에 따라 개발자는 코딩 에이전트가 수행하는 작업을 일일이 승인하지 않아도 된다. 앤트로픽은 코딩 에이전트 문서를 통해 “2026년 8월 14일부터 프로(Pro), 맥스(Max), 팀(Team) 요금제의 신규 세션에서는 오토 모드가 기본 권한 모드로 적용된다”라며 “향후 한 달 안에 클로드 엔터프라이즈와 API, 클라우드 플랫폼 사용자에게도 동일한 변경 사항을 적용할 계획”이라고 밝혔다.",
-    "url": "https://www.cio.com/article/4209426/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%8a%b9%ec%9d%b8-%ed%94%bc%eb%a1%9c-%ec%a4%84%ec%9d%b8%eb%8b%a4%ec%a0%84%eb%ac%b8%ea%b0%80.html",
-    "image": null,
-    "date": "2026-08-14T00:26:09.000Z",
     "likes": 0,
     "comments": 0
   }
