@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
+    "platform": "Reddit",
+    "title": "We Must Pace the Frontier",
+    "author": {
+      "name": "/u/Dudensen",
+      "handle": "/u//u/Dudensen",
+      "avatar_color": "#ff4500"
+    },
+    "content": "We Must Pace the Frontier",
+    "summary_ko": "우리는 개척지의 속도를 맞춰야 합니다",
+    "url": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
+    "image": "https://external-preview.redd.it/bzltN254dWpranBoMfm76p2YkSeqIYlh2aY2RcTMrXU8rj-ua8cjchkz1ojg.png?width=640&crop=smart&auto=webp&s=c0c4b39df040999572a69ca3c74c0c4ea5893896",
+    "date": "2026-09-14T20:01:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wg4cjk/trump_reiterates_no_slowdown/",
+    "platform": "Reddit",
+    "title": "Trump reiterates no slowdown",
+    "author": {
+      "name": "/u/Throwaway19a2",
+      "handle": "/u//u/Throwaway19a2",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Trump reiterates no slowdown",
+    "summary_ko": "트럼프, 경기 둔화 재차 강조",
+    "url": "https://www.reddit.com/r/singularity/comments/1wg4cjk/trump_reiterates_no_slowdown/",
+    "image": "https://preview.redd.it/040oyamxshph1.jpeg?width=640&crop=smart&auto=webp&s=1cd53fecbf31c5a6531d465db3efce4f5581e682",
+    "date": "2026-09-14T14:03:49.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wfpwhj/deepseek_v41_flash_beats_astra_on_aas_new/",
+    "platform": "Reddit",
+    "title": "DeepSeek V4.1 Flash beats Astra on AA's new benchmark",
+    "author": {
+      "name": "/u/Randomdotmath",
+      "handle": "/u//u/Randomdotmath",
+      "avatar_color": "#ff4500"
+    },
+    "content": "DeepSeek V4.1 Flash beats Astra on AA's new benchmark",
+    "summary_ko": "DeepSeek V4.1 Flash는 AA의 새로운 벤치마크에서 Astra를 능가했습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfpwhj/deepseek_v41_flash_beats_astra_on_aas_new/",
+    "image": "https://preview.redd.it/b8lrmxaj1eph1.png?width=640&crop=smart&auto=webp&s=bca6bf2f85360c40d00744cc38488e7129fc5290",
+    "date": "2026-09-14T01:37:44.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4221374/ai%ea%b0%80-%ed%9d%94%eb%93%9c%eb%8a%94-it-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%8b%9c%ec%9e%a5%ec%9e%a5%ea%b8%b0-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%8b%9c%eb%8c%80-%ec%a0%80%eb%ac%b4%eb%82%98.html",
+    "platform": "CIO",
+    "title": "AI가 흔드는 IT 컨설팅 시장…장기 프로젝트 시대 저무나",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI가 흔드는 IT 컨설팅 시장…장기 프로젝트 시대 저무나",
+    "summary_ko": "AI 도입이 대형 IT 컨설팅 시장의 판도를 흔들고 있다. 일부 IT 리더는 대형 컨설팅 업체의 핵심 수익원이었던 수년에 걸친 디지털 전환 프로젝트가 여전히 필요한지 의문을 제기하기 시작했다. 기업들은 클라우드 현대화와 메인프레임 마이그레이션 같은 대규모 디지털 전환 프로젝트에 AI 도구를 적극 활용하고 있다. AI는 프로젝트 수행에 필요한 시간과 노력을 크게 줄여주고 있다. 동시에 AI 기술이 빠르게 발전하면서 2~3년에 걸친 장기 컨설팅 계약의 가치 자체를 재검토하는 IT 리더도 늘고 있다.",
+    "url": "https://www.cio.com/article/4221374/ai%ea%b0%80-%ed%9d%94%eb%93%9c%eb%8a%94-it-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%8b%9c%ec%9e%a5%ec%9e%a5%ea%b8%b0-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%8b%9c%eb%8c%80-%ec%a0%80%eb%ac%b4%eb%82%98.html",
+    "image": null,
+    "date": "2026-09-14T00:16:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4221370/ai-%ec%88%98%ec%9a%94%ea%b0%80-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%b6%94%ec%9b%94-%ec%98%a4%ed%94%88ai-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ec%9d%b8%ea%b8%b0%ec%97%90-2%ec%b5%9c%ea%b3%a0-%ec%9a%94.html",
+    "platform": "CIO",
+    "title": "AI 수요가 인프라 추월…오픈AI, 아스트라 인기에 최고 요금제 가입 막어",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 수요가 인프라 추월…오픈AI, 아스트라 인기에 최고 요금제 가입 막어",
+    "summary_ko": "오픈AI가 월 200달러(약 27만 원)인 챗GPT 프로(Chat GPT Pro) 요금제의 신규 가입과 업그레이드를 일시 중단했다. 회사는 아스트라(Astra) 기능에 대한 수요가 급증하면서 시스템 용량에 부담이 커진 데 따른 조치라고 밝혔다. 이 같은 내용은 회사 발표와 임원의 X 게시글을 통해 확인됐다.",
+    "url": "https://www.cio.com/article/4221370/ai-%ec%88%98%ec%9a%94%ea%b0%80-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%b6%94%ec%9b%94-%ec%98%a4%ed%94%88ai-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ec%9d%b8%ea%b8%b0%ec%97%90-2%ec%b5%9c%ea%b3%a0-%ec%9a%94.html",
+    "image": null,
+    "date": "2026-09-14T00:13:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4221058/%eb%82%a9%ea%b8%b0-18%ea%b0%9c%ec%9b%94%c2%b7%ea%b0%80%ea%b2%a9-%ec%b5%9c%eb%8c%80-200-%ea%b8%89%eb%93%b1ai-%ec%8b%9c%eb%8c%80-it-%ec%9d%b8%ed%94%84%eb%9d%bc-%eb%b6%80%ec%a1%b1-%ed%95%b4.html",
+    "platform": "CIO",
+    "title": "납기 18개월·가격 최대 200% 급등…AI 시대 IT 인프라 부족 해법은",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "납기 18개월·가격 최대 200% 급등…AI 시대 IT 인프라 부족 해법은",
+    "summary_ko": "납기 기간은 9~12개월, 길게는 18개월에 이른다. 비용은 35%, 45%는 물론 최대 50~200%까지 치솟고 있다. 2026년이 절반 이상 지난 현재, AI를 포함한 기업 프로젝트에 필수적인 IT 인프라 시장은 심각한 공급난을 겪고 있다. 공급 부족의 근본 원인은 메모리다. 시장조사업체 가트너의 수석 VP 애널리스트 존 포레스트(Jon Forest)는 “메모리 가격이 50~200% 상승하면서 PC 가격은 35~45%, 일부 서버 가격은 125% 이상 올랐다”고 설명했다.",
+    "url": "https://www.cio.com/article/4221058/%eb%82%a9%ea%b8%b0-18%ea%b0%9c%ec%9b%94%c2%b7%ea%b0%80%ea%b2%a9-%ec%b5%9c%eb%8c%80-200-%ea%b8%89%eb%93%b1ai-%ec%8b%9c%eb%8c%80-it-%ec%9d%b8%ed%94%84%eb%9d%bc-%eb%b6%80%ec%a1%b1-%ed%95%b4.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/08/Gartner-NAND-DRAM-stats.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "date": "2026-09-14T00:05:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4221377/aws%ec%bd%94%eb%a6%ac%ec%95%84-%ed%95%9c%ea%b5%ad-%eb%8c%80%ea%b8%b0%ec%97%85-ai-%ea%b3%a0%eb%8f%84%ed%99%94%ec%9c%a8-9%ea%b2%bd%ec%98%81%ec%a7%84-%ec%a3%bc%eb%8f%84-%ec%a0%84.html",
+    "platform": "CIO",
+    "title": "AWS코리아 “한국 대기업 AI 고도화율 9%…경영진 주도 전략·데이터·인재 정비 필요”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AWS코리아 “한국 대기업 AI 고도화율 9%…경영진 주도 전략·데이터·인재 정비 필요”",
+    "summary_ko": "AWS 코리아는 9월 11일 기자간담회를 열고 한국 기업의 AI 도입 현황과 고도화 전략을 소개했다. 이날 발표는 글로벌 자문 기업 스트랜드 파트너스(Strand Partners)가 조사한 ‘2026년 한국의 AI 잠재력 발현(Unlocking South Korea’s AI Potential 2026)’ 보고서를 바탕으로 진행됐다. 닉 본스토우(Nick Bonstow) 스트랜드 파트너스 디렉터는 한국 기업의 AI 도입이 빠르게 확대되고 있지만, 고도화된 활용 단계로 나아가는 데에는 준비 부족이 걸림돌로 작용하고 있다고 진단했다.",
+    "url": "https://www.cio.com/article/4221377/aws%ec%bd%94%eb%a6%ac%ec%95%84-%ed%95%9c%ea%b5%ad-%eb%8c%80%ea%b8%b0%ec%97%85-ai-%ea%b3%a0%eb%8f%84%ed%99%94%ec%9c%a8-9%ea%b2%bd%ec%98%81%ec%a7%84-%ec%a3%bc%eb%8f%84-%ec%a0%84.html",
+    "image": null,
+    "date": "2026-09-14T00:02:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wfnrqj/astra_notices_user_isnt_paying_attention_makes/",
+    "platform": "Reddit",
+    "title": "Astra notices user isn't paying attention, makes the Mac beep",
+    "author": {
+      "name": "/u/BrennusSokol",
+      "handle": "/u//u/BrennusSokol",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Astra notices user isn't paying attention, makes the Mac beep",
+    "summary_ko": "Astra는 사용자가 주의를 기울이지 않는다는 것을 알아차리고 Mac에서 경고음을 울립니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1wfnrqj/astra_notices_user_isnt_paying_attention_makes/",
+    "image": "https://preview.redd.it/eyqol5q7mdph1.png?width=640&crop=smart&auto=webp&s=c1ec180efbda269a4bb4478b3fba9a45106d01a3",
+    "date": "2026-09-13T23:59:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1wfduzz/trump_is_refusing_a_slowdown/",
     "platform": "Reddit",
     "title": "Trump is refusing a slowdown",
@@ -2791,74 +2935,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/",
     "image": "https://preview.redd.it/cjjqj9n7smjh1.png?width=140&height=105&auto=webp&s=e632a1a28885ca173a47ec8d3ba3aa0ddc4f2e24",
     "date": "2026-08-16T00:45:04.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
-    "platform": "Reddit",
-    "title": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
-    "author": {
-      "name": "/u/Public_Print_9360",
-      "handle": "/u//u/Public_Print_9360",
-      "avatar_color": "#ff4500"
-    },
-    "content": "I don’t think we’re psychologically prepared for how alien the world after ASI is going to be",
-    "summary_ko": "ASI 이후의 세상이 얼마나 이질적일지에 대해 우리는 심리적으로 준비가 되어 있지 않다고 생각합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1vphdpw/i_dont_think_were_psychologically_prepared_for/",
-    "image": null,
-    "date": "2026-08-15T23:30:42.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2nmi/aged_like_fine_wine/",
-    "platform": "Reddit",
-    "title": "Aged like fine wine",
-    "author": {
-      "name": "/u/TigleLive",
-      "handle": "/u//u/TigleLive",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Aged like fine wine",
-    "summary_ko": "고급 와인처럼 숙성됨",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2nmi/aged_like_fine_wine/",
-    "image": "https://preview.redd.it/28oikdh4hjjh1.jpeg?width=640&crop=smart&auto=webp&s=490b14aa3d06d1479d624c4562af859545a92e7e",
-    "date": "2026-08-15T13:17:13.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1vp1a85/cant_agree_more/",
-    "platform": "Reddit",
-    "title": "Can't agree more",
-    "author": {
-      "name": "/u/qpsqp",
-      "handle": "/u//u/qpsqp",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Can't agree more",
-    "summary_ko": "더 이상 동의할 수 없다",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1vp1a85/cant_agree_more/",
-    "image": "https://preview.redd.it/tz60o5qn5jjh1.jpeg?width=640&crop=smart&auto=webp&s=ab071057720081bdd91542b18d7b75dd27021b56",
-    "date": "2026-08-15T12:12:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
-    "platform": "Reddit",
-    "title": "Qwen 3.8 35BA3B spotted",
-    "author": {
-      "name": "/u/BazzyIm",
-      "handle": "/u//u/BazzyIm",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Qwen 3.8 35BA3B spotted",
-    "summary_ko": "Qwen 3.8 35BA3B 발견",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
-    "image": "https://external-preview.redd.it/HP6NuR30rVZuR18nagK5w6YdfM0ZaUtuImBvlJzBNYI.png?width=140&height=70&auto=webp&s=7c42d7c0e027e5f059012ccc9e7a0a7d711d3631",
-    "date": "2026-08-15T08:49:06.000Z",
     "likes": 0,
     "comments": 0
   }
