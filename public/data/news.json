@@ -1,5 +1,167 @@
 [
   {
+    "id": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+    "platform": "Google",
+    "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Algorithms & Theory",
+    "summary_ko": "추론 병목 현상 우회: Retrieve-for-Train을 통해 복잡한 AI 검색 가속화",
+    "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+    "image": null,
+    "date": "2026-09-15T20:00:35.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wh2i82/times_latest_cover/",
+    "platform": "Reddit",
+    "title": "TIME's latest cover",
+    "author": {
+      "name": "/u/CremeSubject7594",
+      "handle": "/u//u/CremeSubject7594",
+      "avatar_color": "#ff4500"
+    },
+    "content": "TIME's latest cover",
+    "summary_ko": "TIME의 최신 표지",
+    "url": "https://www.reddit.com/r/singularity/comments/1wh2i82/times_latest_cover/",
+    "image": "https://preview.redd.it/ckf8d2d16pph1.jpeg?width=640&crop=smart&auto=webp&s=ccefdc046f9558bb985aa0da38f61430ff78683a",
+    "date": "2026-09-15T14:49:44.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4222143/%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%eb%8a%94-%ea%b3%b5%ed%95%ad%ea%b3%bc-%ea%b0%99%eb%8b%a4%ec%97%90%ed%80%b4%eb%8b%89%ec%8a%a4%ea%b0%80-%ea%b7%b8%eb%a6%ac.html",
+    "platform": "CIO",
+    "title": "“데이터센터는 공항과 같다”…에퀴닉스가 그리는 AI 시대 연결 플랫폼",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“데이터센터는 공항과 같다”…에퀴닉스가 그리는 AI 시대 연결 플랫폼",
+    "summary_ko": "에퀴닉스는 이날 행사에서 AI 시대 연결 플랫폼의 중요성을 강조했다. 특히 ‘분산형 AI 허브’와 ‘패브릭 인텔리전스(Fabric Intelligence)’같은 제품을 통해 기존 네트워크의 한계를 보완하고, 기업의 AI 도입과 운영을 지원한다는 구상이다. 호 디렉터는 에이전틱 AI의 확산으로 에이전트 간 통신이 늘고, AI를 활용한 몰입형 콘텐츠까지 확대되면서 네트워크가 처리해야 할 트래픽도 증가할 것으로 내다봤다. 그러나 오늘날의 네트워크는 인터넷 시대에 설계된 만큼, 이러한 변화에 대응하기 어렵다는 것이 그의 진단이다.",
+    "url": "https://www.cio.com/article/4222143/%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%eb%8a%94-%ea%b3%b5%ed%95%ad%ea%b3%bc-%ea%b0%99%eb%8b%a4%ec%97%90%ed%80%b4%eb%8b%89%ec%8a%a4%ea%b0%80-%ea%b7%b8%eb%a6%ac.html",
+    "image": null,
+    "date": "2026-09-15T11:42:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wgufal/guy_who_has_literally_trained_a_frontier_llm_and/",
+    "platform": "Reddit",
+    "title": "Guy who has literally trained a frontier LLM AND engineered viruses thinks the AI-supervirus doomer scenario is bogus.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Guy who has literally trained a frontier LLM AND engineered viruses thinks the AI-supervirus doomer scenario is bogus.",
+    "summary_ko": "말 그대로 개척지 LLM을 훈련하고 바이러스를 조작한 사람은 AI-슈퍼바이러스 파멸 시나리오가 가짜라고 생각합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1wgufal/guy_who_has_literally_trained_a_frontier_llm_and/",
+    "image": "https://preview.redd.it/8zseg30g9nph1.jpeg?width=640&crop=smart&auto=webp&s=e8caf7fa01f581d60748fe4ce666f88deb135727",
+    "date": "2026-09-15T08:25:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wgse1y/ask_your_llm/",
+    "platform": "Reddit",
+    "title": "Ask your LLM",
+    "author": {
+      "name": "/u/jacek2023",
+      "handle": "/u//u/jacek2023",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Ask your LLM",
+    "summary_ko": "LLM에 문의하세요",
+    "url": "https://www.reddit.com/r/singularity/comments/1wgse1y/ask_your_llm/",
+    "image": "https://preview.redd.it/mlxw8hfznmph1.jpeg?width=320&crop=smart&auto=webp&s=c111a388b7119697ad86db2cd15e66174fc49d11",
+    "date": "2026-09-15T06:24:58.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4221991/%ec%9d%b8%ed%85%94-%eb%b6%84%ec%82%ac-%ea%b8%b0%ec%97%85-%ec%bd%94%eb%84%ac%eb%a6%ac%ec%8a%a4-ai-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac%ec%97%90-%ec%bb%b4%ed%93%a8%ed%8c%85-%ec%8b%ac%eb%8a%94%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "인텔 분사 기업 코넬리스, AI 네트워크에 컴퓨팅 심는다…2억 500만 달러 투자 유치",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "인텔 분사 기업 코넬리스, AI 네트워크에 컴퓨팅 심는다…2억 500만 달러 투자 유치",
+    "summary_ko": "AI와 HPC(고성능 컴퓨팅) 워크로드를 위한 네트워크는 지금까지 주로 엔드포인트 간 데이터를 더 빠르게 전송하는 데 초점을 맞춰 발전해 왔다. 하지만 패킷이 이동하는 동안 컴퓨팅 자원은 유휴 상태로 남게 되며, 이는 AI 성능을 떨어뜨리는 병목 요인으로 작용한다. 업계는 지금까지 네트워크 패브릭 자체의 역할을 바꾸기보다 대역폭을 확대하는 방식으로 이 문제를 해결하려 해왔다. 코넬리스 네트웍스(Cornelis Networks)는 이와 다른 접근법을 제시했다.",
+    "url": "https://www.cio.com/article/4221991/%ec%9d%b8%ed%85%94-%eb%b6%84%ec%82%ac-%ea%b8%b0%ec%97%85-%ec%bd%94%eb%84%ac%eb%a6%ac%ec%8a%a4-ai-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac%ec%97%90-%ec%bb%b4%ed%93%a8%ed%8c%85-%ec%8b%ac%eb%8a%94%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-09-15T05:50:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4221952/%ed%81%b4%eb%a1%9c%eb%93%9c%ed%8f%ac%ec%8a%a4%ea%b0%80-%eb%8d%98%ec%a7%84-%ed%99%94%eb%91%90%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%a4%91%ec%8b%ac%ec%9c%bc%eb%a1%9c-%ec%9e%ac%ed%8e%b8.html",
+    "platform": "CIO",
+    "title": "클로드포스가 던진 화두…에이전트 중심으로 재편되는 엔터프라이즈 SW",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "클로드포스가 던진 화두…에이전트 중심으로 재편되는 엔터프라이즈 SW",
+    "summary_ko": "세일즈포스와 앤트로픽이 지난달 발표한 ‘클로드포스(Claudeforce)’는 에이전트형 AI가 기업의 업무 환경에 미칠 영향을 보여주는 신호탄이 될 수 있다는 평가를 받고 있다. 업계에서는 이번 발표를 계기로 엔터프라이즈 소프트웨어 시장에 큰 변화가 일어날 가능성에 주목하고 있다. 시장조사업체 퓨처럼 그룹(The Futurum Group)의 CEO 겸 수석 애널리스트인 다니엘 뉴먼(Daniel Newman)은 “지금 나타나고 있는 변화는 업계가 어디로 향하고 있는지를 보여준다”라며 “이제는 사용성이 핵심 경쟁력이 되는 시대다.",
+    "url": "https://www.cio.com/article/4221952/%ed%81%b4%eb%a1%9c%eb%93%9c%ed%8f%ac%ec%8a%a4%ea%b0%80-%eb%8d%98%ec%a7%84-%ed%99%94%eb%91%90%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%a4%91%ec%8b%ac%ec%9c%bc%eb%a1%9c-%ec%9e%ac%ed%8e%b8.html",
+    "image": null,
+    "date": "2026-09-15T05:43:19.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wgok3w/from_japanese_twitter/",
+    "platform": "Reddit",
+    "title": "From Japanese twitter",
+    "author": {
+      "name": "/u/Charuru",
+      "handle": "/u//u/Charuru",
+      "avatar_color": "#ff4500"
+    },
+    "content": "From Japanese twitter",
+    "summary_ko": "일본 트위터에서",
+    "url": "https://www.reddit.com/r/singularity/comments/1wgok3w/from_japanese_twitter/",
+    "image": "https://preview.redd.it/tzcirws9plph1.jpeg?width=640&crop=smart&auto=webp&s=06d17f258c540d260011a50445695a858d718245",
+    "date": "2026-09-15T03:10:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4221948/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ed%8c%94%eb%9e%80%ed%8b%b0%ec%96%b4-%ed%8c%8c%ec%9a%b4%eb%93%9c%eb%a6%ac-%eb%8f%84%ec%9e%85%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b3%b5.html",
+    "platform": "CIO",
+    "title": "엔비디아, 팔란티어 ‘파운드리’ 도입…글로벌 공급망 위험 AI로 분석",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "엔비디아, 팔란티어 ‘파운드리’ 도입…글로벌 공급망 위험 AI로 분석",
+    "summary_ko": "엔비디아는 팔란티어의 파운드리 소프트웨어를 활용해 글로벌 공급업체 및 파트너 네트워크의 공급망 위험을 분석할 예정이다. 팔란티어는 엔비디아의 오픈 AI 모델 네모트론(Nemotron)을 기존 AI 소프트웨어 스택에 통합한다. 양사는 이번 협력으로 양사의 제품과 서비스가 모두 강화될 것이라고 설명했다. 엔비디아는 팔란티어의 AI 스택을 활용해 복잡한 공급망 생태계를 최적화할 계획이다. 이를 통해 잠재적인 공급 제약 요인을 파악하고, 대안을 더 빠르게 평가하며, 전체 생산 과정에 미치는 영향을 고려해 자재를 배분할 수 있도록 지원한다.",
+    "url": "https://www.cio.com/article/4221948/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ed%8c%94%eb%9e%80%ed%8b%b0%ec%96%b4-%ed%8c%8c%ec%9a%b4%eb%93%9c%eb%a6%ac-%eb%8f%84%ec%9e%85%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b3%b5.html",
+    "image": null,
+    "date": "2026-09-15T01:40:24.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
     "platform": "Reddit",
     "title": "We Must Pace the Frontier",
@@ -2884,57 +3046,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqgt0x/and_im_not_afraid_of_losing_my_social_credits/",
     "image": "https://preview.redd.it/b6rjr50urujh1.jpeg?width=320&crop=smart&auto=webp&s=c568c8e44d48487c5f45006c9f4f4f6bb9e23929",
     "date": "2026-08-17T03:16:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
-    "platform": "Reddit",
-    "title": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
-    "author": {
-      "name": "/u/yogthos",
-      "handle": "/u//u/yogthos",
-      "avatar_color": "#ff4500"
-    },
-    "content": "AI Isn’t Outthinking Mathematicians. It’s Out-Remembering Them.",
-    "summary_ko": "AI는 수학자보다 뛰어나지 않습니다. 그것은 그들을 기억하지 못하는 것입니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1vpl4uj/ai_isnt_outthinking_mathematicians_its/",
-    "image": "https://external-preview.redd.it/DySwy5Aq12BCtyp7McrU4doA_Lir4KR8ikxwPq1BweY.jpeg?width=640&crop=smart&auto=webp&s=5dc3209e02f7717bc65d373c5be80989655da9e8",
-    "date": "2026-08-16T02:32:48.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1vpjnsc/whats_going_on_here/",
-    "platform": "Reddit",
-    "title": "What's going on here?",
-    "author": {
-      "name": "/u/senorrandom007",
-      "handle": "/u//u/senorrandom007",
-      "avatar_color": "#ff4500"
-    },
-    "content": "What's going on here?",
-    "summary_ko": "여기서 무슨 일이 일어나고 있는 걸까요?",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1vpjnsc/whats_going_on_here/",
-    "image": "https://preview.redd.it/kd2f39q52njh1.jpeg?width=640&crop=smart&auto=webp&s=8c0153c769006c31b116183d49b32dcbcff393cb",
-    "date": "2026-08-16T01:19:37.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/",
-    "platform": "Reddit",
-    "title": "Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC",
-    "author": {
-      "name": "/u/Ok-Breakfast1878",
-      "handle": "/u//u/Ok-Breakfast1878",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Qwen3.8-27B vs Qwen3.6-27B writing ray-tracers in BASIC",
-    "summary_ko": "Qwen3.8-27B 대 Qwen3.6-27B가 BASIC에서 광선 추적기를 작성함",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vpiyj9/qwen3827b_vs_qwen3627b_writing_raytracers_in_basic/",
-    "image": "https://preview.redd.it/cjjqj9n7smjh1.png?width=140&height=105&auto=webp&s=e632a1a28885ca173a47ec8d3ba3aa0ddc4f2e24",
-    "date": "2026-08-16T00:45:04.000Z",
     "likes": 0,
     "comments": 0
   }
