@@ -1,5 +1,61 @@
 [
   {
+    "id": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+    "platform": "Google",
+    "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Algorithms & Theory",
+    "summary_ko": "Mille Miglia: 중간 마일 물류를 위한 현실적인 인스턴스 생성기",
+    "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+    "image": null,
+    "date": "2026-09-18T17:46:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4223363/%ec%96%91%ec%9e%90%ec%bb%b4%ed%93%a8%ed%8c%85-ai-%ec%97%b0%ec%82%b0-%ec%a0%84%ec%9f%81%ec%97%90-%ec%b0%b8%ec%a0%84gpu-%eb%8c%80%ec%b2%b4-%ec%95%84%eb%8b%8c-%ec%a1%b0%eb%a0%a5%ec%9e%90.html",
+    "platform": "CIO",
+    "title": "양자컴퓨팅, AI 연산 전쟁에 참전…GPU 대체 아닌 ‘조력자’로 온다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "양자컴퓨팅, AI 연산 전쟁에 참전…GPU 대체 아닌 ‘조력자’로 온다",
+    "summary_ko": "양자 컴퓨팅이 기업의 주류 기술로 한 걸음씩 다가오면서 중요한 질문이 떠오르고 있다. 양자 기술이 IT 리더의 AI 활용 방식을 바꿔 놓을 수 있을까? 그동안 양자 컴퓨팅이 기존 암호화 기술에 미칠 위협이 주로 부각돼 왔다. 하지만 전문가들은 양자 칩이 현재 사용되는 GPU와 CPU를 보완함으로써 대규모 AI 워크로드의 컴퓨팅 부담을 일부 줄일 수 있다고 분석한다. 범용 오류 정정 또는 내결함성 양자 컴퓨터를 언제 실제로 이용할 수 있을지는 여전히 논쟁거리다. 다만 일부 양자 컴퓨팅 업체는 향후 2~4년 안에 관련 시스템을 시장에 내놓겠다는 로드맵을 제시하고 있다.",
+    "url": "https://www.cio.com/article/4223363/%ec%96%91%ec%9e%90%ec%bb%b4%ed%93%a8%ed%8c%85-ai-%ec%97%b0%ec%82%b0-%ec%a0%84%ec%9f%81%ec%97%90-%ec%b0%b8%ec%a0%84gpu-%eb%8c%80%ec%b2%b4-%ec%95%84%eb%8b%8c-%ec%a1%b0%eb%a0%a5%ec%9e%90.html",
+    "image": null,
+    "date": "2026-09-18T00:13:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4223323/%ec%b9%bc%eb%9f%bc-%ec%97%ac%eb%9f%ac-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b4%80%eb%a6%ac%ed%95%a0%ea%b9%8c%c2%b7%c2%b7%c2%b7ide-%eb%b0%96.html",
+    "platform": "CIO",
+    "title": "칼럼 | 여러 코딩 에이전트, 어떻게 관리할까···IDE 밖에서 답 찾는 개발자",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 여러 코딩 에이전트, 어떻게 관리할까···IDE 밖에서 답 찾는 개발자",
+    "summary_ko": "아마존·구글·소스그래프 엔지니어였던 스티브 예기(Steve Yegge)는 궁금한 점을 속으로만 품고 있는 사람이 아니다. 다른 개발자가 10~20개, 혹은 그 이상의 코딩 에이전트를 어떻게 관리하는지 궁금해지자 X에 직접 질문을 올렸다. 예기가 구체적으로 찾고 있는 것은 IDE다. 예기는 “나는 이맥스(Emacs)를 쓰지만, 다른 사람에게 권하고 싶지는 않다”라고 밝혔다. 600개를 넘어 계속 늘고 있는 답변에는 다양한 대안이 제시됐다.",
+    "url": "https://www.cio.com/article/4223323/%ec%b9%bc%eb%9f%bc-%ec%97%ac%eb%9f%ac-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b4%80%eb%a6%ac%ed%95%a0%ea%b9%8c%c2%b7%c2%b7%c2%b7ide-%eb%b0%96.html",
+    "image": null,
+    "date": "2026-09-18T00:10:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
     "platform": "Google",
     "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
@@ -3097,23 +3153,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
     "image": "https://preview.redd.it/gs573xy8yfkh1.jpeg?width=640&crop=smart&auto=webp&s=9b4d446b6025beb00d950bff340d72125c5ff75c",
     "date": "2026-08-20T02:45:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vt155o/introducing_gen15_a_oneshot_learner/",
-    "platform": "Reddit",
-    "title": "Introducing GEN-1.5, a one-shot learner",
-    "author": {
-      "name": "/u/GraceToSentience",
-      "handle": "/u//u/GraceToSentience",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Introducing GEN-1.5, a one-shot learner",
-    "summary_ko": "원샷학습기 GEN-1.5를 소개합니다",
-    "url": "https://www.reddit.com/r/singularity/comments/1vt155o/introducing_gen15_a_oneshot_learner/",
-    "image": "https://external-preview.redd.it/cXFwbndsbzZxZWtoMRjfbHPs_4jZlHVod3oSQqaCTbqG4DwRC5prfBMGUUHc.png?width=640&crop=smart&auto=webp&s=ffa5039292f8474e9c567af80c38cda4f93ee140",
-    "date": "2026-08-19T22:22:36.000Z",
     "likes": 0,
     "comments": 0
   }
