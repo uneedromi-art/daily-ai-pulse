@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1wngzou/introducing_gpt6_sol_and_luna/",
+    "platform": "Reddit",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "author": {
+      "name": "/u/DemiPixel",
+      "handle": "/u//u/DemiPixel",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Introducing GPT-6 Sol and Luna",
+    "summary_ko": "GPT-6 솔과 루나를 소개합니다",
+    "url": "https://www.reddit.com/r/singularity/comments/1wngzou/introducing_gpt6_sol_and_luna/",
+    "image": "https://external-preview.redd.it/nJjy1EsdWa-zv0GpAAVSulT8f5sCP9UIt-VItHN5OyY.png?width=640&crop=smart&auto=webp&s=d4e826736d1cc297af930ad566179961fb298ed4",
+    "date": "2026-09-22T18:04:48.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1wngyux/introducing_gpt6_sol_and_luna/",
+    "platform": "Reddit",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "author": {
+      "name": "/u/DemiPixel",
+      "handle": "/u//u/DemiPixel",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Introducing GPT-6 Sol and Luna",
+    "summary_ko": "GPT-6 솔과 루나를 소개합니다",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1wngyux/introducing_gpt6_sol_and_luna/",
+    "image": "https://external-preview.redd.it/nJjy1EsdWa-zv0GpAAVSulT8f5sCP9UIt-VItHN5OyY.png?width=640&crop=smart&auto=webp&s=d4e826736d1cc297af930ad566179961fb298ed4",
+    "date": "2026-09-22T18:04:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wneb1u/claude_opus_55_benchmarks/",
+    "platform": "Reddit",
+    "title": "Claude Opus 5.5 Benchmarks",
+    "author": {
+      "name": "/u/FalconsArentReal",
+      "handle": "/u//u/FalconsArentReal",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Claude Opus 5.5 Benchmarks",
+    "summary_ko": "클로드 오푸스 5.5 벤치마크",
+    "url": "https://www.reddit.com/r/singularity/comments/1wneb1u/claude_opus_55_benchmarks/",
+    "image": "https://preview.redd.it/if5xd3a5m3rh1.png?width=640&crop=smart&auto=webp&s=5bf5b771788abfe52ef1081ac9044d7b2b7e6523",
+    "date": "2026-09-22T16:29:34.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4224899/%eb%b9%84%ec%9a%a9%c2%b7%ec%86%8d%eb%8f%84-%ec%9e%a1%ec%95%98%ec%a7%80%eb%a7%8c-%ea%b2%b0%ec%a0%95-%ec%9d%b4%ec%9c%a0%eb%8a%94-%ec%84%a4%eb%aa%85-%eb%aa%bb-%ed%95%9c%eb%8b%a4%c2%b7.html",
+    "platform": "CIO",
+    "title": "비용·속도 잡았지만 ‘결정 이유’는 설명 못 한다···IT 리더가 살펴볼 제브의 한계",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "비용·속도 잡았지만 ‘결정 이유’는 설명 못 한다···IT 리더가 살펴볼 제브의 한계",
+    "summary_ko": "오늘날 대규모 언어 모델(LLM)은 단순한 의사결정을 추천하라는 요청에도 장황한 답변을 내놓는 경우가 많다. 이 과정에서 소비하거나 생성하는 토큰이 늘어나 이용 비용도 높아진다. AI를 자동화 워크플로우에 통합하려는 기업이라면 보다 간결한 모델이 필요할 수 있다. 기계는 명확하게 구분되는 답만 필요로 하는 경우가 많은 데다, 자동화 워크플로우에서는 사람이 개입하는 워크플로우보다 훨씬 많은 의사결정이 이뤄질 수 있어 토큰 사용량도 그만큼 증가하기 때문이다.",
+    "url": "https://www.cio.com/article/4224899/%eb%b9%84%ec%9a%a9%c2%b7%ec%86%8d%eb%8f%84-%ec%9e%a1%ec%95%98%ec%a7%80%eb%a7%8c-%ea%b2%b0%ec%a0%95-%ec%9d%b4%ec%9c%a0%eb%8a%94-%ec%84%a4%eb%aa%85-%eb%aa%bb-%ed%95%9c%eb%8b%a4%c2%b7.html",
+    "image": null,
+    "date": "2026-09-22T12:46:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4224680/%ea%b0%90%ec%a0%95-%ed%98%b8%ec%86%8c%ec%97%90%eb%8f%84-%ed%9d%94%eb%93%a4%eb%a6%ac%eb%8a%94-aillm-%ec%a0%9c%eb%8c%80%eb%a1%9c-%ea%b8%b8%eb%93%a4%ec%9d%b4%eb%8a%94-%ed%94%84%eb%a1%ac%ed%94%84.html",
+    "platform": "CIO",
+    "title": "감정 호소에도 흔들리는 AI…LLM 제대로 길들이는 프롬프트 기법 9가지",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "감정 호소에도 흔들리는 AI…LLM 제대로 길들이는 프롬프트 기법 9가지",
+    "summary_ko": "AI가 그렇게 놀라운 시간 절약 도구라면, 우리는 왜 프롬프트를 작성하는 데 이토록 많은 시간과 노력을 들이는 것일까? 어떤 경우에는 프롬프트가 답변보다 길기도 하다. 프롬프트의 본질을 둘러싼 철학적 고민에도 어느 정도 학문적 가치는 있다. 하지만 현실에서는 목표가 뚜렷한 팀일수록 대규모 언어 모델(LLM)을 제대로 작동시키기 위해 적절한 단어 조합을 만드는 데 상당한 노력을 기울이고 있다.",
+    "url": "https://www.cio.com/article/4224680/%ea%b0%90%ec%a0%95-%ed%98%b8%ec%86%8c%ec%97%90%eb%8f%84-%ed%9d%94%eb%93%a4%eb%a6%ac%eb%8a%94-aillm-%ec%a0%9c%eb%8c%80%eb%a1%9c-%ea%b8%b8%eb%93%a4%ec%9d%b4%eb%8a%94-%ed%94%84%eb%a1%ac%ed%94%84.html",
+    "image": null,
+    "date": "2026-09-22T12:26:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4224890/%ec%83%8c%eb%93%9c%eb%b0%95%ec%8a%a4%eb%a7%8c-%eb%af%bf%ec%96%b4%ec%84%a0-%ec%95%88-%eb%90%9c%eb%8b%a4-%ec%98%a4%ed%94%88ai-%ec%82%ac%eb%a1%80%eb%a1%9c-%eb%b3%b8-ai-%ec%97%90.html",
+    "platform": "CIO",
+    "title": "“샌드박스만 믿어선 안 된다” 오픈AI 사례로 본 AI 에이전트 보안 과제",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“샌드박스만 믿어선 안 된다” 오픈AI 사례로 본 AI 에이전트 보안 과제",
+    "summary_ko": "오픈AI 시스템에서 잇따라 발견된 두 건의 보안 취약점은 자체 AI 기반 사이버 보안 테스트 도구 개발에 수십억 달러를 투자하는 기업조차 보안 위협에서 자유롭지 않다는 사실을 보여준다. 한 사례에서는 연구팀이 경쟁 AI 개발업체의 도구를 활용해 오픈AI 시스템을 침해했다. 또 다른 연구팀은 오픈AI의 코덱스 에이전트를 속여 샌드박스 통제를 우회하도록 하는 데 성공했다. 보안 업체 핵트론(Hacktron) 연구팀은 여러 취약점을 연계해 원격 코드 실행(RCE)에 성공하고 오픈AI 직원 계정과 내부 시스템에 접근했다.",
+    "url": "https://www.cio.com/article/4224890/%ec%83%8c%eb%93%9c%eb%b0%95%ec%8a%a4%eb%a7%8c-%eb%af%bf%ec%96%b4%ec%84%a0-%ec%95%88-%eb%90%9c%eb%8b%a4-%ec%98%a4%ed%94%88ai-%ec%82%ac%eb%a1%80%eb%a1%9c-%eb%b3%b8-ai-%ec%97%90.html",
+    "image": null,
+    "date": "2026-09-22T12:25:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4224042/%ec%b9%bc%eb%9f%bc-%eb%b6%88%ed%99%95%ec%8b%a4%ec%84%b1%ec%9d%84-%ec%84%b1%ea%b3%bc%eb%a1%9c-%eb%b0%94%ea%be%b8%eb%8a%94-%eb%b2%95%c2%b7%c2%b7%c2%b7-ai-%ec%8b%9c%eb%8c%80-it-%eb%a6%ac%eb%8d%94.html",
+    "platform": "CIO",
+    "title": "칼럼 | 불확실성을 성과로 바꾸는 법··· AI 시대 IT 리더십의 새로운 7가지 원칙",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 불확실성을 성과로 바꾸는 법··· AI 시대 IT 리더십의 새로운 7가지 원칙",
+    "summary_ko": "AI는 변화의 속도를 높이고 전문 지식의 유효기간을 단축하는 동시에 운영 모델을 재편하고 있다. IT 리더가 학습하고 판단하고 행동하는 데 주어진 시간도 갈수록 짧아지고 있다. 이에 따라 IT 리더는 더 적은 정보와 더 큰 불확실성 속에서, 더 중대한 결정을 더 빠르게 내려야 하는 상황에 놓이고 있다. 필자는 40년 넘게 수백 명의 CIO와 함께 일하며 세계적으로 뛰어난 기술 경영진 다수와 신뢰 관계를 쌓아왔다.",
+    "url": "https://www.cio.com/article/4224042/%ec%b9%bc%eb%9f%bc-%eb%b6%88%ed%99%95%ec%8b%a4%ec%84%b1%ec%9d%84-%ec%84%b1%ea%b3%bc%eb%a1%9c-%eb%b0%94%ea%be%b8%eb%8a%94-%eb%b2%95%c2%b7%c2%b7%c2%b7-ai-%ec%8b%9c%eb%8c%80-it-%eb%a6%ac%eb%8d%94.html",
+    "image": null,
+    "date": "2026-09-22T12:15:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxfjs/qwen_4_announced_at_apsara_conference/",
+    "platform": "Reddit",
+    "title": "Qwen 4 Announced at Apsara Conference",
+    "author": {
+      "name": "/u/Salah_H_Hasan",
+      "handle": "/u//u/Salah_H_Hasan",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Qwen 4 Announced at Apsara Conference",
+    "summary_ko": "압사라 컨퍼런스에서 Qwen 4 발표",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxfjs/qwen_4_announced_at_apsara_conference/",
+    "image": "https://preview.redd.it/bpbc9i6hizqh1.png?width=140&height=60&auto=webp&s=fede4da919d94495e7325aff4224d74555128f0a",
+    "date": "2026-09-22T02:45:42.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1wml775/openai_solved_100_open_problems_in_math/",
     "platform": "Reddit",
     "title": "OpenAI solved 100 open problems in math",
@@ -3041,23 +3185,6 @@
     "url": "https://www.cio.com/article/4212584/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ed%95%ad%ec%83%81-%eb%8b%b5%ec%9d%80-%ec%95%84%eb%8b%88%eb%8b%a410%eb%b6%84%ec%9d%98-1-%eb%b9%84%ec%9a%a9%ec%9c%bc%eb%a1%9c-rpa%ea%b0%80-%eb%8d%94.html",
     "image": null,
     "date": "2026-08-24T01:16:57.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
-    "platform": "Reddit",
-    "title": "Sam Altman with some sad statements about AI",
-    "author": {
-      "name": "/u/SwingDingeling",
-      "handle": "/u//u/SwingDingeling",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Sam Altman with some sad statements about AI",
-    "summary_ko": "AI에 대한 슬픈 말을 전하는 샘 알트만(Sam Altman)",
-    "url": "https://www.reddit.com/r/singularity/comments/1vwju3e/sam_altman_with_some_sad_statements_about_ai/",
-    "image": null,
-    "date": "2026-08-23T21:39:38.000Z",
     "likes": 0,
     "comments": 0
   }
