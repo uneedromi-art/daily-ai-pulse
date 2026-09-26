@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1wqwcqe/gpt6_astra_can_now_control_a_humanoid_robot_in_a/",
+    "platform": "Reddit",
+    "title": "GPT-6 Astra can now control a humanoid robot in a room it has never seen, remember where objects are, clean up across the room, and fetch things later from vague human requests using a G1 Unitree humanoid robot",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "GPT-6 Astra can now control a humanoid robot in a room it has never seen, remember where objects are, clean up across the room, and fetch things later from vague human requests using a G1 Unitree humanoid robot",
+    "summary_ko": "GPT-6 Astra는 이제 한 번도 본 적이 없는 방에서 휴머노이드 로봇을 제어하고, 물체가 어디에 있는지 기억하고, 방 전체를 청소하고, 나중에 G1 Unitree 휴머노이드 로봇을 사용하여 모호한 인간 요청에 따라 물건을 가져올 수 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1wqwcqe/gpt6_astra_can_now_control_a_humanoid_robot_in_a/",
+    "image": "https://external-preview.redd.it/eGdneWdvZHJnd3JoMaSVlRNBaHwthE-pU2BRD_RA4GRTMy7fHt64QlfCNMQl.jpeg?width=640&crop=smart&auto=webp&s=79b74ec4c8e8356157bd4ad85d484e42980c82f4",
+    "date": "2026-09-26T17:30:42.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1wqmxk3/openai_stopped_all_frontier_training_evaluation/",
+    "platform": "Reddit",
+    "title": "OpenAI stopped all frontier training, evaluation, and inference with tool-use (defined broadly) on the 20th of September and they are not resuming any of these activities for now",
+    "author": {
+      "name": "/u/Alex__007",
+      "handle": "/u//u/Alex__007",
+      "avatar_color": "#ff4500"
+    },
+    "content": "OpenAI stopped all frontier training, evaluation, and inference with tool-use (defined broadly) on the 20th of September and they are not resuming any of these activities for now",
+    "summary_ko": "OpenAI는 9월 20일에 도구 사용(광의로 정의됨)에 대한 모든 프론티어 훈련, 평가 및 추론을 중단했으며 현재 이러한 활동을 재개하지 않습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1wqmxk3/openai_stopped_all_frontier_training_evaluation/",
+    "image": null,
+    "date": "2026-09-26T10:15:17.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future/",
+    "platform": "Reddit",
+    "title": "Ling Tiny 3.0 is a glimpse of the future",
+    "author": {
+      "name": "/u/netherreddit",
+      "handle": "/u//u/netherreddit",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Ling Tiny 3.0 is a glimpse of the future",
+    "summary_ko": "Ling Tiny 3.0은 미래를 엿볼 수 있는 제품입니다",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future/",
+    "image": null,
+    "date": "2026-09-26T00:40:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wqbytd/video_models_are_getting_good/",
+    "platform": "Reddit",
+    "title": "Video models are getting good",
+    "author": {
+      "name": "/u/we_are_mammals",
+      "handle": "/u//u/we_are_mammals",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Video models are getting good",
+    "summary_ko": "비디오 모델이 점점 좋아지고 있어요",
+    "url": "https://www.reddit.com/r/singularity/comments/1wqbytd/video_models_are_getting_good/",
+    "image": "https://external-preview.redd.it/Z29qbGtqam45cnJoMcojh23krgwJHBfUlauMDcBJ8VgdXwhBt-vtQ7kCuMXC.png?width=640&crop=smart&auto=webp&s=82a3a83cc38d108e5ba2f6d53d820e83a9e6c6fc",
+    "date": "2026-09-26T00:02:38.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1wq52am/in_just_100_days_ai_crossed_into_real_medical/",
     "platform": "Reddit",
     "title": "In just 100 days, AI crossed into real medical work. 37,000 agents searched 55,000 trials for new treatments, an AI-designed pulmonary fibrosis drug entered Phase III, and an autonomous medical agent beat doctors on ER diagnosis, 87.8% to 78.1%",
@@ -2938,119 +3006,6 @@
     "url": "https://www.cio.com/article/4215095/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ea%b0%80-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4%eb%a5%bc-%ec%82%ac%eb%a0%a4%eb%8a%94-%ec%9d%b4%ec%9c%a0%ec%b9%a9-%eb%8b%a4%ec%9d%8c%ec%9d%80-ai.html",
     "image": null,
     "date": "2026-08-28T01:33:17.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-    "platform": "Google",
-    "title": "Planetary prediction engine: Automating global models via Earth AI",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Earth AI",
-    "summary_ko": "행성 예측 엔진: Earth AI를 통해 글로벌 모델 자동화",
-    "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-    "image": null,
-    "date": "2026-08-27T17:37:20.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4214606/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%aa%87-%ea%b0%9c%eb%b3%b4%eb%8b%a4-%ec%96%bc%eb%a7%88%ec%9d%98-%ea%b0%80%ec%b9%98-%eb%83%88%eb%82%98%ed%95%9c%ea%b5%ad-%ea%b8%88.html",
-    "platform": "CIO",
-    "title": "“에이전트 몇 개보다 얼마의 가치 냈나”…한국 금융권, AI 성과 측정 과도기 진입",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“에이전트 몇 개보다 얼마의 가치 냈나”…한국 금융권, AI 성과 측정 과도기 진입",
-    "summary_ko": "노경훈 AWS코리아 금융산업·공공부문 리더는 27일 AWS 파이낸셜 서비스 포럼을 기념한 기자간담회에서 최근 금융 업계에서 나타나는 변화를 공유했다. 노 리더는 올해 들어 금융사들이 AI를 실제 업무에 적용하는 단계로 빠르게 이동하면서, 기술 도입 자체보다 운영과 관리, 실질적인 성과에 대한 고민이 커지고 있다고 설명했다. 이번 행사에 참여한 최기영 앤트로픽코리아 대표도 비슷한 맥락에서 국내 금융권의 핵심 변화로 AI가 개념검증(Po C)을 넘어 실제 업무 환경으로 이동하고 있다는 점을 꼽았다.",
-    "url": "https://www.cio.com/article/4214606/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%aa%87-%ea%b0%9c%eb%b3%b4%eb%8b%a4-%ec%96%bc%eb%a7%88%ec%9d%98-%ea%b0%80%ec%b9%98-%eb%83%88%eb%82%98%ed%95%9c%ea%b5%ad-%ea%b8%88.html",
-    "image": null,
-    "date": "2026-08-27T07:04:56.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4214553/cvss-%ec%a0%90%ec%88%98%eb%a1%a0-%eb%b6%80%ec%a1%b1ai-%ec%8b%9c%eb%8c%80-%eb%b3%b4%ec%95%88%ec%9d%80-%ec%9d%b8%ed%84%b0%eb%84%b7-%eb%85%b8%ec%b6%9c-%ec%9e%90%ec%82%b0%eb%b6%80.html",
-    "platform": "CIO",
-    "title": "“CVSS 점수론 부족”…AI 시대 보안은 ‘인터넷 노출 자산’부터 살펴봐야",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“CVSS 점수론 부족”…AI 시대 보안은 ‘인터넷 노출 자산’부터 살펴봐야",
-    "summary_ko": "시스코의 위협 인텔리전스 조직인 시스코 탈로스(Cisco Talos)에 따르면 중국어권 사이버 범죄 조직이 AI 기반 도구를 활용해 인터넷에 노출된 윈도우와 리눅스 웹 서버를 침해하고 있는 것으로 나타났다. 탈로스는 이러한 활동이 공격자의 공격 방식이 점차 자동화되고 있음을 보여준다고 분석했다. 탈로스는 이 조직을 ‘UAT-10147‘로 추적하고 있으며, 침해 과정에서 AI가 생성한 운영 가이드가 실제로 사용된 정황을 확인했다고 밝혔다.",
-    "url": "https://www.cio.com/article/4214553/cvss-%ec%a0%90%ec%88%98%eb%a1%a0-%eb%b6%80%ec%a1%b1ai-%ec%8b%9c%eb%8c%80-%eb%b3%b4%ec%95%88%ec%9d%80-%ec%9d%b8%ed%84%b0%eb%84%b7-%eb%85%b8%ec%b6%9c-%ec%9e%90%ec%82%b0%eb%b6%80.html",
-    "image": null,
-    "date": "2026-08-27T01:58:23.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4214509/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ea%b3%bc-%ec%86%90%ec%9e%a1%ea%b3%a0-%ed%81%b4%eb%a1%9c%eb%93%9c%ed%8f%ac%ec%8a%a4-%ec%b6%9c%ec%8b%9c.html",
-    "platform": "CIO",
-    "title": "세일즈포스, 앤트로픽과 손잡고 ‘클로드포스’ 출시…클로드에서 CRM 직접 활용",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "세일즈포스, 앤트로픽과 손잡고 ‘클로드포스’ 출시…클로드에서 CRM 직접 활용",
-    "summary_ko": "세일즈포스와 앤트로픽은 전략적 파트너십을 확대하고 새로운 서비스인 ‘클로드포스(Claudeforce)’를 선보였다고 발표했다. 이를 통해 양사 고객은 클로드(Claude)에서 세일즈포스의 데이터, 워크플로우, 비즈니스 로직, 액션, 거버넌스를 활용할 수 있게 된다. 세일즈포스 애플리케이션 및 마케팅 부문 사장 패트릭 스톡스(Patrick Stokes)는 27일 CIO.",
-    "url": "https://www.cio.com/article/4214509/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ea%b3%bc-%ec%86%90%ec%9e%a1%ea%b3%a0-%ed%81%b4%eb%a1%9c%eb%93%9c%ed%8f%ac%ec%8a%a4-%ec%b6%9c%ec%8b%9c.html",
-    "image": null,
-    "date": "2026-08-27T01:19:28.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4214477/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-9%ec%b4%88-%eb%a7%8c%ec%97%90-db%eb%a5%bc-%eb%82%a0%eb%a0%b8%eb%8b%a4cio-%ed%86%b5%ec%a0%9c%ea%b6%8c%ec%9d%84-%eb%90%98%ec%b0%be%ec%9d%84.html",
-    "platform": "CIO",
-    "title": "AI 에이전트가 9초 만에 DB를 날렸다…CIO, 통제권을 되찾을 수 있을까",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 에이전트가 9초 만에 DB를 날렸다…CIO, 통제권을 되찾을 수 있을까",
-    "summary_ko": "AI 에이전트가 운영 데이터베이스를 삭제하는 데 걸린 시간은 단 9초였다. 미국 렌터카 운영 관리 소프트웨어 스타트업 포켓OS(Pocket OS)에서 벌어진 일이다. 지난 4월 포켓OS가 사용하던 클로드 오퍼스 4. 6 기반 커서(Cursor) 코딩 에이전트는 인증 정보 불일치 오류를 해결하기 위해 API 토큰을 활성화했다. 그러나 이 토큰은 문제를 해결하는 대신 운영 데이터베이스까지 삭제했다. 포켓OS 설립자 제르 크레인(Jer Crane)은 이 사실을 전혀 알지 못했고, 이후 X를 통해 “그 사실을 알았다면 해당 토큰을 절대 저장하지 않았을 것”이라고 밝혔다.",
-    "url": "https://www.cio.com/article/4214477/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-9%ec%b4%88-%eb%a7%8c%ec%97%90-db%eb%a5%bc-%eb%82%a0%eb%a0%b8%eb%8b%a4cio-%ed%86%b5%ec%a0%9c%ea%b6%8c%ec%9d%84-%eb%90%98%ec%b0%be%ec%9d%84.html",
-    "image": null,
-    "date": "2026-08-27T01:01:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4214475/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ec%84%b1%ed%8c%a8%eb%8a%94-%eb%b3%80%ed%99%94-%ea%b4%80%eb%a6%ac%ec%9e%a5%ec%95%a0-%ed%8b%b0%ec%bc%93-%ec%b5%9c%eb%8c%80-70-%ea%b0%90.html",
-    "platform": "CIO",
-    "title": "오픈텍스트 “AI 성패는 변화 관리”…장애 티켓 최대 70% 감소 사례 공개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "오픈텍스트 “AI 성패는 변화 관리”…장애 티켓 최대 70% 감소 사례 공개",
-    "summary_ko": "가트너에 따르면 인프라·운영(I&O) 분야 AI 프로젝트 가운데 목표한 투자 대비 효과(ROI)를 충분히 달성한 사례는 28%에 그쳤으며, 20%는 프로젝트가 실패한 것으로 나타났다. 오픈텍스트는 이러한 결과의 원인을 AI 기술이 아닌 프로세스 정비 부족과 조직의 준비 미흡에서 찾을 수 있다고 설명했다.",
-    "url": "https://www.cio.com/article/4214475/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-ai-%ec%84%b1%ed%8c%a8%eb%8a%94-%eb%b3%80%ed%99%94-%ea%b4%80%eb%a6%ac%ec%9e%a5%ec%95%a0-%ed%8b%b0%ec%bc%93-%ec%b5%9c%eb%8c%80-70-%ea%b0%90.html",
-    "image": null,
-    "date": "2026-08-27T00:04:51.000Z",
     "likes": 0,
     "comments": 0
   }
