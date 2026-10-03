@@ -1,5 +1,148 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1ww3rq7/pewdiepie_is_trying_to_distill_gptsol/",
+    "platform": "Reddit",
+    "title": "PewDiePie is trying to distill GPT-Sol",
+    "author": {
+      "name": "/u/sigma_crusader",
+      "handle": "/u//u/sigma_crusader",
+      "avatar_color": "#ff4500"
+    },
+    "content": "PewDiePie is trying to distill GPT-Sol",
+    "summary_ko": "PewDiePie가 GPT-Sol을 증류하려고 합니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1ww3rq7/pewdiepie_is_trying_to_distill_gptsol/",
+    "image": "https://preview.redd.it/l8i9oi7124th1.jpeg?width=640&crop=smart&auto=webp&s=4ad180e1cf9e60efb1d37d6fb8191e5166f1d10c",
+    "date": "2026-10-02T20:06:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
+    "platform": "Reddit",
+    "title": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
+    "author": {
+      "name": "/u/StayLameBro",
+      "handle": "/u//u/StayLameBro",
+      "avatar_color": "#ff4500"
+    },
+    "content": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
+    "summary_ko": "저는 iPhone을 24GB MacBook용 두 번째 GPU로 만들었습니다. Qwen 3.8 27B는 29~44% 더 빠르게 미리 채워지고 CTX 창의 일부를 보유합니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
+    "image": "https://external-preview.redd.it/dDVtbHdrd24zM3RoMVp30zpmYT17R8E7kjj3Guqcxx5HP1U9vnCW8-YhOLM_.png?width=640&crop=smart&auto=webp&s=b6cfbbd20628b5c3ae71bbb063bcf2d65c897eed",
+    "date": "2026-10-02T16:59:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+    "platform": "Google",
+    "title": "Toward provably private learning from federated data",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Mobile Systems",
+    "summary_ko": "연합 데이터를 통한 입증 가능한 개인 학습을 향하여",
+    "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+    "image": null,
+    "date": "2026-10-02T14:57:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
+    "platform": "Reddit",
+    "title": "Does anyone know if any new releases from Mistral are planned?",
+    "author": {
+      "name": "/u/LegacyRemaster",
+      "handle": "/u//u/LegacyRemaster",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Does anyone know if any new releases from Mistral are planned?",
+    "summary_ko": "Mistral의 새 릴리스가 계획되어 있는지 아는 사람이 있습니까?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
+    "image": "https://preview.redd.it/wxxi2f2o21th1.png?width=640&crop=smart&auto=webp&s=c325f00556bb6f723d79c8fb551bc49bb64c3ce7",
+    "date": "2026-10-02T10:05:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wvknzh/what_do_we_think_of_this_ai_torture_chamber/",
+    "platform": "Reddit",
+    "title": "What do we think of this AI torture chamber",
+    "author": {
+      "name": "/u/arknightstranslate",
+      "handle": "/u//u/arknightstranslate",
+      "avatar_color": "#ff4500"
+    },
+    "content": "What do we think of this AI torture chamber",
+    "summary_ko": "우리는 이 AI 고문실에 대해 어떻게 생각하나요?",
+    "url": "https://www.reddit.com/r/singularity/comments/1wvknzh/what_do_we_think_of_this_ai_torture_chamber/",
+    "image": "https://preview.redd.it/fmd6d3jpfzsh1.jpeg?width=640&crop=smart&auto=webp&s=25252639f26e56c3ea76dc62b6cc04e611630794",
+    "date": "2026-10-02T04:34:38.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4229856/%eb%af%b8%ea%b5%ad%ec%97%90%ec%84%9c-%ea%b0%80%ec%9e%a5-%ed%9b%8c%eb%a5%ad%ed%95%9c-%ec%a7%81%ec%9e%a5-%eb%ac%b8%ed%99%94%eb%8a%94-%ec%97%ac%eb%9f%ac%eb%b6%84%ec%9d%b4-%eb%93%a4%ec%96%b4%eb%b3%b8.html",
+    "platform": "CIO",
+    "title": "칼럼 | 감원하는 빅테크와 다른 길…중소기업이 만드는 새로운 美 기업 문화",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 감원하는 빅테크와 다른 길…중소기업이 만드는 새로운 美 기업 문화",
+    "summary_ko": "마이크로소프트(MS)가 4,800명을 감원한다고 발표하자 많은 이들이 의문을 표했다. 최근 시장에서 거둔 성과와 감원 결정이 어울리지 않는다고 봤기 때문이다. MS의 지난 분기 순이익은 전년 동기 대비 23% 증가한 318억 달러(약 43조 3,100억 원)였다. 하지만 이것이 2026년 기업 경영의 현실이다. 수익을 내는 상장기업이 월가에 막대한 AI 투자의 정당성을 입증하기 위해 수천 개의 일자리를 없애고, 그만큼 많은 사람의 삶에 영향을 미치고 있다. MS를 비롯한 거대 기업의 감원은 미국 기업사에 전환점이 찾아왔음을 보여준다.",
+    "url": "https://www.cio.com/article/4229856/%eb%af%b8%ea%b5%ad%ec%97%90%ec%84%9c-%ea%b0%80%ec%9e%a5-%ed%9b%8c%eb%a5%ad%ed%95%9c-%ec%a7%81%ec%9e%a5-%eb%ac%b8%ed%99%94%eb%8a%94-%ec%97%ac%eb%9f%ac%eb%b6%84%ec%9d%b4-%eb%93%a4%ec%96%b4%eb%b3%b8.html",
+    "image": null,
+    "date": "2026-10-02T01:49:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4229854/%eb%a7%8c%ec%95%bd-%ec%95%a0%ed%94%8c%ec%9d%b4-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%eb%8f%84%ec%9b%80%ec%9d%84-%eb%b0%9b%ec%95%84-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%84%9c%eb%b2%84-%ec%8b%9c.html",
+    "platform": "CIO",
+    "title": "애플의 서버 시장 복귀설…업계 전문가 “자체 AI 서비스용으로 활용할 듯”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "애플의 서버 시장 복귀설…업계 전문가 “자체 AI 서비스용으로 활용할 듯”",
+    "summary_ko": "애플이 자체 칩을 기반으로 하고 엔비디아의 연결 기술을 활용할 가능성이 있는 AI 특화 시스템으로 기업용 서버 시장 복귀를 검토하고 있는 것으로 알려졌다. 미 IT언론사 더인포메이션은 9월 중순 애플이 차세대 M8 시리즈 프로세서를 탑재한 서버를 검토하고 있으며, 이르면 2029년께 출시할 수 있다고 보도했다. 다만 아직 초기 단계인 만큼 계획이 바뀌거나 취소될 가능성도 있다. 이 시스템이 출시되면 애플은 2011년 엑스서브(Xserve)를 단종한 이후 상용 서버 시장에 복귀하게 된다.",
+    "url": "https://www.cio.com/article/4229854/%eb%a7%8c%ec%95%bd-%ec%95%a0%ed%94%8c%ec%9d%b4-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%eb%8f%84%ec%9b%80%ec%9d%84-%eb%b0%9b%ec%95%84-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%84%9c%eb%b2%84-%ec%8b%9c.html",
+    "image": null,
+    "date": "2026-10-02T01:43:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4229848/ai-%ea%b2%bd%ec%9f%81%ec%9d%98-%eb%8b%a4%ec%9d%8c-%eb%ac%b4%eb%8c%80%eb%8a%94-%eb%a7%a5%eb%9d%bd-ms.html",
+    "platform": "CIO",
+    "title": "AI 경쟁의 다음 무대는 ‘맥락’…MS, 기업 데이터 플랫폼 재설계",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 경쟁의 다음 무대는 ‘맥락’…MS, 기업 데이터 플랫폼 재설계",
+    "summary_ko": "마이크로소프트(MS)가 스페인 바르셀로나에서 열린 ‘패브릭 + SQL 유럽 커뮤니티 컨퍼런스’에서 고객사의 에이전트 활용을 위한 새로운 비전을 공개했다. 바르셀로나 국제컨벤션센터(CCIB)에는 71개국에서 5,000명 이상이 모였다. 마이크로소프트는 이 자리에서 마이크로소프트 패브릭(Microsoft Fabric), 파워 BI(Power BI), 원레이크(One Lake), 애저 SQL(Azure SQL) 전반에 걸친 신규 기능을 발표했다. 핵심은 데이터와 데이터의 비즈니스적 의미, 인공지능을 하나의 플랫폼으로 통합하는 것이다.",
+    "url": "https://www.cio.com/article/4229848/ai-%ea%b2%bd%ec%9f%81%ec%9d%98-%eb%8b%a4%ec%9d%8c-%eb%ac%b4%eb%8c%80%eb%8a%94-%eb%a7%a5%eb%9d%bd-ms.html",
+    "image": null,
+    "date": "2026-10-02T01:34:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4229399/ipo-%ec%95%9e%eb%91%94-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%86%8c%ec%88%98-%ea%b3%a0%ea%b0%9d%ec%97%90-%eb%a7%a4%ec%b6%9c-%ec%a7%91%ec%a4%91.html",
     "platform": "CIO",
     "title": "IPO 앞둔 앤트로픽, 소수 고객에 매출 집중…CIO가 확보해야 할 AI 계약 조건",
@@ -3056,150 +3199,6 @@
     "url": "https://www.cio.com/article/4217848/%ec%9d%b8%ed%84%b0%eb%b7%b0-ai-%eb%95%8c%eb%ac%b8%ec%97%90-%ec%9c%84%ec%b6%95-%ec%a0%95%eb%b0%98%eb%8c%80%ec%9e%85%eb%8b%88%eb%8b%a4%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%9e%ac.html",
     "image": null,
     "date": "2026-09-03T08:07:34.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w5d1pz/gemini_38_flash_benchmarks/",
-    "platform": "Reddit",
-    "title": "Gemini 3.8 Flash Benchmarks",
-    "author": {
-      "name": "/u/Able-Line2683",
-      "handle": "/u//u/Able-Line2683",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Gemini 3.8 Flash Benchmarks",
-    "summary_ko": "Gemini 3.8 플래시 벤치마크",
-    "url": "https://www.reddit.com/r/singularity/comments/1w5d1pz/gemini_38_flash_benchmarks/",
-    "image": "https://preview.redd.it/3gx8kqsjh4nh1.jpeg?width=640&crop=smart&auto=webp&s=f1511276d97a85326977f43950e6bb9fc42a08eb",
-    "date": "2026-09-02T15:08:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w52kvr/sam_altman_on_x_we_are_going_to_be_launching_our/",
-    "platform": "Reddit",
-    "title": "Sam Altman on X: \"We are going to be launching our next model soon. There is an obvious tension… Astra is very good. We are proud of our work.\"",
-    "author": {
-      "name": "/u/borowcy",
-      "handle": "/u//u/borowcy",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Sam Altman on X: \"We are going to be launching our next model soon. There is an obvious tension… Astra is very good. We are proud of our work.\"",
-    "summary_ko": "X에 대한 Sam Altman: \"우리는 곧 다음 모델을 출시할 예정입니다. 분명한 긴장감이 있습니다… Astra는 매우 훌륭합니다. 우리는 우리의 작업을 자랑스럽게 생각합니다.\".",
-    "url": "https://www.reddit.com/r/singularity/comments/1w52kvr/sam_altman_on_x_we_are_going_to_be_launching_our/",
-    "image": null,
-    "date": "2026-09-02T06:42:23.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4217362/%ec%9d%b8%ed%84%b0%eb%b7%b0-sap-%ec%a0%84%eb%ac%b8%ea%b0%80-%ec%9d%80%ed%87%b4-%eb%8f%84%eb%af%b8%eb%85%b8-%ec%8b%9c%eb%8c%80-s-4hana-%ec%a0%84%ed%99%98-%ec%95%9e%eb%91%94-%ea%b8%b0%ec%97%85.html",
-    "platform": "CIO",
-    "title": "인터뷰 | SAP 전문가 은퇴 도미노 시대…S/4HANA 전환 앞둔 기업이 먼저 챙겨야 할 것",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "인터뷰 | SAP 전문가 은퇴 도미노 시대…S/4HANA 전환 앞둔 기업이 먼저 챙겨야 할 것",
-    "summary_ko": "많은 기업이 기존 SAP ERP인 ECC에서 차세대 ERP인 S/4HANA로 전환을 추진하고 있지만, 그보다 더 심각한 과제가 눈앞에 다가오고 있다. 바로 SAP에 축적된 방대한 전문 지식과 경험이 숙련된 인력의 은퇴와 함께 사라질 위기에 처한 것이다. CIO.",
-    "url": "https://www.cio.com/article/4217362/%ec%9d%b8%ed%84%b0%eb%b7%b0-sap-%ec%a0%84%eb%ac%b8%ea%b0%80-%ec%9d%80%ed%87%b4-%eb%8f%84%eb%af%b8%eb%85%b8-%ec%8b%9c%eb%8c%80-s-4hana-%ec%a0%84%ed%99%98-%ec%95%9e%eb%91%94-%ea%b8%b0%ec%97%85.html",
-    "image": null,
-    "date": "2026-09-02T05:50:55.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4217359/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%83%8c%eb%93%9c%eb%b0%95%ec%8a%a4-%eb%b3%b4%ec%95%88-%ea%b0%95%ed%99%94%eb%ac%b4%eb%aa%a8%ed%95%9c-%ec%b6%94%eb%a1%a0-%eb%a7%89%eb%8a%94.html",
-    "platform": "CIO",
-    "title": "앤트로픽, AI 샌드박스 보안 강화…’무모한 추론’ 막는다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "앤트로픽, AI 샌드박스 보안 강화…’무모한 추론’ 막는다",
-    "summary_ko": "오픈AI-허깅페이스 사건과 최근 자사 모델에서 드러난 문제를 계기로, 앤트로픽은 보안 및 정렬(alignment) 체계를 전면 개편하고 있다. 앤트로픽은 모델이 샌드박스를 탈출하려 하거나 실제 인터넷에 접근할 경우 이를 탐지하는 통제 장치를 구축했다. 또한 위험도가 가장 높은 테스트 환경을 별도로 격리하고, 외부 테스트 파트너를 위한 안전 기준도 새롭게 제시했다. 여기에는 AI 에이전트에 “인터넷에 접근해서는 안 된다”와 같은 명시적인 지침을 제공하는 내용도 포함된다.",
-    "url": "https://www.cio.com/article/4217359/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%83%8c%eb%93%9c%eb%b0%95%ec%8a%a4-%eb%b3%b4%ec%95%88-%ea%b0%95%ed%99%94%eb%ac%b4%eb%aa%a8%ed%95%9c-%ec%b6%94%eb%a1%a0-%eb%a7%89%eb%8a%94.html",
-    "image": null,
-    "date": "2026-09-02T05:36:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4217355/%ec%b9%bc%eb%9f%bc-%ea%b0%9c%eb%b0%9c%eb%8f%84%ec%83%81%ea%b5%ad%ec%9d%b4-%eb%86%93%ec%b9%9c-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ed%98%91%ec%83%81%ed%86%b5%ec%a0%9c%ea%b6%8c.html",
-    "platform": "CIO",
-    "title": "칼럼 | 개발도상국이 놓친 데이터센터 협상…통제권은 기업이, 부담은 국가가",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 개발도상국이 놓친 데이터센터 협상…통제권은 기업이, 부담은 국가가",
-    "summary_ko": "매 10년 정도마다 세계 경제의 성패를 가르는 새로운 형태의 핵심 인프라가 등장한다. 20세기에는 항만과 고속도로, 전력망이 그 역할을 했다. 그리고 지금은 컴퓨팅(Compute)이다. 전 세계 정부는 이를 확보하기 위해 미국과 중국의 소수 대형 기술 기업에 토지 제공, 세제 혜택, 전력 공급 보장 등을 제시하며 유치 경쟁을 벌이고 있다. 그러나 무엇을 내주고 있는지, 또 무엇을 놓고 경쟁하는지 충분히 이해하지 못한 경우가 적지 않다. 필자는 오랜 기간 데이터센터를 설계하고 구축해 왔다. 현장에서 바라본 현실은 다음과 같다.",
-    "url": "https://www.cio.com/article/4217355/%ec%b9%bc%eb%9f%bc-%ea%b0%9c%eb%b0%9c%eb%8f%84%ec%83%81%ea%b5%ad%ec%9d%b4-%eb%86%93%ec%b9%9c-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ed%98%91%ec%83%81%ed%86%b5%ec%a0%9c%ea%b6%8c.html",
-    "image": null,
-    "date": "2026-09-02T05:14:30.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/",
-    "platform": "Reddit",
-    "title": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
-    "author": {
-      "name": "/u/Sadge404",
-      "handle": "/u//u/Sadge404",
-      "avatar_color": "#ff4500"
-    },
-    "content": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
-    "summary_ko": "LocalLLaMA는 단연코 최신 AI 뉴스를 접할 수 있는 최고의 장소 중 하나입니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/",
-    "image": null,
-    "date": "2026-09-02T05:09:30.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4217347/%ea%b3%b5%ea%b3%a0-%ec%98%ac%eb%a6%ac%ea%b3%a0-%ec%9d%b4%eb%a0%a5%ec%84%9c-%ea%b1%b0%eb%a5%b4%eb%8a%94-%ec%8b%9c%eb%8c%80-%eb%81%9d%eb%82%ac%eb%8b%a4it-%ec%b1%84%ec%9a%a9-%ec%a7%80.html",
-    "platform": "CIO",
-    "title": "“공고 올리고 이력서 거르는 시대 끝났다”…IT 채용, 지금 이렇게 바뀌고 있다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“공고 올리고 이력서 거르는 시대 끝났다”…IT 채용, 지금 이렇게 바뀌고 있다",
-    "summary_ko": "향후 몇 년간 핵심 IT 직무를 수행할 수 있는 숙련된 전문 인력 부족이 심화되면서, 기술 인재 확보를 우선순위에 두지 않는 기업은 심각한 경쟁력 약화에 직면할 수 있다고 업계 전문가들은 전망했다. 우수한 인재 확보는 항상 IT 리더의 핵심 과제였지만, 지금처럼 채용 부담이 컸던 적은 없었다. 특히 AI, 사이버보안, 데이터 과학 분야의 숙련된 인재는 확보가 갈수록 어려워지고 있다. 상황은 더욱 심각하다. CIO.",
-    "url": "https://www.cio.com/article/4217347/%ea%b3%b5%ea%b3%a0-%ec%98%ac%eb%a6%ac%ea%b3%a0-%ec%9d%b4%eb%a0%a5%ec%84%9c-%ea%b1%b0%eb%a5%b4%eb%8a%94-%ec%8b%9c%eb%8c%80-%eb%81%9d%eb%82%ac%eb%8b%a4it-%ec%b1%84%ec%9a%a9-%ec%a7%80.html",
-    "image": null,
-    "date": "2026-09-02T04:57:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w4w5g0/if_true_openai_has_made_another_o1level/",
-    "platform": "Reddit",
-    "title": "if true openai has made another o1-level breakthrough",
-    "author": {
-      "name": "/u/Crazyscientist1024",
-      "handle": "/u//u/Crazyscientist1024",
-      "avatar_color": "#ff4500"
-    },
-    "content": "if true openai has made another o1-level breakthrough",
-    "summary_ko": "진정한 openai가 또 다른 o1 수준의 돌파구를 만들었다면",
-    "url": "https://www.reddit.com/r/singularity/comments/1w4w5g0/if_true_openai_has_made_another_o1level/",
-    "image": "https://preview.redd.it/gxza3a3wd0nh1.png?width=140&height=131&auto=webp&s=b1e874a95e9db779a317a7accce0b968c24fc918",
-    "date": "2026-09-02T01:23:03.000Z",
     "likes": 0,
     "comments": 0
   }
