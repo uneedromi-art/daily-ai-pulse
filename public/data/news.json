@@ -1,5 +1,91 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+    "platform": "Reddit",
+    "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+    "author": {
+      "name": "/u/rodrigodevbits",
+      "handle": "/u//u/rodrigodevbits",
+      "avatar_color": "#ff4500"
+    },
+    "content": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
+    "summary_ko": "PewDiePie가 현지 모델을 만들다가 OpenAI로부터 두 번이나 금지당하는 것은 최고의 코미디입니다 💀.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
+    "image": null,
+    "date": "2026-10-05T22:37:19.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wykgbk/ai_is_about_to_transform_materials_science/",
+    "platform": "Reddit",
+    "title": "AI Is About to Transform Materials Science",
+    "author": {
+      "name": "/u/ResultBackground2450",
+      "handle": "/u//u/ResultBackground2450",
+      "avatar_color": "#ff4500"
+    },
+    "content": "AI Is About to Transform Materials Science",
+    "summary_ko": "AI가 재료과학을 변화시키려 합니다",
+    "url": "https://www.reddit.com/r/singularity/comments/1wykgbk/ai_is_about_to_transform_materials_science/",
+    "image": "https://preview.redd.it/zekwb7z8spth1.png?width=640&crop=smart&auto=webp&s=30772c87877baef50b43c0aa83d7192ff19eb295",
+    "date": "2026-10-05T21:11:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+    "platform": "Google",
+    "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Education Innovation",
+    "summary_ko": "에이전트 개인 정보 보호 및 보안의 공개적이고 긴급한 문제: 상황별 각도",
+    "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+    "image": null,
+    "date": "2026-10-05T21:08:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
+    "platform": "Reddit",
+    "title": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
+    "author": {
+      "name": "/u/SignificantZebra5883",
+      "handle": "/u//u/SignificantZebra5883",
+      "avatar_color": "#ff4500"
+    },
+    "content": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
+    "summary_ko": "Qwen 27b가 그렇게 좋은 것이 어떻게 가능합니까? GPT 4o에 1조 개의 매개변수가 있었고 그보다 더 나빴을 때는요?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
+    "image": "https://preview.redd.it/30cg5bmsmoth1.png?width=640&crop=smart&auto=webp&s=d44b8ff477ced26c69de015f18396bd9c68e7690",
+    "date": "2026-10-05T17:20:38.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wxxz1n/a_researcher_spent_3_months_making_software_for/",
+    "platform": "Reddit",
+    "title": "A researcher spent 3 months making software for designing quantum circuits ~10,000× faster. GPT-6 Astra took the already-optimized code and made it another ~10× faster overnight",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "A researcher spent 3 months making software for designing quantum circuits ~10,000× faster. GPT-6 Astra took the already-optimized code and made it another ~10× faster overnight",
+    "summary_ko": "한 연구원은 최대 10,000배 더 빠른 양자 회로 설계용 소프트웨어를 만드는 데 3개월을 보냈습니다. GPT-6 Astra는 이미 최적화된 코드를 가져와 밤새 최대 10배 더 빠르게 만들었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1wxxz1n/a_researcher_spent_3_months_making_software_for/",
+    "image": "https://preview.redd.it/7d6lrwyoekth1.jpeg?width=640&crop=smart&auto=webp&s=c6e3c2f1dea286cbda5e7bd0afc6cb9cb5495027",
+    "date": "2026-10-05T03:05:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/OpenAI/comments/1wxin4m/chatgpt6_astra_plays_world_of_warcraft_blind_and/",
     "platform": "Reddit",
     "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths — AI agent navigates by parsing raw server network packets and SQL files",
@@ -3013,91 +3099,6 @@
     "url": "https://www.reddit.com/r/OpenAI/comments/1w8nmx9/astra_live_action_with_tokens/",
     "image": "https://external-preview.redd.it/eGR1Z3B5N2M5dW5oMRN2ST9QaoRvh93ku1XL_rAuYqZzxL_agQt4SUjaBIMT.png?width=640&crop=smart&auto=webp&s=5fd5c209a2fbc43f668872e924d8d5beb6e72a15",
     "date": "2026-09-06T05:50:37.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w8g7d0/gpt6_astra_has_beaten_portal_becoming_the_first/",
-    "platform": "Reddit",
-    "title": "GPT-6 Astra Has Beaten Portal, Becoming the First Model to Achieve This.",
-    "author": {
-      "name": "/u/ResultBackground2450",
-      "handle": "/u//u/ResultBackground2450",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GPT-6 Astra Has Beaten Portal, Becoming the First Model to Achieve This.",
-    "summary_ko": "GPT-6 Astra가 Portal을 이기고 이를 달성한 최초의 모델이 되었습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1w8g7d0/gpt6_astra_has_beaten_portal_becoming_the_first/",
-    "image": "https://preview.redd.it/1eu9dhiqfsnh1.png?width=640&crop=smart&auto=webp&s=e4c9001bd2988c32a33b4df29c9f3b458e22a916",
-    "date": "2026-09-05T23:41:23.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w7z3f6/agi_achieved/",
-    "platform": "Reddit",
-    "title": "AGI achieved",
-    "author": {
-      "name": "/u/SureSpecial1834",
-      "handle": "/u//u/SureSpecial1834",
-      "avatar_color": "#ff4500"
-    },
-    "content": "AGI achieved",
-    "summary_ko": "AGI 달성",
-    "url": "https://www.reddit.com/r/singularity/comments/1w7z3f6/agi_achieved/",
-    "image": "https://preview.redd.it/0svnxwcp0pnh1.jpeg?width=640&crop=smart&auto=webp&s=038664212f7366451bc5b48e8cc9bae1404fc80e",
-    "date": "2026-09-05T12:11:35.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w7xe37/gpt6astra_draws_an_portrait_in_canva/",
-    "platform": "Reddit",
-    "title": "GPT-6-Astra Draws an Portrait in Canva",
-    "author": {
-      "name": "/u/WaqarKhanHD",
-      "handle": "/u//u/WaqarKhanHD",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GPT-6-Astra Draws an Portrait in Canva",
-    "summary_ko": "GPT-6-Astra가 Canva에서 초상화를 그립니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1w7xe37/gpt6astra_draws_an_portrait_in_canva/",
-    "image": "https://external-preview.redd.it/ejRoOTcydDNsb25oMQbDhwupv1Ja_WwuUfrnnAM_X2wUJeSQX_4wVVo3WzmS.png?width=640&crop=smart&auto=webp&s=1e0744a4bc2dcdeb82c1f298d9fe779ef13470b3",
-    "date": "2026-09-05T10:45:36.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1w7ppcj/fable_51_vs_gpt_6_astra_3d_blender_mind_blowing/",
-    "platform": "Reddit",
-    "title": "Fable 5.1 vs GPT 6 Astra, 3D Blender, mind blowing difference!",
-    "author": {
-      "name": "/u/curious_capsuleer",
-      "handle": "/u//u/curious_capsuleer",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Fable 5.1 vs GPT 6 Astra, 3D Blender, mind blowing difference!",
-    "summary_ko": "Fable 5.1 vs GPT 6 Astra, 3D 블렌더, 놀라운 차이!",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1w7ppcj/fable_51_vs_gpt_6_astra_3d_blender_mind_blowing/",
-    "image": "https://preview.redd.it/hc9tslyxgmnh1.png?width=140&height=100&auto=webp&s=5c96c4cfa9630914d3dc7955e31e63e9c00f1944",
-    "date": "2026-09-05T03:42:57.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w7l201/sub_agents_being_released_into_my_codebase/",
-    "platform": "Reddit",
-    "title": "sub agents being released into my codebase",
-    "author": {
-      "name": "/u/policyweb",
-      "handle": "/u//u/policyweb",
-      "avatar_color": "#ff4500"
-    },
-    "content": "sub agents being released into my codebase",
-    "summary_ko": "내 코드베이스에 하위 에이전트가 릴리스되는 중",
-    "url": "https://www.reddit.com/r/singularity/comments/1w7l201/sub_agents_being_released_into_my_codebase/",
-    "image": "https://external-preview.redd.it/aXRod3B2ZHpkbG5oMSY9Yc9jO8Ogk1z_XkSWql6RD1g0zc9CaqptHXQtmVR3.jpeg?width=640&crop=smart&auto=webp&s=83c5229e1777e1f434249142c4c3dbb09ac13ee8",
-    "date": "2026-09-04T23:58:54.000Z",
     "likes": 0,
     "comments": 0
   }
