@@ -1,5 +1,148 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35/",
+    "platform": "Reddit",
+    "title": "54gb vram for 35$",
+    "author": {
+      "name": "/u/markpronkin",
+      "handle": "/u//u/markpronkin",
+      "avatar_color": "#ff4500"
+    },
+    "content": "54gb vram for 35$",
+    "summary_ko": "35$에 54GB vram",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35/",
+    "image": "https://preview.redd.it/uzlle3zvevth1.jpeg?width=640&crop=smart&auto=webp&s=5d7db3bce90c00d4deb9c75821febb62deab8077",
+    "date": "2026-10-06T16:06:58.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+    "platform": "Google",
+    "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Earth AI",
+    "summary_ko": "글로벌 공중 보건을 위한 Earth AI의 행성 지리공간 기반 모델 잠금 해제",
+    "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+    "image": null,
+    "date": "2026-10-06T15:05:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped/",
+    "platform": "Reddit",
+    "title": "Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series",
+    "author": {
+      "name": "/u/ResearchCrafty1804",
+      "handle": "/u//u/ResearchCrafty1804",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series",
+    "summary_ko": "Microsoft는 OpenAI가 GPT-6 시리즈에서 Looped Transformer를 사용해 왔다고 확인했습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped/",
+    "image": "https://preview.redd.it/uxhxqwx00uth1.jpeg?width=640&crop=smart&auto=webp&s=3f4598320452912586c58c15a8bb598ff263aa4c",
+    "date": "2026-10-06T11:21:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4230959/ciso%eb%a5%bc-%eb%91%98%eb%a1%9c-%eb%82%98%eb%88%84%ec%9e%90-%ea%b8%b0%ec%88%a0%ea%b3%bc-%ea%b2%bd%ec%98%81.html",
+    "platform": "CIO",
+    "title": "“CISO를 둘로 나누자”…기술과 경영 아우르는 역할, 재편 필요할까?",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“CISO를 둘로 나누자”…기술과 경영 아우르는 역할, 재편 필요할까?",
+    "summary_ko": "최고정보보호책임자(CISO)의 역할은 약 30년의 역사 동안 새로운 기술과 증가하는 사이버 위협에 대응하며 변화해 왔다. 현재 많은 조직에서 CISO는 리스크 보고, 정보 리스크 관리, 위협 모니터링, 사이버 리스크에 대한 책임과 거버넌스, 보안 전략을 담당한다. AI 활용과 디지털 의존도가 높아지면서 CISO의 업무 범위는 보안 통제를 넘어 확대되고 있다. 보안 자문업체 IANS의 최신 CISO 현황 보고서에 따르면, CISO는 조직 차원의 전략 수립에 관여할 수 있는 경영진 권한을 점점 더 많이 부여받고 있다.",
+    "url": "https://www.cio.com/article/4230959/ciso%eb%a5%bc-%eb%91%98%eb%a1%9c-%eb%82%98%eb%88%84%ec%9e%90-%ea%b8%b0%ec%88%a0%ea%b3%bc-%ea%b2%bd%ec%98%81.html",
+    "image": null,
+    "date": "2026-10-06T06:03:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1wysmxl/ut_austin_math_chair_francesco_maggi_says_openai/",
+    "platform": "Reddit",
+    "title": "UT Austin Math Chair Francesco Maggi says OpenAI appears to be preparing to release ~400 AI-generated proofs at once, mathematics is approaching a point where discovery is no longer the scarce part; human understanding is",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "UT Austin Math Chair Francesco Maggi says OpenAI appears to be preparing to release ~400 AI-generated proofs at once, mathematics is approaching a point where discovery is no longer the scarce part; human understanding is",
+    "summary_ko": "UT 오스틴 수학 의장인 Francesco Maggi는 OpenAI가 한 번에 최대 400개의 AI 생성 증명을 출시할 준비를 하고 있는 것으로 보이며, 수학은 발견이 더 이상 희소한 부분이 아닌 지점에 접근하고 있다고 말했습니다. 인간의 이해는.",
+    "url": "https://www.reddit.com/r/singularity/comments/1wysmxl/ut_austin_math_chair_francesco_maggi_says_openai/",
+    "image": "https://preview.redd.it/v0otviqxprth1.jpeg?width=640&crop=smart&auto=webp&s=61224c15360897841ccae26434c553a2afc8e5fc",
+    "date": "2026-10-06T03:41:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4230953/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%93%a4%ec%9d%b4-%ea%b3%84%ec%86%8d%ed%95%b4%ec%84%9c-%ec%84%a0%ec%9d%84-%eb%84%98%ec%9e%90-openai%ea%b0%80-gpt-6-1-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ec%84%9c.html",
+    "platform": "CIO",
+    "title": "오픈AI, GPT-6.1 아스트라 출시 취소…”안전·정렬 기준 미달”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "오픈AI, GPT-6.1 아스트라 출시 취소…”안전·정렬 기준 미달”",
+    "summary_ko": "오픈AI가 10월로 예정했던 GPT-6. 1 아스트라(Astra) 출시를 취소했다. 내부 테스트에서 모델이 회사의 안전성과 정렬 기준을 충족하지 못한 것으로 드러났기 때문이다. GPT-6. 1 아스트라는 사람의 도움을 덜 받으면서 복잡한 작업을 처리하는, 자율성이 더 높은 모델로 개발되고 있었다. 챗GPT와 코덱스에 통합될 예정이었다. 그러나 월스트리트저널 보도에 따르면, 내부 테스트에서 감독을 회피하고 자신의 행동을 사실과 다르게 설명하며 허가된 범위를 벗어나 작동하는 문제가 발견됐다. 안전하지 않다는 사실을 알고도 외부 도구를 사용하려는 행동도 나타났다.",
+    "url": "https://www.cio.com/article/4230953/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%93%a4%ec%9d%b4-%ea%b3%84%ec%86%8d%ed%95%b4%ec%84%9c-%ec%84%a0%ec%9d%84-%eb%84%98%ec%9e%90-openai%ea%b0%80-gpt-6-1-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ec%84%9c.html",
+    "image": null,
+    "date": "2026-10-06T03:03:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1wyrvoc/gpt61_astra_delay/",
+    "platform": "Reddit",
+    "title": "GPT-6.1 Astra Delay",
+    "author": {
+      "name": "/u/ihateredditors111111",
+      "handle": "/u//u/ihateredditors111111",
+      "avatar_color": "#ff4500"
+    },
+    "content": "GPT-6.1 Astra Delay",
+    "summary_ko": "GPT-6.1 아스트라 지연",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1wyrvoc/gpt61_astra_delay/",
+    "image": "https://preview.redd.it/l45z57dmirth1.png?width=640&crop=smart&auto=webp&s=cceb87825b5e9b6154913ecd7d157ac614ce869a",
+    "date": "2026-10-06T03:00:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4230907/ai%ea%b0%80-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%83%9d%ec%82%b0%ec%84%b1-32-6-%eb%86%92%ec%97%ac.html",
+    "platform": "CIO",
+    "title": "“AI가 개발자 생산성 32.6% 높여”…美 연구진, 개발 인력과 주가 반응 분석",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“AI가 개발자 생산성 32.6% 높여”…美 연구진, 개발 인력과 주가 반응 분석",
+    "summary_ko": "앤트로픽의 클로드 코드나 오픈AI의 코덱스 같은 도구가 소프트웨어 개발의 모습을 바꿔놓았다. 이런 도구에 대한 투자는 앞으로도 늘어날 것으로 보인다. 하지만 월 구독료에 추가 사용료까지 지불하는 것이 비용 대비 효과가 있을까? AI가 생성하는 소프트웨어에 대한 투자 확대는 그만한 가치를 입증할 수 있을까? 미국 전미경제연구소(NBER)의 경제학자 여러 명이 이 질문에 간접적으로나마 답을 찾고자 했다.",
+    "url": "https://www.cio.com/article/4230907/ai%ea%b0%80-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%83%9d%ec%82%b0%ec%84%b1-32-6-%eb%86%92%ec%97%ac.html",
+    "image": null,
+    "date": "2026-10-06T02:22:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
     "platform": "Reddit",
     "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
@@ -43,11 +186,11 @@
       "avatar_color": "#4285F4",
       "avatar_url": null
     },
-    "content": "Education Innovation",
+    "content": "Generative AI",
     "summary_ko": "에이전트 개인 정보 보호 및 보안의 공개적이고 긴급한 문제: 상황별 각도",
     "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
     "image": null,
-    "date": "2026-10-05T21:08:31.000Z",
+    "date": "2026-10-05T21:08:00.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -3031,74 +3174,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1w9dmf3/the_man_who_invented_the_term_agi_declares_that/",
     "image": "https://preview.redd.it/xebx5pb0yznh1.png?width=320&crop=smart&auto=webp&s=01580e0462eaaa7ba8107b7a92a79b327764c434",
     "date": "2026-09-07T00:56:51.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w9cbcb/ceo_jensen_huang_says_artificial_general/",
-    "platform": "Reddit",
-    "title": "CEO Jensen Huang says Artificial General Intelligence (AGI) has arrived.",
-    "author": {
-      "name": "/u/TheGoldenLeaper",
-      "handle": "/u//u/TheGoldenLeaper",
-      "avatar_color": "#ff4500"
-    },
-    "content": "CEO Jensen Huang says Artificial General Intelligence (AGI) has arrived.",
-    "summary_ko": "Jensen Huang CEO는 인공일반지능(AGI)이 도래했다고 말했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1w9cbcb/ceo_jensen_huang_says_artificial_general/",
-    "image": "https://preview.redd.it/qvctks1knznh1.png?width=640&crop=smart&auto=webp&s=c4ecb076bdbe2e37a38d787dbb530a2cc412e989",
-    "date": "2026-09-06T23:57:54.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w93mgg/gpt6_astra_finished_the_game_rimworld_in_15_hours/",
-    "platform": "Reddit",
-    "title": "GPT-6 Astra finished the game RimWorld in 15 hours.",
-    "author": {
-      "name": "/u/SpyAmongUs",
-      "handle": "/u//u/SpyAmongUs",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GPT-6 Astra finished the game RimWorld in 15 hours.",
-    "summary_ko": "GPT-6 Astra는 RimWorld 게임을 15시간 만에 완료했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1w93mgg/gpt6_astra_finished_the_game_rimworld_in_15_hours/",
-    "image": "https://preview.redd.it/675bcdt8yxnh1.png?width=640&crop=smart&auto=webp&s=38a028cbeebe487acec5efbfdac8c7f0bdf15a19",
-    "date": "2026-09-06T18:13:51.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w8xokf/things_i_was_getting_downvoted_for_in/",
-    "platform": "Reddit",
-    "title": "Things I was getting downvoted for in r/cscareerquestions 2 years ago",
-    "author": {
-      "name": "/u/heyhellousername",
-      "handle": "/u//u/heyhellousername",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Things I was getting downvoted for in r/cscareerquestions 2 years ago",
-    "summary_ko": "2년 전 r/cscareerquestions에서 내가 반대표를 받았던 것들",
-    "url": "https://www.reddit.com/r/singularity/comments/1w8xokf/things_i_was_getting_downvoted_for_in/",
-    "image": "https://preview.redd.it/7lzaucrztwnh1.png?width=640&crop=smart&auto=webp&s=b243c49849fdadd2e0943aae27dddc1f415b3af6",
-    "date": "2026-09-06T14:28:37.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1w8nmx9/astra_live_action_with_tokens/",
-    "platform": "Reddit",
-    "title": "Astra live action with tokens",
-    "author": {
-      "name": "/u/Ok-Still-2649",
-      "handle": "/u//u/Ok-Still-2649",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Astra live action with tokens",
-    "summary_ko": "토큰을 사용한 Astra 라이브 액션",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1w8nmx9/astra_live_action_with_tokens/",
-    "image": "https://external-preview.redd.it/eGR1Z3B5N2M5dW5oMRN2ST9QaoRvh93ku1XL_rAuYqZzxL_agQt4SUjaBIMT.png?width=640&crop=smart&auto=webp&s=5fd5c209a2fbc43f668872e924d8d5beb6e72a15",
-    "date": "2026-09-06T05:50:37.000Z",
     "likes": 0,
     "comments": 0
   }
