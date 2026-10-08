@@ -1,5 +1,148 @@
 [
   {
+    "id": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+    "platform": "Google",
+    "title": "Does better work always mean better workers?",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Does better work always mean better workers?",
+    "summary_ko": "더 나은 작업은 항상 더 나은 직원을 의미합니까?",
+    "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+    "image": null,
+    "date": "2026-10-07T20:19:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x057bb/amazon_packages_now_when_you_order_11_items/",
+    "platform": "Reddit",
+    "title": "Amazon packages now when you order 11 items.",
+    "author": {
+      "name": "/u/Bitter-College8786",
+      "handle": "/u//u/Bitter-College8786",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Amazon packages now when you order 11 items.",
+    "summary_ko": "이제 11개 품목을 주문하면 Amazon 패키지가 제공됩니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x057bb/amazon_packages_now_when_you_order_11_items/",
+    "image": "https://preview.redd.it/45ydf6s8f3uh1.png?width=640&crop=smart&auto=webp&s=0b2d0e9606b824dc45a54b9b881f196e4a2783b4",
+    "date": "2026-10-07T19:03:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x02g1l/this_is_where_i_stop_calling_ai_a_tool_a_tool/",
+    "platform": "Reddit",
+    "title": "\"this is where i stop calling AI a tool. a tool doesnt do in one release what the best humans do in a lifetime\"",
+    "author": {
+      "name": "/u/BrennusSokol",
+      "handle": "/u//u/BrennusSokol",
+      "avatar_color": "#ff4500"
+    },
+    "content": "\"this is where i stop calling AI a tool. a tool doesnt do in one release what the best humans do in a lifetime\"",
+    "summary_ko": "\"여기서 저는 AI를 도구라고 부르지 않습니다. 최고의 인간이 일생 동안 하는 일을 도구는 한 번의 릴리스로 수행할 수 없습니다.\".",
+    "url": "https://www.reddit.com/r/singularity/comments/1x02g1l/this_is_where_i_stop_calling_ai_a_tool_a_tool/",
+    "image": "https://preview.redd.it/gyp8q4oqw2uh1.png?width=640&crop=smart&auto=webp&s=2de8348debb8b3d44e9385ee77265f11dcca9b6e",
+    "date": "2026-10-07T17:19:25.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1x01ape/openai_being_stingy_with_all_those_billions/",
+    "platform": "Reddit",
+    "title": "OpenAI being stingy with all those billions",
+    "author": {
+      "name": "/u/py-net",
+      "handle": "/u//u/py-net",
+      "avatar_color": "#ff4500"
+    },
+    "content": "OpenAI being stingy with all those billions",
+    "summary_ko": "OpenAI는 수십억 달러에 인색합니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1x01ape/openai_being_stingy_with_all_those_billions/",
+    "image": "https://preview.redd.it/ss12vms2p2uh1.jpeg?width=640&crop=smart&auto=webp&s=74ec259c4a8077e3a074354dbc7136a799bc7aee",
+    "date": "2026-10-07T16:36:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1wzx6xm/its_actually_insane_how_prescient_this_was_they/",
+    "platform": "Reddit",
+    "title": "It's actually insane how prescient this was. They made it in 2011. This is increasingly what it's like to use computers now.",
+    "author": {
+      "name": "/u/AxomaticallyExtinct",
+      "handle": "/u//u/AxomaticallyExtinct",
+      "avatar_color": "#ff4500"
+    },
+    "content": "It's actually insane how prescient this was. They made it in 2011. This is increasingly what it's like to use computers now.",
+    "summary_ko": "실제로 이것이 얼마나 선견지명인지는 미쳤습니다. 그들은 2011년에 그것을 만들었습니다. 이제 컴퓨터를 사용하는 것이 점점 더 좋아지고 있습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1wzx6xm/its_actually_insane_how_prescient_this_was_they/",
+    "image": "https://external-preview.redd.it/bzgxY2t4emd3MXVoMer44z0vhQn_3qGyPUZsiwpKV0kfjpDoAf2URkw1V2Hn.png?width=640&crop=smart&auto=webp&s=1f789e6f028e90a81031f2ede75e3bcc645d1f11",
+    "date": "2026-10-07T13:55:53.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4231612/it-%ed%98%84%eb%8c%80%ed%99%94-%ec%97%ac%ec%a0%84%ed%9e%88-cio%eb%93%a4%ec%97%90%ea%b2%8c-%ec%9e%88%ec%96%b4-%ec%84%b1%ed%8c%a8%eb%a5%bc-%ec%a2%8c%ec%9a%b0%ed%95%98%eb%8a%94-%ed%94%84%eb%a1%9c.html",
+    "platform": "CIO",
+    "title": "SaaS 줄이고 AI로 직접 만든다…CIO들의 IT 현대화 전략",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "SaaS 줄이고 AI로 직접 만든다…CIO들의 IT 현대화 전략",
+    "summary_ko": "소프트웨어 기업 블랙라인(Black Line)의 수밋 조하르 CIO는 2024년 초 취임한 이후 회사의 IT 환경을 현대화하고 있다. 오랫동안 IT 리더로 일한 조하르는 기술 스택을 전면 개편한 경험이 풍부하다. 하지만 AI 시대에 들어서면서 현대화의 의미가 달라졌고, 시급성도 커졌다고 설명했다. 조하르는 “지난 2~3년 사이 현대화의 정의 자체가 달라졌다”라고 말했다. 이어 “지난 몇 년 동안 구축한 모든 것이 갑자기 레거시처럼 보인다.",
+    "url": "https://www.cio.com/article/4231612/it-%ed%98%84%eb%8c%80%ed%99%94-%ec%97%ac%ec%a0%84%ed%9e%88-cio%eb%93%a4%ec%97%90%ea%b2%8c-%ec%9e%88%ec%96%b4-%ec%84%b1%ed%8c%a8%eb%a5%bc-%ec%a2%8c%ec%9a%b0%ed%95%98%eb%8a%94-%ed%94%84%eb%a1%9c.html",
+    "image": null,
+    "date": "2026-10-07T04:56:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4231588/%ec%b9%bc%eb%9f%bc-%ec%a4%91%ec%86%8c%ea%b8%b0%ec%97%85%ec%97%90%eb%8f%84-%ec%b0%be%ec%95%84%ec%98%a8-ai-%eb%8f%84%ec%9e%85%ec%9d%98-%ec%8b%9c%eb%8c%80.html",
+    "platform": "CIO",
+    "title": "칼럼 | 중소기업에도 찾아온 AI 도입의 시대…부족한 것은 라이선스보다 지원 서비스",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 중소기업에도 찾아온 AI 도입의 시대…부족한 것은 라이선스보다 지원 서비스",
+    "summary_ko": "필자는 기업 IT와 매니지드 서비스 분야에서 30년 넘게 일해왔다. 그동안 중소기업의 신기술 도입은 대체로 일정한 시차를 두고 이뤄졌다. 실험에 필요한 예산과 인력을 확보하고 위험을 감수할 여력이 있는 대기업이 먼저 움직였다. 나머지 기업은 도구가 성숙하고 가격이 내려가기를 기다렸다. 이런 양상은 업무용 AI 도입 초기에도 이어졌다. IT 리더의 논의는 기업용 플랫폼과 대규모 서비스 운영, 워크데이(Workday) 같은 시스템과 연계해 여러 분기에 걸쳐 추진하는 프로젝트에 집중됐다.",
+    "url": "https://www.cio.com/article/4231588/%ec%b9%bc%eb%9f%bc-%ec%a4%91%ec%86%8c%ea%b8%b0%ec%97%85%ec%97%90%eb%8f%84-%ec%b0%be%ec%95%84%ec%98%a8-ai-%eb%8f%84%ec%9e%85%ec%9d%98-%ec%8b%9c%eb%8c%80.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/10/figure-which-ai-tools-small-businesses-use-most.png?w=1024",
+    "date": "2026-10-07T04:39:56.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4231556/%ea%b5%ac%ea%b8%80-%ec%83%88%eb%a1%9c%ec%9a%b4-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%a5%bc-%ed%86%b5%ed%95%b4-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ed%98%84%eb%8c%80%ed%99%94-%ed%8f%ac%ed%8a%b8.html",
+    "platform": "CIO",
+    "title": "구글, 클라우드 현대화 도구 통합…복잡한 IT 전환 간소화 지원",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "구글, 클라우드 현대화 도구 통합…복잡한 IT 전환 간소화 지원",
+    "summary_ko": "구글이 기업의 인프라와 애플리케이션 전환을 가속화하기 위해 클라우드 현대화 포트폴리오를 개편한다. 기존 마이그레이션·현대화 도구에 새로운 에이전트 기반 마이그레이션 도구와 ‘모더나이제이션 허브(Modernization Hub)’를 더해 ‘구글 클라우드 모더나이즈(Google Cloud Modernize)’라는 이름으로 통합한다. 새로운 에이전트 기반 도구에는 ‘EKS-to-GKE 마이그레이션 에이전트’가 포함된다. 기업이 쿠버네티스 워크로드를 아마존 EKS에서 구글 쿠버네티스 엔진(GKE)으로 이전하도록 지원하는 도구다.",
+    "url": "https://www.cio.com/article/4231556/%ea%b5%ac%ea%b8%80-%ec%83%88%eb%a1%9c%ec%9a%b4-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%a5%bc-%ed%86%b5%ed%95%b4-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ed%98%84%eb%8c%80%ed%99%94-%ed%8f%ac%ed%8a%b8.html",
+    "image": null,
+    "date": "2026-10-07T02:37:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35/",
     "platform": "Reddit",
     "title": "54gb vram for 35$",
@@ -3009,171 +3152,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1waav51/agi_achieved/",
     "image": "https://preview.redd.it/itdb17hya7oh1.jpeg?width=640&crop=smart&auto=webp&s=29b5641c584bf815519245f8e2f95a2180efbe9d",
     "date": "2026-09-08T01:41:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4219270/%ec%8a%b9%ec%9d%b8-%eb%b2%84%ed%8a%bc%eb%a7%8c-%eb%88%84%eb%a5%b4%eb%8a%94-%ec%9d%b8%ea%b0%84%ed%9c%b4%eb%a8%bc-%ec%9d%b8-%eb%8d%94-%eb%a3%a8%ed%94%84%ea%b0%80-%ea%b1%b0%eb%b2%84%eb%84%8c.html",
-    "platform": "CIO",
-    "title": "승인 버튼만 누르는 인간…’휴먼 인 더 루프’가 거버넌스 면죄부로 전락했다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "승인 버튼만 누르는 인간…’휴먼 인 더 루프’가 거버넌스 면죄부로 전락했다",
-    "summary_ko": "AI 시스템의 위험성에 대한 우려가 제기되면 빠지지 않고 등장하는 네 단어가 있다. 바로 ‘휴먼 인 더 루프(Human in the Loop)’다. 논의는 다양한 방향으로 이어질 수 있지만, 결국에는 사람이 AI를 통제하고 있다는 설명으로 귀결되는 경우가 많다. AI 거버넌스를 이야기할 때 관용구처럼 쓰이는 표현으로, 업계 곳곳에서 쉽게 들을 수 있을 뿐 아니라 IT 리더 스스로도 한 번쯤 사용해봤을 법한 말이다. 하지만 IT 리더는 벤더나 내부 개발팀이 AI 도구에 휴먼 인 더 루프 시스템을 구축했다는 주장에 신중할 필요가 있다.",
-    "url": "https://www.cio.com/article/4219270/%ec%8a%b9%ec%9d%b8-%eb%b2%84%ed%8a%bc%eb%a7%8c-%eb%88%84%eb%a5%b4%eb%8a%94-%ec%9d%b8%ea%b0%84%ed%9c%b4%eb%a8%bc-%ec%9d%b8-%eb%8d%94-%eb%a3%a8%ed%94%84%ea%b0%80-%ea%b1%b0%eb%b2%84%eb%84%8c.html",
-    "image": null,
-    "date": "2026-09-08T00:35:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4219254/%ec%a0%9c%eb%a1%9c-%ed%8a%b8%eb%9f%ac%ec%8a%a4%ed%8a%b8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%9d%bc%eb%8a%94-%ea%b1%b0%eb%8c%80%ed%95%9c-%eb%82%9c%ec%a0%9c%ec%97%90-%ec%a7%81%eb%a9%b4.html",
-    "platform": "CIO",
-    "title": "제로 트러스트도 못 막는다…AI 에이전트 시대, CISO의 새 악몽",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "제로 트러스트도 못 막는다…AI 에이전트 시대, CISO의 새 악몽",
-    "summary_ko": "수년 동안 제로 트러스트의 중요성이 강조돼 왔지만, 많은 최고정보보안책임자(CISO)는 지금까지도 이를 완전하게 구현하는 데 어려움을 겪고 있다. 여기에 자율형 AI(Agentic AI)가 등장하면서 제로 트러스트의 가장 큰 난제가 될 새로운 변수가 나타났다. 그렇다면 일반적인 기업 환경에서 제로 트러스트와 자율형 AI 에이전트는 공존할 수 있을까. 기술적으로는 가능하다. 그러나 CEO와 이사회가 자율형 AI의 투자수익률(ROI)을 최대한 빠르게 실현할 것을 요구하는 현실을 고려하면 실제로는 쉽지 않다.",
-    "url": "https://www.cio.com/article/4219254/%ec%a0%9c%eb%a1%9c-%ed%8a%b8%eb%9f%ac%ec%8a%a4%ed%8a%b8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%9d%bc%eb%8a%94-%ea%b1%b0%eb%8c%80%ed%95%9c-%eb%82%9c%ec%a0%9c%ec%97%90-%ec%a7%81%eb%a9%b4.html",
-    "image": null,
-    "date": "2026-09-08T00:20:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4219031/ai-%eb%a6%ac%eb%8d%94%ec%8b%ad-%ec%9d%b8%ec%82%ac%ec%9d%b4%eb%93%9c-%eb%ac%b4%ec%8b%a0%ec%82%ac-ai%eb%a1%9c-%ec%97%85%eb%ac%b4%eb%a5%bc-%ec%8a%a4%ed%83%80%ec%9d%bc%eb%a7%81%ed%95%98%eb%8b%a4.html",
-    "platform": "CIO",
-    "title": "AI 리더십 인사이드 | 무신사, AI로 업무를 스타일링하다…두 디렉터가 이끄는 AX 방식",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 리더십 인사이드 | 무신사, AI로 업무를 스타일링하다…두 디렉터가 이끄는 AX 방식",
-    "summary_ko": "무신사는 이 질문에 치열하게 답을 찾고 있는 회사다. 오래전부터 스스로를 ‘AI에 진심인 회사’라 칭해왔고, 실제로 그렇게 움직여왔다. 채용 단계에서 AI 네이티브 인재를 들이고, 직원에게는 실험과 실패의 여지를 주되 토큰 사용량과 업무 성과는 꼼꼼히 관리한다. 엔지니어가 완성한 AI를 현업에 넘기는 방식이 아니라, 현업이 스스로 자신의 일을 AI로 다시 짜도록 한다. 외부 솔루션이 부족하다 판단되면, 원인을 분석해 직접 만든다.",
-    "url": "https://www.cio.com/article/4219031/ai-%eb%a6%ac%eb%8d%94%ec%8b%ad-%ec%9d%b8%ec%82%ac%ec%9d%b4%eb%93%9c-%eb%ac%b4%ec%8b%a0%ec%82%ac-ai%eb%a1%9c-%ec%97%85%eb%ac%b4%eb%a5%bc-%ec%8a%a4%ed%83%80%ec%9d%bc%eb%a7%81%ed%95%98%eb%8b%a4.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/09/MUSINSA_1_resized.jpg?quality=50&amp;strip=all&amp;w=1024",
-    "date": "2026-09-08T00:05:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w9mp3k/astra_is_now_a_certified_human/",
-    "platform": "Reddit",
-    "title": "Astra is now a certified human",
-    "author": {
-      "name": "/u/enilea",
-      "handle": "/u//u/enilea",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Astra is now a certified human",
-    "summary_ko": "아스트라는 이제 인증받은 인간이다",
-    "url": "https://www.reddit.com/r/singularity/comments/1w9mp3k/astra_is_now_a_certified_human/",
-    "image": "https://preview.redd.it/octby766a2oh1.png?width=640&crop=smart&auto=webp&s=2aa2bd2b755809c420f79ba7948fd424a8c4abe4",
-    "date": "2026-09-07T08:48:23.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4219014/gpt-6-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ea%b3%b5%ea%b0%9c%ed%95%9c-%ec%98%a4%ed%94%88ai%ec%a4%91%eb%8c%80-%eb%b3%b4%ec%95%88-%eb%93%b1%ea%b8%89%ec%9d%b4-%eb%8d%98%ec%a7%84-%ea%b8%b0.html",
-    "platform": "CIO",
-    "title": "GPT-6 아스트라 공개한 오픈AI…’중대’ 보안 등급이 던진 기업 AI 관리의 숙제",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "GPT-6 아스트라 공개한 오픈AI…’중대’ 보안 등급이 던진 기업 AI 관리의 숙제",
-    "summary_ko": "오픈AI가 4일(현지시간) 새로운 플래그십 모델 GPT-6 아스트라를 공개했다. 회사는 이번 발표에서 아스트라가 자사의 ‘준비성 프레임워크(Preparedness Framework)’에 따른 사이버보안 위험 평가에서 ‘중대(Critical)’ 등급 기준을 넘어섰다고 밝혔다. 오픈AI는 이 등급이 추가적인 배포 제한 조치를 적용하는 기준이라고 설명했다.",
-    "url": "https://www.cio.com/article/4219014/gpt-6-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ea%b3%b5%ea%b0%9c%ed%95%9c-%ec%98%a4%ed%94%88ai%ec%a4%91%eb%8c%80-%eb%b3%b4%ec%95%88-%eb%93%b1%ea%b8%89%ec%9d%b4-%eb%8d%98%ec%a7%84-%ea%b8%b0.html",
-    "image": null,
-    "date": "2026-09-07T04:23:50.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4219006/%ec%9e%90%eb%8f%99%ed%99%94%eb%8a%94-%eb%b9%a8%eb%9e%90%ea%b3%a0-%eb%8c%80%eb%b9%84%eb%8a%94-%ec%97%86%ec%97%88%eb%8b%a4%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ea%b7%b8%eb%a1%9d.html",
-    "platform": "CIO",
-    "title": "자동화는 빨랐고, 대비는 없었다…챗GPT·클로드·그록 동시 장애가 남긴 교훈",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "자동화는 빨랐고, 대비는 없었다…챗GPT·클로드·그록 동시 장애가 남긴 교훈",
-    "summary_ko": "AI 시대를 맞아 기업들은 새로운 고민에 직면했다. 핵심 업무를 맡긴 에이전트형 AI가 갑자기 멈춘다면 어떤 일이 벌어질까. 이 같은 우려는 지난주 현실이 됐다. 오픈AI의 챗GPT, 앤트로픽의 클로드, 스페이스XA의 그록이 거의 동시에, 그것도 뚜렷한 원인 없이 장시간 장애를 겪었다. 미국 동부시간 기준 이날 오전 챗GPT는 약 2시간 동안 여러 모델에서 장애가 발생했고, 클로드는 약 4시간, 그록은 약 3시간 30분 동안 서비스에 문제가 이어졌다. 세 기업 모두 오류가 평소보다 크게 증가한 사실을 인정하고 복구 조치를 시행했다.",
-    "url": "https://www.cio.com/article/4219006/%ec%9e%90%eb%8f%99%ed%99%94%eb%8a%94-%eb%b9%a8%eb%9e%90%ea%b3%a0-%eb%8c%80%eb%b9%84%eb%8a%94-%ec%97%86%ec%97%88%eb%8b%a4%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ea%b7%b8%eb%a1%9d.html",
-    "image": null,
-    "date": "2026-09-07T02:54:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4219003/%eb%a9%94%ed%83%80-%ec%a7%81%ec%9b%90-%ed%8f%89%ea%b0%80%ec%84%9c-ai-%ed%86%a0%ed%81%b0-%ec%82%ac%ec%9a%a9%eb%9f%89-%ec%a0%9c%ec%99%b8%ec%84%b1%ea%b3%bc-%ec%a4%91%ec%8b%ac%ec%9c%bc.html",
-    "platform": "CIO",
-    "title": "메타, 직원 평가서 ‘AI 토큰 사용량’ 제외…성과 중심으로 전환",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "메타, 직원 평가서 ‘AI 토큰 사용량’ 제외…성과 중심으로 전환",
-    "summary_ko": "메타가 연간 성과 평가에서 직원들의 AI 사용량을 평가 기준으로 삼지 않기로 했다. 앞서 이른바 ‘토큰 맥싱(token maxing)’을 중심으로 AI 활용을 장려했던 초기 방침에서 한발 물러선 것이다. IT 언론사 디인포메이션(The Information)에 따르면 메타는 직원들에게 “AI 도입 현황 대시보드나 토큰 사용량을 성과를 평가하는 기준으로 활용하지 않을 것”이라고 밝혔다. 이 같은 방침은 마허 사바(Maher Saba)와 산토시 자나르단(Santosh Janardhan) 임원이 배포한 사내 메모를 통해 공유됐다.",
-    "url": "https://www.cio.com/article/4219003/%eb%a9%94%ed%83%80-%ec%a7%81%ec%9b%90-%ed%8f%89%ea%b0%80%ec%84%9c-ai-%ed%86%a0%ed%81%b0-%ec%82%ac%ec%9a%a9%eb%9f%89-%ec%a0%9c%ec%99%b8%ec%84%b1%ea%b3%bc-%ec%a4%91%ec%8b%ac%ec%9c%bc.html",
-    "image": null,
-    "date": "2026-09-07T02:30:52.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w9f4ko/denzel_washington_explains_why_its_not_ai_slop/",
-    "platform": "Reddit",
-    "title": "Denzel Washington explains why it's not \"AI slop\"",
-    "author": {
-      "name": "/u/onil_gova",
-      "handle": "/u//u/onil_gova",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Denzel Washington explains why it's not \"AI slop\"",
-    "summary_ko": "Denzel Washington이 \"AI 슬롭\"이 아닌 이유를 설명합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1w9f4ko/denzel_washington_explains_why_its_not_ai_slop/",
-    "image": "https://external-preview.redd.it/YW9lOGF1MHphMG9oMYo9zkEnXPuovGNkEixNKPKh5sff0IeLe7Dfc60kvnL8.png?width=640&crop=smart&auto=webp&s=96dfca8794b336aa489a3caf5e406f6769e220b8",
-    "date": "2026-09-07T02:08:56.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1w9dmf3/the_man_who_invented_the_term_agi_declares_that/",
-    "platform": "Reddit",
-    "title": "The man who invented the term 'AGI' declares that AGI is here",
-    "author": {
-      "name": "/u/Cagnazzo82",
-      "handle": "/u//u/Cagnazzo82",
-      "avatar_color": "#ff4500"
-    },
-    "content": "The man who invented the term 'AGI' declares that AGI is here",
-    "summary_ko": "AGI라는 용어를 창안한 사람은 AGI가 여기에 있다고 선언합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1w9dmf3/the_man_who_invented_the_term_agi_declares_that/",
-    "image": "https://preview.redd.it/xebx5pb0yznh1.png?width=320&crop=smart&auto=webp&s=01580e0462eaaa7ba8107b7a92a79b327764c434",
-    "date": "2026-09-07T00:56:51.000Z",
     "likes": 0,
     "comments": 0
   }
