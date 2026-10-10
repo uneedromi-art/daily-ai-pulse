@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1x1mzkn/hugo_duminilcopin_2022_fields_medalist_openais/",
+    "platform": "Reddit",
+    "title": "Hugo Duminil-Copin (2022 Fields Medalist): OpenAI's solving of 350 major problems feels as if I had been run over by trucks; all the problems (and thus research directions) that I used to mention in my talks, papers, and grant applications have been solved.\"",
+    "author": {
+      "name": "/u/UndeadPrs",
+      "handle": "/u//u/UndeadPrs",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Hugo Duminil-Copin (2022 Fields Medalist): OpenAI's solving of 350 major problems feels as if I had been run over by trucks; all the problems (and thus research directions) that I used to mention in my talks, papers, and grant applications have been solved.\"",
+    "summary_ko": "Hugo Duminil-Copin(2022년 필즈 메달 수상자): OpenAI가 350가지 주요 문제를 해결하는 것은 마치 트럭에 치인 것처럼 느껴집니다. 제가 강연, 논문, 연구비 신청에서 언급했던 모든 문제(그리고 그에 따른 연구 방향)가 해결되었습니다.\".",
+    "url": "https://www.reddit.com/r/singularity/comments/1x1mzkn/hugo_duminilcopin_2022_fields_medalist_openais/",
+    "image": null,
+    "date": "2026-10-09T14:34:01.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x18ywv/anthropic_bans_abusive_or_cruel_behavior_toward/",
+    "platform": "Reddit",
+    "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "author": {
+      "name": "/u/sourdub",
+      "handle": "/u//u/sourdub",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "summary_ko": "인류학은 클로드를 향한 '학대적이거나 잔인한 행위'를 금지한다",
+    "url": "https://www.reddit.com/r/singularity/comments/1x18ywv/anthropic_bans_abusive_or_cruel_behavior_toward/",
+    "image": "https://external-preview.redd.it/OQ9yUu8CGHLjZxpbX1IYV44Ew3d76COOT8datYO4bq4.jpeg?width=640&crop=smart&auto=webp&s=971cca184df17e7822985f9bd594c701e7ea3491",
+    "date": "2026-10-09T01:49:35.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x18s0b/one_developer_used_claude_to_reverseengineer_lgs/",
+    "platform": "Reddit",
+    "title": "One developer used Claude to reverse-engineer LG’s webOS media stack and build a native Rust Plex client from scratch—on the same 2019 TV it cuts the profile screen from ~30 seconds to ~3, runs at 60 FPS, and supports 4K, Dolby Vision and Atmos",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "One developer used Claude to reverse-engineer LG’s webOS media stack and build a native Rust Plex client from scratch—on the same 2019 TV it cuts the profile screen from ~30 seconds to ~3, runs at 60 FPS, and supports 4K, Dolby Vision and Atmos",
+    "summary_ko": "한 개발자는 Claude를 사용하여 LG의 webOS 미디어 스택을 리버스 엔지니어링하고 기본 Rust Plex 클라이언트를 처음부터 구축했습니다. 동일한 2019년 TV에서 프로필 화면을 ~30초에서 ~3초로 줄이고 60FPS로 실행하며 4K, Dolby Vision 및 Atmos를 지원합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x18s0b/one_developer_used_claude_to_reverseengineer_lgs/",
+    "image": "https://preview.redd.it/cjwnfgfzicuh1.jpeg?width=640&crop=smart&auto=webp&s=de65432725598e8827bb951aec53fe32000f6409",
+    "date": "2026-10-09T01:39:49.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x17emy/eye_cells_may_have_been_rejuvenated_for_the_first/",
+    "platform": "Reddit",
+    "title": "Eye Cells May Have Been Rejuvenated for the First Time in People",
+    "author": {
+      "name": "/u/FomalhautCalliclea",
+      "handle": "/u//u/FomalhautCalliclea",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Eye Cells May Have Been Rejuvenated for the First Time in People",
+    "summary_ko": "인간의 경우 처음으로 안구 세포가 젊어졌을 수도 있습니다",
+    "url": "https://www.reddit.com/r/singularity/comments/1x17emy/eye_cells_may_have_been_rejuvenated_for_the_first/",
+    "image": "https://external-preview.redd.it/k5Ke29JsV-ikKHHXrneFJrTKHCBpkdxz4TLUWSCzU0k.jpeg?width=640&crop=smart&auto=webp&s=7c0b60df42786d0b90f555d9cb3176adc68948c8",
+    "date": "2026-10-09T00:31:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1x0xkzm/glad_were_focusing_on_the_important_things/",
     "platform": "Reddit",
     "title": "Glad we’re focusing on the important things",
@@ -3027,93 +3095,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc6krf/so_relevant/",
     "image": "https://preview.redd.it/i8agcp89wloh1.png?width=640&crop=smart&auto=webp&s=5301cbd3c1fe37c2de80515845a50897a9663ac5",
     "date": "2026-09-10T02:45:50.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wbphuo/summarizing_the_current_discourse_regarding/",
-    "platform": "Reddit",
-    "title": "Summarizing the current discourse regarding Navier stokes on both pro and anti-AI online spaces.",
-    "author": {
-      "name": "/u/Affectionate_Bee6434",
-      "handle": "/u//u/Affectionate_Bee6434",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Summarizing the current discourse regarding Navier stokes on both pro and anti-AI online spaces.",
-    "summary_ko": "나비에(Navier)에 관한 현재 담론을 프로 및 안티 AI 온라인 공간 모두에서 요약합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wbphuo/summarizing_the_current_discourse_regarding/",
-    "image": "https://preview.redd.it/9y47ajyvnioh1.png?width=640&crop=smart&auto=webp&s=81a90a03365720e69d3b1c53a86f39641459f54f",
-    "date": "2026-09-09T15:54:31.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wbmva1/we_are_at_the_dawn_of_a_new_era/",
-    "platform": "Reddit",
-    "title": "We are at the dawn of a new era",
-    "author": {
-      "name": "/u/Key_Insurance_8493",
-      "handle": "/u//u/Key_Insurance_8493",
-      "avatar_color": "#ff4500"
-    },
-    "content": "We are at the dawn of a new era",
-    "summary_ko": "우리는 새로운 시대의 새벽에 있습니다",
-    "url": "https://www.reddit.com/r/singularity/comments/1wbmva1/we_are_at_the_dawn_of_a_new_era/",
-    "image": "https://preview.redd.it/vvkeog3o6ioh1.jpeg?width=640&crop=smart&auto=webp&s=14d52fcce315e85b9c0f3555d89c55c7674adc82",
-    "date": "2026-09-09T14:17:22.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wbej1p/proposal_to_make_the_navierstokes_vortex_the_new/",
-    "platform": "Reddit",
-    "title": "Proposal to make the Navier-Stokes vortex the new subreddit image",
-    "author": {
-      "name": "/u/Dullydude",
-      "handle": "/u//u/Dullydude",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Proposal to make the Navier-Stokes vortex the new subreddit image",
-    "summary_ko": "Navier-Stokes 소용돌이를 새로운 하위 레딧 이미지로 만들기 위한 제안",
-    "url": "https://www.reddit.com/r/singularity/comments/1wbej1p/proposal_to_make_the_navierstokes_vortex_the_new/",
-    "image": "https://preview.redd.it/ycuid1094goh1.jpeg?width=640&crop=smart&auto=webp&s=7235ea67e41abe512da0598e6ff4e655495961d7",
-    "date": "2026-09-09T07:19:35.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wbbxbq/2_years_ago_vs_today/",
-    "platform": "Reddit",
-    "title": "2 years ago vs Today",
-    "author": {
-      "name": "/u/jumpbump",
-      "handle": "/u//u/jumpbump",
-      "avatar_color": "#ff4500"
-    },
-    "content": "2 years ago vs Today",
-    "summary_ko": "2년 전과 오늘",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wbbxbq/2_years_ago_vs_today/",
-    "image": "https://preview.redd.it/0dpaacvrefoh1.jpeg?width=640&crop=smart&auto=webp&s=e2e7b3467708113909f4e5726ca8671080978dbc",
-    "date": "2026-09-09T04:56:45.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4219997/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84-ai%ec%99%80-%ec%86%90%ec%9e%a1%ea%b3%a0-%eb%b0%98%eb%8f%84%ec%b2%b4-%ed%8a%b9%ed%99%94-ai-%eb%a7%8c.html",
-    "platform": "CIO",
-    "title": "삼성전자, 미스트랄 AI와 손잡고 ‘반도체 특화 AI’ 만든다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "삼성전자, 미스트랄 AI와 손잡고 ‘반도체 특화 AI’ 만든다",
-    "summary_ko": "삼성전자는 8일 공식 보도자료를 통해 미스트랄 AI와 전략적 파트너십을 체결했다고 밝혔다. 이번 파트너십은 한·프랑스 양국 정상회담을 계기로 이뤄졌다. 양사는 삼성전자 DS부문의 반도체 기술·제조 데이터와 미스트랄 AI의 고효율 AI 모델 기술을 결합해 반도체 업무 전반의 생산성과 정밀도를 높이는 ‘반도체 특화 AI’를 구축할 계획이다. DS(Device Solutions)부문은 삼성전자의 메모리, 파운드리, 시스템LSI 등 반도체 사업을 담당하는 조직이다.",
-    "url": "https://www.cio.com/article/4219997/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84-ai%ec%99%80-%ec%86%90%ec%9e%a1%ea%b3%a0-%eb%b0%98%eb%8f%84%ec%b2%b4-%ed%8a%b9%ed%99%94-ai-%eb%a7%8c.html",
-    "image": null,
-    "date": "2026-09-09T04:46:21.000Z",
     "likes": 0,
     "comments": 0
   }
