@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1x2eq0n/the_man_is_smooth_were_not_ready_for_fake_videos/",
+    "platform": "Reddit",
+    "title": "The man is smooth. We’re not ready for fake videos",
+    "author": {
+      "name": "/u/py-net",
+      "handle": "/u//u/py-net",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The man is smooth. We’re not ready for fake videos",
+    "summary_ko": "그 남자는 부드럽습니다. 우리는 가짜 동영상을 받아들일 준비가 되어 있지 않습니다",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1x2eq0n/the_man_is_smooth_were_not_ready_for_fake_videos/",
+    "image": "https://external-preview.redd.it/emp4bGk0NjgxbnVoMb8Q9mZwl4c8ZIk9K6uD_EulQRBgEgpbU5WAcGuh4yc0.jpeg?width=640&crop=smart&auto=webp&s=435b448ec71327e29b520a7198dcc18bd5ee96cd",
+    "date": "2026-10-10T12:59:55.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
+    "platform": "Reddit",
+    "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
+    "author": {
+      "name": "/u/A-Rahim",
+      "handle": "/u//u/A-Rahim",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
+    "summary_ko": "EmbeddingGemma 2를 로컬에서 실행하여 파일 내용을 기준으로 파일을 검색하는 오픈 소스 Mac 앱.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
+    "image": "https://external-preview.redd.it/anozN2JrYmF4bXVoMUndolEwAy24n0LU_Pp6Gb4-ILJSfsBrJT2bxGdi6wwk.png?width=640&crop=smart&auto=webp&s=10522956abf8e86a6f5613cd3f0706fe3509e76b",
+    "date": "2026-10-10T12:43:33.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
+    "platform": "Reddit",
+    "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+    "author": {
+      "name": "/u/chemist_slime",
+      "handle": "/u//u/chemist_slime",
+      "avatar_color": "#ff4500"
+    },
+    "content": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+    "summary_ko": "NVIDIA는 RTX PRO 시리즈용으로 예약된 RTX 5090, GB202 GPU를 중단한다고 합니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
+    "image": "https://external-preview.redd.it/GBRAq5G7bpFl06TLmEI7g34SvFj2ENohfYkbHbgBOyQ.jpeg?width=640&crop=smart&auto=webp&s=0e56962138d6731d952f306b883c1e333a1d4807",
+    "date": "2026-10-10T10:20:08.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
+    "platform": "Reddit",
+    "title": "big or small?",
+    "author": {
+      "name": "/u/jacek2023",
+      "handle": "/u//u/jacek2023",
+      "avatar_color": "#ff4500"
+    },
+    "content": "big or small?",
+    "summary_ko": "크거나 작습니까?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
+    "image": "https://preview.redd.it/kfn7dsililuh1.png?width=320&crop=smart&auto=webp&s=f631efaeaa3a3e8d4a53bb774732db8d277e2a78",
+    "date": "2026-10-10T07:54:15.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1x1mzkn/hugo_duminilcopin_2022_fields_medalist_openais/",
     "platform": "Reddit",
     "title": "Hugo Duminil-Copin (2022 Fields Medalist): OpenAI's solving of 350 major problems feels as if I had been run over by trucks; all the problems (and thus research directions) that I used to mention in my talks, papers, and grant applications have been solved.\"",
@@ -2952,149 +3020,6 @@
     "url": "https://www.cio.com/article/4220955/%ec%98%a4%ed%94%88ai-%e7%be%8e-%ec%9d%98%ed%9a%8c%ec%97%90-ai-%ec%95%88%ec%a0%84-%ea%b7%9c%ec%a0%9c-%ec%b4%89%ea%b5%ac%ea%b8%b0%ec%97%85-cio%eb%8f%84-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4.html",
     "image": null,
     "date": "2026-09-11T06:37:34.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-    "platform": "Google",
-    "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Machine Intelligence",
-    "summary_ko": "Tool Grad: 텍스트 \"그라디언트\"를 사용한 효율적인 도구 사용 데이터세트 생성",
-    "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-    "image": null,
-    "date": "2026-09-10T22:50:22.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wclhgv/huggingface_security_txt_after_the_openai_incident/",
-    "platform": "Reddit",
-    "title": "Huggingface security txt after the OpenAI incident",
-    "author": {
-      "name": "/u/skolnaja",
-      "handle": "/u//u/skolnaja",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Huggingface security txt after the OpenAI incident",
-    "summary_ko": "OpenAI 사건 이후 허깅페이스(Huggingface) 보안 txt",
-    "url": "https://www.reddit.com/r/singularity/comments/1wclhgv/huggingface_security_txt_after_the_openai_incident/",
-    "image": "https://preview.redd.it/gudok8h3ipoh1.png?width=640&crop=smart&auto=webp&s=f64913f618baf8c3867a110862b04687a70c7204",
-    "date": "2026-09-10T14:54:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wcdzl3/linked_in_post_from_maths_professor_claims/",
-    "platform": "Reddit",
-    "title": "Linked In post from maths professor claims \"BREAKING: OpenAI might have stolen another major proof\"... screenshots herein:",
-    "author": {
-      "name": "/u/lowkeysciguy",
-      "handle": "/u//u/lowkeysciguy",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Linked In post from maths professor claims \"BREAKING: OpenAI might have stolen another major proof\"... screenshots herein:",
-    "summary_ko": "Linked In에서 수학 교수의 게시물은 \"속보: OpenAI가 또 다른 주요 증거를 훔쳤을 수 있습니다\"라고 주장합니다... 여기 스크린샷:.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wcdzl3/linked_in_post_from_maths_professor_claims/",
-    "image": "https://preview.redd.it/xbdcxd85unoh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=7fb4cdeb4cc457fa70f21ed3df7369a235a980d8",
-    "date": "2026-09-10T09:17:10.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4220569/ciso-41%eb%8a%94-ai-%eb%b3%b4%ec%95%88-%eb%af%b8%eb%9e%98%ec%97%90-%eb%82%99%ea%b4%80%c2%b7%c2%b7%c2%b7-%ec%8b%a4%ec%a0%9c-%eb%b3%b4%ec%95%88-%ec%88%98%ec%a4%80%ea%b3%bc%eb%8a%94.html",
-    "platform": "CIO",
-    "title": "CISO 41%는 AI 보안 미래에 ‘낙관’··· 실제 보안 수준과는 별개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "CISO 41%는 AI 보안 미래에 ‘낙관’··· 실제 보안 수준과는 별개",
-    "summary_ko": "IANS가 올해 초 실시한 ‘AI 보안 설문조사(AI Security Survey)’를 분석한 결과, 향후 2년간 AI가 초래할 보안 위험에 대응할 수 있다는 보안 책임자의 자신감은 몇 가지 뚜렷한 요인에 좌우되는 것으로 나타났다. IANS가 지난 4~5월 CISO 113명을 대상으로 조사한 결과, 향후 24개월 동안 조직이 AI 보안 위험을 관리할 역량에 대해 낙관적이라고 답한 비율은 41%였다. 반면 비관적으로 전망한 응답자는 38%였다.",
-    "url": "https://www.cio.com/article/4220569/ciso-41%eb%8a%94-ai-%eb%b3%b4%ec%95%88-%eb%af%b8%eb%9e%98%ec%97%90-%eb%82%99%ea%b4%80%c2%b7%c2%b7%c2%b7-%ec%8b%a4%ec%a0%9c-%eb%b3%b4%ec%95%88-%ec%88%98%ec%a4%80%ea%b3%bc%eb%8a%94.html",
-    "image": null,
-    "date": "2026-09-10T07:10:13.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4220557/ai-%eb%8f%84%ec%9e%85%eb%a5%a0%ec%9d%84-%eb%b2%84%eb%a6%b0-jp%eb%aa%a8%ea%b1%b4%ec%84%b1%ea%b3%bc%eb%a5%bc-%ea%b0%80%eb%a0%a4%eb%82%b4%eb%8a%94-%ec%8b%a4%ed%97%98%eb%b2%95.html",
-    "platform": "CIO",
-    "title": "AI 도입률을 버린 JP모건…성과를 가려내는 실험법",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 도입률을 버린 JP모건…성과를 가려내는 실험법",
-    "summary_ko": "2024년 여름, JP모건 체이스는(JPMorgan Chase)는 사내 AI 플랫폼 LLM 스위트(Suite)를 도입했다. 그러나 출시 방식은 대부분의 기업과 달랐다. 직원들에게 사용을 강요하지 않았기 때문이다. LLM 스위트가 처음으로 대규모 도입된 곳은 자산·자산관리 부문이었다. 당시 직원들은 이 도구를 리서치 애널리스트처럼 활용하라는 안내를 받았다. 데이터나 초안, 아이디어가 필요할 때 질문하는 상대라고 생각하라는 의미였다. 경영진은 사용량 목표를 설정하지도, 공식적인 사용 지침을 내리지도 않았다. 접근 권한도 단계적으로 확대했다.",
-    "url": "https://www.cio.com/article/4220557/ai-%eb%8f%84%ec%9e%85%eb%a5%a0%ec%9d%84-%eb%b2%84%eb%a6%b0-jp%eb%aa%a8%ea%b1%b4%ec%84%b1%ea%b3%bc%eb%a5%bc-%ea%b0%80%eb%a0%a4%eb%82%b4%eb%8a%94-%ec%8b%a4%ed%97%98%eb%b2%95.html",
-    "image": null,
-    "date": "2026-09-10T06:56:29.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
-    "platform": "Reddit",
-    "title": "DeepSeek V4-1 Flash is out",
-    "author": {
-      "name": "/u/tiguidoio",
-      "handle": "/u//u/tiguidoio",
-      "avatar_color": "#ff4500"
-    },
-    "content": "DeepSeek V4-1 Flash is out",
-    "summary_ko": "DeepSeek V4-1 플래시 출시",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
-    "image": "https://preview.redd.it/6c1tvzhn4noh1.jpg?width=140&height=140&crop=1:1,smart&auto=webp&s=6d491c59edb2545a53f1ac5c9c4f8ce0d2bb59c9",
-    "date": "2026-09-10T06:54:19.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4220524/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b9%80%ec%a2%85%ed%9b%88-%ec%97%a0%ed%82%a4%ec%8a%a4%ec%bd%94%ec%96%b4-%ec%97%b0%ea%b5%ac%ec%86%8c%ec%9e%a5-%ec%88%98%eb%83%89%ec%8b%9d-%eb%8d%b0%ec%9d%b4.html",
-    "platform": "CIO",
-    "title": "인터뷰 | 김종훈 엠키스코어 연구소장 “수랭식 데이터센터는 이제 필수…AI 팩토리 구축 성패, 기술 연결하는 전문 파트너가 좌우”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "인터뷰 | 김종훈 엠키스코어 연구소장 “수랭식 데이터센터는 이제 필수…AI 팩토리 구축 성패, 기술 연결하는 전문 파트너가 좌우”",
-    "summary_ko": "2019년 설립된 AI 팩토리(Factory) 전문 기업 엠키스코어는 대규모 GPU 클러스터의 설계·구축·최적화 경험과 AI 풀스택(Full Stack)지원 역량을 바탕으로 국내 AI 인프라 시장에서 입지를 다져왔다. 특히 최근 데이터센터 업계의 최대 화두로 떠오른 액체냉각(수랭) 분야에서도 구축 경험을 축적하고 있다. 엠키스코어가 현장에서 체감하는 AI 시대 데이터센터의 변화, 그리고 새로운 인프라를 준비하는 IT 리더가 주목해야 할 지점을 들어봤다.",
-    "url": "https://www.cio.com/article/4220524/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b9%80%ec%a2%85%ed%9b%88-%ec%97%a0%ed%82%a4%ec%8a%a4%ec%bd%94%ec%96%b4-%ec%97%b0%ea%b5%ac%ec%86%8c%ec%9e%a5-%ec%88%98%eb%83%89%ec%8b%9d-%eb%8d%b0%ec%9d%b4.html",
-    "image": null,
-    "date": "2026-09-10T05:17:03.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wc6krf/so_relevant/",
-    "platform": "Reddit",
-    "title": "So relevant",
-    "author": {
-      "name": "/u/0dayturtle",
-      "handle": "/u//u/0dayturtle",
-      "avatar_color": "#ff4500"
-    },
-    "content": "So relevant",
-    "summary_ko": "관련성이 매우 높음",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wc6krf/so_relevant/",
-    "image": "https://preview.redd.it/i8agcp89wloh1.png?width=640&crop=smart&auto=webp&s=5301cbd3c1fe37c2de80515845a50897a9663ac5",
-    "date": "2026-09-10T02:45:50.000Z",
     "likes": 0,
     "comments": 0
   }
