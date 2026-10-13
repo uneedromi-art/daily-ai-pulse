@@ -1,5 +1,92 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1x457ja/how_did_encountering_superintelligence_go_for/",
+    "platform": "Reddit",
+    "title": "How did encountering \"superintelligence\" go for other species?",
+    "author": {
+      "name": "/u/Puzzleheaded-King584",
+      "handle": "/u//u/Puzzleheaded-King584",
+      "avatar_color": "#ff4500"
+    },
+    "content": "How did encountering \"superintelligence\" go for other species?",
+    "summary_ko": "다른 종들은 \"초지능\"을 접하게 되면서 어떻게 되었나요?",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1x457ja/how_did_encountering_superintelligence_go_for/",
+    "image": "https://preview.redd.it/0f0b2zgq32vh1.png?width=640&crop=smart&auto=webp&s=06b83ee880418620c3ee309f79be70ce541496b3",
+    "date": "2026-10-12T15:40:50.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x3yeti/linus_torvalds_used_ai_to_make_code_decipherable/",
+    "platform": "Reddit",
+    "title": "Linus Torvalds Used AI To Make Code Decipherable & Uncovered More Bugs",
+    "author": {
+      "name": "/u/PointmanW",
+      "handle": "/u//u/PointmanW",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Linus Torvalds Used AI To Make Code Decipherable & Uncovered More Bugs",
+    "summary_ko": "Linus Torvalds는 AI를 사용하여 코드를 해독 가능하게 만들고 더 많은 버그를 발견했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x3yeti/linus_torvalds_used_ai_to_make_code_decipherable/",
+    "image": "https://external-preview.redd.it/zqyf_5Q3V37Vc1TEIOtKwSbvYpf_VbIPSBab6IpbUP8.jpeg?width=640&crop=smart&auto=webp&s=8fca6caa0f400326164d513a9ccbc65e8ade23c7",
+    "date": "2026-10-12T10:34:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x3vgi7/linus_torvalds_working_on_a_hefty_linux_kernel/",
+    "platform": "Reddit",
+    "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+    "author": {
+      "name": "/u/PointmanW",
+      "handle": "/u//u/PointmanW",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+    "summary_ko": "Linus Torvalds, Claude 코드로 대규모 Linux 커널 개선 작업 중",
+    "url": "https://www.reddit.com/r/singularity/comments/1x3vgi7/linus_torvalds_working_on_a_hefty_linux_kernel/",
+    "image": "https://external-preview.redd.it/ThaZPjEwWB8QjuzmPWqTPH9f1Fv_jGmzEYdsu6fxWsA.jpeg?width=640&crop=smart&auto=webp&s=5fe0ffa04e7cf5c40764237e358f697452d3b197",
+    "date": "2026-10-12T07:26:47.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x3unnr/google_deepminds_ai_weather_model_picked_up/",
+    "platform": "Reddit",
+    "title": "Google DeepMind’s AI weather model picked up Hurricane Isaias 11 days before landfall, pinned where it would hit 4 days out and nailed its peak strength 3 days out—potentially giving communities days more time to evacuate and prepare",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Google DeepMind’s AI weather model picked up Hurricane Isaias 11 days before landfall, pinned where it would hit 4 days out and nailed its peak strength 3 days out—potentially giving communities days more time to evacuate and prepare",
+    "summary_ko": "Google DeepMind의 AI 기상 모델은 허리케인 이사이아스(Hurricane Isaias)가 육지에 상륙하기 11일 전에 포착하여 4일 만에 강타할 위치를 고정하고 3일 만에 최고 강도에 도달했습니다. 이를 통해 지역사회에 대피하고 준비할 시간을 며칠 더 제공할 수 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x3unnr/google_deepminds_ai_weather_model_picked_up/",
+    "image": "https://preview.redd.it/fdohz13uezuh1.jpeg?width=640&crop=smart&auto=webp&s=2805e9b01ea83ec68bbc768380d73df9117d02c7",
+    "date": "2026-10-12T06:37:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4233549/%ec%bd%94%eb%93%9c%eb%8a%94-%ec%8b%b8%ec%a7%80%ea%b3%a0-%ed%8c%90%eb%8b%a8%ec%9d%80-%eb%b9%84%ec%8b%b8%ec%a1%8c%eb%8b%a4%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%a9%94%ec%9d%b8%ed%85%8c.html",
+    "platform": "CIO",
+    "title": "코드는 싸지고 판단은 비싸졌다…오픈소스 메인테이너 3인이 말하는 AI 시대 개발",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "코드는 싸지고 판단은 비싸졌다…오픈소스 메인테이너 3인이 말하는 AI 시대 개발",
+    "summary_ko": "그렇다면 AI 확산 이후 오픈소스에서 나타나는 변화는 미래 개발 조직을 짐작할 단서가 될 수 있지 않을까. 코드를 제출하는 기여자(contributor)를 일반 직원에, 이를 검토하고 프로젝트의 방향을 정하는 메인테이너(maintainer)를 리더에 대입해 보면, 이곳의 변화는 사내 개발 조직에서 지금 벌어지고 있거나 곧 벌어질 일의 예고편으로 읽힌다. 이런 관점에서 오픈소스 메인테이너 3인의 이야기를 들었다.",
+    "url": "https://www.cio.com/article/4233549/%ec%bd%94%eb%93%9c%eb%8a%94-%ec%8b%b8%ec%a7%80%ea%b3%a0-%ed%8c%90%eb%8b%a8%ec%9d%80-%eb%b9%84%ec%8b%b8%ec%a1%8c%eb%8b%a4%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%a9%94%ec%9d%b8%ed%85%8c.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/10/madelyn-olson.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "date": "2026-10-12T05:43:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1x3daf9/shock_and_awe_creator_of_free_adobe_clones/",
     "platform": "Reddit",
     "title": "Shock and awe — Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next",
@@ -2946,91 +3033,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era/",
     "image": null,
     "date": "2026-09-13T09:56:52.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1weujw6/the_hugging_bay/",
-    "platform": "Reddit",
-    "title": "The Hugging Bay",
-    "author": {
-      "name": "/u/Thrumpwart",
-      "handle": "/u//u/Thrumpwart",
-      "avatar_color": "#ff4500"
-    },
-    "content": "The Hugging Bay",
-    "summary_ko": "허깅 베이",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1weujw6/the_hugging_bay/",
-    "image": "https://external-preview.redd.it/oyHsCUP91kfyQbhdeHlXARHwAN73N7l7k1qznoTVe2M.jpeg?width=640&crop=smart&auto=webp&s=70e18883406d3da84db73a33654698322b106e91",
-    "date": "2026-09-13T01:46:47.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wekeow/sam_dario_and_elon_have_all_agreed_to_slow_down/",
-    "platform": "Reddit",
-    "title": "Sam, Dario and Elon have all agreed to slow down on AI acceleration",
-    "author": {
-      "name": "/u/LeviAJ15",
-      "handle": "/u//u/LeviAJ15",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Sam, Dario and Elon have all agreed to slow down on AI acceleration",
-    "summary_ko": "Sam, Dario 및 Elon은 모두 AI 가속 속도를 늦추는 데 동의했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wekeow/sam_dario_and_elon_have_all_agreed_to_slow_down/",
-    "image": "https://preview.redd.it/w9vy2jspv4ph1.jpeg?width=640&crop=smart&auto=webp&s=63ed06bb13313d364143eb9690c6f93f8152940a",
-    "date": "2026-09-12T18:36:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1weh7iu/open_letter_from_100000_cancer_researchers/",
-    "platform": "Reddit",
-    "title": "Open Letter from 100000 cancer researchers against AI use for cancer",
-    "author": {
-      "name": "/u/soggy_bert",
-      "handle": "/u//u/soggy_bert",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Open Letter from 100000 cancer researchers against AI use for cancer",
-    "summary_ko": "암에 대한 AI 사용에 반대하는 100,000명의 암 연구자들의 공개 서한",
-    "url": "https://www.reddit.com/r/singularity/comments/1weh7iu/open_letter_from_100000_cancer_researchers/",
-    "image": "https://preview.redd.it/etx9c6by94ph1.png?width=320&crop=smart&auto=webp&s=c59cee05b535e35b9f26ac06b1198c9f36359573",
-    "date": "2026-09-12T16:34:57.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1weh77m/sam_altman_agrees_with_dario/",
-    "platform": "Reddit",
-    "title": "Sam Altman agrees with Dario!",
-    "author": {
-      "name": "/u/acoolrandomusername",
-      "handle": "/u//u/acoolrandomusername",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Sam Altman agrees with Dario!",
-    "summary_ko": "Sam Altman은 Dario의 의견에 동의합니다!",
-    "url": "https://www.reddit.com/r/singularity/comments/1weh77m/sam_altman_agrees_with_dario/",
-    "image": "https://preview.redd.it/nyf3uddy94ph1.png?width=320&crop=smart&auto=webp&s=38704cfb4b8fe716f791c6bef0282f2b04d0d8f5",
-    "date": "2026-09-12T16:34:37.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just/",
-    "platform": "Reddit",
-    "title": "3.8-27B has ruined 3.5/3.6-35B’s for me. It’s just *absurdly* superior.",
-    "author": {
-      "name": "/u/JLeonsarmiento",
-      "handle": "/u//u/JLeonsarmiento",
-      "avatar_color": "#ff4500"
-    },
-    "content": "3.8-27B has ruined 3.5/3.6-35B’s for me. It’s just *absurdly* superior.",
-    "summary_ko": "3. 8-27B는 3. 5/3. 6-35B를 망쳤습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just/",
-    "image": "https://preview.redd.it/09z7dwple2ph1.jpeg?width=640&crop=smart&auto=webp&s=35f4de856ae1ce10f82619d2547447bd121d81c6",
-    "date": "2026-09-12T10:16:53.000Z",
     "likes": 0,
     "comments": 0
   }
