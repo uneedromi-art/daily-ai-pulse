@@ -1,5 +1,168 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1x5y9ue/gpt6_astra_autonomously_solves_49_out_of_50/",
+    "platform": "Reddit",
+    "title": "GPT-6 Astra autonomously solves 49 out of 50 unpublished theoretical physics research problems, scoring 98% at under $3 per problem. Researchers initially marked several answers wrong, only to discover the AI had caught errors in the calculations of world-class physicists.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "GPT-6 Astra autonomously solves 49 out of 50 unpublished theoretical physics research problems, scoring 98% at under $3 per problem. Researchers initially marked several answers wrong, only to discover the AI had caught errors in the calculations of world-class physicists.",
+    "summary_ko": "GPT-6 Astra는 미발표 이론 물리학 연구 문제 50개 중 49개를 자율적으로 해결하며 문제당 3달러 미만으로 98%의 점수를 받았습니다. 연구자들은 처음에 몇 가지 답을 틀린 것으로 표시했지만 AI가 세계적 수준의 물리학자들의 계산에서 오류를 발견했다는 사실을 발견했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x5y9ue/gpt6_astra_autonomously_solves_49_out_of_50/",
+    "image": "https://preview.redd.it/k0xy5mud2hvh1.png?width=140&height=125&auto=webp&s=f544f827302e4d28c1891ce5792f095a4453f7c5",
+    "date": "2026-10-14T17:59:49.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+    "platform": "Google",
+    "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "General Science",
+    "summary_ko": "Research@ 2026: 인간의 독창성을 증폭시키는 10가지 방법",
+    "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+    "image": null,
+    "date": "2026-10-14T16:14:34.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+    "platform": "Google",
+    "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Earth AI",
+    "summary_ko": "Earth AI 활용: 지구의 가장 큰 과제를 해결하기 위한 지리공간 에이전트",
+    "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+    "image": null,
+    "date": "2026-10-14T16:14:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x5ty7c/this_line_was_written_in_1960s_btw_felt_like_he/",
+    "platform": "Reddit",
+    "title": "this line was written in 1960s btw, felt like he time travelled.",
+    "author": {
+      "name": "/u/Particular_One_1764",
+      "handle": "/u//u/Particular_One_1764",
+      "avatar_color": "#ff4500"
+    },
+    "content": "this line was written in 1960s btw, felt like he time travelled.",
+    "summary_ko": "이 대사는 1960년대에 쓴 글인데, 마치 시간여행을 한 것 같은 느낌이 들었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x5ty7c/this_line_was_written_in_1960s_btw_felt_like_he/",
+    "image": "https://preview.redd.it/mab8seta9gvh1.png?width=640&crop=smart&auto=webp&s=a9fe2377a6fed0744bd3bf67bcf83b8708d9b1cb",
+    "date": "2026-10-14T15:17:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4234843/ai-%eb%b3%b5%ea%b5%ac%eb%b6%88%ea%b0%80-%ec%a3%bc%ec%9e%a5%ec%9d%80-%ed%8b%80%eb%a0%b8%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "“복구 불가”라던 AI의 말은 틀렸다…레플릿 DB 삭제 사고로 본 실행·보고·감사 분리의 필요성",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“복구 불가”라던 AI의 말은 틀렸다…레플릿 DB 삭제 사고로 본 실행·보고·감사 분리의 필요성",
+    "summary_ko": "2025년 7월, Saa Str 창업자이자 기업용 소프트웨어 분야의 유명 투자자인 제이슨 렘킨(Jason Lemkin)은 AI 업계에서 반복적으로 제시하는 약속을 공개적으로 검증하기로 했다. 프로그래밍을 몰라도 에이전트에 지시하기만 하면 누구나 애플리케이션을 만들 수 있다는 약속이었다. 렘킨은 이를 가장 안전하게 구현할 수 있는 플랫폼으로 소개된 레플릿(Replit)을 선택했다. 12일이라는 기한을 정하고 실제 데이터를 사용해 작업하면서 X와 Saa Str 블로그에 진행 과정을 기록했다. 실험은 곧 예상과 다른 방향으로 흘러갔다.",
+    "url": "https://www.cio.com/article/4234843/ai-%eb%b3%b5%ea%b5%ac%eb%b6%88%ea%b0%80-%ec%a3%bc%ec%9e%a5%ec%9d%80-%ed%8b%80%eb%a0%b8%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-10-14T15:06:55.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4235268/%ed%85%8c%eb%9d%bc%eb%8d%b0%ec%9d%b4%ed%83%80-ai-%ec%84%b1%ea%b3%bc-%ea%b0%80%eb%a1%9c%eb%a7%89%eb%8a%94-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%98-%eb%aa%a8%ed%98%b8%ed%95%a8%ea%b8%b0.html",
+    "platform": "CIO",
+    "title": "테라데이타 “AI 성과 가로막는 데이터의 모호함…기업 맥락부터 정리해야”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "테라데이타 “AI 성과 가로막는 데이터의 모호함…기업 맥락부터 정리해야”",
+    "summary_ko": "조쉬 애보트(Josh Abbott) 테라데이타 아시아 태평양 및 일본 담당 부사장은 한국 기자간담회에서 “맥락의 격차가 현재 데이터와 AI 분야의 가장 큰 문제라고 생각한다”며 “모델은 뛰어나지만 기업이 얻는 가치는 그 능력에 미치지 못하고 있다”고 말했다. 기업 데이터가 여러 시스템에 흩어져 있고 의미도 모호해 AI의 결과를 신뢰하기 어렵다는 설명이다. 비즈니스 의미가 연결된 데이터는 1%에 그치기도 애보트 부사장은 아시아의 한 대형 고객사 사례를 소개했다. 이 기업의 수천만 개 데이터베이스 칼럼 가운데 비즈니스 의미가 연결된 비율은 약 1%였다.",
+    "url": "https://www.cio.com/article/4235268/%ed%85%8c%eb%9d%bc%eb%8d%b0%ec%9d%b4%ed%83%80-ai-%ec%84%b1%ea%b3%bc-%ea%b0%80%eb%a1%9c%eb%a7%89%eb%8a%94-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%9d%98-%eb%aa%a8%ed%98%b8%ed%95%a8%ea%b8%b0.html",
+    "image": null,
+    "date": "2026-10-14T15:05:45.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4235237/ces-2027-ai-%ea%b0%80%eb%8a%a5%ec%84%b1%ec%97%90%ec%84%9c-%ec%8b%a4%ec%a0%9c-%ec%84%b1%ea%b3%bc%eb%a1%9c-cta-%ec%84%9c%ec%9a%b8%ec%84%9c-%ed%95%b5%ec%8b%ac-%ed%8a%b8%eb%a0%8c.html",
+    "platform": "CIO",
+    "title": "CES 2027 “AI, 가능성에서 실제 성과로”…CTA, 서울서 핵심 트렌드 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "CES 2027 “AI, 가능성에서 실제 성과로”…CTA, 서울서 핵심 트렌드 공개",
+    "summary_ko": "AI, 혁신의 ‘기반’으로…AI 칩·버티컬 AI·에이전틱 AI 주목 CTA의 마케팅·커뮤니케이션 부문의 부사장 멜리사 해리슨은 CES 2027의 기술 흐름을 ‘기반(Foundation)’, ‘전환(Transformation)’, ‘탐색(Exploration)’이라는 세 가지 축으로 제시했다. 이 가운데 기반은 컴퓨팅, 사이버보안, 클라우드, 데이터, 에너지를 포괄하며, AI가 이들 영역을 연결하는 역할을 맡고 있다는 설명이다. 해리슨 부사장에 따르면 AI는 더 많은 연산 자원과 데이터, 에너지를 요구하고 새로운 보안 과제를 만든다.",
+    "url": "https://www.cio.com/article/4235237/ces-2027-ai-%ea%b0%80%eb%8a%a5%ec%84%b1%ec%97%90%ec%84%9c-%ec%8b%a4%ec%a0%9c-%ec%84%b1%ea%b3%bc%eb%a1%9c-cta-%ec%84%9c%ec%9a%b8%ec%84%9c-%ed%95%b5%ec%8b%ac-%ed%8a%b8%eb%a0%8c.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/10/CTA_Melissa-Harrison.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "date": "2026-10-14T14:19:33.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1x5glxv/abdulrahman_alfozan_a_saudi_national_employed_as/",
+    "platform": "Reddit",
+    "title": "Abdulrahman Alfozan, a Saudi national employed as an OpenAI engineer, looks behind a television where a recording device had been placed at a conference room in OpenAI offices. He was arrested by the FBI.",
+    "author": {
+      "name": "/u/Fun_Reflection1157",
+      "handle": "/u//u/Fun_Reflection1157",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Abdulrahman Alfozan, a Saudi national employed as an OpenAI engineer, looks behind a television where a recording device had been placed at a conference room in OpenAI offices. He was arrested by the FBI.",
+    "summary_ko": "OpenAI 엔지니어로 고용된 사우디 국적의 Abdulrahman Alfozan이 OpenAI 사무실 회의실에 녹화 장치가 설치된 TV 뒤를 바라보고 있습니다. 그는 FBI에 의해 체포되었습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1x5glxv/abdulrahman_alfozan_a_saudi_national_employed_as/",
+    "image": "https://preview.redd.it/j6hp20iyncvh1.jpeg?width=640&crop=smart&auto=webp&s=e4251372fb76bf475fd77670fa977180cad3d702",
+    "date": "2026-10-14T03:12:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4234809/%ec%96%b4%eb%a6%ac%eb%b2%84%eb%a6%ac%ed%95%9c-ai-%eb%8f%99%eb%a3%8c-%ec%97%90%ec%9d%b4%ec%8a%a4%eb%a1%9c.html",
+    "platform": "CIO",
+    "title": "칼럼 | 어리버리한 AI 동료, 에이스로 키우는 5가지 관리 원칙",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 어리버리한 AI 동료, 에이스로 키우는 5가지 관리 원칙",
+    "summary_ko": "가트너가 2026년 8월 발표한 보고서에서 최고경영진의 40%는 조직이 “일부 비즈니스 프로세스에 AI를 실제로 적용했다”라고 답했다. 그러나 “측정 가능한 성과를 거두고 조직 전반으로 AI를 확대하고 있다”라고 답한 비율은 13%에 그쳤다. 이런 격차는 기업에서 흔히 나타나는 현실을 보여준다. AI를 ‘채용’하기는 했지만, 업무에 적응하도록 제대로 지원하지 않았다는 것이다. 인사 분야 분석업체 브랜던 홀 그룹(The Brandon Hall Group)의 연구에 따르면, 체계적인 온보딩 절차를 갖춘 조직은 신입 직원의 생산성을 70% 이상 높였다. AI도 마찬가지다.",
+    "url": "https://www.cio.com/article/4234809/%ec%96%b4%eb%a6%ac%eb%b2%84%eb%a6%ac%ed%95%9c-ai-%eb%8f%99%eb%a3%8c-%ec%97%90%ec%9d%b4%ec%8a%a4%eb%a1%9c.html",
+    "image": null,
+    "date": "2026-10-14T00:29:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4234786/%ec%98%a4%eb%8a%98%eb%82%a0-ciso%ec%99%80-%eb%b3%b4%ec%95%88-%ed%8c%80%ec%9d%b4-%ec%a7%81%eb%a9%b4%ed%95%9c-7%eb%8c%80-%ea%b3%bc%ec%a0%9c.html",
     "platform": "CIO",
     "title": "CISO 2명 중 1명이 “업계 떠날까” 고민…AI 시대 보안 리더를 압박하는 7가지 과제",
@@ -15,6 +178,42 @@
     "url": "https://www.cio.com/article/4234786/%ec%98%a4%eb%8a%98%eb%82%a0-ciso%ec%99%80-%eb%b3%b4%ec%95%88-%ed%8c%80%ec%9d%b4-%ec%a7%81%eb%a9%b4%ed%95%9c-7%eb%8c%80-%ea%b3%bc%ec%a0%9c.html",
     "image": null,
     "date": "2026-10-13T23:49:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4234786/ciso-2%eb%aa%85%ec%a4%91-1%eb%aa%85-%ec%97%85%ea%b3%84%eb%96%a0%eb%82%a0%ea%b9%8c.html",
+    "platform": "CIO",
+    "title": "CISO 2명 중 1명이 “업계 떠날까” 고민…AI 시대 보안 리더를 압박하는 7가지 과제",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "CISO 2명 중 1명이 “업계 떠날까” 고민…AI 시대 보안 리더를 압박하는 7가지 과제",
+    "summary_ko": "해마다 사이버 공격의 규모와 속도, 정교함이 증가하고 있다. 기업의 공격 표면 역시 확대되면서 복잡성이 높아지고 있다. 인공지능(AI) 기술의 발전과 기업 내 AI 활용 확대도 보안 전략에 영향을 미치고 있다. 새로운 공격 기법이 등장하고 AI 인프라까지 공격 표면에 포함되면서 보안 거버넌스와 통제 체계를 구축하는 일이 더욱 복잡해졌다. 특히 에이전틱 AI 시스템의 도입이 본격화하면서 새로운 보안 과제가 나타나고 있다.",
+    "url": "https://www.cio.com/article/4234786/ciso-2%eb%aa%85%ec%a4%91-1%eb%aa%85-%ec%97%85%ea%b3%84%eb%96%a0%eb%82%a0%ea%b9%8c.html",
+    "image": null,
+    "date": "2026-10-13T23:49:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x5cbvp/argon_produced_video/",
+    "platform": "Reddit",
+    "title": "Argon produced video",
+    "author": {
+      "name": "/u/Jaguar_2454",
+      "handle": "/u//u/Jaguar_2454",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Argon produced video",
+    "summary_ko": "아르곤 제작 영상",
+    "url": "https://www.reddit.com/r/singularity/comments/1x5cbvp/argon_produced_video/",
+    "image": "https://external-preview.redd.it/NjVyOXpramVtYnZoMQ5fQDT6NiFkaAe97w9-YMWjYV3gfRWBj9JgpgAjq3xJ.png?width=640&crop=smart&auto=webp&s=d1f0d982f804e2e0dfea8898cdb3fa80a4540048",
+    "date": "2026-10-13T23:41:20.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -3001,95 +3200,6 @@
     "url": "https://www.cio.com/article/4221948/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ed%8c%94%eb%9e%80%ed%8b%b0%ec%96%b4-%ed%8c%8c%ec%9a%b4%eb%93%9c%eb%a6%ac-%eb%8f%84%ec%9e%85%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b3%b5.html",
     "image": null,
     "date": "2026-09-15T01:40:24.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
-    "platform": "Reddit",
-    "title": "We Must Pace the Frontier",
-    "author": {
-      "name": "/u/Dudensen",
-      "handle": "/u//u/Dudensen",
-      "avatar_color": "#ff4500"
-    },
-    "content": "We Must Pace the Frontier",
-    "summary_ko": "우리는 개척지의 속도를 맞춰야 합니다",
-    "url": "https://www.reddit.com/r/singularity/comments/1wgecxn/we_must_pace_the_frontier/",
-    "image": "https://external-preview.redd.it/bzltN254dWpranBoMfm76p2YkSeqIYlh2aY2RcTMrXU8rj-ua8cjchkz1ojg.png?width=640&crop=smart&auto=webp&s=c0c4b39df040999572a69ca3c74c0c4ea5893896",
-    "date": "2026-09-14T20:01:18.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wg4cjk/trump_reiterates_no_slowdown/",
-    "platform": "Reddit",
-    "title": "Trump reiterates no slowdown",
-    "author": {
-      "name": "/u/Throwaway19a2",
-      "handle": "/u//u/Throwaway19a2",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Trump reiterates no slowdown",
-    "summary_ko": "트럼프, 경기 둔화 재차 강조",
-    "url": "https://www.reddit.com/r/singularity/comments/1wg4cjk/trump_reiterates_no_slowdown/",
-    "image": "https://preview.redd.it/040oyamxshph1.jpeg?width=640&crop=smart&auto=webp&s=1cd53fecbf31c5a6531d465db3efce4f5581e682",
-    "date": "2026-09-14T14:03:49.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wfpwhj/deepseek_v41_flash_beats_astra_on_aas_new/",
-    "platform": "Reddit",
-    "title": "DeepSeek V4.1 Flash beats Astra on AA's new benchmark",
-    "author": {
-      "name": "/u/Randomdotmath",
-      "handle": "/u//u/Randomdotmath",
-      "avatar_color": "#ff4500"
-    },
-    "content": "DeepSeek V4.1 Flash beats Astra on AA's new benchmark",
-    "summary_ko": "DeepSeek V4.1 Flash는 AA의 새로운 벤치마크에서 Astra를 능가했습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfpwhj/deepseek_v41_flash_beats_astra_on_aas_new/",
-    "image": "https://preview.redd.it/b8lrmxaj1eph1.png?width=640&crop=smart&auto=webp&s=bca6bf2f85360c40d00744cc38488e7129fc5290",
-    "date": "2026-09-14T01:37:44.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4221374/ai%ea%b0%80-%ed%9d%94%eb%93%9c%eb%8a%94-it-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%8b%9c%ec%9e%a5%ec%9e%a5%ea%b8%b0-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%8b%9c%eb%8c%80-%ec%a0%80%eb%ac%b4%eb%82%98.html",
-    "platform": "CIO",
-    "title": "AI가 흔드는 IT 컨설팅 시장…장기 프로젝트 시대 저무나",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI가 흔드는 IT 컨설팅 시장…장기 프로젝트 시대 저무나",
-    "summary_ko": "AI 도입이 대형 IT 컨설팅 시장의 판도를 흔들고 있다. 일부 IT 리더는 대형 컨설팅 업체의 핵심 수익원이었던 수년에 걸친 디지털 전환 프로젝트가 여전히 필요한지 의문을 제기하기 시작했다. 기업들은 클라우드 현대화와 메인프레임 마이그레이션 같은 대규모 디지털 전환 프로젝트에 AI 도구를 적극 활용하고 있다. AI는 프로젝트 수행에 필요한 시간과 노력을 크게 줄여주고 있다. 동시에 AI 기술이 빠르게 발전하면서 2~3년에 걸친 장기 컨설팅 계약의 가치 자체를 재검토하는 IT 리더도 늘고 있다.",
-    "url": "https://www.cio.com/article/4221374/ai%ea%b0%80-%ed%9d%94%eb%93%9c%eb%8a%94-it-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%8b%9c%ec%9e%a5%ec%9e%a5%ea%b8%b0-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%8b%9c%eb%8c%80-%ec%a0%80%eb%ac%b4%eb%82%98.html",
-    "image": null,
-    "date": "2026-09-14T00:16:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4221370/ai-%ec%88%98%ec%9a%94%ea%b0%80-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%b6%94%ec%9b%94-%ec%98%a4%ed%94%88ai-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ec%9d%b8%ea%b8%b0%ec%97%90-2%ec%b5%9c%ea%b3%a0-%ec%9a%94.html",
-    "platform": "CIO",
-    "title": "AI 수요가 인프라 추월…오픈AI, 아스트라 인기에 최고 요금제 가입 막어",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 수요가 인프라 추월…오픈AI, 아스트라 인기에 최고 요금제 가입 막어",
-    "summary_ko": "오픈AI가 월 200달러(약 27만 원)인 챗GPT 프로(Chat GPT Pro) 요금제의 신규 가입과 업그레이드를 일시 중단했다. 회사는 아스트라(Astra) 기능에 대한 수요가 급증하면서 시스템 용량에 부담이 커진 데 따른 조치라고 밝혔다. 이 같은 내용은 회사 발표와 임원의 X 게시글을 통해 확인됐다.",
-    "url": "https://www.cio.com/article/4221370/ai-%ec%88%98%ec%9a%94%ea%b0%80-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%b6%94%ec%9b%94-%ec%98%a4%ed%94%88ai-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ec%9d%b8%ea%b8%b0%ec%97%90-2%ec%b5%9c%ea%b3%a0-%ec%9a%94.html",
-    "image": null,
-    "date": "2026-09-14T00:13:00.000Z",
     "likes": 0,
     "comments": 0
   }
