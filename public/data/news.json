@@ -1,5 +1,168 @@
 [
   {
+    "id": "https://www.cio.com/article/4234786/%ec%98%a4%eb%8a%98%eb%82%a0-ciso%ec%99%80-%eb%b3%b4%ec%95%88-%ed%8c%80%ec%9d%b4-%ec%a7%81%eb%a9%b4%ed%95%9c-7%eb%8c%80-%ea%b3%bc%ec%a0%9c.html",
+    "platform": "CIO",
+    "title": "CISO 2명 중 1명이 “업계 떠날까” 고민…AI 시대 보안 리더를 압박하는 7가지 과제",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "CISO 2명 중 1명이 “업계 떠날까” 고민…AI 시대 보안 리더를 압박하는 7가지 과제",
+    "summary_ko": "해마다 사이버 공격의 규모와 속도, 정교함이 증가하고 있다. 기업의 공격 표면 역시 확대되면서 복잡성이 높아지고 있다. 인공지능(AI) 기술의 발전과 기업 내 AI 활용 확대도 보안 전략에 영향을 미치고 있다. 새로운 공격 기법이 등장하고 AI 인프라까지 공격 표면에 포함되면서 보안 거버넌스와 통제 체계를 구축하는 일이 더욱 복잡해졌다. 특히 에이전틱 AI 시스템의 도입이 본격화하면서 새로운 보안 과제가 나타나고 있다.",
+    "url": "https://www.cio.com/article/4234786/%ec%98%a4%eb%8a%98%eb%82%a0-ciso%ec%99%80-%eb%b3%b4%ec%95%88-%ed%8c%80%ec%9d%b4-%ec%a7%81%eb%a9%b4%ed%95%9c-7%eb%8c%80-%ea%b3%bc%ec%a0%9c.html",
+    "image": null,
+    "date": "2026-10-13T23:49:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x53gba/googles_gemini_4_argon_autonomously_built_an/",
+    "platform": "Reddit",
+    "title": "Google's Gemini 4 Argon autonomously built an entire photorealistic pagoda temple complex in Blender from a single prompt, with zero human intervention, using multiple AI agents to critique and refine its own work",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Google's Gemini 4 Argon autonomously built an entire photorealistic pagoda temple complex in Blender from a single prompt, with zero human intervention, using multiple AI agents to critique and refine its own work",
+    "summary_ko": "Google의 Gemini 4 Argon은 사람의 개입 없이 단일 프롬프트로 Blender에서 전체 사실적인 탑 사원 단지를 자동으로 구축했으며 여러 AI 에이전트를 사용하여 자체 작업을 비평하고 개선했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x53gba/googles_gemini_4_argon_autonomously_built_an/",
+    "image": "https://external-preview.redd.it/eGJiODlrNzB2OXZoMdQaRhj3y0jvWhFZ71HPkab-Gm8ANban36e01QM6IVlv.png?width=640&crop=smart&auto=webp&s=64e6a44012472282e44772f413ddd24c3c2e59c5",
+    "date": "2026-10-13T17:46:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
+    "platform": "Reddit",
+    "title": "It's been too quiet on the other side of the Pacific",
+    "author": {
+      "name": "/u/Nunki08",
+      "handle": "/u//u/Nunki08",
+      "avatar_color": "#ff4500"
+    },
+    "content": "It's been too quiet on the other side of the Pacific",
+    "summary_ko": "태평양 반대편은 너무 조용했어요",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
+    "image": "https://preview.redd.it/jsregr9ky7vh1.jpeg?width=640&crop=smart&auto=webp&s=2f0426c14ea3eb9894a7cf09d119e6c6a42deb57",
+    "date": "2026-10-13T11:32:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4234130/cio%ea%b0%80-ai-%ed%88%ac%ec%9e%90-%ec%88%98%ec%9d%b5%eb%a5%a0roi%ec%9d%84-%ed%8f%89%ea%b0%80%ed%95%98%ea%b8%b0-%ec%9c%84%ed%95%9c-3%ea%b0%80%ec%a7%80-%eb%aa%a8%eb%b2%94-%ec%82%ac%eb%a1%80.html",
+    "platform": "CIO",
+    "title": "AI 프로젝트는 늘었는데 성과는 모호하다면…ROI 측정의 3가지 원칙",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 프로젝트는 늘었는데 성과는 모호하다면…ROI 측정의 3가지 원칙",
+    "summary_ko": "대부분의 CIO는 자사의 AI 프로젝트를 쉽게 설명할 수 있지만, AI의 가치와 투자수익률(ROI)을 입증하고 보고하는 데는 어려움을 겪는다. 가트너의 AI ROI에 대한 인식 조사에서도 이런 상황이 드러났다. 응답자의 27%는 AI 프로젝트의 ROI를 정량화하기 어렵다는 데 매우 동의했다. AI 프로젝트의 성공 여부를 평가하는 명확한 절차를 갖춘 응답자도 4명 중 1명에 불과했다. 디지털 전환 시대에는 컴퓨팅 비용이 비교적 저렴했다.",
+    "url": "https://www.cio.com/article/4234130/cio%ea%b0%80-ai-%ed%88%ac%ec%9e%90-%ec%88%98%ec%9d%b5%eb%a5%a0roi%ec%9d%84-%ed%8f%89%ea%b0%80%ed%95%98%ea%b8%b0-%ec%9c%84%ed%95%9c-3%ea%b0%80%ec%a7%80-%eb%aa%a8%eb%b2%94-%ec%82%ac%eb%a1%80.html",
+    "image": null,
+    "date": "2026-10-13T08:38:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4234164/%ea%b5%ad%eb%82%b4-%ea%b8%b0%ec%97%85-ai-%eb%b3%b4%ec%95%88-%ec%97%ad%eb%9f%89-58%ec%a0%90-%ea%b8%80%eb%a1%9c%eb%b2%8c-%ed%8f%89%ea%b7%a0-%eb%b0%91%eb%8f%8c%ec%95%84%ec%8b%9c%ec%8a%a4.html",
+    "platform": "CIO",
+    "title": "국내 기업 AI 보안 역량 58점, 글로벌 평균 밑돌아…시스코 “협업·AI 방어로 격차 좁혀야”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "국내 기업 AI 보안 역량 58점, 글로벌 평균 밑돌아…시스코 “협업·AI 방어로 격차 좁혀야”",
+    "summary_ko": "“보안 걸림돌은 기술보다 조직…거버넌스부터 세워야” 황성규 시스코코리아 보안 사업 총괄 상무는 이번 조사에서 질문의 틀 자체를 바꿨다고 설명했다. 그는 “예전에는 얼마나 방어할 준비가 됐는지를 물었다면, 지금은 공격 속도가 빨라졌기 때문에 방어가 가능한지를 묻는 방식으로 바꿨다”라고 말했다.",
+    "url": "https://www.cio.com/article/4234164/%ea%b5%ad%eb%82%b4-%ea%b8%b0%ec%97%85-ai-%eb%b3%b4%ec%95%88-%ec%97%ad%eb%9f%89-58%ec%a0%90-%ea%b8%80%eb%a1%9c%eb%b2%8c-%ed%8f%89%ea%b7%a0-%eb%b0%91%eb%8f%8c%ec%95%84%ec%8b%9c%ec%8a%a4.html",
+    "image": null,
+    "date": "2026-10-13T08:38:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4234113/ai-%ea%b0%80%ea%b2%a9%ec%9d%98-%eb%8c%80%eb%8c%80%ec%a0%81%ec%9d%b8-%ec%9e%ac%ed%8e%b8%ec%9d%b4-%eb%8b%a4%ea%b0%80%ec%98%a4%ea%b3%a0-%ec%9e%88%ec%8a%b5%eb%8b%88%eb%8b%a4-%ec%a4%80%eb%b9%84%eb%90%98.html",
+    "platform": "CIO",
+    "title": "칼럼 | AI 무료 시대 끝나간다…기업의 토큰 비용을 뒤흔들 SSD 가격 급등",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | AI 무료 시대 끝나간다…기업의 토큰 비용을 뒤흔들 SSD 가격 급등",
+    "summary_ko": "생성형 AI 시장에서 토큰당 과금 방식은 사실상 표준 가격 모델로 자리 잡았다. 이제 거의 모든 AI 예산 논의가 토큰 소비량, 생성량, 100만 토큰당 비용 등을 중심으로 이뤄지고 있다. 문제는 이 모델이 각각의 AI 상호작용을 독립적인 거래로 취급하고, 이를 처리하는 데 필요한 인프라와 분리해서 바라본다는 점이다. 토큰은 분명 과금 단위이지만, 토큰을 처리하는 작업은 메모리와 스토리지에도 물리적인 부담을 준다.",
+    "url": "https://www.cio.com/article/4234113/ai-%ea%b0%80%ea%b2%a9%ec%9d%98-%eb%8c%80%eb%8c%80%ec%a0%81%ec%9d%b8-%ec%9e%ac%ed%8e%b8%ec%9d%b4-%eb%8b%a4%ea%b0%80%ec%98%a4%ea%b3%a0-%ec%9e%88%ec%8a%b5%eb%8b%88%eb%8b%a4-%ec%a4%80%eb%b9%84%eb%90%98.html",
+    "image": null,
+    "date": "2026-10-13T07:01:07.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4233601/%eb%b3%b4%ec%95%88-%ed%85%8c%ec%8a%a4%ed%8a%b8%eb%8a%94-ai%ea%b0%80-%ed%8c%90%eb%8b%a8%ec%9d%80-%ec%a0%84%eb%ac%b8%ea%b0%80%ea%b0%80.html",
+    "platform": "CIO",
+    "title": "보안 테스트는 AI가, 판단은 전문가가…달라지는 공격적 보안 전략",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "보안 테스트는 AI가, 판단은 전문가가…달라지는 공격적 보안 전략",
+    "summary_ko": "AI의 부상으로 최고정보보안책임자(CISO)가 대응해야 할 취약점이 어느 때보다 많아졌다. 이에 따라 어떤 취약점을 먼저 수정할지 결정하는 일도 갈수록 어려워지고 있다. 침투 테스트 플랫폼 기업 호라이즌3. ai(Horizon3. ai)의 스네할 안타니 CEO는 CSO에 “CIO로 일할 때 가장 어려웠던 일은 무엇을 하지 않을지 결정하는 것이었다”라며 “자원이 부족하거나 중요하지 않다고 판단해 취약점을 수정하지 않았는데, 나중에 그 취약점 때문에 침해 사고가 발생한다면 정말 최악의 하루가 될 것”이라고 말했다.",
+    "url": "https://www.cio.com/article/4233601/%eb%b3%b4%ec%95%88-%ed%85%8c%ec%8a%a4%ed%8a%b8%eb%8a%94-ai%ea%b0%80-%ed%8c%90%eb%8b%a8%ec%9d%80-%ec%a0%84%eb%ac%b8%ea%b0%80%ea%b0%80.html",
+    "image": null,
+    "date": "2026-10-13T06:50:46.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x4n6sg/anyone_feel_like_reverseengineering_cuda/",
+    "platform": "Reddit",
+    "title": "Anyone feel like reverse-engineering CUDA?",
+    "author": {
+      "name": "/u/Odd-World4925",
+      "handle": "/u//u/Odd-World4925",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Anyone feel like reverse-engineering CUDA?",
+    "summary_ko": "CUDA를 리버스 엔지니어링하고 싶은 사람이 있나요?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4n6sg/anyone_feel_like_reverseengineering_cuda/",
+    "image": null,
+    "date": "2026-10-13T04:23:26.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
+    "platform": "Reddit",
+    "title": "Anthropic is doing free publicity for GLM again",
+    "author": {
+      "name": "/u/No-Point1424",
+      "handle": "/u//u/No-Point1424",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Anthropic is doing free publicity for GLM again",
+    "summary_ko": "Anthropic은 GLM에 대한 무료 홍보를 다시 진행하고 있습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
+    "image": "https://preview.redd.it/s9srfeunp4vh1.jpeg?width=640&crop=smart&auto=webp&s=119757f9b793bebdc090b72e23c560d36432f615",
+    "date": "2026-10-13T00:27:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/OpenAI/comments/1x457ja/how_did_encountering_superintelligence_go_for/",
     "platform": "Reddit",
     "title": "How did encountering \"superintelligence\" go for other species?",
@@ -2927,112 +3090,6 @@
     "url": "https://www.cio.com/article/4221370/ai-%ec%88%98%ec%9a%94%ea%b0%80-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%b6%94%ec%9b%94-%ec%98%a4%ed%94%88ai-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ec%9d%b8%ea%b8%b0%ec%97%90-2%ec%b5%9c%ea%b3%a0-%ec%9a%94.html",
     "image": null,
     "date": "2026-09-14T00:13:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4221058/%eb%82%a9%ea%b8%b0-18%ea%b0%9c%ec%9b%94%c2%b7%ea%b0%80%ea%b2%a9-%ec%b5%9c%eb%8c%80-200-%ea%b8%89%eb%93%b1ai-%ec%8b%9c%eb%8c%80-it-%ec%9d%b8%ed%94%84%eb%9d%bc-%eb%b6%80%ec%a1%b1-%ed%95%b4.html",
-    "platform": "CIO",
-    "title": "납기 18개월·가격 최대 200% 급등…AI 시대 IT 인프라 부족 해법은",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "납기 18개월·가격 최대 200% 급등…AI 시대 IT 인프라 부족 해법은",
-    "summary_ko": "납기 기간은 9~12개월, 길게는 18개월에 이른다. 비용은 35%, 45%는 물론 최대 50~200%까지 치솟고 있다. 2026년이 절반 이상 지난 현재, AI를 포함한 기업 프로젝트에 필수적인 IT 인프라 시장은 심각한 공급난을 겪고 있다. 공급 부족의 근본 원인은 메모리다. 시장조사업체 가트너의 수석 VP 애널리스트 존 포레스트(Jon Forest)는 “메모리 가격이 50~200% 상승하면서 PC 가격은 35~45%, 일부 서버 가격은 125% 이상 올랐다”고 설명했다.",
-    "url": "https://www.cio.com/article/4221058/%eb%82%a9%ea%b8%b0-18%ea%b0%9c%ec%9b%94%c2%b7%ea%b0%80%ea%b2%a9-%ec%b5%9c%eb%8c%80-200-%ea%b8%89%eb%93%b1ai-%ec%8b%9c%eb%8c%80-it-%ec%9d%b8%ed%94%84%eb%9d%bc-%eb%b6%80%ec%a1%b1-%ed%95%b4.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/08/Gartner-NAND-DRAM-stats.jpg?quality=50&amp;strip=all&amp;w=1024",
-    "date": "2026-09-14T00:05:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4221377/aws%ec%bd%94%eb%a6%ac%ec%95%84-%ed%95%9c%ea%b5%ad-%eb%8c%80%ea%b8%b0%ec%97%85-ai-%ea%b3%a0%eb%8f%84%ed%99%94%ec%9c%a8-9%ea%b2%bd%ec%98%81%ec%a7%84-%ec%a3%bc%eb%8f%84-%ec%a0%84.html",
-    "platform": "CIO",
-    "title": "AWS코리아 “한국 대기업 AI 고도화율 9%…경영진 주도 전략·데이터·인재 정비 필요”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AWS코리아 “한국 대기업 AI 고도화율 9%…경영진 주도 전략·데이터·인재 정비 필요”",
-    "summary_ko": "AWS 코리아는 9월 11일 기자간담회를 열고 한국 기업의 AI 도입 현황과 고도화 전략을 소개했다. 이날 발표는 글로벌 자문 기업 스트랜드 파트너스(Strand Partners)가 조사한 ‘2026년 한국의 AI 잠재력 발현(Unlocking South Korea’s AI Potential 2026)’ 보고서를 바탕으로 진행됐다. 닉 본스토우(Nick Bonstow) 스트랜드 파트너스 디렉터는 한국 기업의 AI 도입이 빠르게 확대되고 있지만, 고도화된 활용 단계로 나아가는 데에는 준비 부족이 걸림돌로 작용하고 있다고 진단했다.",
-    "url": "https://www.cio.com/article/4221377/aws%ec%bd%94%eb%a6%ac%ec%95%84-%ed%95%9c%ea%b5%ad-%eb%8c%80%ea%b8%b0%ec%97%85-ai-%ea%b3%a0%eb%8f%84%ed%99%94%ec%9c%a8-9%ea%b2%bd%ec%98%81%ec%a7%84-%ec%a3%bc%eb%8f%84-%ec%a0%84.html",
-    "image": null,
-    "date": "2026-09-14T00:02:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wfnrqj/astra_notices_user_isnt_paying_attention_makes/",
-    "platform": "Reddit",
-    "title": "Astra notices user isn't paying attention, makes the Mac beep",
-    "author": {
-      "name": "/u/BrennusSokol",
-      "handle": "/u//u/BrennusSokol",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Astra notices user isn't paying attention, makes the Mac beep",
-    "summary_ko": "Astra는 사용자가 주의를 기울이지 않는다는 것을 알아차리고 Mac에서 경고음을 울립니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wfnrqj/astra_notices_user_isnt_paying_attention_makes/",
-    "image": "https://preview.redd.it/eyqol5q7mdph1.png?width=640&crop=smart&auto=webp&s=c1ec180efbda269a4bb4478b3fba9a45106d01a3",
-    "date": "2026-09-13T23:59:30.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wfduzz/trump_is_refusing_a_slowdown/",
-    "platform": "Reddit",
-    "title": "Trump is refusing a slowdown",
-    "author": {
-      "name": "/u/ThatIsNotIllegal",
-      "handle": "/u//u/ThatIsNotIllegal",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Trump is refusing a slowdown",
-    "summary_ko": "트럼프, 경기둔화 거부",
-    "url": "https://www.reddit.com/r/singularity/comments/1wfduzz/trump_is_refusing_a_slowdown/",
-    "image": "https://preview.redd.it/wdqxwwn5obph1.jpeg?width=320&crop=smart&auto=webp&s=54ebd5ba0c0aac83e0f2d5033822cd7be1a48b5c",
-    "date": "2026-09-13T17:26:33.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wf4hl5/theyre_colluding_to_kill_open_source/",
-    "platform": "Reddit",
-    "title": "They’re colluding to kill open source",
-    "author": {
-      "name": "/u/awesomeoh1234",
-      "handle": "/u//u/awesomeoh1234",
-      "avatar_color": "#ff4500"
-    },
-    "content": "They’re colluding to kill open source",
-    "summary_ko": "그들은 오픈 소스를 죽이려고 공모하고 있습니다",
-    "url": "https://www.reddit.com/r/singularity/comments/1wf4hl5/theyre_colluding_to_kill_open_source/",
-    "image": "https://preview.redd.it/ujs70qdzp9ph1.jpeg?width=640&crop=smart&auto=webp&s=11e68afa330763c3de7429e6a07d6d9b34701a2d",
-    "date": "2026-09-13T10:53:03.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era/",
-    "platform": "Reddit",
-    "title": "The Local LLM community feels like the golden era of the internet all over again",
-    "author": {
-      "name": "/u/feelspeaceman",
-      "handle": "/u//u/feelspeaceman",
-      "avatar_color": "#ff4500"
-    },
-    "content": "The Local LLM community feels like the golden era of the internet all over again",
-    "summary_ko": "로컬 LLM 커뮤니티는 다시 한번 인터넷의 황금 시대처럼 느껴집니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era/",
-    "image": null,
-    "date": "2026-09-13T09:56:52.000Z",
     "likes": 0,
     "comments": 0
   }
