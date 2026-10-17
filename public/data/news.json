@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
+    "platform": "Reddit",
+    "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+    "author": {
+      "name": "/u/HolidayBit143",
+      "handle": "/u//u/HolidayBit143",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+    "summary_ko": "Linux 제작자는 AI 방지 규칙이 \"멍청하다\"고 말합니다. (절대적인 신 수준을 취합니다.).",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
+    "image": "https://preview.redd.it/nhlbvepgx1wh1.png?width=640&crop=smart&auto=webp&s=d1632cf2b934dd97fc4d2e98ca4bcf3d0f8fb19e",
+    "date": "2026-10-17T16:13:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x8557v/real/",
+    "platform": "Reddit",
+    "title": "Real.",
+    "author": {
+      "name": "/u/Baroness_Munchausen",
+      "handle": "/u//u/Baroness_Munchausen",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Real.",
+    "summary_ko": "진짜.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x8557v/real/",
+    "image": "https://preview.redd.it/vtobv0aiozvh1.png?width=320&crop=smart&auto=webp&s=7077e70d1b4a18563ad938eba301b5e10b3201a8",
+    "date": "2026-10-17T08:36:46.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x83dxf/university_of_michigan_physicist_gabriele/",
+    "platform": "Reddit",
+    "title": "University of Michigan physicist Gabriele Carcassi, a published quantum foundations researcher, says AI now resolves advanced mathematical roadblocks in 2 minutes. He previously spent months begging mathematicians for help. Now a single AI conversation is enough.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "University of Michigan physicist Gabriele Carcassi, a published quantum foundations researcher, says AI now resolves advanced mathematical roadblocks in 2 minutes. He previously spent months begging mathematicians for help. Now a single AI conversation is enough.",
+    "summary_ko": "양자 기초 연구자이자 미시간 대학의 물리학자인 Gabriele Carcassi는 이제 AI가 고급 수학적 장애물을 2분 만에 해결한다고 말합니다. 그는 이전에 수학자에게 도움을 구걸하며 몇 달을 보냈습니다. 이제는 AI 대화 한 번이면 충분합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x83dxf/university_of_michigan_physicist_gabriele/",
+    "image": "https://external-preview.redd.it/Y3h3dGVvMGk1enZoMc8uJ_fTj3te41Y0qBTWDr5s8zlv5oHwZFcjc1f54EmR.png?width=640&crop=smart&auto=webp&s=7a1d938b9b8248e87cff70feea13269a8e4662d2",
+    "date": "2026-10-17T06:49:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x7vivf/an_internal_anthropic_research_models_chain_of/",
+    "platform": "Reddit",
+    "title": "An internal Anthropic research model's chain of thought after cracking the 26-year-old NSA elliptic curve seed mystery in under 30 minutes",
+    "author": {
+      "name": "/u/soldierofcinema",
+      "handle": "/u//u/soldierofcinema",
+      "avatar_color": "#ff4500"
+    },
+    "content": "An internal Anthropic research model's chain of thought after cracking the 26-year-old NSA elliptic curve seed mystery in under 30 minutes",
+    "summary_ko": "26년 된 NSA 타원 곡선 시드 미스터리를 30분 이내에 해독한 후 내부 인류 연구 모델의 사고 사슬.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x7vivf/an_internal_anthropic_research_models_chain_of/",
+    "image": "https://preview.redd.it/iytha2zt0xvh1.png?width=640&crop=smart&auto=webp&s=fd9f7a64388c6058cc10456944ccdeef44b3c89e",
+    "date": "2026-10-16T23:39:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
     "platform": "Google",
     "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
@@ -3075,130 +3143,6 @@
     "url": "https://www.cio.com/article/4223323/%ec%b9%bc%eb%9f%bc-%ec%97%ac%eb%9f%ac-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b4%80%eb%a6%ac%ed%95%a0%ea%b9%8c%c2%b7%c2%b7%c2%b7ide-%eb%b0%96.html",
     "image": null,
     "date": "2026-09-18T00:10:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
-    "platform": "Google",
-    "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Education Innovation",
-    "summary_ko": "실천의 미래: 교사가 생성 UI를 사용하여 학습 대화형을 만들 수 있도록 지원",
-    "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
-    "image": null,
-    "date": "2026-09-17T20:45:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wiqg8i/ppl_on_this_sub_basically_every_other_hour/",
-    "platform": "Reddit",
-    "title": "Ppl on this sub basically every other hour",
-    "author": {
-      "name": "/u/n0vyLesh",
-      "handle": "/u//u/n0vyLesh",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Ppl on this sub basically every other hour",
-    "summary_ko": "이 서브에 Ppl은 기본적으로 매시간마다",
-    "url": "https://www.reddit.com/r/singularity/comments/1wiqg8i/ppl_on_this_sub_basically_every_other_hour/",
-    "image": "https://preview.redd.it/zvsrtn4d72qh1.jpeg?width=640&crop=smart&auto=webp&s=4f10e0dbf1507459e8950d9736731616b0da7994",
-    "date": "2026-09-17T10:40:20.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/",
-    "platform": "Reddit",
-    "title": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
-    "author": {
-      "name": "/u/Nandakishor_ml",
-      "handle": "/u//u/Nandakishor_ml",
-      "avatar_color": "#ff4500"
-    },
-    "content": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
-    "summary_ko": "나는 문자 그대로 1년 전에 Jev 아키텍처를 구축하고 모델, 데이터 세트 및 종이를 사용하여 완전히 오픈 소스화했습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/",
-    "image": null,
-    "date": "2026-09-17T04:18:15.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wihgum/i_literally_built_the_jev_architecture_one_year/",
-    "platform": "Reddit",
-    "title": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
-    "author": {
-      "name": "/u/Nandakishor_ml",
-      "handle": "/u//u/Nandakishor_ml",
-      "avatar_color": "#ff4500"
-    },
-    "content": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
-    "summary_ko": "나는 문자 그대로 1년 전에 Jev 아키텍처를 구축하고 모델, 데이터 세트 및 종이를 사용하여 완전히 오픈 소스화했습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wihgum/i_literally_built_the_jev_architecture_one_year/",
-    "image": null,
-    "date": "2026-09-17T02:31:04.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4222772/%eb%b3%b4%ec%95%88%ed%8c%80%ec%9e%a5%ec%9d%80-%eb%90%90%eb%8a%94%eb%8d%b0-ciso%eb%8a%94-%ec%99%9c-%ec%95%88-%eb%90%a0%ea%b9%8c%ea%b8%b0%ec%88%a0-%ec%a0%84%eb%ac%b8%ea%b0%80%ea%b0%80.html",
-    "platform": "CIO",
-    "title": "보안팀장은 됐는데, CISO는 왜 안 될까…기술 전문가가 놓치는 것들",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "보안팀장은 됐는데, CISO는 왜 안 될까…기술 전문가가 놓치는 것들",
-    "summary_ko": "사이버보안 전문가라면 누구나 기술 전문성만으로는 더 이상 성장하기 어려운 시점에 이르게 된다. 다음 단계는 관리자나 C레벨 임원으로의 도약일 수 있지만, 그 자리에 오르기 위해서는 지금과는 다른 역량이 필요하다. 기술 역량은 새로운 CISO에게도 여전히 중요한 기반이다. 하지만 그 위에 추가적인 능력을 갖춰야 한다. 제한된 예산 속에서 투자 우선순위를 정하거나, 신제품 출시를 앞두고 보안과 비즈니스 사이의 균형점을 경영진이 판단할 수 있도록 돕는 역할도 포함된다.",
-    "url": "https://www.cio.com/article/4222772/%eb%b3%b4%ec%95%88%ed%8c%80%ec%9e%a5%ec%9d%80-%eb%90%90%eb%8a%94%eb%8d%b0-ciso%eb%8a%94-%ec%99%9c-%ec%95%88-%eb%90%a0%ea%b9%8c%ea%b8%b0%ec%88%a0-%ec%a0%84%eb%ac%b8%ea%b0%80%ea%b0%80.html",
-    "image": null,
-    "date": "2026-09-17T02:15:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4222778/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4%c2%b7%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-crm-%ed%8a%b9%ed%99%94-%ec%b6%94%eb%a1%a0-%eb%aa%a8%eb%8d%b8-%ec%bd%94%ec%95%84-%ec%84%a0%eb%b4%ac.html",
-    "platform": "CIO",
-    "title": "세일즈포스·엔비디아, CRM 특화 추론 모델 ‘코아’ 선봬",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "세일즈포스·엔비디아, CRM 특화 추론 모델 ‘코아’ 선봬",
-    "summary_ko": "세일즈포스가 파트너사 엔비디아와 함께 2026 드림포스 컨퍼런스에서 에이전트포스를 위한 CRM 특화 추론 모델 ‘코아(Koa)’를 공개했다. 세일즈포스 최고 플랫폼 및 엔지니어링 책임자(CPEO)인 로한 쿠마르(Rohan Kumar) 사장은 “코아는 엔비디아의 네모트론(Nemotron)을 기반으로 구축됐으며, 세일즈포스가 27년간 CRM 제품을 개발하며 축적한 노하우를 집약했다”라고 설명했다.",
-    "url": "https://www.cio.com/article/4222778/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4%c2%b7%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-crm-%ed%8a%b9%ed%99%94-%ec%b6%94%eb%a1%a0-%eb%aa%a8%eb%8d%b8-%ec%bd%94%ec%95%84-%ec%84%a0%eb%b4%ac.html",
-    "image": null,
-    "date": "2026-09-17T02:10:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wiealz/left_codex_open_on_my_computer_and_my_girl_really/",
-    "platform": "Reddit",
-    "title": "Left Codex open on my computer and my girl really used ASTRA 6 Ultra for a garlic shrimp recipe",
-    "author": {
-      "name": "/u/Wonderful-Excuse4922",
-      "handle": "/u//u/Wonderful-Excuse4922",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Left Codex open on my computer and my girl really used ASTRA 6 Ultra for a garlic shrimp recipe",
-    "summary_ko": "내 컴퓨터에 Codex를 열어두었고 내 딸은 마늘 새우 요리법에 ASTRA 6 Ultra를 실제로 사용했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wiealz/left_codex_open_on_my_computer_and_my_girl_really/",
-    "image": "https://preview.redd.it/njldlpaq2zph1.png?width=320&crop=smart&auto=webp&s=018980222dc4731e560dc666b7f76a75c80e66a8",
-    "date": "2026-09-17T00:09:14.000Z",
     "likes": 0,
     "comments": 0
   }
