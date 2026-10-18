@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1x9a50t/anthropic_creates_a_public_benefit_fund_pledging/",
+    "platform": "Reddit",
+    "title": "Anthropic creates a public benefit fund, pledging 20% of its shares to the public good, with another 2% potentially added for every 50% increase in its valuation",
+    "author": {
+      "name": "/u/ResultBackground2450",
+      "handle": "/u//u/ResultBackground2450",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Anthropic creates a public benefit fund, pledging 20% of its shares to the public good, with another 2% potentially added for every 50% increase in its valuation",
+    "summary_ko": "Anthropic은 공익 기금을 조성하여 지분의 20%를 공익에 기부하고 가치 평가가 50% 증가할 때마다 추가로 2%를 추가할 수 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x9a50t/anthropic_creates_a_public_benefit_fund_pledging/",
+    "image": "https://external-preview.redd.it/RTI453sNUfzZ9vTZr---e4WdKhSKMF0ZBb2twTEMCb4.jpeg?width=640&crop=smart&auto=webp&s=1f92389d16df013d0a5ee02b83340fd41a215039",
+    "date": "2026-10-18T18:14:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
+    "platform": "Reddit",
+    "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
+    "author": {
+      "name": "/u/chemist_slime",
+      "handle": "/u//u/chemist_slime",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
+    "summary_ko": "47만 달러 상당의 ZOTAC RTX 5090 그래픽 카드 팔레트 2개가 브라질 공항에서 사라졌습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
+    "image": "https://external-preview.redd.it/Pft2o03LsPI0kYXdZtCeSS9_N3TbLTI_I2XWVr1THKo.jpeg?width=640&crop=smart&auto=webp&s=b9785244c37e65c8d88524e1b75af9a81263bc0f",
+    "date": "2026-10-18T12:16:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x8qyc7/researchers_connected_a_simulated_fruit_fly_brain/",
+    "platform": "Reddit",
+    "title": "Researchers connected a simulated fruit fly brain to Odyssey-3, an AI that generates entire virtual worlds. The fly is now navigating these imagined environments completely on its own. A biological brain recreated in software is exploring worlds that have never existed.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Researchers connected a simulated fruit fly brain to Odyssey-3, an AI that generates entire virtual worlds. The fly is now navigating these imagined environments completely on its own. A biological brain recreated in software is exploring worlds that have never existed.",
+    "summary_ko": "연구원들은 시뮬레이션된 초파리 뇌를 전체 가상 세계를 생성하는 AI인 Odyssey-3에 연결했습니다. 파리는 이제 이러한 상상의 환경을 완전히 스스로 탐색하고 있습니다. 소프트웨어로 재현된 생물학적 두뇌는 존재하지 않았던 세계를 탐험하고 있습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x8qyc7/researchers_connected_a_simulated_fruit_fly_brain/",
+    "image": "https://external-preview.redd.it/NGdkNzJ2ZDhyNHdoMU192-EKM8N8DpyZdFngC34tuZC08TR2E2aUl3KUX0iA.png?width=640&crop=smart&auto=webp&s=8dbfdb37a578acd1d8c87765bb9b1ba4287d21f5",
+    "date": "2026-10-18T01:40:05.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x8oxmp/terrence_tao_remarks/",
+    "platform": "Reddit",
+    "title": "Terrence Tao remarks",
+    "author": {
+      "name": "/u/jracine22",
+      "handle": "/u//u/jracine22",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Terrence Tao remarks",
+    "summary_ko": "테렌스 타오 발언",
+    "url": "https://www.reddit.com/r/singularity/comments/1x8oxmp/terrence_tao_remarks/",
+    "image": "https://preview.redd.it/n49gtk2r84wh1.jpeg?width=640&crop=smart&auto=webp&s=8320ddaf18cdde6359f35601c51e2936cdbdbf19",
+    "date": "2026-10-17T23:57:59.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
     "platform": "Reddit",
     "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
@@ -3087,62 +3155,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
     "image": "https://preview.redd.it/my5aue4wvdqh1.jpeg?width=640&crop=smart&auto=webp&s=f978a24cb3dc2d7d5a03edb22e4254bc61db13e1",
     "date": "2026-09-19T01:57:25.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
-    "platform": "Google",
-    "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Algorithms & Theory",
-    "summary_ko": "Mille Miglia: 중간 마일 물류를 위한 현실적인 인스턴스 생성기",
-    "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
-    "image": null,
-    "date": "2026-09-18T17:46:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4223363/%ec%96%91%ec%9e%90%ec%bb%b4%ed%93%a8%ed%8c%85-ai-%ec%97%b0%ec%82%b0-%ec%a0%84%ec%9f%81%ec%97%90-%ec%b0%b8%ec%a0%84gpu-%eb%8c%80%ec%b2%b4-%ec%95%84%eb%8b%8c-%ec%a1%b0%eb%a0%a5%ec%9e%90.html",
-    "platform": "CIO",
-    "title": "양자컴퓨팅, AI 연산 전쟁에 참전…GPU 대체 아닌 ‘조력자’로 온다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "양자컴퓨팅, AI 연산 전쟁에 참전…GPU 대체 아닌 ‘조력자’로 온다",
-    "summary_ko": "양자 컴퓨팅이 기업의 주류 기술로 한 걸음씩 다가오면서 중요한 질문이 떠오르고 있다. 양자 기술이 IT 리더의 AI 활용 방식을 바꿔 놓을 수 있을까? 그동안 양자 컴퓨팅이 기존 암호화 기술에 미칠 위협이 주로 부각돼 왔다. 하지만 전문가들은 양자 칩이 현재 사용되는 GPU와 CPU를 보완함으로써 대규모 AI 워크로드의 컴퓨팅 부담을 일부 줄일 수 있다고 분석한다. 범용 오류 정정 또는 내결함성 양자 컴퓨터를 언제 실제로 이용할 수 있을지는 여전히 논쟁거리다. 다만 일부 양자 컴퓨팅 업체는 향후 2~4년 안에 관련 시스템을 시장에 내놓겠다는 로드맵을 제시하고 있다.",
-    "url": "https://www.cio.com/article/4223363/%ec%96%91%ec%9e%90%ec%bb%b4%ed%93%a8%ed%8c%85-ai-%ec%97%b0%ec%82%b0-%ec%a0%84%ec%9f%81%ec%97%90-%ec%b0%b8%ec%a0%84gpu-%eb%8c%80%ec%b2%b4-%ec%95%84%eb%8b%8c-%ec%a1%b0%eb%a0%a5%ec%9e%90.html",
-    "image": null,
-    "date": "2026-09-18T00:13:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4223323/%ec%b9%bc%eb%9f%bc-%ec%97%ac%eb%9f%ac-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b4%80%eb%a6%ac%ed%95%a0%ea%b9%8c%c2%b7%c2%b7%c2%b7ide-%eb%b0%96.html",
-    "platform": "CIO",
-    "title": "칼럼 | 여러 코딩 에이전트, 어떻게 관리할까···IDE 밖에서 답 찾는 개발자",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 여러 코딩 에이전트, 어떻게 관리할까···IDE 밖에서 답 찾는 개발자",
-    "summary_ko": "아마존·구글·소스그래프 엔지니어였던 스티브 예기(Steve Yegge)는 궁금한 점을 속으로만 품고 있는 사람이 아니다. 다른 개발자가 10~20개, 혹은 그 이상의 코딩 에이전트를 어떻게 관리하는지 궁금해지자 X에 직접 질문을 올렸다. 예기가 구체적으로 찾고 있는 것은 IDE다. 예기는 “나는 이맥스(Emacs)를 쓰지만, 다른 사람에게 권하고 싶지는 않다”라고 밝혔다. 600개를 넘어 계속 늘고 있는 답변에는 다양한 대안이 제시됐다.",
-    "url": "https://www.cio.com/article/4223323/%ec%b9%bc%eb%9f%bc-%ec%97%ac%eb%9f%ac-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b4%80%eb%a6%ac%ed%95%a0%ea%b9%8c%c2%b7%c2%b7%c2%b7ide-%eb%b0%96.html",
-    "image": null,
-    "date": "2026-09-18T00:10:00.000Z",
     "likes": 0,
     "comments": 0
   }
