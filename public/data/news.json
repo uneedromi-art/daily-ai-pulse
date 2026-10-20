@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1xawecs/we_did_it_everybody_close_the_sub/",
+    "platform": "Reddit",
+    "title": "We did it everybody. Close the sub.",
+    "author": {
+      "name": "/u/Oblivion_Man",
+      "handle": "/u//u/Oblivion_Man",
+      "avatar_color": "#ff4500"
+    },
+    "content": "We did it everybody. Close the sub.",
+    "summary_ko": "우리는 모두 해냈습니다. 하위를 닫습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xawecs/we_did_it_everybody_close_the_sub/",
+    "image": "https://preview.redd.it/y516yeqtcnwh1.jpeg?width=640&crop=smart&auto=webp&s=bfbdab619c6922832b0551f7c9ce44c6aa95abaa",
+    "date": "2026-10-20T16:13:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
+    "platform": "Reddit",
+    "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
+    "author": {
+      "name": "/u/feelspeaceman",
+      "handle": "/u//u/feelspeaceman",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
+    "summary_ko": "Deepseek에서 DeepInfer 출시 - DeepSeek 모델을 위한 오픈 소스 고성능, 대규모 추론 프레임워크!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
+    "image": "https://external-preview.redd.it/jfifm2yGG5CPl4MgeE4uruwH6dlytSsZCRu8pHXHpQk.png?width=640&crop=smart&auto=webp&s=eacdaea37e3811ff70eeb18b437fc86369cedd50",
+    "date": "2026-10-20T09:33:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4237602/ai-%ec%98%a4%eb%a5%98%eb%b6%80%ed%84%b0-%ed%98%91%eb%a0%a5%ec%82%ac-%ec%bd%98%ed%85%90%ec%b8%a0%ea%b9%8c%ec%a7%80.html",
+    "platform": "CIO",
+    "title": "AI 오류부터 협력사 콘텐츠까지…메타, 기업 고객 책임 범위 확대",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 오류부터 협력사 콘텐츠까지…메타, 기업 고객 책임 범위 확대",
+    "summary_ko": "메타가 10월 30일 시행할 상업용 약관 개정을 통해 자사 AI 모델의 실수에 대한 책임을 기업 고객에게 넘긴다. 새 약관에 따르면 협력사나 계약업체의 행위까지 해당 기업의 IT 임원이 책임져야 한다. 이번 개정은 robots. txt에도 사실상 종지부를 찍는다. 메타 계정과 관련된 모든 콘텐츠를 수집하고 자체 목적으로 활용할 권한을 메타 스스로 부여하기 때문이다. 여기서 말하는 robots. txt는 웹사이트 운영자가 자동 수집 프로그램의 접근 허용 범위를 명시하는 파일이다.",
+    "url": "https://www.cio.com/article/4237602/ai-%ec%98%a4%eb%a5%98%eb%b6%80%ed%84%b0-%ed%98%91%eb%a0%a5%ec%82%ac-%ec%bd%98%ed%85%90%ec%b8%a0%ea%b9%8c%ec%a7%80.html",
+    "image": null,
+    "date": "2026-10-20T09:12:45.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xana1l/this_mod_received_insane_amount_of_ai_hate_and/",
+    "platform": "Reddit",
+    "title": "This mod received insane amount of AI hate and got taken down",
+    "author": {
+      "name": "/u/ReignMocap",
+      "handle": "/u//u/ReignMocap",
+      "avatar_color": "#ff4500"
+    },
+    "content": "This mod received insane amount of AI hate and got taken down",
+    "summary_ko": "이 모드는 엄청난 양의 AI 증오를 받아 게시 중단되었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xana1l/this_mod_received_insane_amount_of_ai_hate_and/",
+    "image": "https://external-preview.redd.it/NXpvcTlldHY4bHdoMR8CppQiwEd8BN89ChHSEhvdR4cHofRjDp7HVR6uovKd.png?width=640&crop=smart&auto=webp&s=6925a4188d4462e5bb4819b01e1f6ced50cb8d5c",
+    "date": "2026-10-20T09:12:29.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4237569/sap%ec%bd%94%eb%a6%ac%ec%95%84-erp%eb%8a%94-ai%ec%97%90-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b3%b5%ea%b8%89%ed%95%98%eb%8a%94-%ea%b8%b0.html",
+    "platform": "CIO",
+    "title": "SAP코리아 “ERP는 AI에 신뢰할 수 있는 데이터 공급하는 기반”… 중견·중소기업 지원 ‘SAP 넥스트 100’ 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "SAP코리아 “ERP는 AI에 신뢰할 수 있는 데이터 공급하는 기반”… 중견·중소기업 지원 ‘SAP 넥스트 100’ 공개",
+    "summary_ko": "SAP코리아는 10월 20일 기자간담회를 열고 중견·중소기업의 클라우드 ERP 도입을 지원하는 ‘SAP 넥스트 100’ 프로그램과 파트너 협력 전략을 소개했다. 김준영 SAP코리아 부사장은 환영사에서 “성장 초기 단계부터 디지털 기반을 제대로 갖춘 기업일수록 이후의 성장 속도와 경쟁력이 확연히 달랐다”라며 “반대로 빠른 매출 성장을 이루고도 관리 체계가 뒷받침하지 못해 투자 유치나 상장(IPO), 글로벌 진출 단계에서 어려움을 겪는 기업도 많았다”라고 말했다.",
+    "url": "https://www.cio.com/article/4237569/sap%ec%bd%94%eb%a6%ac%ec%95%84-erp%eb%8a%94-ai%ec%97%90-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b3%b5%ea%b8%89%ed%95%98%eb%8a%94-%ea%b8%b0.html",
+    "image": null,
+    "date": "2026-10-20T09:05:46.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4237427/vm%ec%9b%a8%ec%96%b4-%ea%b3%a0%ea%b0%9d-cio-90-%eb%8c%80%ec%95%88-%ea%b2%80%ed%86%a0.html",
+    "platform": "CIO",
+    "title": "VM웨어 고객 CIO 90% “대안 검토”…전환 비용·복잡성이 발목",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "VM웨어 고객 CIO 90% “대안 검토”…전환 비용·복잡성이 발목",
+    "summary_ko": "브로드컴이 VM웨어를 인수한 지 거의 3년이 지났지만, IT 리더들은 가상화 시장의 선두 업체인 VM웨어를 장기적으로 계속 사용할지 여전히 확신하지 못하고 있다. 최근 설문조사에 따르면, 현재 VM웨어를 사용하는 기업의 CIO 가운데 90%가 브로드컴 인수 이후 높아진 라이선스 비용 때문에 VM웨어의 대안을 검토하고 있다. 절반 이상은 브로드컴의 영구 라이선스 지원 종료 결정이 다른 선택지를 평가하는 주요 이유라고 답했다.",
+    "url": "https://www.cio.com/article/4237427/vm%ec%9b%a8%ec%96%b4-%ea%b3%a0%ea%b0%9d-cio-90-%eb%8c%80%ec%95%88-%ea%b2%80%ed%86%a0.html",
+    "image": null,
+    "date": "2026-10-20T04:39:17.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xaernx/2026_fields_medalist_john_pardon_says_ai_now/",
+    "platform": "Reddit",
+    "title": "2026 Fields Medalist John Pardon says AI now understands even his messiest mathematical proofs, catches subtle errors, and proves nontrivial results. “The AI understands. 100%.” Just a year ago, he would have said the opposite. He calls the progress world-changing for mathematics.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "2026 Fields Medalist John Pardon says AI now understands even his messiest mathematical proofs, catches subtle errors, and proves nontrivial results. “The AI understands. 100%.” Just a year ago, he would have said the opposite. He calls the progress world-changing for mathematics.",
+    "summary_ko": "2026년 필즈상 수상자인 존 파든(John Pardon)은 이제 AI가 가장 지저분한 수학적 증명도 이해하고, 미묘한 오류를 잡아내고, 사소한 결과를 증명한다고 말합니다. \"AI는 100% 이해합니다.\" 불과 1년 전만 해도 그는 정반대의 말을 했을 것이다. 그는 수학의 진보가 세상을 변화시킨다고 부릅니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xaernx/2026_fields_medalist_john_pardon_says_ai_now/",
+    "image": "https://preview.redd.it/n1w6dor6wiwh1.jpeg?width=640&crop=smart&auto=webp&s=b4fe3b869e2f64e17b239c2535430279b450434f",
+    "date": "2026-10-20T01:12:46.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1xa73il/rumours_are_floating/",
     "platform": "Reddit",
     "title": "Rumours are floating",
@@ -3087,131 +3212,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1wlzifs/open_ai_robotics_hiring_is_surging_up_and_fast/",
     "image": "https://preview.redd.it/yz12wdcv4sqh1.jpeg?width=640&crop=smart&auto=webp&s=e04e3cbb57d2038db69babf281edcdd5dc609373",
     "date": "2026-09-21T01:52:42.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4224047/%eb%a7%a5%eb%8f%84%eb%82%a0%eb%93%9c-ai%eb%8a%94-%ec%99%9c-%ec%8b%a4%ed%8c%a8%ed%96%88%eb%82%98%c2%b7%c2%b7%c2%b7-%ec%a0%95%ed%99%95%eb%8f%84%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c.html",
-    "platform": "CIO",
-    "title": "맥도날드 AI는 왜 실패했나··· 정확도보다 중요한 ‘멈출 줄 아는 AI’",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "맥도날드 AI는 왜 실패했나··· 정확도보다 중요한 ‘멈출 줄 아는 AI’",
-    "summary_ko": "지난 6월 라스베이거스에서 열린 글로벌 컨벤션에서 맥도날드는 향후 몇 년간의 전략을 공개했다. 발표 내용 가운데는 자체 AI 플랫폼 ‘아치IQ(Arch IQ)’와 주문 접수용 음성 비서 ‘아치(Archy)’도 포함됐다. 아치는 현재 미국 내 일부 드라이브스루 매장에서 제한적으로 테스트되고 있다. 맥도날드는 2024년 여름 이와 유사한 시스템의 운영을 중단했다. 이후 가맹점주들에게 글로벌 자동 주문 시스템 계약을 종료한다고 알렸으며, 후속 단계에 대해서는 별다른 계획을 밝히지 않았다. 당시 프로젝트는 단순한 시험 운영 수준이 아니었다.",
-    "url": "https://www.cio.com/article/4224047/%eb%a7%a5%eb%8f%84%eb%82%a0%eb%93%9c-ai%eb%8a%94-%ec%99%9c-%ec%8b%a4%ed%8c%a8%ed%96%88%eb%82%98%c2%b7%c2%b7%c2%b7-%ec%a0%95%ed%99%95%eb%8f%84%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c.html",
-    "image": null,
-    "date": "2026-09-20T19:15:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4224038/2%eb%85%84-%eb%92%a4-95%ea%b0%80-%ec%93%b4%eb%8b%a4%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%eb%82%a8%eb%93%a4%ea%b3%bc-%eb%98%91%ea%b0%99%ec%9d%b4-%ec%8d%a8%ec%84%a0-%ec%9d%98%eb%af%b8.html",
-    "platform": "CIO",
-    "title": "“2년 뒤 95%가 쓴다”…에이전틱 AI, 남들과 똑같이 써선 의미 없다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“2년 뒤 95%가 쓴다”…에이전틱 AI, 남들과 똑같이 써선 의미 없다",
-    "summary_ko": "2022년 11월 챗GPT 출시는 AI 발전의 중요한 이정표였다. 하지만 기업 혁신이라는 관점에서 보면 앤트로픽이 MCP(Model Context Protocol)를 개방형 표준으로 공개한 2024년 11월이 더 큰 전환점이었을지도 모른다. MCP는 AI의 새로운 시대를 열었다. 이전까지 AI는 주로 질문에 답하는 데 사용됐지만, MCP가 등장하면서 AI 모델이 데이터 소스와 도구에 직접 접근해 사용자를 대신해 업무를 수행할 수 있게 됐다. AI 챗봇이 AI 에이전트로 진화한 것이다.",
-    "url": "https://www.cio.com/article/4224038/2%eb%85%84-%eb%92%a4-95%ea%b0%80-%ec%93%b4%eb%8b%a4%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%eb%82%a8%eb%93%a4%ea%b3%bc-%eb%98%91%ea%b0%99%ec%9d%b4-%ec%8d%a8%ec%84%a0-%ec%9d%98%eb%af%b8.html",
-    "image": null,
-    "date": "2026-09-20T19:13:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4222651/%ec%b9%bc%eb%9f%bc-%ec%a0%84%eb%9e%b5%ec%9d%80-%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%97%90-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%eb%8a%94-%eb%ac%b8%ec%84%9c%ec%97%90%eb%94%b0%eb%a1%9c-%eb%8f%84.html",
-    "platform": "CIO",
-    "title": "칼럼 | 전략은 시스템에, 거버넌스는 문서에…따로 도는 두 트랙 어떻게 합칠까",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 전략은 시스템에, 거버넌스는 문서에…따로 도는 두 트랙 어떻게 합칠까",
-    "summary_ko": "KPMG의 최신 AI 펄스 서베이(AI Pulse Survey)에 따르면 AI 성숙도 곡선에서 가장 큰 변화는 ‘도입 확대(driving adoption)’ 단계에서 나타났다. 이 단계에 속한 조직의 비율은 1분기 13%에서 2분기 22%로 크게 증가했다. 하지만 AI 거버넌스가 원칙 중심에서 실행 중심으로 발전하고 있음에도 불구하고, 역할과 책임, 프로세스가 명확하게 정의되고 효과적으로 관리되고 있다고 답한 조직은 약 3분의 1에 불과했다.",
-    "url": "https://www.cio.com/article/4222651/%ec%b9%bc%eb%9f%bc-%ec%a0%84%eb%9e%b5%ec%9d%80-%ec%8b%9c%ec%8a%a4%ed%85%9c%ec%97%90-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%eb%8a%94-%eb%ac%b8%ec%84%9c%ec%97%90%eb%94%b0%eb%a1%9c-%eb%8f%84.html",
-    "image": null,
-    "date": "2026-09-20T19:10:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wlhhqq/aged_like_milk/",
-    "platform": "Reddit",
-    "title": "Aged like milk",
-    "author": {
-      "name": "/u/Puzzleheaded-King584",
-      "handle": "/u//u/Puzzleheaded-King584",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Aged like milk",
-    "summary_ko": "우유처럼 숙성된",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wlhhqq/aged_like_milk/",
-    "image": "https://preview.redd.it/2gbh8q10joqh1.png?width=640&crop=smart&auto=webp&s=5cf4236ad3ea274f7821293d08add54b07a741c2",
-    "date": "2026-09-20T13:45:02.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/",
-    "platform": "Reddit",
-    "title": "Qwen-Image-2.1 released!",
-    "author": {
-      "name": "/u/ResearchCrafty1804",
-      "handle": "/u//u/ResearchCrafty1804",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Qwen-Image-2.1 released!",
-    "summary_ko": "Qwen-Image-2.1 출시!",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/",
-    "image": "https://preview.redd.it/p1a5g5x9doqh1.jpg?width=140&height=78&auto=webp&s=257099f472f2689a17ca5478f1181b8f4197c39c",
-    "date": "2026-09-20T13:12:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wldnh8/jensen_huang_we_should_go_as_fast_as_we_can/",
-    "platform": "Reddit",
-    "title": "Jensen Huang: \"We should go as fast as we can irrespective of anybody else.\"",
-    "author": {
-      "name": "/u/borowcy",
-      "handle": "/u//u/borowcy",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Jensen Huang: \"We should go as fast as we can irrespective of anybody else.\"",
-    "summary_ko": "Jensen Huang: \"우리는 다른 사람에 상관없이 최대한 빨리 가야 합니다.\"",
-    "url": "https://www.reddit.com/r/singularity/comments/1wldnh8/jensen_huang_we_should_go_as_fast_as_we_can/",
-    "image": null,
-    "date": "2026-09-20T10:36:36.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wla34t/victory_by_any_means/",
-    "platform": "Reddit",
-    "title": "Victory By Any Means",
-    "author": {
-      "name": "/u/Ray_Bayesian",
-      "handle": "/u//u/Ray_Bayesian",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Victory By Any Means",
-    "summary_ko": "수단과 방법을 가리지 않고 승리하라",
-    "url": "https://www.reddit.com/r/singularity/comments/1wla34t/victory_by_any_means/",
-    "image": "https://external-preview.redd.it/aDZ2MWRlb21rbXFoMQWBvLkpQ_KqnzKHJ7OtEghpx6u9At9qNJvYNJv-yTOD.jpeg?width=320&crop=smart&auto=webp&s=82bfd1ac1a695a95488cbefbf9961acf358f80a4",
-    "date": "2026-09-20T07:10:24.000Z",
     "likes": 0,
     "comments": 0
   }
