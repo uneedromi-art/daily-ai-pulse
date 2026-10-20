@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1xa73il/rumours_are_floating/",
+    "platform": "Reddit",
+    "title": "Rumours are floating",
+    "author": {
+      "name": "/u/Tricky_Rule_4565",
+      "handle": "/u//u/Tricky_Rule_4565",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Rumours are floating",
+    "summary_ko": "소문이 떠돌고 있어요",
+    "url": "https://www.reddit.com/r/singularity/comments/1xa73il/rumours_are_floating/",
+    "image": "https://preview.redd.it/u523k10uahwh1.jpeg?width=640&crop=smart&auto=webp&s=dd2b97a2bc7cf53007dc1d6b25ab5a0b9972a3ea",
+    "date": "2026-10-19T19:51:19.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xa0dgj/fields_medalist_richard_borcherds_on_openai/",
+    "platform": "Reddit",
+    "title": "Fields Medalist Richard Borcherds on OpenAI proofs: \"I think what people are getting upset about is they’re slowly realizing that they are dumb and somehow blaming this on AI, even though it’s not really AI’s fault\"",
+    "author": {
+      "name": "/u/asdfologist42",
+      "handle": "/u//u/asdfologist42",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Fields Medalist Richard Borcherds on OpenAI proofs: \"I think what people are getting upset about is they’re slowly realizing that they are dumb and somehow blaming this on AI, even though it’s not really AI’s fault\"",
+    "summary_ko": "OpenAI 증명에 대한 필즈 메달리스트 Richard Borcherds: \"사람들이 화를 내는 것은 자신이 멍청하다는 사실을 천천히 깨닫고 AI의 잘못이 아님에도 불구하고 이를 AI 탓으로 돌리고 있다는 것입니다.\".",
+    "url": "https://www.reddit.com/r/singularity/comments/1xa0dgj/fields_medalist_richard_borcherds_on_openai/",
+    "image": null,
+    "date": "2026-10-19T15:44:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x9rgzl/a_physicist_spent_a_year_of_his_life_and_500/",
+    "platform": "Reddit",
+    "title": "A physicist spent a year of his life and ~500 pages of hand calculations for quantum gravity in his PhD thesis, but Opus 5.5 did it in 10 hours, including the article and GitHub repo. And it even found the errors. What will \"labor\" mean in academia from now on?",
+    "author": {
+      "name": "/u/saln1",
+      "handle": "/u//u/saln1",
+      "avatar_color": "#ff4500"
+    },
+    "content": "A physicist spent a year of his life and ~500 pages of hand calculations for quantum gravity in his PhD thesis, but Opus 5.5 did it in 10 hours, including the article and GitHub repo. And it even found the errors. What will \"labor\" mean in academia from now on?",
+    "summary_ko": "한 물리학자는 박사 학위 논문에서 양자 중력에 대해 인생의 1년과 500페이지에 달하는 수작업 계산을 소비했지만 Opus 5.5는 기사와 GitHub 저장소를 포함하여 10시간 만에 완료했습니다. 그리고 심지어 오류도 발견했습니다. 앞으로 학계에서 '노동'이란 무엇을 의미하는가?",
+    "url": "https://www.reddit.com/r/singularity/comments/1x9rgzl/a_physicist_spent_a_year_of_his_life_and_500/",
+    "image": null,
+    "date": "2026-10-19T08:38:33.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1x9m4gs/six_frontier_ais_competed_to_design_and_3dprint/",
+    "platform": "Reddit",
+    "title": "Six frontier AIs competed to design and 3D-print egg-protecting capsules. Claude Opus 5.5's egg survived a 20-foot drop without a crack. GPT-6 Astra failed at 8 feet, while Gemini 4 Argon, Grok 4.7, Qwen 3.8-Max, and Muse Wonder failed at 4 feet. Claude dominates another real-world engineering chall",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Six frontier AIs competed to design and 3D-print egg-protecting capsules. Claude Opus 5.5's egg survived a 20-foot drop without a crack. GPT-6 Astra failed at 8 feet, while Gemini 4 Argon, Grok 4.7, Qwen 3.8-Max, and Muse Wonder failed at 4 feet. Claude dominates another real-world engineering chall",
+    "summary_ko": "6개의 개척자 AI가 계란 보호 캡슐을 디자인하고 3D 프린팅하기 위해 경쟁했습니다. Claude Opus 5. 5의 알은 20피트 높이의 낙하에도 균열 없이 살아 남았습니다. GPT-6 Astra는 8피트에서 실패했고 Gemini 4 Argon, Grok 4.",
+    "url": "https://www.reddit.com/r/singularity/comments/1x9m4gs/six_frontier_ais_competed_to_design_and_3dprint/",
+    "image": "https://external-preview.redd.it/cDlyMmlqaGlkY3doMQycyeNI8nwpNVAIGaTda4pv5F47Z_s2MNVZ7fw7Y9ez.png?width=320&crop=smart&auto=webp&s=e8e8aa46f1c20ef5f5eccc16f947cae094b5f18f",
+    "date": "2026-10-19T03:17:48.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4236820/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%9c%a0%eb%ac%bc-253%eb%a7%8c-%ec%a0%90%ec%9d%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a1%9c%ea%b5%ad%eb%a6%bd%ec%a4%91%ec%95%99%eb%b0%95%eb%ac%bc%ea%b4%80%ec%9d%b4-a.html",
+    "platform": "CIO",
+    "title": "인터뷰 | 유물 253만 점이 데이터로…국립중앙박물관이 AI 시대를 준비하는 법",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "인터뷰 | 유물 253만 점이 데이터로…국립중앙박물관이 AI 시대를 준비하는 법",
+    "summary_ko": "국립중앙박물관은 ‘K-문화’ 열풍의 한복판에 있다. 지난해 관람객은 650만 명. 전년보다 70% 늘었다. 한국인은 물론 외국인 관람객의 발길이 끊이지 않고, 젊은 층 사이에서는 박물관 굿즈까지 인기다. 성수기에는 개관 전부터 입장을 기다리는 줄이 늘어서는, 그야말로 한국을 대표하는 곳이다. 잘 알려지지 않았지만, 국립중앙박물관이 힘을 쏟고 있는 분야가 디지털 투자다. 보통 박물관의 디지털 부서는 보안과 시스템을 관리하는 지원 조직에 가까웠으나, 국립중앙박물관은 여기서 한발 더 나아가 문화유산의 보존과 활용, 관람객 경험을 위한 AI 과제를 발굴하고 추진 중이다.",
+    "url": "https://www.cio.com/article/4236820/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%9c%a0%eb%ac%bc-253%eb%a7%8c-%ec%a0%90%ec%9d%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a1%9c%ea%b5%ad%eb%a6%bd%ec%a4%91%ec%95%99%eb%b0%95%eb%ac%bc%ea%b4%80%ec%9d%b4-a.html",
+    "image": null,
+    "date": "2026-10-19T01:16:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4236568/ai-%ec%b1%97%eb%b4%87%ec%9c%bc%eb%a1%9c-%eb%b9%84%ec%9a%a9-%ec%95%84%eb%81%bc%eb%a0%a4%eb%8b%a4-%ed%99%98%ea%b0%81%ec%84%b8-%eb%82%bc%eb%9d%bc.html",
+    "platform": "CIO",
+    "title": "AI로 비용 줄이려다 ‘환각세’ 낼라…고객 신뢰 잃지 않는 전략은?",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI로 비용 줄이려다 ‘환각세’ 낼라…고객 신뢰 잃지 않는 전략은?",
+    "summary_ko": "기업이 챗봇과 가상 비서 등 고객 서비스 도구에 AI를 빠르게 접목하고 있다. 하지만 CIO에게는 위험이 따르는 일이다. AI가 고객에게 잘못된 정보를 제공하거나 편향된 추천을 내놓고 데이터를 부적절하게 처리하면, 기업이 공들여 쌓아온 신뢰가 순식간에 무너질 수 있다. 기존 소프트웨어와 달리 생성형 AI는 같은 질문에 항상 같은 답을 내놓지 않는다. 자신감 있고 설득력 있게 들리는 답변도 틀릴 수 있다. 고객이 금융이나 보험, 건강 관련 정보를 얻기 위해 AI에 의존한다면 실수의 파장은 훨씬 커진다.",
+    "url": "https://www.cio.com/article/4236568/ai-%ec%b1%97%eb%b4%87%ec%9c%bc%eb%a1%9c-%eb%b9%84%ec%9a%a9-%ec%95%84%eb%81%bc%eb%a0%a4%eb%8b%a4-%ed%99%98%ea%b0%81%ec%84%b8-%eb%82%bc%eb%9d%bc.html",
+    "image": null,
+    "date": "2026-10-19T01:06:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4236562/%ec%95%84%ec%9d%b4%ec%98%a8%ed%81%90-%ec%97%98%eb%a6%ac%ec%8b%9c%ed%8b%b0-12%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%9d%b8%ec%88%98.html",
+    "platform": "CIO",
+    "title": "아이온큐, 엘리시티 12억 달러 인수…“양자 보안 아닌 고객 명부에 지불한 값”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "아이온큐, 엘리시티 12억 달러 인수…“양자 보안 아닌 고객 명부에 지불한 값”",
+    "summary_ko": "양자컴퓨팅 기업 아이온큐(Ion Q)가 일요일 사이버보안 기업 엘리시티(Elisity)를 12억 달러 규모의 전액 주식 거래로 인수한다고 발표했다. 아이온큐는 머지않아 기업의 양자 사이버보안 수요가 향후 낡은 기술이 될 암호화 체계를 교체하는 수준을 넘어설 것이라는 전망을 내놨다. 아이온큐는 보도자료에서 이번 인수로 자사의 양자내성암호(PQC) 및 양자키분배(QKD) 역량과 엘리시티의 기업용 제로 트러스트 기술 플랫폼을 결합한다고 밝혔다.",
+    "url": "https://www.cio.com/article/4236562/%ec%95%84%ec%9d%b4%ec%98%a8%ed%81%90-%ec%97%98%eb%a6%ac%ec%8b%9c%ed%8b%b0-12%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%9d%b8%ec%88%98.html",
+    "image": null,
+    "date": "2026-10-19T01:04:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1x9a50t/anthropic_creates_a_public_benefit_fund_pledging/",
     "platform": "Reddit",
     "title": "Anthropic creates a public benefit fund, pledging 20% of its shares to the public good, with another 2% potentially added for every 50% increase in its valuation",
@@ -3087,74 +3212,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1wla34t/victory_by_any_means/",
     "image": "https://external-preview.redd.it/aDZ2MWRlb21rbXFoMQWBvLkpQ_KqnzKHJ7OtEghpx6u9At9qNJvYNJv-yTOD.jpeg?width=320&crop=smart&auto=webp&s=82bfd1ac1a695a95488cbefbf9961acf358f80a4",
     "date": "2026-09-20T07:10:24.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wks0ip/ai_is_getting_out_of_hand/",
-    "platform": "Reddit",
-    "title": "AI is getting out of hand.",
-    "author": {
-      "name": "/u/No_Tomatillo1695",
-      "handle": "/u//u/No_Tomatillo1695",
-      "avatar_color": "#ff4500"
-    },
-    "content": "AI is getting out of hand.",
-    "summary_ko": "AI가 통제를 벗어나고 있습니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wks0ip/ai_is_getting_out_of_hand/",
-    "image": "https://external-preview.redd.it/bXI5bGY1dDJoaXFoMeEbNNr8HfPCQgZWmV8kPIerCFnbS8eVNwTNFcGv1uTp.png?width=640&crop=smart&auto=webp&s=9a46fe42a5ea00ddcff640a90085522a69aaa720",
-    "date": "2026-09-19T17:23:37.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wkignw/new_paper_shows_that_ai_has_a_concept_of_pain_and/",
-    "platform": "Reddit",
-    "title": "New paper shows that AI has a concept of pain and actively tries not to get hurt",
-    "author": {
-      "name": "/u/skolnaja",
-      "handle": "/u//u/skolnaja",
-      "avatar_color": "#ff4500"
-    },
-    "content": "New paper shows that AI has a concept of pain and actively tries not to get hurt",
-    "summary_ko": "새로운 논문에 따르면 AI는 고통의 개념을 가지고 있으며 상처받지 않으려고 적극적으로 노력합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wkignw/new_paper_shows_that_ai_has_a_concept_of_pain_and/",
-    "image": "https://preview.redd.it/84oy8fbscgqh1.png?width=640&crop=smart&auto=webp&s=061a3c96dae3519aff7af4c06566e3d53dd3d4f6",
-    "date": "2026-09-19T10:16:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
-    "platform": "Reddit",
-    "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
-    "author": {
-      "name": "/u/giveen",
-      "handle": "/u//u/giveen",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
-    "summary_ko": "알리바바, 암 및 약 150개 질환을 감지할 수 있는 의료 AI 모델 오픈소스 공개",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
-    "image": "https://external-preview.redd.it/pJ-zdMLcj8M8GKW-OaubqnT-8Zuw2WrSQsQawSxoYsg.jpeg?width=640&crop=smart&auto=webp&s=109f94405185b88ec2d70c823990bc859e0c27ec",
-    "date": "2026-09-19T02:08:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
-    "platform": "Reddit",
-    "title": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
-    "author": {
-      "name": "/u/Fusseldieb",
-      "handle": "/u//u/Fusseldieb",
-      "avatar_color": "#ff4500"
-    },
-    "content": "I truly think every major AI lab is purposefully making fear-mongering headlines to get regulations that hurt open-source models",
-    "summary_ko": "저는 모든 주요 AI 연구소가 오픈 소스 모델에 해를 끼치는 규제를 받기 위해 의도적으로 공포를 조장하는 헤드라인을 만들고 있다고 생각합니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully/",
-    "image": "https://preview.redd.it/my5aue4wvdqh1.jpeg?width=640&crop=smart&auto=webp&s=f978a24cb3dc2d7d5a03edb22e4254bc61db13e1",
-    "date": "2026-09-19T01:57:25.000Z",
     "likes": 0,
     "comments": 0
   }
