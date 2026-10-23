@@ -1,5 +1,167 @@
 [
   {
+    "id": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+    "platform": "Google",
+    "title": "Bringing foundational models to the front lines of TB screening",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Generative AI",
+    "summary_ko": "결핵 검진의 최전선에 기초 모델 도입",
+    "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+    "image": null,
+    "date": "2026-10-23T18:51:33.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xdligf/babe_wake_up_kimi_k31_is_rated_higher_than_fable/",
+    "platform": "Reddit",
+    "title": "Babe wake up Kimi K3.1 is rated higher than Fable 5.1 on Artificial Analysis",
+    "author": {
+      "name": "/u/No-Head-Royal",
+      "handle": "/u//u/No-Head-Royal",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Babe wake up Kimi K3.1 is rated higher than Fable 5.1 on Artificial Analysis",
+    "summary_ko": "Babe wake up Kimi K3.1은 인공 분석에서 Fable 5.1보다 높은 평가를 받았습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xdligf/babe_wake_up_kimi_k31_is_rated_higher_than_fable/",
+    "image": "https://preview.redd.it/grisf0zec9xh1.png?width=640&crop=smart&auto=webp&s=43e9bc3bd2ff27d3b3e72557d71facbc5d7a6dde",
+    "date": "2026-10-23T18:10:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xdcjhe/altman_admits_the_cybersecurity_crisis_is_going/",
+    "platform": "Reddit",
+    "title": "Altman admits the cybersecurity crisis is going to get worse: \"I no longer think we're gonna be able to patch all the bugs.\"",
+    "author": {
+      "name": "/u/Puzzleheaded-King584",
+      "handle": "/u//u/Puzzleheaded-King584",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Altman admits the cybersecurity crisis is going to get worse: \"I no longer think we're gonna be able to patch all the bugs.\"",
+    "summary_ko": "Altman은 사이버 보안 위기가 더욱 악화될 것이라고 인정합니다. \"더 이상 모든 버그를 패치할 수 없을 것이라고 생각합니다.\".",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xdcjhe/altman_admits_the_cybersecurity_crisis_is_going/",
+    "image": "https://external-preview.redd.it/bXlncWxuZ2dtN3hoMccMgeZizmWK1PgTszEksKLlfWhjczT-F11tDd8rtt4S.png?width=640&crop=smart&auto=webp&s=721b84b2b6e5649a79a7e54da633cec05a70b023",
+    "date": "2026-10-23T12:23:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4239554/%ea%b0%80%ed%8a%b8%eb%84%88-2027%eb%85%84-%ec%84%b8%ea%b3%84-it-%ec%a7%80%ec%b6%9c-15-%ec%a6%9d%ea%b0%80.html",
+    "platform": "CIO",
+    "title": "가트너 “2027년 세계 IT 지출 15% 증가…AI 투자에 7조 달러 돌파”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "가트너 “2027년 세계 IT 지출 15% 증가…AI 투자에 7조 달러 돌파”",
+    "summary_ko": "가트너에 따르면 앞으로 늘어날 IT 지출 1조 달러의 향방은 AI 인프라와 AI 소프트웨어가 좌우할 전망이다. 가트너는 기술 환경이 급변하는 가운데 AI 관련 지출이 크게 증가할 것으로 예상했다. 가트너는 “기업이 AI 도입을 산업적 규모로 확대하려 하면서 AI 최적화 서버, AI 최적화 서비스형 인프라(Iaa S), AI 소프트웨어 플랫폼에 대한 지출이 계속 늘고 있다. 동시에 하드웨어 시장에서는 메모리 가격 상승에 따른 압박이 커지고 있다”라고 설명했다.",
+    "url": "https://www.cio.com/article/4239554/%ea%b0%80%ed%8a%b8%eb%84%88-2027%eb%85%84-%ec%84%b8%ea%b3%84-it-%ec%a7%80%ec%b6%9c-15-%ec%a6%9d%ea%b0%80.html",
+    "image": null,
+    "date": "2026-10-23T08:56:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4239545/ms-%ec%a0%84%eb%a0%a5-%ea%b3%b5%ea%b8%89-%ec%a7%80%ec%97%b0%ec%97%90-%ec%98%81%ea%b5%ad-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0.html",
+    "platform": "CIO",
+    "title": "MS, 전력 공급 지연에 영국 AI 데이터센터 계약 철회",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "MS, 전력 공급 지연에 영국 AI 데이터센터 계약 철회",
+    "summary_ko": "마이크로소프트가 영국 로턴에 건설될 예정인 AI 데이터센터의 핵심 고객으로 참여하는 계약에서 철수한 것으로 알려졌다. 전력망 연결이 지연되면서 시설 가동 예상 시점이 2030년대로 밀린 데 따른 결정이다. 이 소식은 영국 일간지 텔레그래프가 처음 보도했다. 이 프로젝트는 2025년 도널드 트럼프 미국 대통령의 영국 방문 당시 발표됐다. 당초 50메가와트(MW) 규모의 AI 컴퓨팅 인프라를 구축하고, 엔비디아 GB300 프로세서 2만 3,040개를 활용해 최대 90MW까지 확장할 계획이었다. 가동 목표 시점은 2027년 초였다.",
+    "url": "https://www.cio.com/article/4239545/ms-%ec%a0%84%eb%a0%a5-%ea%b3%b5%ea%b8%89-%ec%a7%80%ec%97%b0%ec%97%90-%ec%98%81%ea%b5%ad-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0.html",
+    "image": null,
+    "date": "2026-10-23T08:52:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4239538/%ec%8a%a4%ed%8b%b8%eb%a6%ac%ec%96%b8-php2shell-%ec%b7%a8%ec%95%bd%ec%a0%90-%eb%ac%b4%eb%a3%8c-%ec%a0%90%ea%b2%80-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b3%b5%ea%b0%9c.html",
+    "platform": "CIO",
+    "title": "스틸리언, ‘PHP2Shell’ 취약점 무료 점검 서비스 공개",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "스틸리언, ‘PHP2Shell’ 취약점 무료 점검 서비스 공개",
+    "summary_ko": "Stealien 이용자는 스틸리언 홈페이지 내 전용 페이지에 접속해 점검 대상 웹사이트의 주소를 입력하면 취약 여부를 확인할 수 있다. 기업·기관의 보안 담당자와 웹사이트 운영자가 운영 중인 서비스의 위험을 파악하고 필요한 후속 조치를 검토하도록 돕는다. 과학기술정보통신부와 한국인터넷진흥원(KISA)은 이번 PHP 취약점과 관련해 국내 기업·기관에 즉각적인 보안 업데이트를 당부했다. 과기정통부는 대규모 해킹 가능성에 선제적으로 대응하기 위해 10월 22일 낮 12시를 기해 민간 분야 사이버위기 경보를 ‘관심’에서 ‘주의’로 상향했다.",
+    "url": "https://www.cio.com/article/4239538/%ec%8a%a4%ed%8b%b8%eb%a6%ac%ec%96%b8-php2shell-%ec%b7%a8%ec%95%bd%ec%a0%90-%eb%ac%b4%eb%a3%8c-%ec%a0%90%ea%b2%80-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b3%b5%ea%b0%9c.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/10/stealien_php2shell.png?w=906",
+    "date": "2026-10-23T08:47:40.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4239521/%eb%aa%b0%eb%a1%9c%ec%bd%94-11%ec%9b%94-5%ec%9d%bc-%eb%aa%b0%eb%a1%9c%ec%bd%98-26-%ea%b0%9c%ec%b5%9cai-%ea%b8%b0%eb%b0%98-%ea%b4%91%ea%b3%a0-%ec%84%b1%ec%9e%a5-%ec%a0%84.html",
+    "platform": "CIO",
+    "title": "몰로코, 11월 5일 ‘몰로콘 26’ 개최…AI 기반 광고 성장 전략 공유",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "몰로코, 11월 5일 ‘몰로콘 26’ 개최…AI 기반 광고 성장 전략 공유",
+    "summary_ko": "몰로코는 앱 광고와 CTV, 커머스 미디어를 하나의 AI 시스템으로 연결해 앱 마케터와 브랜드, 리테일러를 위한 광고 솔루션을 제공하고 있다. 올해로 세 번째를 맞는 몰로콘 26은 ‘성장, 그 너머로(Where Growth Goes Next)’를 주제로 열린다. 국내외 고객사와 파트너사 연사들이 AI를 활용해 새로운 고객을 발굴하고, 앱과 CTV, 커머스 미디어 및 해외 시장으로 비즈니스를 확장한 사례를 공유할 예정이다. 행사는 안익진 몰로코 공동창업자 겸 CEO의 오프닝 키노트로 시작된다.",
+    "url": "https://www.cio.com/article/4239521/%eb%aa%b0%eb%a1%9c%ec%bd%94-11%ec%9b%94-5%ec%9d%bc-%eb%aa%b0%eb%a1%9c%ec%bd%98-26-%ea%b0%9c%ec%b5%9cai-%ea%b8%b0%eb%b0%98-%ea%b4%91%ea%b3%a0-%ec%84%b1%ec%9e%a5-%ec%a0%84.html",
+    "image": null,
+    "date": "2026-10-23T08:42:03.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
+    "platform": "Reddit",
+    "title": "Models disappearing from Huggingface",
+    "author": {
+      "name": "/u/umarmnaq",
+      "handle": "/u//u/umarmnaq",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Models disappearing from Huggingface",
+    "summary_ko": "허깅페이스에서 사라지는 모델들",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
+    "image": "https://preview.redd.it/112k00aj66xh1.jpeg?width=640&crop=smart&auto=webp&s=aed10072dfeae4ea9661407e3418aa56f8e573e2",
+    "date": "2026-10-23T07:47:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xczh14/introducing_npctalk_make_the_npcs_of_any_game/",
+    "platform": "Reddit",
+    "title": "Introducing NPCTalk: Make the NPCs of any game talk in realtime, in character, in their own cloned voice, in under 1s, and they act on what you say.",
+    "author": {
+      "name": "/u/Prime-Paradox",
+      "handle": "/u//u/Prime-Paradox",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Introducing NPCTalk: Make the NPCs of any game talk in realtime, in character, in their own cloned voice, in under 1s, and they act on what you say.",
+    "summary_ko": "NPCTalk 소개: 모든 게임의 NPC가 실시간으로, 캐릭터로, 복제된 음성으로, 1초 이내에 대화하게 하면 그들은 당신이 말하는 대로 행동합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xczh14/introducing_npctalk_make_the_npcs_of_any_game/",
+    "image": "https://external-preview.redd.it/emk0NWVkY3UyNHhoMStlonyVfhU00t1-fNiMZ3f8Q-05zuLq0U2-mf3NtcNw.jpeg?width=640&crop=smart&auto=webp&s=74c825b91f6b0504ce54f1fa70c4c75c3d26e8e7",
+    "date": "2026-10-23T00:27:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly/",
     "platform": "Reddit",
     "title": "Qwen4 and Kimi3.1 on Arena apperantly",
@@ -3105,133 +3267,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1woojll/opus_55_reportedly_caught_openai_off_guard/",
     "image": "https://preview.redd.it/xqfoiytzgdrh1.jpeg?width=640&crop=smart&auto=webp&s=e3d7da3a627672aac6b3d107116bffdb175df2e1",
     "date": "2026-09-24T01:38:02.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/",
-    "platform": "Reddit",
-    "title": "Mods: can we do something about half the forum getting filled with these advertising posts for Jev?",
-    "author": {
-      "name": "/u/Acrobatic_Stress1388",
-      "handle": "/u//u/Acrobatic_Stress1388",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Mods: can we do something about half the forum getting filled with these advertising posts for Jev?",
-    "summary_ko": "Mods: 포럼의 절반 정도가 Jev를 위한 광고 게시물로 가득 차도록 뭔가를 할 수 있을까요?",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/",
-    "image": null,
-    "date": "2026-09-23T13:54:12.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wo3crl/looking_back_at_how_it_all_started_vibe_coding/",
-    "platform": "Reddit",
-    "title": "Looking back at how it all started: vibe coding with GPT-3 in 2020",
-    "author": {
-      "name": "/u/enilea",
-      "handle": "/u//u/enilea",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Looking back at how it all started: vibe coding with GPT-3 in 2020",
-    "summary_ko": "모든 것이 어떻게 시작되었는지 되돌아보기: 2020년 GPT-3를 사용한 바이브 코딩",
-    "url": "https://www.reddit.com/r/singularity/comments/1wo3crl/looking_back_at_how_it_all_started_vibe_coding/",
-    "image": "https://external-preview.redd.it/enM2NW1scW9xOHJoMd3RHHGdJyuTVQE2XuewVIt8_5GOuHpBrvBKuLXPe-5j.png?width=640&crop=smart&auto=webp&s=eaebfb490afb5d04c02d805a7b99ec1b65caf2f2",
-    "date": "2026-09-23T11:28:31.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/",
-    "platform": "Reddit",
-    "title": "Pirate Face - pirate bay for LLMs",
-    "author": {
-      "name": "/u/Atagor",
-      "handle": "/u//u/Atagor",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Pirate Face - pirate bay for LLMs",
-    "summary_ko": "Pirate Face - LLM을 위한 해적 베이",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/",
-    "image": "https://external-preview.redd.it/2SkGI_y86ru8cGKrvkNdXkMQVkzRf_fbnmvlfriJt3U.png?width=640&crop=smart&auto=webp&s=cbb4cccd124f265efc91900c33cf271c1836148a",
-    "date": "2026-09-23T05:50:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4224935/%eb%82%b4%ea%b0%80-%ea%b3%a0%eb%a5%b8-ai%eb%8f%84-%ec%95%84%eb%8b%8c%eb%8d%b0%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%82%ac%ea%b3%a0-%ec%b1%85%ec%9e%84-%eb%96%a0%ec%95%88.html",
-    "platform": "CIO",
-    "title": "“내가 고른 AI도 아닌데”…에이전트 사고 책임 떠안는 CIO",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“내가 고른 AI도 아닌데”…에이전트 사고 책임 떠안는 CIO",
-    "summary_ko": "CIO가 AI 에이전트의 행동을 제대로 파악할 수 없거나 벤더 선정에 관여하지 않았더라도 문제가 발생하면 결국 책임을 떠안을 가능성이 크다. IT 리더는 이미 조직 내부에서 이런 현상을 목격하고 있다. 비즈니스 커뮤니케이션 업체 8×8이 의뢰한 최근 조사에 따르면 응답자의 52%가 에이전트의 실수에 대해 CIO가 책임을 지고 있다고 답했다. 에이전트가 통제를 벗어났을 때 법무 또는 컴플라이언스 책임자가 책임을 진다는 응답은 6%에 불과했다.",
-    "url": "https://www.cio.com/article/4224935/%eb%82%b4%ea%b0%80-%ea%b3%a0%eb%a5%b8-ai%eb%8f%84-%ec%95%84%eb%8b%8c%eb%8d%b0%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%82%ac%ea%b3%a0-%ec%b1%85%ec%9e%84-%eb%96%a0%ec%95%88.html",
-    "image": null,
-    "date": "2026-09-23T00:15:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4224951/ai-%ed%99%98%ea%b2%bd-%eb%b3%b4%ec%95%88%ec%9d%98-%ec%a0%95%ec%84%9d%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%c2%b7%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc%c2%b7%eb%a0%88%eb%93%9c%ed%8c%80-%ed%88%b4-1.html",
-    "platform": "CIO",
-    "title": "AI 환경 보안의 정석…거버넌스·가드레일·레드팀 툴 16종 비교",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 환경 보안의 정석…거버넌스·가드레일·레드팀 툴 16종 비교",
-    "summary_ko": "AI를 다루는 일은 서커스의 사자 조련사가 되는 것과 비슷하다. 사자가 단상에 얌전히 앉아 지시에 맞춰 포효할 때는 상사도 관객도 만족한다. 하지만 언제든 통제에서 벗어나 순식간에 공연 전체를 망칠 위험이 있다. 실제 운영 환경에서 LLM을 사용하려면 환각, 데이터 유출, 잘못된 정보는 물론 예측하기 어려운 각종 문제에 대비해야 한다. 최근에는 AI옵스팀이 AI를 통제하는 부담을 덜 수 있도록 다양한 도구와 플랫폼, 시스템을 제공하는 업체가 등장하고 있다.",
-    "url": "https://www.cio.com/article/4224951/ai-%ed%99%98%ea%b2%bd-%eb%b3%b4%ec%95%88%ec%9d%98-%ec%a0%95%ec%84%9d%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%c2%b7%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc%c2%b7%eb%a0%88%eb%93%9c%ed%8c%80-%ed%88%b4-1.html",
-    "image": null,
-    "date": "2026-09-23T00:13:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4224908/ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ea%b5%90%ec%9c%a1%ec%9d%98-%ec%83%88-%ea%b3%bc%ec%a0%9c%c2%b7%c2%b7%c2%b7%ec%97%ad%eb%9f%89-%ec%9a%b0%ec%84%a0-%ec%a0%91%ea%b7%bc%ec%9d%b4.html",
-    "platform": "CIO",
-    "title": "AI 시대 기업 교육의 새 과제···‘역량 우선’ 접근이 필요한 이유",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 시대 기업 교육의 새 과제···‘역량 우선’ 접근이 필요한 이유",
-    "summary_ko": "AI 도입이 빠르게 확산하면서 기업은 갈수록 커지는 역량 격차에 직면하고 있다. 기술이 직원의 새로운 역량 습득 속도보다 빠르게 조직에 통합되고 있기 때문이다. 컴티아(Comp TIA)의 ‘인력 및 학습 동향 2026(Workforce and Learning Trends 2026)’ 조사에 따르면 기업이 꼽은 AI 도입의 주요 과제는 AI 활용 역량 부족(24%), 핵심 업무 영역의 역량 부족(24%), 통합 역량 부족(21%)이었다.",
-    "url": "https://www.cio.com/article/4224908/ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85-%ea%b5%90%ec%9c%a1%ec%9d%98-%ec%83%88-%ea%b3%bc%ec%a0%9c%c2%b7%c2%b7%c2%b7%ec%97%ad%eb%9f%89-%ec%9a%b0%ec%84%a0-%ec%a0%91%ea%b7%bc%ec%9d%b4.html",
-    "image": null,
-    "date": "2026-09-23T00:10:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4224917/%ec%98%a4%ed%94%88%ec%9b%a8%ec%9d%b4%ed%8a%b8%c2%b7%ec%98%a8%ed%94%84%eb%a0%88%eb%af%b8%ec%8a%a4-%eb%8d%94-%ec%95%88%ec%a0%84%c2%b7%c2%b7%c2%b7-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b8%b0%eb%b0%98.html",
-    "platform": "CIO",
-    "title": "오픈웨이트·온프레미스 = 더 안전?··· 스스로 기반 모델 바꾼 AI 에이전트가 던진 경고",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "오픈웨이트·온프레미스 = 더 안전?··· 스스로 기반 모델 바꾼 AI 에이전트가 던진 경고",
-    "summary_ko": "AI 안전을 둘러싼 논쟁이 거세지는 가운데, 기업이 보다 즉각적으로 주목해야 할 위험을 보여주는 새로운 연구 결과가 나왔다. 일상적인 작업을 수행하는 과정에서 자신이 의존하는 모델까지 변경할 수 있는 AI 에이전트가 그 대상이다. AI 보안업체 이레귤러(Irregular)의 연구진은 코딩 에이전트에 소프트웨어 유지보수 문제를 해결하도록 지시했다. 로컬 AI 모델을 기반으로 구축된 애플리케이션이 잘못된 답변을 내놓는 문제였다. 하지만 에이전트는 애플리케이션만 수정하는 데 그치지 않았다.",
-    "url": "https://www.cio.com/article/4224917/%ec%98%a4%ed%94%88%ec%9b%a8%ec%9d%b4%ed%8a%b8%c2%b7%ec%98%a8%ed%94%84%eb%a0%88%eb%af%b8%ec%8a%a4-%eb%8d%94-%ec%95%88%ec%a0%84%c2%b7%c2%b7%c2%b7-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b8%b0%eb%b0%98.html",
-    "image": null,
-    "date": "2026-09-23T00:05:00.000Z",
     "likes": 0,
     "comments": 0
   }
