@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xedvu1/holy_fucking_shit/",
+    "platform": "Reddit",
+    "title": "holy fucking shit.",
+    "author": {
+      "name": "/u/Puzzleheaded-King584",
+      "handle": "/u//u/Puzzleheaded-King584",
+      "avatar_color": "#ff4500"
+    },
+    "content": "holy fucking shit.",
+    "summary_ko": "이런 젠장.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xedvu1/holy_fucking_shit/",
+    "image": "https://preview.redd.it/ohok2lp65gxh1.png?width=640&crop=smart&auto=webp&s=59035261e704cdee6b22034d300859502b1e30c7",
+    "date": "2026-10-24T17:02:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xe5i3d/altman_i_dont_even_know_a_dramatic_enough_word_to/",
+    "platform": "Reddit",
+    "title": "Altman: \"I don't even know a dramatic enough word to use… models can find bugs that are outside of the normal threat model of what we think a hacker can do… hardware-level, insane stuff… I no longer think we're gonna be able to just patch all the bugs.\"",
+    "author": {
+      "name": "/u/soldierofcinema",
+      "handle": "/u//u/soldierofcinema",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Altman: \"I don't even know a dramatic enough word to use… models can find bugs that are outside of the normal threat model of what we think a hacker can do… hardware-level, insane stuff… I no longer think we're gonna be able to just patch all the bugs.\"",
+    "summary_ko": "Altman: \"저는 사용할 만큼 드라마틱한 단어조차 모릅니다... 모델은 우리가 생각하는 해커가 할 수 있다고 생각하는 일반적인 위협 모델을 벗어난 버그를 찾을 수 있습니다... 하드웨어 수준의 미친 짓... 더 이상 모든 버그를 패치하는 것만으로는 불가능하다고 생각합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xe5i3d/altman_i_dont_even_know_a_dramatic_enough_word_to/",
+    "image": "https://external-preview.redd.it/c2l1Z2ZxbDhhZXhoMRWq4TWJyfiqDwfhscHOgmOrw48_AMcgJXG71EowosqU.png?width=640&crop=smart&auto=webp&s=bb6b23f5f688f6ccee5fba334412defa3f9dc79c",
+    "date": "2026-10-24T10:46:47.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xe02h6/revenue_163b_net_loss_807b_ipo_valuation_2t/",
+    "platform": "Reddit",
+    "title": "Revenue: $16.3B Net loss: $80.7B IPO valuation: $2T",
+    "author": {
+      "name": "/u/VariationLivid3193",
+      "handle": "/u//u/VariationLivid3193",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Revenue: $16.3B Net loss: $80.7B IPO valuation: $2T",
+    "summary_ko": "수익: 163억 달러 순손실: 807억 달러 IPO 평가: 2조 달러",
+    "url": "https://www.reddit.com/r/singularity/comments/1xe02h6/revenue_163b_net_loss_807b_ipo_valuation_2t/",
+    "image": "https://preview.redd.it/ofp41xs3ncxh1.jpeg?width=320&crop=smart&auto=webp&s=901c0ade2b89686ed4a3ed394dc23d76b3f1c7e5",
+    "date": "2026-10-24T05:15:19.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+    "platform": "Reddit",
+    "title": "Hacker reverse engineers his Samsung TV and finds on-device AI listening for your dog and baby, watching what you watch, and borrowing your soundbar's mic if the TV doesn't have one. Then OpenAI banned him for reverse-engineering it.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Hacker reverse engineers his Samsung TV and finds on-device AI listening for your dog and baby, watching what you watch, and borrowing your soundbar's mic if the TV doesn't have one. Then OpenAI banned him for reverse-engineering it.",
+    "summary_ko": "해커는 자신의 삼성 TV를 리버스 엔지니어링하여 개와 아기의 말을 듣고 시청하는 것을 시청하며 TV에 사운드바 마이크가 없는 경우 사운드바의 마이크를 빌려주는 기기 내 AI를 찾습니다. 그런 다음 OpenAI는 리버스 엔지니어링으로 인해 그를 금지했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+    "image": "https://preview.redd.it/afqxzu4n6bxh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=2778a301465ea3da564f1ef5b49e3f30f8e2c7a9",
+    "date": "2026-10-24T00:21:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
     "platform": "Google",
     "title": "Bringing foundational models to the front lines of TB screening",
@@ -3181,92 +3249,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1wpi9b4/person_spent_2000_in_tokens_to_recreate_adobe/",
     "image": null,
     "date": "2026-09-25T00:30:50.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/coherent-long-form-video-generation/",
-    "platform": "Google",
-    "title": "Automating coherent long-form video generation",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Generative AI",
-    "summary_ko": "일관성 있는 긴 형식의 비디오 생성 자동화",
-    "url": "https://research.google/blog/coherent-long-form-video-generation/",
-    "image": null,
-    "date": "2026-09-24T19:40:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wow0m2/new_benchmark_dropped/",
-    "platform": "Reddit",
-    "title": "New benchmark dropped",
-    "author": {
-      "name": "/u/Puzzleheaded-King584",
-      "handle": "/u//u/Puzzleheaded-King584",
-      "avatar_color": "#ff4500"
-    },
-    "content": "New benchmark dropped",
-    "summary_ko": "새로운 벤치마크가 떨어졌습니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wow0m2/new_benchmark_dropped/",
-    "image": "https://preview.redd.it/y0fjn1s6hfrh1.png?width=640&crop=smart&auto=webp&s=d1c7e4b722738f0b426a45a29754c5c8710c6eb9",
-    "date": "2026-09-24T08:23:10.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wousv6/this_interactive_island_was_built_in_8_hours_with/",
-    "platform": "Reddit",
-    "title": "This interactive island was built in 8 hours with Opus 5.5",
-    "author": {
-      "name": "/u/Outside-Iron-8242",
-      "handle": "/u//u/Outside-Iron-8242",
-      "avatar_color": "#ff4500"
-    },
-    "content": "This interactive island was built in 8 hours with Opus 5.5",
-    "summary_ko": "이 대화형 섬은 Opus 5.5를 사용하여 8시간 만에 건설되었습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wousv6/this_interactive_island_was_built_in_8_hours_with/",
-    "image": "https://external-preview.redd.it/NHIwZ256dGEzZnJoMcxUVHQ8YSApzsFePKv95jAeSk_7WsuC0EZmbtvjM5Xu.png?width=640&crop=smart&auto=webp&s=8eafc11613dbfcce59d6411945ea8353317902cf",
-    "date": "2026-09-24T07:07:57.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1worlfs/opus_55_is_insane_at_making_videos/",
-    "platform": "Reddit",
-    "title": "Opus 5.5 is insane at making videos",
-    "author": {
-      "name": "/u/Silver-Chipmunk7744",
-      "handle": "/u//u/Silver-Chipmunk7744",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Opus 5.5 is insane at making videos",
-    "summary_ko": "Opus 5.5는 비디오 제작에 미친 사람입니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1worlfs/opus_55_is_insane_at_making_videos/",
-    "image": "https://external-preview.redd.it/eHp2NHVmbzA3ZXJoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&crop=smart&auto=webp&s=68b804b99b435829893216138517944aa184fc34",
-    "date": "2026-09-24T04:06:52.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1woojll/opus_55_reportedly_caught_openai_off_guard/",
-    "platform": "Reddit",
-    "title": "Opus 5.5 reportedly caught OpenAI off guard, compressing GPT-6.1 Astra’s timeline and indirectly bringing “Bel,” the model that solved Navier–Stokes, closer to release",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Opus 5.5 reportedly caught OpenAI off guard, compressing GPT-6.1 Astra’s timeline and indirectly bringing “Bel,” the model that solved Navier–Stokes, closer to release",
-    "summary_ko": "Opus 5.5는 OpenAI의 허를 찔러 GPT-6.1 Astra의 타임라인을 압축하고 Navier-Stokes를 해결한 모델인 \"Bel\"을 간접적으로 출시에 가까워지게 한 것으로 알려졌습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1woojll/opus_55_reportedly_caught_openai_off_guard/",
-    "image": "https://preview.redd.it/xqfoiytzgdrh1.jpeg?width=640&crop=smart&auto=webp&s=e3d7da3a627672aac6b3d107116bffdb175df2e1",
-    "date": "2026-09-24T01:38:02.000Z",
     "likes": 0,
     "comments": 0
   }
