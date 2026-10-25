@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xf37nf/cloudflare_is_aware_of_more_severe/",
+    "platform": "Reddit",
+    "title": "CloudFlare is aware of more severe vulnerabilities in critical software",
+    "author": {
+      "name": "/u/Puzzleheaded-King584",
+      "handle": "/u//u/Puzzleheaded-King584",
+      "avatar_color": "#ff4500"
+    },
+    "content": "CloudFlare is aware of more severe vulnerabilities in critical software",
+    "summary_ko": "CloudFlare는 중요 소프트웨어의 더 심각한 취약점을 알고 있습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xf37nf/cloudflare_is_aware_of_more_severe/",
+    "image": "https://preview.redd.it/xtf12vvcemxh1.png?width=640&crop=smart&auto=webp&s=9b51a73d2e3f3a17fb688621f25f5d49c3795a6c",
+    "date": "2026-10-25T14:04:14.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xf0brw/ropensource_is_banning_everything_ai_related/",
+    "platform": "Reddit",
+    "title": "r/opensource is banning everything AI related",
+    "author": {
+      "name": "/u/Pyros-SD-Models",
+      "handle": "/u//u/Pyros-SD-Models",
+      "avatar_color": "#ff4500"
+    },
+    "content": "r/opensource is banning everything AI related",
+    "summary_ko": "r/opensource는 AI와 관련된 모든 것을 금지합니다",
+    "url": "https://www.reddit.com/r/singularity/comments/1xf0brw/ropensource_is_banning_everything_ai_related/",
+    "image": "https://preview.redd.it/s12fbwrxplxh1.jpeg?width=640&crop=smart&auto=webp&s=b33a034eb2565dc737431ccf0120ba2b9fc4e264",
+    "date": "2026-10-25T11:48:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xezf6x/uh_oh/",
+    "platform": "Reddit",
+    "title": "Uh oh",
+    "author": {
+      "name": "/u/Puzzleheaded-King584",
+      "handle": "/u//u/Puzzleheaded-King584",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Uh oh",
+    "summary_ko": "어 오",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xezf6x/uh_oh/",
+    "image": "https://preview.redd.it/7vli0gj4hlxh1.png?width=640&crop=smart&auto=webp&s=a5fcd1f5f369fc87aa6284b651941433325e660c",
+    "date": "2026-10-25T10:58:05.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
+    "platform": "Reddit",
+    "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
+    "author": {
+      "name": "/u/kroggens",
+      "handle": "/u//u/kroggens",
+      "avatar_color": "#ff4500"
+    },
+    "content": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
+    "summary_ko": "OpenAI와 Anthropic은 우리를 감시하는 스마트 TV의 리버스 엔지니어링을 차단했습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
+    "image": null,
+    "date": "2026-10-25T02:51:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/OpenAI/comments/1xedvu1/holy_fucking_shit/",
     "platform": "Reddit",
     "title": "holy fucking shit.",
@@ -3181,74 +3249,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1wqbytd/video_models_are_getting_good/",
     "image": "https://external-preview.redd.it/Z29qbGtqam45cnJoMcojh23krgwJHBfUlauMDcBJ8VgdXwhBt-vtQ7kCuMXC.png?width=640&crop=smart&auto=webp&s=82a3a83cc38d108e5ba2f6d53d820e83a9e6c6fc",
     "date": "2026-09-26T00:02:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wq52am/in_just_100_days_ai_crossed_into_real_medical/",
-    "platform": "Reddit",
-    "title": "In just 100 days, AI crossed into real medical work. 37,000 agents searched 55,000 trials for new treatments, an AI-designed pulmonary fibrosis drug entered Phase III, and an autonomous medical agent beat doctors on ER diagnosis, 87.8% to 78.1%",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "In just 100 days, AI crossed into real medical work. 37,000 agents searched 55,000 trials for new treatments, an AI-designed pulmonary fibrosis drug entered Phase III, and an autonomous medical agent beat doctors on ER diagnosis, 87.8% to 78.1%",
-    "summary_ko": "단 100일 만에 AI가 실제 의료 업무에까지 진출했습니다. 37,000명의 에이전트가 새로운 치료법에 대한 55,000건의 임상시험을 검색했고, AI가 설계한 폐섬유증 약물이 3단계에 진입했으며, 자율 의료 에이전트가 ER 진단에서 의사를 87.8%에서 78.1%로 이겼습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wq52am/in_just_100_days_ai_crossed_into_real_medical/",
-    "image": "https://preview.redd.it/q5ppb7kvtprh1.jpeg?width=640&crop=smart&auto=webp&s=128c47bdea37a973e3a08d511a74bc914804374e",
-    "date": "2026-09-25T19:11:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wpxu88/president_xi_apparently_likes_the_idea_of/",
-    "platform": "Reddit",
-    "title": "President Xi apparently likes the idea of renaming AI to \"Superintelligence\"",
-    "author": {
-      "name": "/u/OmegaGogeta",
-      "handle": "/u//u/OmegaGogeta",
-      "avatar_color": "#ff4500"
-    },
-    "content": "President Xi apparently likes the idea of renaming AI to \"Superintelligence\"",
-    "summary_ko": "시진핑 주석은 AI의 이름을 '초지능(Superintelligence)'으로 바꾸는 아이디어를 좋아하는 것으로 보인다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wpxu88/president_xi_apparently_likes_the_idea_of/",
-    "image": "https://preview.redd.it/g8lx2t3zeorh1.png?width=640&crop=smart&auto=webp&s=0b4f443e395f9a8fed0d3e8daa41f036fc423264",
-    "date": "2026-09-25T14:29:36.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wpu7ns/meanwhile_gemini/",
-    "platform": "Reddit",
-    "title": "Meanwhile Gemini",
-    "author": {
-      "name": "/u/theeldergod1",
-      "handle": "/u//u/theeldergod1",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Meanwhile Gemini",
-    "summary_ko": "한편 쌍둥이자리",
-    "url": "https://www.reddit.com/r/singularity/comments/1wpu7ns/meanwhile_gemini/",
-    "image": "https://preview.redd.it/miu8h19omnrh1.png?width=320&crop=smart&auto=webp&s=17d22092b9ca5f834382f7fc36d2d239a2edbe06",
-    "date": "2026-09-25T11:48:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wpi9b4/person_spent_2000_in_tokens_to_recreate_adobe/",
-    "platform": "Reddit",
-    "title": "Person spent $2000 in tokens to recreate Adobe Photoshop and customer count just crossed 20k users with no bad reviews",
-    "author": {
-      "name": "/u/kernelangus420",
-      "handle": "/u//u/kernelangus420",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Person spent $2000 in tokens to recreate Adobe Photoshop and customer count just crossed 20k users with no bad reviews",
-    "summary_ko": "Adobe Photoshop을 재현하기 위해 토큰으로 2,000달러를 지출한 사람이 있었고 나쁜 리뷰 없이 고객 수가 20,000명을 넘어섰습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wpi9b4/person_spent_2000_in_tokens_to_recreate_adobe/",
-    "image": null,
-    "date": "2026-09-25T00:30:50.000Z",
     "likes": 0,
     "comments": 0
   }
