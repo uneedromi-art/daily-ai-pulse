@@ -1,5 +1,111 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1xg4hs6/introducing_gpt61_terra/",
+    "platform": "Reddit",
+    "title": "Introducing GPT-6.1 Terra",
+    "author": {
+      "name": "/u/daddyhughes111",
+      "handle": "/u//u/daddyhughes111",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Introducing GPT-6.1 Terra",
+    "summary_ko": "GPT-6.1 테라 소개",
+    "url": "https://www.reddit.com/r/singularity/comments/1xg4hs6/introducing_gpt61_terra/",
+    "image": "https://external-preview.redd.it/A5RyS1WkYI5c2q8EJSfO8oWQhxaL3GsbZWE7KonWCf0.png?width=640&crop=smart&auto=webp&s=91da0b6d2a92f0f350585da0337919157ac1c107",
+    "date": "2026-10-26T18:09:48.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
+    "platform": "Reddit",
+    "title": "openAI Launches GPT 6.1 TERRA",
+    "author": {
+      "name": "/u/Soggy_Perspective776",
+      "handle": "/u//u/Soggy_Perspective776",
+      "avatar_color": "#ff4500"
+    },
+    "content": "openAI Launches GPT 6.1 TERRA",
+    "summary_ko": "openAI, GPT 6.1 LAND 출시",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
+    "image": "https://preview.redd.it/vrndlgx2ruxh1.png?width=640&crop=smart&auto=webp&s=470f20a28e71b97005aa6e7ba285e0c4af5a1afe",
+    "date": "2026-10-26T18:09:42.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+    "platform": "Reddit",
+    "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+    "author": {
+      "name": "/u/BleynSpecnaz",
+      "handle": "/u//u/BleynSpecnaz",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+    "summary_ko": "8GB VRAM과 32GB RAM이 있습니까? 최대 900t/s PP 및 30t/s TG에서 Qwen 3.8 Flash Next를 실행할 수 있습니다!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+    "image": "https://external-preview.redd.it/cmptczU3N2lmc3hoMWtw9J_RnMb3B54nb6jzdqvNCwiwqdjmt7fw3sp33zAY.png?width=640&crop=smart&auto=webp&s=c271f63f4b5509a387e2217dea484917c89f3c56",
+    "date": "2026-10-26T10:26:48.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4240132/%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ec%95%88-%ed%95%98%eb%a9%b4-%ec%a7%80%ec%9b%90-%ec%a4%91%eb%8b%a8.html",
+    "platform": "CIO",
+    "title": "“업그레이드 안 하면 지원 중단”…벤더 요구에 연 1,290만 달러 쓰는 대기업",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“업그레이드 안 하면 지원 중단”…벤더 요구에 연 1,290만 달러 쓰는 대기업",
+    "summary_ko": "최근 소프트웨어 청구서를 받아 들고 예상보다 큰 금액에 놀란 CIO라면, 비용이 어떻게 이만큼 늘어났는지 따져볼 필요가 있다. 대기업 IT 리더들이 자사라면 선택하지 않았을 업그레이드와 마이그레이션, 라이선스 변경을 벤더의 요구로 추진하면서 막대한 ‘소프트웨어 세금’을 부담하고 있기 때문이다. 소프트웨어 유지보수 기업 오리 지나(Origina)가 의뢰한 설문조사에 따르면, 대기업 소프트웨어 예산의 약 28%, 연평균 약 1,290만 달러가 벤더가 요구하는 작업에 소진되고 있다.",
+    "url": "https://www.cio.com/article/4240132/%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ec%95%88-%ed%95%98%eb%a9%b4-%ec%a7%80%ec%9b%90-%ec%a4%91%eb%8b%a8.html",
+    "image": null,
+    "date": "2026-10-26T06:54:12.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4240123/%ec%b9%bc%eb%9f%bc-%ed%86%a0%ed%81%b0-%eb%8b%a8%ea%b0%80-%ea%b3%b1%ed%95%98%ea%b8%b0-%ec%82%ac%ec%9a%a9%eb%9f%89%ec%9d%b4-ai-%ea%b2%bd%ec%98%81.html",
+    "platform": "CIO",
+    "title": "칼럼 | “토큰 단가 곱하기 사용량”이 AI 경영?…CIO가 설명해야 할 건 따로 있다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | “토큰 단가 곱하기 사용량”이 AI 경영?…CIO가 설명해야 할 건 따로 있다",
+    "summary_ko": "액센추어의 내로라하는 전문가 4명에 따르면, 지금 CIO에게 AI 비용을 산정하고 통제하는 데 필요한 것은 토크노믹스다. 이름부터 매력적인 토크노믹스 말이다. AI 지출을 비즈니스 성과와 연결하자는 취지는 훌륭할 수 있다. 하지만 ‘토크노믹스’는 그렇게 하는 시늉만 할 뿐이다. 비용을 합산하는 것과 비즈니스 성과를 측정하는 것이 같은 일이라고 생각하지 않는다면 말이다. 토크노믹스를 본격적으로 다루기 전에 먼저 배경을 짚어보자. 오랜 역사를 지녔지만 지금은 거의 잊힌 기법인 기능점수 분석(Function Point Analysis, FPA)부터 시작하자.",
+    "url": "https://www.cio.com/article/4240123/%ec%b9%bc%eb%9f%bc-%ed%86%a0%ed%81%b0-%eb%8b%a8%ea%b0%80-%ea%b3%b1%ed%95%98%ea%b8%b0-%ec%82%ac%ec%9a%a9%eb%9f%89%ec%9d%b4-ai-%ea%b2%bd%ec%98%81.html",
+    "image": null,
+    "date": "2026-10-26T03:24:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xfkqa2/openai_and_anthropic_cut_their_llm_prices_by_up/",
+    "platform": "Reddit",
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "author": {
+      "name": "/u/Azer_pubes33",
+      "handle": "/u//u/Azer_pubes33",
+      "avatar_color": "#ff4500"
+    },
+    "content": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "summary_ko": "OpenAI와 Anthropic은 몇 달 안에 LLM 가격을 최대 80%까지 인하했습니다. 왜?",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xfkqa2/openai_and_anthropic_cut_their_llm_prices_by_up/",
+    "image": "https://external-preview.redd.it/NUwlEs0iHCIOU3CHUzwXhOfkd2BXuKN0c_pCV2eCbOY.png?width=640&crop=smart&auto=webp&s=d4a375751ba9b330d51adfff723e85a93eda4bef",
+    "date": "2026-10-26T02:16:40.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/OpenAI/comments/1xf37nf/cloudflare_is_aware_of_more_severe/",
     "platform": "Reddit",
     "title": "CloudFlare is aware of more severe vulnerabilities in critical software",
@@ -3164,91 +3270,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/",
     "image": "https://external-preview.redd.it/mEg2O_gkbiRe-XjMF6AsD4gVf70MSGF_qTwJx3_yLDI.png?width=640&crop=smart&auto=webp&s=eef4eb4d2c1868838e601e89518d0582706adbda",
     "date": "2026-09-27T00:23:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wr5a71/peter_thiel_says_its_good_to_be_evil/",
-    "platform": "Reddit",
-    "title": "Peter Thiel says it's good to be evil",
-    "author": {
-      "name": "/u/king_of_ulkilism",
-      "handle": "/u//u/king_of_ulkilism",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Peter Thiel says it's good to be evil",
-    "summary_ko": "피터 틸은 악한 것도 좋다고 말한다",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wr5a71/peter_thiel_says_its_good_to_be_evil/",
-    "image": "https://external-preview.redd.it/emRnOGpiOHJjeXJoMc3aPCyNVM7lwSZJNip_6LuQtYXZ45OPmwSW5Mc2IQY_.png?width=640&crop=smart&auto=webp&s=58e5ddee3259c5ddb67ec4d6aa849f6a274cc4d1",
-    "date": "2026-09-26T23:51:57.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wqwcqe/gpt6_astra_can_now_control_a_humanoid_robot_in_a/",
-    "platform": "Reddit",
-    "title": "GPT-6 Astra can now control a humanoid robot in a room it has never seen, remember where objects are, clean up across the room, and fetch things later from vague human requests using a G1 Unitree humanoid robot",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GPT-6 Astra can now control a humanoid robot in a room it has never seen, remember where objects are, clean up across the room, and fetch things later from vague human requests using a G1 Unitree humanoid robot",
-    "summary_ko": "GPT-6 Astra는 이제 한 번도 본 적이 없는 방에서 휴머노이드 로봇을 제어하고, 물체가 어디에 있는지 기억하고, 방 전체를 청소하고, 나중에 G1 Unitree 휴머노이드 로봇을 사용하여 모호한 인간 요청에 따라 물건을 가져올 수 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wqwcqe/gpt6_astra_can_now_control_a_humanoid_robot_in_a/",
-    "image": "https://external-preview.redd.it/eGdneWdvZHJnd3JoMaSVlRNBaHwthE-pU2BRD_RA4GRTMy7fHt64QlfCNMQl.jpeg?width=640&crop=smart&auto=webp&s=79b74ec4c8e8356157bd4ad85d484e42980c82f4",
-    "date": "2026-09-26T17:30:42.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wqmxk3/openai_stopped_all_frontier_training_evaluation/",
-    "platform": "Reddit",
-    "title": "OpenAI stopped all frontier training, evaluation, and inference with tool-use (defined broadly) on the 20th of September and they are not resuming any of these activities for now",
-    "author": {
-      "name": "/u/Alex__007",
-      "handle": "/u//u/Alex__007",
-      "avatar_color": "#ff4500"
-    },
-    "content": "OpenAI stopped all frontier training, evaluation, and inference with tool-use (defined broadly) on the 20th of September and they are not resuming any of these activities for now",
-    "summary_ko": "OpenAI는 9월 20일에 도구 사용(광의로 정의됨)에 대한 모든 프론티어 훈련, 평가 및 추론을 중단했으며 현재 이러한 활동을 재개하지 않습니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wqmxk3/openai_stopped_all_frontier_training_evaluation/",
-    "image": null,
-    "date": "2026-09-26T10:15:17.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future/",
-    "platform": "Reddit",
-    "title": "Ling Tiny 3.0 is a glimpse of the future",
-    "author": {
-      "name": "/u/netherreddit",
-      "handle": "/u//u/netherreddit",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Ling Tiny 3.0 is a glimpse of the future",
-    "summary_ko": "Ling Tiny 3.0은 미래를 엿볼 수 있는 제품입니다",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future/",
-    "image": null,
-    "date": "2026-09-26T00:40:52.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wqbytd/video_models_are_getting_good/",
-    "platform": "Reddit",
-    "title": "Video models are getting good",
-    "author": {
-      "name": "/u/we_are_mammals",
-      "handle": "/u//u/we_are_mammals",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Video models are getting good",
-    "summary_ko": "비디오 모델이 점점 좋아지고 있어요",
-    "url": "https://www.reddit.com/r/singularity/comments/1wqbytd/video_models_are_getting_good/",
-    "image": "https://external-preview.redd.it/Z29qbGtqam45cnJoMcojh23krgwJHBfUlauMDcBJ8VgdXwhBt-vtQ7kCuMXC.png?width=640&crop=smart&auto=webp&s=82a3a83cc38d108e5ba2f6d53d820e83a9e6c6fc",
-    "date": "2026-09-26T00:02:38.000Z",
     "likes": 0,
     "comments": 0
   }
