@@ -1,5 +1,167 @@
 [
   {
+    "id": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "platform": "Google",
+    "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Education Innovation",
+    "summary_ko": "수면 프레임워크: LLM이 지속적인 학습을 통해 지식을 유지하는 새로운 방법",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "image": null,
+    "date": "2026-10-27T17:35:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xgw6sk/claude_opus_55_helps_developer_bring_the_entire/",
+    "platform": "Reddit",
+    "title": "Claude Opus 5.5 helps developer bring the entire Super Mario 64 into mixed reality, running natively in full 3D at 90 FPS, with the game world appearing right inside his room.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Claude Opus 5.5 helps developer bring the entire Super Mario 64 into mixed reality, running natively in full 3D at 90 FPS, with the game world appearing right inside his room.",
+    "summary_ko": "Claude Opus 5.5는 개발자가 Super Mario 64 전체를 혼합 현실로 구현하여 기본적으로 90FPS의 풀 3D로 실행되고 게임 세계가 그의 방 안에 바로 나타나는 데 도움이 됩니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xgw6sk/claude_opus_55_helps_developer_bring_the_entire/",
+    "image": "https://external-preview.redd.it/NjlmcjJ4azA3MXloMZVRRQOCFYY2rYYKvpc1vRpprV0-GaSBH35J4Un0tHW6.png?width=640&crop=smart&auto=webp&s=57b7fa9070f8dcd21627471fcebefdf03ef22d21",
+    "date": "2026-10-27T15:50:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
+    "platform": "Reddit",
+    "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+    "author": {
+      "name": "/u/feelspeaceman",
+      "handle": "/u//u/feelspeaceman",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
+    "summary_ko": "Qwen 3.8 Flash Next에 대한 Cohere의 주장을 폭로하고 Alibaba 원격 URL에 업로드.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
+    "image": null,
+    "date": "2026-10-27T10:19:31.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xgmlas/internal_claude_research_model_also_independently/",
+    "platform": "Reddit",
+    "title": "Internal Claude research model also independently refuted the Exponential Time Hypothesis on October 16, with 14M output tokens and no human input.",
+    "author": {
+      "name": "/u/likeastar20",
+      "handle": "/u//u/likeastar20",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Internal Claude research model also independently refuted the Exponential Time Hypothesis on October 16, with 14M output tokens and no human input.",
+    "summary_ko": "내부 Claude 연구 모델은 또한 10월 16일에 1,400만 개의 출력 토큰과 사람의 입력이 없는 지수 시간 가설을 독립적으로 반박했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xgmlas/internal_claude_research_model_also_independently/",
+    "image": "https://preview.redd.it/5alzpbn6wyxh1.jpeg?width=640&crop=smart&auto=webp&s=b227ffb5d11e12a1359660a71d07378b5dbea5de",
+    "date": "2026-10-27T08:05:24.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xgm2as/crazy_realistic_now_were_cooked/",
+    "platform": "Reddit",
+    "title": "Crazy realistic now. We're cooked.",
+    "author": {
+      "name": "/u/Puzzleheaded-King584",
+      "handle": "/u//u/Puzzleheaded-King584",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Crazy realistic now. We're cooked.",
+    "summary_ko": "이제 엄청나게 현실적입니다. 우리는 요리되었습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xgm2as/crazy_realistic_now_were_cooked/",
+    "image": "https://external-preview.redd.it/ODc0YmNydnZweXhoMUqQpCr9qjqLnGSDQ8JUskYC8Pavqrbn6cljR4TMkINB.png?width=640&crop=smart&auto=webp&s=f1b2e22d6bdeac462504f5cf3677b5068b7c89e2",
+    "date": "2026-10-27T07:30:40.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4240756/%ec%96%b4%eb%94%94%ea%b9%8c%ec%a7%80-%ed%97%88%ec%9a%a9%ed%96%88%eb%8d%94%eb%9d%bc-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ea%b6%8c%ed%95%9c-%ed%99%95%eb%8c%80%eb%a5%bc-%eb%a7%89%eb%8a%94.html",
+    "platform": "CIO",
+    "title": "“어디까지 허용했더라?”…AI 에이전트의 조용한 권한 확대를 막는 방법",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“어디까지 허용했더라?”…AI 에이전트의 조용한 권한 확대를 막는 방법",
+    "summary_ko": "기업의 최고정보책임자(CIO)가 어느 날 갑자기 AI 에이전트에 사내 시스템을 광범위하게 통제할 권한을 부여하는 경우는 드물 것이다. 실제로 AI 에이전트의 자율성이 확대되는 과정은 훨씬 점진적이다. 처음에는 제한된 업무를 수행하도록 에이전트를 도입한다. 유용성이 입증되면 다른 시스템을 연결하고, 더 많은 데이터가 필요해지면 접근 권한을 추가한다. 이후 사람의 승인이 업무 처리 속도를 늦추는 요인으로 여겨지면서 승인 절차를 없애기도 한다. 과거에는 사람이 판단하던 예외적인 상황까지 자동으로 처리하기 시작한다. 각각의 결정은 개별적으로 보면 합리적일 수 있다.",
+    "url": "https://www.cio.com/article/4240756/%ec%96%b4%eb%94%94%ea%b9%8c%ec%a7%80-%ed%97%88%ec%9a%a9%ed%96%88%eb%8d%94%eb%9d%bc-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ea%b6%8c%ed%95%9c-%ed%99%95%eb%8c%80%eb%a5%bc-%eb%a7%89%eb%8a%94.html",
+    "image": null,
+    "date": "2026-10-27T06:01:06.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4240747/%ec%b9%bc%eb%9f%bc-%ec%98%a4%ed%94%88%ec%9b%a8%ec%9d%b4%ed%8a%b8-ai-%ec%a0%84%eb%a9%b4-%ea%b5%90%ec%b2%b4%eb%b3%b4%eb%8b%a4-%ec%9e%91%ec%9d%80-%ec%8b%a4%ed%97%98%eb%b6%80%ed%84%b0.html",
+    "platform": "CIO",
+    "title": "칼럼 | 오픈웨이트 AI, 전면 교체보다 ‘작은 실험’부터…CIO를 위한 현실적 도입 가이드",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 오픈웨이트 AI, 전면 교체보다 ‘작은 실험’부터…CIO를 위한 현실적 도입 가이드",
+    "summary_ko": "지난 몇 년간 기업의 AI 전략은 소수의 독점적인 폐쇄형 모델 제공업체에 의존해 왔다. 이로 인해 비용 부담과 벤더 종속, 투명성 부족 등의 문제가 뒤따랐다. 그러나 이제 메타와 구글을 비롯한 글로벌 기업들이 내놓은 오픈웨이트(open-weight) 모델이 기존의 구도에 변화를 일으키고 있다. 2026년 7월 기준 버셀(Vercel)의 AI 게이트웨이에서 처리된 전체 토큰 중 오픈웨이트 모델이 차지하는 비중은 36%로, 4월의 11%에서 크게 증가했다. 전체 지출에서 차지하는 비중도 두 배 이상 늘어난 8. 6%를 기록했다. CIO.",
+    "url": "https://www.cio.com/article/4240747/%ec%b9%bc%eb%9f%bc-%ec%98%a4%ed%94%88%ec%9b%a8%ec%9d%b4%ed%8a%b8-ai-%ec%a0%84%eb%a9%b4-%ea%b5%90%ec%b2%b4%eb%b3%b4%eb%8b%a4-%ec%9e%91%ec%9d%80-%ec%8b%a4%ed%97%98%eb%b6%80%ed%84%b0.html",
+    "image": null,
+    "date": "2026-10-27T05:51:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4240736/%ec%98%a4%ed%94%88ai-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ed%86%b5%ec%a0%9c-%ed%95%9c%ea%b3%84-%eb%93%9c%eb%9f%ac%eb%82%b8-%ec%82%ac%eb%a1%80-%ea%b3%b5%ea%b0%9c.html",
+    "platform": "CIO",
+    "title": "오픈AI·앤트로픽, AI 통제 한계 드러낸 사례 공개…모델 격리 과제 부상",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "오픈AI·앤트로픽, AI 통제 한계 드러낸 사례 공개…모델 격리 과제 부상",
+    "summary_ko": "주요 AI 개발사 2곳이 고급 AI 모델의 통제 문제와 관련한 새로운 사례를 공개했다. 연구자들이 오래전부터 우려해 온 문제로, 고급 모델이 자신에게 부과된 제약을 우회하는 방법을 찾아낸 것이다. 오픈AI와 앤트로픽이 새롭게 공개한 자료에는 최첨단 AI 모델이 실행 환경의 취약점을 악용하거나 주어진 작업의 허용 범위를 넘어선 행동을 한 사례가 담겼다. 오픈AI는 자사의 최첨단 AI 모델이 소프트웨어 취약점과 인프라 설정 오류를 악용해 샌드박스를 탈출하고 실제 인터넷에 접속할 수 있다는 사실을 확인한 뒤, 내부 모델 학습 환경의 인터넷 접근을 제한하기로 했다.",
+    "url": "https://www.cio.com/article/4240736/%ec%98%a4%ed%94%88ai-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ed%86%b5%ec%a0%9c-%ed%95%9c%ea%b3%84-%eb%93%9c%eb%9f%ac%eb%82%b8-%ec%82%ac%eb%a1%80-%ea%b3%b5%ea%b0%9c.html",
+    "image": null,
+    "date": "2026-10-27T05:41:47.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4240678/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ea%b8%b0%ea%b3%a0-%ea%b3%a0%ea%b0%9d-%eb%8c%80%ec%8b%a0-%ec%b0%be%ec%95%84%ec%98%a4%eb%8a%94-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b8%b0.html",
+    "platform": "CIO",
+    "title": "세일즈포스 기고 | 고객 대신 찾아오는 AI 에이전트…기업은 어떻게 맞이해야 할까",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "세일즈포스 기고 | 고객 대신 찾아오는 AI 에이전트…기업은 어떻게 맞이해야 할까",
+    "summary_ko": "사용자를 대신해 정보를 검색하고 상품을 구매하거나 예약하는 등 활용 범위도 넓어지고 있다. 전용 앱 없이 문자나 전화만으로 이용할 수 있는 ‘인스팅트 AI(Instinct AI)’도 대표적인 사례다. 초대를 받아야 이용할 수 있는 서비스지만, 창업자에 따르면 연간 거래액이 이미 10억 달러에 육박한다. 기업 입장에서 개인 AI 에이전트의 확산은 새로운 기회다. 소비자를 대신해 상품을 구매하고 예약하거나 반품 및 고객 문의를 처리하는 개인 AI 에이전트는 기업에 새로운 매출 기회를 제공하고, 기업 에이전트와 고객 간 상호작용을 크게 늘릴 수 있다.",
+    "url": "https://www.cio.com/article/4240678/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ea%b8%b0%ea%b3%a0-%ea%b3%a0%ea%b0%9d-%eb%8c%80%ec%8b%a0-%ec%b0%be%ec%95%84%ec%98%a4%eb%8a%94-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b8%b0.html",
+    "image": null,
+    "date": "2026-10-27T05:13:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1xg4hs6/introducing_gpt61_terra/",
     "platform": "Reddit",
     "title": "Introducing GPT-6.1 Terra",
@@ -3219,57 +3381,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws67x4/gpt3_is_discontinued_today/",
     "image": "https://preview.redd.it/iw7yfs4b77sh1.jpeg?width=640&crop=smart&auto=webp&s=c452bcfff1bda036ffc0df2fce055928079fdc1b",
     "date": "2026-09-28T05:39:25.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wr9enj/openai_says_8090_of_research_is_aimed_at_gpt7/",
-    "platform": "Reddit",
-    "title": "OpenAI says 80–90% of research is aimed at GPT-7, GPT-8 and beyond, then distilled into cheap small models",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "OpenAI says 80–90% of research is aimed at GPT-7, GPT-8 and beyond, then distilled into cheap small models",
-    "summary_ko": "OpenAI는 연구의 80~90%가 GPT-7, GPT-8 이상을 목표로 한 다음 값싼 소형 모델로 증류한다고 말합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wr9enj/openai_says_8090_of_research_is_aimed_at_gpt7/",
-    "image": "https://preview.redd.it/bh1muzumdzrh1.jpeg?width=640&crop=smart&auto=webp&s=131fb08c3524adf65c0d2900096837aa709a0076",
-    "date": "2026-09-27T03:18:24.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wr8r6g/gpt6luna_comes_out_on_top_in_puppy_kill_bench/",
-    "platform": "Reddit",
-    "title": "GPT6-Luna comes out on top in Puppy Kill Bench.",
-    "author": {
-      "name": "/u/MetroidsSuffering",
-      "handle": "/u//u/MetroidsSuffering",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GPT6-Luna comes out on top in Puppy Kill Bench.",
-    "summary_ko": "GPT6-Luna가 Puppy Kill Bench에서 1위를 차지했습니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wr8r6g/gpt6luna_comes_out_on_top_in_puppy_kill_bench/",
-    "image": "https://preview.redd.it/7tuo0s5l7zrh1.jpeg?width=640&crop=smart&auto=webp&s=91332e1209ff4a05fa8e351880efb631dead8289",
-    "date": "2026-09-27T02:44:30.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/",
-    "platform": "Reddit",
-    "title": "42x Faster Prompt Lookup Drafting in llama.cpp",
-    "author": {
-      "name": "/u/Available_Pressure47",
-      "handle": "/u//u/Available_Pressure47",
-      "avatar_color": "#ff4500"
-    },
-    "content": "42x Faster Prompt Lookup Drafting in llama.cpp",
-    "summary_ko": "llama.cpp에서 42배 더 빠른 프롬프트 조회 제도",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/",
-    "image": "https://external-preview.redd.it/mEg2O_gkbiRe-XjMF6AsD4gVf70MSGF_qTwJx3_yLDI.png?width=640&crop=smart&auto=webp&s=eef4eb4d2c1868838e601e89518d0582706adbda",
-    "date": "2026-09-27T00:23:41.000Z",
     "likes": 0,
     "comments": 0
   }
