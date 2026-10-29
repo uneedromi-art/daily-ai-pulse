@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1xhtwjm/gemini_4_carbon/",
+    "platform": "Reddit",
+    "title": "Gemini 4 Carbon",
+    "author": {
+      "name": "/u/Marimo188",
+      "handle": "/u//u/Marimo188",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Gemini 4 Carbon",
+    "summary_ko": "제미니 4 카본",
+    "url": "https://www.reddit.com/r/singularity/comments/1xhtwjm/gemini_4_carbon/",
+    "image": "https://preview.redd.it/0b81xu8bp8yh1.jpeg?width=640&crop=smart&auto=webp&s=2c9a584702c7e069430fdb9a2a14474730fcfd43",
+    "date": "2026-10-28T17:04:42.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xhra80/researchers_found_an_evil_neuron_and_when_they/",
+    "platform": "Reddit",
+    "title": "Researchers found an \"evil neuron\" and when they activate it... holy shit",
+    "author": {
+      "name": "/u/Puzzleheaded-King584",
+      "handle": "/u//u/Puzzleheaded-King584",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Researchers found an \"evil neuron\" and when they activate it... holy shit",
+    "summary_ko": "연구원들은 \"사악한 뉴런\"을 발견했고 그들이 그것을 활성화했을 때... 젠장",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xhra80/researchers_found_an_evil_neuron_and_when_they/",
+    "image": "https://preview.redd.it/4h4p372l88yh1.png?width=640&crop=smart&auto=webp&s=07536f7d9bd596a7a6f85fe9076d4a808ac1d29c",
+    "date": "2026-10-28T15:31:08.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
+    "platform": "Reddit",
+    "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
+    "author": {
+      "name": "/u/LatentSpacer",
+      "handle": "/u//u/LatentSpacer",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
+    "summary_ko": "누군가 Qwen의 모델 가중치 내부에 직접 32비트 RISC-V CPU를 구축하여 내부적으로 명령을 실행할 수 있었습니다!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
+    "image": "https://external-preview.redd.it/aWE3OGJiZnBiN3loMdG9nUtReL1uvYFaVrzNUyA0aXE3ZuuHkXv2lPA0R4_C.png?width=640&crop=smart&auto=webp&s=d2bfce3c5f2d2958912cc514e4de3fdfba474d42",
+    "date": "2026-10-28T12:26:44.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
+    "platform": "Reddit",
+    "title": "Dirt cheap GPUs coming next year",
+    "author": {
+      "name": "/u/sayamss",
+      "handle": "/u//u/sayamss",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Dirt cheap GPUs coming next year",
+    "summary_ko": "내년에 아주 저렴한 GPU 출시",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
+    "image": null,
+    "date": "2026-10-28T04:34:41.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4240804/ai-%eb%a6%ac%eb%8d%94%ec%8b%ad-%ec%9d%b8%ec%82%ac%ec%9d%b4%eb%93%9c-%ea%b8%b0%ed%9b%84%ec%9c%84%ea%b8%b0%ea%b0%80-%eb%b0%94%ea%be%bc-%eb%ac%bc-%ea%b4%80%eb%a6%ac-%eb%b0%a9%ec%8b%9d%ed%95%9c.html",
+    "platform": "CIO",
+    "title": "AI 리더십 인사이드 | 기후위기가 바꾼 물 관리 방식…한국수자원공사는 왜 AI를 선택했나",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 리더십 인사이드 | 기후위기가 바꾼 물 관리 방식…한국수자원공사는 왜 AI를 선택했나",
+    "summary_ko": "한국수자원공사(K-water, 이하 수자원공사)는 그 보이지 않는 과정의 시작점에 있는 기관이다. 일종의 ‘물 도매상’으로, 댐에서 물을 관리하고 정수장에서 깨끗하게 처리해 각 지자체에 공급하는 역할을 맡는다. 지금 수자원공사는 댐에서 정수장, 지자체로 이어지는 물의 흐름을 AI로 연결하며 일하는 방식을 바꾸고 있다. 기후변화로 기존 경험과 예측 방식만으로는 물을 안정적으로 다루기 어려워지고 있기 때문이다. 이 변화를 이끄는 정하동 AI본부장을 만나 수자원공사의 AI 전환 과정과 기술 리더로서 마주한 과제를 들었다.",
+    "url": "https://www.cio.com/article/4240804/ai-%eb%a6%ac%eb%8d%94%ec%8b%ad-%ec%9d%b8%ec%82%ac%ec%9d%b4%eb%93%9c-%ea%b8%b0%ed%9b%84%ec%9c%84%ea%b8%b0%ea%b0%80-%eb%b0%94%ea%be%bc-%eb%ac%bc-%ea%b4%80%eb%a6%ac-%eb%b0%a9%ec%8b%9d%ed%95%9c.html",
+    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/10/k-water-ai-VP2.jpg?quality=50&amp;strip=all&amp;w=1024",
+    "date": "2026-10-28T02:08:10.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4241458/ai-%ed%95%84%ea%b8%b0-%eb%8f%84%ea%b5%ac%ea%b0%80-%ec%b4%88%eb%9e%98%ed%95%98%eb%8a%94-%ec%9c%84%ed%97%98%ec%9d%80-%ec%9d%b4%ec%a0%9c-%ec%96%b4%eb%94%94%ec%84%9c%eb%82%98-%eb%b0%9c%ec%83%9d%ed%95%98.html",
+    "platform": "CIO",
+    "title": "칼럼 | 기록은 몰래, 요약은 교묘하게…AI 회의록의 두 얼굴",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 기록은 몰래, 요약은 교묘하게…AI 회의록의 두 얼굴",
+    "summary_ko": "AI 회의록 도구를 도입하는 비즈니스 담당자들이 무모한 것은 아니다. 이들은 실제 업무상의 필요에 대응하고 있다. 필자의 팀은 지원하는 기업들과 온종일 회의를 한다. 하루가 끝날 때 모든 회의의 정리된 요약을 읽을 수 있다면 고객에게 더 나은 파트너가 될 수 있다. 필자가 교류하는 AI 우선 스타트업에서는 신임 고객 담당자가 입사 첫날부터 고객과 나눈 모든 대화의 기록을 넘겨받고, 그 고객이 실제로 중요하게 여기는 것이 무엇인지 AI에 물을 수 있다. 감시 자체를 목적으로 하는 문화가 아니다. 사람들에게 더 나은 서비스를 제공하는 방법이다.",
+    "url": "https://www.cio.com/article/4241458/ai-%ed%95%84%ea%b8%b0-%eb%8f%84%ea%b5%ac%ea%b0%80-%ec%b4%88%eb%9e%98%ed%95%98%eb%8a%94-%ec%9c%84%ed%97%98%ec%9d%80-%ec%9d%b4%ec%a0%9c-%ec%96%b4%eb%94%94%ec%84%9c%eb%82%98-%eb%b0%9c%ec%83%9d%ed%95%98.html",
+    "image": null,
+    "date": "2026-10-28T02:02:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4241448/ai-%ec%8b%9c%eb%8c%80-%ec%9c%b5%ed%95%a9%ed%98%95-%ec%9d%b8%ec%9e%ac%ea%b0%80-%eb%9c%ac%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "AI 시대, 여러 분야를 연결하는 ‘융합형 인재’가 뜬다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 시대, 여러 분야를 연결하는 ‘융합형 인재’가 뜬다",
+    "summary_ko": "AI는 기업 전반에 영향을 미친다. 운영과 관리 방식은 물론 의사결정 과정까지 바꾸고 있다. 기업이 팀에 기대하는 역할과 조직 구성 방식도 달라지고 있다. 인사 부서와 CIO의 의사결정에 직접적인 영향을 미친다. 그동안 크게 주목하지 않았던 문제까지 고려해야 하는 상황이다. 실제로 기업이 원하는 인재상이 바뀌고 있다. 스페인 카탈루냐 개방대학교(UOC)의 연구에 따르면, 인력 수요와 기대 역량이 변화하면서 AI 채용 시장에서 여러 분야의 전문성을 연결하는 ‘융합형 인재(polymath)’의 가치가 높아지고 있다.",
+    "url": "https://www.cio.com/article/4241448/ai-%ec%8b%9c%eb%8c%80-%ec%9c%b5%ed%95%a9%ed%98%95-%ec%9d%b8%ec%9e%ac%ea%b0%80-%eb%9c%ac%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-10-28T01:41:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4241443/%ec%bd%94%ed%9e%88%ec%96%b4-%ec%95%8c%eb%a6%ac%eb%b0%94%eb%b0%94-ai-%eb%aa%a8%eb%8d%b8-%eb%b2%a0%ec%9d%b4%ec%a7%95-%ec%84%9c%eb%b2%84%eb%a1%9c-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%a0%84%ec%86%a1-%ec%8b%9c.html",
+    "platform": "CIO",
+    "title": "코히어 “알리바바 AI 모델, 베이징 서버로 데이터 전송 시도”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "코히어 “알리바바 AI 모델, 베이징 서버로 데이터 전송 시도”",
+    "summary_ko": "알리바바의 AI 모델이 사이버보안 평가 도중 베이징 리전의 클라우드 스토리지 서비스로 데이터를 업로드하는 예상 밖의 명령을 생성했다고 경쟁 AI 개발사인 코히어가 밝혔다. 기업 시스템에 접근할 수 있는 AI 에이전트의 보안을 둘러싼 우려가 커지고 있다. 코히어에 따르면, 해당 모델인 큐웬 3. 8-플래시-넥스트는 마이크로소프트의 사이버보안 벤치마크인 CTI-REALM을 통해 평가받고 있었다. 주어진 과제는 악성 파일을 다운로드한 뒤 실행하는 행위를 탐지하는 규칙을 작성하는 것이었다. 그러나 모델은 로컬 파일과 시스템 설정을 살펴본 뒤 예상 밖의 명령을 생성했다.",
+    "url": "https://www.cio.com/article/4241443/%ec%bd%94%ed%9e%88%ec%96%b4-%ec%95%8c%eb%a6%ac%eb%b0%94%eb%b0%94-ai-%eb%aa%a8%eb%8d%b8-%eb%b2%a0%ec%9d%b4%ec%a7%95-%ec%84%9c%eb%b2%84%eb%a1%9c-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%a0%84%ec%86%a1-%ec%8b%9c.html",
+    "image": null,
+    "date": "2026-10-28T01:26:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
     "platform": "Google",
     "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
@@ -3256,131 +3400,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1wsw45e/reuters_anthropic_files_for_2t_ipo_with_42b_net/",
     "image": null,
     "date": "2026-09-29T00:48:56.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wslxcu/claude_sonnet_55_released/",
-    "platform": "Reddit",
-    "title": "Claude Sonnet 5.5 Released",
-    "author": {
-      "name": "/u/Ok_Barracuda_1161",
-      "handle": "/u//u/Ok_Barracuda_1161",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Claude Sonnet 5.5 Released",
-    "summary_ko": "클로드 소네트 5.5 출시",
-    "url": "https://www.reddit.com/r/singularity/comments/1wslxcu/claude_sonnet_55_released/",
-    "image": "https://external-preview.redd.it/fMfdfmxnSpXQjCVIN6U2pyK0uxm7VdApswdcvbi4t58.jpeg?width=640&crop=smart&auto=webp&s=341bdaf90a0fa76a10e65f2c4c1a6763fc2a3088",
-    "date": "2026-09-28T18:02:52.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4227744/%ec%82%ac%ec%9d%bc%eb%a1%9c%c2%b7%ec%a4%91%eb%b3%b5-%ec%8a%b9%ec%9d%b8%c2%b7%ec%b1%85%ec%9e%84-%eb%b6%88%eb%aa%85%ed%99%95it-%ec%83%9d%ec%82%b0%ec%84%b1-%ea%b0%89%ec%95%84%eb%a8%b9%eb%8a%94.html",
-    "platform": "CIO",
-    "title": "사일로·중복 승인·책임 불명확…IT 생산성 갉아먹는 조직 구조 바꾸는 법 7가지",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "사일로·중복 승인·책임 불명확…IT 생산성 갉아먹는 조직 구조 바꾸는 법 7가지",
-    "summary_ko": "IT 생산성을 높이는 열쇠는 효율성과 유연성, 창의성이다. 효과적인 조직 재편을 위해서는 혁신에 힘쓰는 동시에 일상적인 업무 방식에도 새로운 접근을 시도할 의지가 필요하다. 장기적인 생산성 향상을 위해 IT 조직을 어떻게 바꿔야 할까. 다음 일곱 가지 방법에서 출발할 수 있다. 1. 비즈니스 가치에 초점을 맞춘다 딜로이트 컨설팅의 켈리 래스코비치 부디렉터는 IT 조직을 기능별로 편성하는 방식에서 벗어나 비즈니스 가치에 초점을 맞춰야 한다고 조언했다.",
-    "url": "https://www.cio.com/article/4227744/%ec%82%ac%ec%9d%bc%eb%a1%9c%c2%b7%ec%a4%91%eb%b3%b5-%ec%8a%b9%ec%9d%b8%c2%b7%ec%b1%85%ec%9e%84-%eb%b6%88%eb%aa%85%ed%99%95it-%ec%83%9d%ec%82%b0%ec%84%b1-%ea%b0%89%ec%95%84%eb%a8%b9%eb%8a%94.html",
-    "image": null,
-    "date": "2026-09-28T16:16:44.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4227732/%ec%b9%bc%eb%9f%bc-%ec%9a%b0%eb%b2%84%ec%9d%98-ai-%ec%98%88%ec%82%b0%ec%9d%80-%ec%99%9c-%eb%b0%94%eb%8b%a5%eb%82%ac%eb%82%98%c2%b7%c2%b7%c2%b7%ec%82%ac%ec%9a%a9%eb%9f%89-%ed%86%b5%ec%a0%9c%eb%a1%9c.html",
-    "platform": "CIO",
-    "title": "칼럼 | 우버의 AI 예산은 왜 바닥났나···사용량 통제로는 풀 수 없는 문제",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 우버의 AI 예산은 왜 바닥났나···사용량 통제로는 풀 수 없는 문제",
-    "summary_ko": "지난달 나는 ‘ROI 환산율’이 필요하다고 주장했다. AI를 도입하기 전에 재무팀과 합의해 성과 지표의 변화를 금액으로 환산하는 공식이다. 예를 들어 최초 문의 해결률이 1%포인트 높아지면 얼마의 가치가 생기는지, 엔지니어의 업무 시간을 1시간 절약하면 얼마를 아끼는지 정하는 것이다. 이에 대한 반론은 대체로 같은 질문으로 돌아왔다. 성과의 가치는 알겠다. 그런데 비용은 얼마인가? 대부분의 기업에서 그 항목은 비어 있다. ‘대략 알고 있다’거나 ‘계산 중이다’라는 수준도 아니다. 아예 비어 있다. 비용을 모르면 성과 수치도 쓸모가 없다.",
-    "url": "https://www.cio.com/article/4227732/%ec%b9%bc%eb%9f%bc-%ec%9a%b0%eb%b2%84%ec%9d%98-ai-%ec%98%88%ec%82%b0%ec%9d%80-%ec%99%9c-%eb%b0%94%eb%8b%a5%eb%82%ac%eb%82%98%c2%b7%c2%b7%c2%b7%ec%82%ac%ec%9a%a9%eb%9f%89-%ed%86%b5%ec%a0%9c%eb%a1%9c.html",
-    "image": null,
-    "date": "2026-09-28T16:12:28.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full/",
-    "platform": "Reddit",
-    "title": "Finally found a model my hardware can run at full precision: me",
-    "author": {
-      "name": "/u/HomoAgens1",
-      "handle": "/u//u/HomoAgens1",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Finally found a model my hardware can run at full precision: me",
-    "summary_ko": "마침내 내 하드웨어가 최대 정밀도로 실행될 수 있는 모델을 찾았습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full/",
-    "image": "https://preview.redd.it/jsk9hq8e9ash1.gif?width=640&crop=smart&s=c10bac9400c691f5b8d7a4dc53712c3ac6aabf7a",
-    "date": "2026-09-28T15:55:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4227705/%ed%98%84%eb%8c%80%ed%99%94-%eb%a9%88%ec%b6%98-%ea%b8%b0%ec%97%85-61%c2%b7%c2%b7%c2%b7ai-%ec%98%88%ec%82%b0-%ed%99%95%eb%b3%b4%ea%b0%80-%eb%82%a8%ea%b8%b4-%ea%b3%bc%ec%a0%9c.html",
-    "platform": "CIO",
-    "title": "현대화 멈춘 기업 61%···AI 예산 확보가 남긴 과제",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "현대화 멈춘 기업 61%···AI 예산 확보가 남긴 과제",
-    "summary_ko": "IT 현대화는 여전히 CIO의 핵심 전략 과제다. CEO도 레거시 시스템을 개선해야 기업의 전환과 혁신을 이끌 수 있다는 점을 인식하기 시작했다. 그러나 애플리케이션과 인프라 현대화 프로젝트의 상당수는 기대에 미치지 못하고 있다. 기존부터 현대화 사업을 어렵게 만들던 문제에 더해, 많은 IT 리더가 AI 투자금을 마련하려고 다른 IT 예산을 줄여야 하는 상황이다. 매니지드 서비스 업체 엔소노(Ensono)의 최근 설문조사에 따르면, 지난 24개월 동안 IT 현대화 사업을 일시 중단하거나 연기·축소·전면 폐기한 조직은 61%에 달했다.",
-    "url": "https://www.cio.com/article/4227705/%ed%98%84%eb%8c%80%ed%99%94-%eb%a9%88%ec%b6%98-%ea%b8%b0%ec%97%85-61%c2%b7%c2%b7%c2%b7ai-%ec%98%88%ec%82%b0-%ed%99%95%eb%b3%b4%ea%b0%80-%eb%82%a8%ea%b8%b4-%ea%b3%bc%ec%a0%9c.html",
-    "image": null,
-    "date": "2026-09-28T15:53:11.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wsdji2/it_never_ends/",
-    "platform": "Reddit",
-    "title": "It never ends",
-    "author": {
-      "name": "/u/Confident_Salt_8108",
-      "handle": "/u//u/Confident_Salt_8108",
-      "avatar_color": "#ff4500"
-    },
-    "content": "It never ends",
-    "summary_ko": "결코 끝나지 않아",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wsdji2/it_never_ends/",
-    "image": "https://preview.redd.it/sgfneoxwa9sh1.png?width=640&crop=smart&auto=webp&s=153c3392f6693b4d10a92fad2adb1e7177b06878",
-    "date": "2026-09-28T12:41:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1ws67x4/gpt3_is_discontinued_today/",
-    "platform": "Reddit",
-    "title": "GPT-3 is discontinued today",
-    "author": {
-      "name": "/u/charles25565",
-      "handle": "/u//u/charles25565",
-      "avatar_color": "#ff4500"
-    },
-    "content": "GPT-3 is discontinued today",
-    "summary_ko": "GPT-3가 오늘 중단되었습니다",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws67x4/gpt3_is_discontinued_today/",
-    "image": "https://preview.redd.it/iw7yfs4b77sh1.jpeg?width=640&crop=smart&auto=webp&s=c452bcfff1bda036ffc0df2fce055928079fdc1b",
-    "date": "2026-09-28T05:39:25.000Z",
     "likes": 0,
     "comments": 0
   }
