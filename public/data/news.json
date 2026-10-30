@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xilser/my_ai_agents_after_i_give_them_full_access_and/",
+    "platform": "Reddit",
+    "title": "my AI agents after I give them full access and tell them to be careful",
+    "author": {
+      "name": "/u/Puzzleheaded-King584",
+      "handle": "/u//u/Puzzleheaded-King584",
+      "avatar_color": "#ff4500"
+    },
+    "content": "my AI agents after I give them full access and tell them to be careful",
+    "summary_ko": "AI 에이전트에게 전체 액세스 권한을 부여하고 조심하라고 지시한 후",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xilser/my_ai_agents_after_i_give_them_full_access_and/",
+    "image": "https://external-preview.redd.it/cjk2eTE2ajI0ZnloMZRSGm_jFywVT1Ltb6K-kkIi9lH3P4HjrGz8P5-vQk-M.png?width=640&crop=smart&auto=webp&s=1fc0f74a4c24dba59d12f9d1e2af8760076a9c6b",
+    "date": "2026-10-29T14:38:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+    "platform": "Reddit",
+    "title": "Mistral Large 4 (Le Chonk) is now open weight",
+    "author": {
+      "name": "/u/Few_Painter_5588",
+      "handle": "/u//u/Few_Painter_5588",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Mistral Large 4 (Le Chonk) is now open weight",
+    "summary_ko": "Mistral Large 4(Le Chonk)는 이제 오픈 웨이트입니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
+    "image": "https://external-preview.redd.it/ufkI5GrlxXnH9TBfIupjOlc3go-lnkd44PLNd0Pdsjs.jpeg?width=640&crop=smart&auto=webp&s=0f9bbd2141c0a5cf024a7f0901b7c4b5254a0683",
+    "date": "2026-10-29T14:11:42.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xih8qk/biotech_about_to_go_vertical/",
+    "platform": "Reddit",
+    "title": "Biotech about to go vertical?",
+    "author": {
+      "name": "/u/petburiraja",
+      "handle": "/u//u/petburiraja",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Biotech about to go vertical?",
+    "summary_ko": "생명공학이 수직 방향으로 나아갈 것인가?",
+    "url": "https://www.reddit.com/r/singularity/comments/1xih8qk/biotech_about_to_go_vertical/",
+    "image": "https://preview.redd.it/tne0x8ny4eyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=c76cd21dca3ec526f05a2e2548dbd8725f2c93c0",
+    "date": "2026-10-29T11:21:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
+    "platform": "Reddit",
+    "title": "Apsara conference: Qwen4 next week",
+    "author": {
+      "name": "/u/rerri",
+      "handle": "/u//u/rerri",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Apsara conference: Qwen4 next week",
+    "summary_ko": "압사라 컨퍼런스: 다음주 Qwen4",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xif6lf/apsara_conference_qwen4_next_week/",
+    "image": "https://preview.redd.it/i8scprfujdyh1.png?width=320&crop=smart&auto=webp&s=2f939610d008ca6317ca9ec0237d349f0edcd099",
+    "date": "2026-10-29T09:25:47.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4241976/%ec%95%84%ec%b9%b4%eb%a7%88%ec%9d%b4-ai-%ec%b6%94%eb%a1%a0%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8b%a4%ed%96%89-%ec%a7%80%ec%9b%90%ed%95%98%eb%8a%94-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
+    "platform": "CIO",
+    "title": "아카마이, AI 추론·에이전트 실행 지원하는 클라우드 서비스 2종 발표",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "아카마이, AI 추론·에이전트 실행 지원하는 클라우드 서비스 2종 발표",
+    "summary_ko": "아카마이는 이번 제품 출시가 자사 AI 인프라 전략을 확장하는 단계라고 설명했다. 사용자와 데이터에 가까운 위치에서 AI 애플리케이션과 에이전트를 실행하고 보호할 수 있도록 글로벌 인프라와 관리형 서비스를 결합했다는 것이다. 두 제품은 아카마이 클라우드의 기존 인프라를 기반으로 제공된다. 아카마이에 따르면 현재까지 확보한 아카마이 클라우드의 다년 계약 규모는 140억 달러를 넘어섰다. 아카마이는 글로벌 네트워크를 통해 CPU와 GPU 컴퓨팅 자원은 물론 클라우드 스토리지, 네트워킹, 엣지 기능을 통합 제공하고 있다.",
+    "url": "https://www.cio.com/article/4241976/%ec%95%84%ec%b9%b4%eb%a7%88%ec%9d%b4-ai-%ec%b6%94%eb%a1%a0%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8b%a4%ed%96%89-%ec%a7%80%ec%9b%90%ed%95%98%eb%8a%94-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c.html",
+    "image": null,
+    "date": "2026-10-29T07:26:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4241967/cio%eb%93%a4%ec%9d%80-%eb%af%b8%eb%9e%98%eb%a5%bc-%eb%8c%80%eb%b9%84%ed%95%b4-%ec%97%ad%ed%95%a0-%ec%97%ad%eb%9f%89-%ea%b5%90%ec%9c%a1-%eb%b0%8f-%ec%9d%b8%ec%9e%ac-%eb%aa%a8%eb%8d%b8%ec%9d%84.html",
+    "platform": "CIO",
+    "title": "“스크럼 팀이 2명으로 줄어든다”···AI가 바꾸는 IT 조직의 미래",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“스크럼 팀이 2명으로 줄어든다”···AI가 바꾸는 IT 조직의 미래",
+    "summary_ko": "오랫동안 IT 리더로 일해 온 맷 아우스먼(Matt Ausman)은 미래에는 개발자들이 처리해야 할 업무 목록인 백로그(Backlog)가 사라질 수도 있다고 전망한다. AI를 활용하면 새로운 기능을 떠올리는 즉시 구현할 수 있게 될 것이라는 이유에서다. 기업용 기술 솔루션 업체 지브라 테크놀로지스(Zebra Technologies)의 수석부사장 겸 CIO인 아우스먼은 “개발 역량에 사실상 한계가 없어지면서 백로그도 사라질 것”이라고 말했다. 다만 그는 소프트웨어가 빠르게 바뀌는 환경에서 현업 직원들이 필요한 교육을 따라갈 수 있을지 의문을 제기했다.",
+    "url": "https://www.cio.com/article/4241967/cio%eb%93%a4%ec%9d%80-%eb%af%b8%eb%9e%98%eb%a5%bc-%eb%8c%80%eb%b9%84%ed%95%b4-%ec%97%ad%ed%95%a0-%ec%97%ad%eb%9f%89-%ea%b5%90%ec%9c%a1-%eb%b0%8f-%ec%9d%b8%ec%9e%ac-%eb%aa%a8%eb%8d%b8%ec%9d%84.html",
+    "image": null,
+    "date": "2026-10-29T07:05:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4241962/%ec%b1%97gpt-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%82%ac%ec%b9%ad-%ec%b1%84%ea%b5%b4-%ec%95%85%ec%84%b1%ec%bd%94%eb%93%9c.html",
+    "platform": "CIO",
+    "title": "챗GPT·클로드인 줄 알았는데 채굴 악성코드…기업 AI 도구 관리에 경고등",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "챗GPT·클로드인 줄 알았는데 채굴 악성코드…기업 AI 도구 관리에 경고등",
+    "summary_ko": "체크포인트 리서치에 따르면, 공격자들이 가짜 챗GPT와 클로드 데스크톱 애플리케이션을 통해 악성코드를 유포하고 있다. 오픈AI와 앤트로픽이 디지털 서명한 정상 실행 파일을 이용해 피해자의 윈도우 시스템에서 악성코드를 실행하는 방식이다. ‘요바’(Yoba)로 명명된 이 공격 캠페인은 가짜 깃허브 저장소와 웹사이트를 활용한다. 이들 사이트는 ‘GPT-5. 6 Sol’, ‘GPT-6 Astra’, ‘Claude Opus’ 등을 AI 애플리케이션인 것처럼 홍보한다.",
+    "url": "https://www.cio.com/article/4241962/%ec%b1%97gpt-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%82%ac%ec%b9%ad-%ec%b1%84%ea%b5%b4-%ec%95%85%ec%84%b1%ec%bd%94%eb%93%9c.html",
+    "image": null,
+    "date": "2026-10-29T06:58:19.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1xhtwjm/gemini_4_carbon/",
     "platform": "Reddit",
     "title": "Gemini 4 Carbon",
@@ -3238,168 +3363,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1wtr02p/ai_is_starting_to_do_science_from_first/",
     "image": "https://preview.redd.it/stgitqrizjsh1.jpeg?width=640&crop=smart&auto=webp&s=a0b7f18853a17d4afdac20e2a6d18dcaf1fe7c59",
     "date": "2026-09-30T00:36:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wtiubh/someone_using_opus_55_ports_the_entire_game_of/",
-    "platform": "Reddit",
-    "title": "Someone using Opus 5.5 ports the entire game of Minecraft into Elden Ring, running on Mac",
-    "author": {
-      "name": "/u/Temporary_Idea8880",
-      "handle": "/u//u/Temporary_Idea8880",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Someone using Opus 5.5 ports the entire game of Minecraft into Elden Ring, running on Mac",
-    "summary_ko": "Opus 5.5를 사용하는 사람은 Minecraft의 전체 게임을 Mac에서 실행되는 Elden Ring으로 포팅합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wtiubh/someone_using_opus_55_ports_the_entire_game_of/",
-    "image": "https://external-preview.redd.it/cHQ2eTFhZTliaXNoMddrFC9DKgJyPoRyDx4nDCrX5BMVMDwIo1Q5O8FvTXIn.jpeg?width=640&crop=smart&auto=webp&s=cd7afc6048ebcfe26259a270da7c33a0a98c41c9",
-    "date": "2026-09-29T18:59:17.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-    "platform": "Google",
-    "title": "How Diffusion Controller unifies and simplifies AI image generation",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Algorithms & Theory",
-    "summary_ko": "Diffusion Controller가 AI 이미지 생성을 통합하고 단순화하는 방법",
-    "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-    "image": null,
-    "date": "2026-09-29T18:38:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
-    "platform": "Reddit",
-    "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
-    "author": {
-      "name": "/u/BannedGoNext",
-      "handle": "/u//u/BannedGoNext",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anthropic just dropped the greatest advertisement for GLM ever.",
-    "summary_ko": "Anthropic은 방금 GLM에 대한 가장 큰 광고를 중단했습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
-    "image": "https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&crop=smart&auto=webp&s=3ee66c64f45d8b66dc3163d3dd6898176780fc61",
-    "date": "2026-09-29T17:55:48.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wt8z16/stopped_getting_caught/",
-    "platform": "Reddit",
-    "title": "Stopped getting caught",
-    "author": {
-      "name": "/u/Confident_Salt_8108",
-      "handle": "/u//u/Confident_Salt_8108",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Stopped getting caught",
-    "summary_ko": "잡히는 걸 멈췄어",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wt8z16/stopped_getting_caught/",
-    "image": "https://preview.redd.it/81qh3qv1fgsh1.png?width=640&crop=smart&auto=webp&s=ce6e7ac9055a7137b520af07bf0d36b68e298ba0",
-    "date": "2026-09-29T12:37:08.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4227949/ai-%ed%95%99%ec%8a%b5%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%84-ai%ea%b0%80-%ec%b0%be%eb%8a%94%eb%8b%a4%c2%b7%c2%b7%c2%b7-%eb%8b%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%eb%8d%b0.html",
-    "platform": "CIO",
-    "title": "AI 학습에 필요한 데이터도 AI가 찾는다··· 달라지는 데이터 생애주기 관리",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 학습에 필요한 데이터도 AI가 찾는다··· 달라지는 데이터 생애주기 관리",
-    "summary_ko": "데이터는 AI의 연료다. 생성형 AI와 에이전트 AI, 머신러닝 시스템의 성능은 입력받는 정보의 품질에 달려 있다. 데이터의 생성, 저장, 활용, 보관, 폐기에 이르는 전 과정에서 CIO와 비즈니스 리더는 정보가 AI 서비스에 어떻게 제공되는지 살펴야 한다. 가트너에 따르면 조직의 약 3분의 2는 현재의 데이터 관리 방식이 AI에 적합한지 확신하지 못한다. 가트너는 데이터 준비 부족으로 올해 말까지 AI 프로젝트의 60%가 중단될 것으로 전망했다. 이런 상황에서는 경쟁 우위가 될 수 있었던 AI가 혁신의 막다른 길이 될 수 있다.",
-    "url": "https://www.cio.com/article/4227949/ai-%ed%95%99%ec%8a%b5%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%84-ai%ea%b0%80-%ec%b0%be%eb%8a%94%eb%8b%a4%c2%b7%c2%b7%c2%b7-%eb%8b%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%eb%8d%b0.html",
-    "image": null,
-    "date": "2026-09-29T02:42:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4227944/%ec%82%bc%ec%84%b1-%ea%b4%80%ea%b3%84%ec%82%ac-6%ea%b3%b3-aws-%ec%a0%84-ceo%ea%b0%80-%ec%9d%b4%eb%81%84%eb%8a%94-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b8%b0%ec%97%85%ec%97%90-10%ec%96%b5-%eb%8b%ac.html",
-    "platform": "CIO",
-    "title": "삼성 관계사 6곳, AWS 전 CEO가 이끄는 AI 인프라 기업에 10억 달러 투자",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "삼성 관계사 6곳, AWS 전 CEO가 이끄는 AI 인프라 기업에 10억 달러 투자",
-    "summary_ko": "2026년 6월 출범한 헬릭스는 하이퍼스케일 데이터센터의 개발·운영부터 발전, 송배전, 광통신망과 네트워크까지 AI 인프라를 통합 제공하는 기업이다. 하이퍼스케일러가 늘어나는 AI 수요에 맞춰 데이터센터와 전력 등 필요한 인프라를 신속하고 대규모로 확보하도록 지원한다. 헬릭스는 아마존웹서비스(AWS) 전 CEO인 아담 셀립스키가 이끌고 있다. 데이터센터와 전력 분야 전문가들로 경영진을 구성했으며, KKR의 인프라 전문인력 약 170명의 역량도 활용할 수 있다.",
-    "url": "https://www.cio.com/article/4227944/%ec%82%bc%ec%84%b1-%ea%b4%80%ea%b3%84%ec%82%ac-6%ea%b3%b3-aws-%ec%a0%84-ceo%ea%b0%80-%ec%9d%b4%eb%81%84%eb%8a%94-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b8%b0%ec%97%85%ec%97%90-10%ec%96%b5-%eb%8b%ac.html",
-    "image": null,
-    "date": "2026-09-29T02:25:30.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4227930/%ec%b9%bc%eb%9f%bc-saas-%ec%a2%85%eb%a7%90%eb%a1%a0%ec%97%90%eb%8f%84-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ec%a7%80%ec%b6%9c%ec%9d%80-%ec%a4%84%ec%a7%80-%ec%95%8a%eb%8a%94%eb%8b%a4.html",
-    "platform": "CIO",
-    "title": "칼럼 | SaaS 종말론에도 소프트웨어 지출은 줄지 않는다",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | SaaS 종말론에도 소프트웨어 지출은 줄지 않는다",
-    "summary_ko": "올해 기업의 소프트웨어 예산은 줄지 않았다. 관련 보도만 보면 마치 감소한 것처럼 느껴질 뿐이다. 기업 이사회는 여전히 꾸준히 새로운 도구에 대한 지출을 승인하고 있다. 가트너의 최신 전망에 따르면 2026년 전 세계 소프트웨어 지출은 전년 대비 15% 이상 증가한 1조4,300억 달러에 이를 전망이다. 달라진 것은 기업이 그 가치를 얻기 위해 어디까지 감수할 의향이 있느냐다. 이 차이를 이해하지 못하는 Saa S 업체라면 다음 계약 갱신 시즌이 상당히 힘들어질 수 있다. 일각에서는 이를 ‘Saa S 종말(Saa Spocalypse)’이라고 부른다.",
-    "url": "https://www.cio.com/article/4227930/%ec%b9%bc%eb%9f%bc-saas-%ec%a2%85%eb%a7%90%eb%a1%a0%ec%97%90%eb%8f%84-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ec%a7%80%ec%b6%9c%ec%9d%80-%ec%a4%84%ec%a7%80-%ec%95%8a%eb%8a%94%eb%8b%a4.html",
-    "image": null,
-    "date": "2026-09-29T02:10:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4227924/%ea%b0%80%ed%8a%b8%eb%84%88-2026%eb%85%84-%ec%a0%84-%ec%84%b8%ea%b3%84-ai-%ec%a7%80%ec%b6%9c-49-5-%ec%a6%9d%ea%b0%80.html",
-    "platform": "CIO",
-    "title": "가트너 “2026년 전 세계 AI 지출 49.5% 증가”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "가트너 “2026년 전 세계 AI 지출 49.5% 증가”",
-    "summary_ko": "가트너의 최신 분기별 IT 지출 전망에 따르면, 전 세계 AI 지출은 2026년 49. 5% 증가한 2조 7,000억 달러(약 3,670조 원)에 이를 것으로 예상된다. 2027년에도 AI 활용 확대에 힘입어 36. 2% 성장할 전망이다. 다만 AI 투자를 위해 다른 IT 분야의 예산을 돌려 쓴 것은 아니라고 가트너의 수석 부사장 겸 애널리스트 존 데이비드 러브록은 설명했다. CIO들은 2024년에 AI를 위한 신규 예산을 일부 확보했고, 2025년에도 소폭 추가 예산을 받았다는 것이다. 러브록은 “기존 예산을 전용한 것은 아니다.",
-    "url": "https://www.cio.com/article/4227924/%ea%b0%80%ed%8a%b8%eb%84%88-2026%eb%85%84-%ec%a0%84-%ec%84%b8%ea%b3%84-ai-%ec%a7%80%ec%b6%9c-49-5-%ec%a6%9d%ea%b0%80.html",
-    "image": null,
-    "date": "2026-09-29T01:45:20.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wsw45e/reuters_anthropic_files_for_2t_ipo_with_42b_net/",
-    "platform": "Reddit",
-    "title": "Reuters: Anthropic files for $2T IPO with $42B net loss in 2025, expects to spend half a trillion in 2027",
-    "author": {
-      "name": "/u/intergalacticskyline",
-      "handle": "/u//u/intergalacticskyline",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Reuters: Anthropic files for $2T IPO with $42B net loss in 2025, expects to spend half a trillion in 2027",
-    "summary_ko": "Reuters: Anthropic은 2025년 순 손실 420억 달러, 2조 달러 IPO 신청, 2027년에는 5000억 달러를 지출할 것으로 예상.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wsw45e/reuters_anthropic_files_for_2t_ipo_with_42b_net/",
-    "image": null,
-    "date": "2026-09-29T00:48:56.000Z",
     "likes": 0,
     "comments": 0
   }
