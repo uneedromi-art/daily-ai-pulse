@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1xkbjrz/every_time_i_visit_the_antiai_sub_wall_street/",
+    "platform": "Reddit",
+    "title": "Every time I visit the antiai sub [wall street apes edition]",
+    "author": {
+      "name": "/u/RollingMeteors",
+      "handle": "/u//u/RollingMeteors",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Every time I visit the antiai sub [wall street apes edition]",
+    "summary_ko": "안티아이 서브 [월스트리트 유인원 에디션]을 방문할 때마다",
+    "url": "https://www.reddit.com/r/singularity/comments/1xkbjrz/every_time_i_visit_the_antiai_sub_wall_street/",
+    "image": "https://preview.redd.it/aaq6fxaebtyh1.png?width=640&crop=smart&auto=webp&s=5493f55b06895f8c98e40d315a910521155473b4",
+    "date": "2026-10-31T14:24:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
+    "platform": "Reddit",
+    "title": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
+    "author": {
+      "name": "/u/zyxciss",
+      "handle": "/u//u/zyxciss",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
+    "summary_ko": "Betelgeuse: RTX 3060 12GB + 16GB DDR4 RAM에서 22 tok/s 지속 속도(48 tok/s로 급증)로 Qwen 3.8 Flash Next 실행 100% 비트 정확!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
+    "image": "https://external-preview.redd.it/MHBxZnUwMjVuc3loMf6cJBR025efvWrD2XCjAiBgMTC0twf5SvBtR0_E6AIp.png?width=640&crop=smart&auto=webp&s=9df97dd7f80d1a38f8f509937180724668483df1",
+    "date": "2026-10-31T12:20:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xjwtrv/fable_5gguf_when/",
+    "platform": "Reddit",
+    "title": "Fable 5.gguf when?",
+    "author": {
+      "name": "/u/speedb0at",
+      "handle": "/u//u/speedb0at",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Fable 5.gguf when?",
+    "summary_ko": "Fable 5.gguf 언제?",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjwtrv/fable_5gguf_when/",
+    "image": "https://preview.redd.it/r2djpeb0cpyh1.jpeg?width=140&height=140&crop=1:1,smart&auto=webp&s=38d2904991aa2802453493637aeed92cec26782b",
+    "date": "2026-10-31T01:00:26.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xjwpz8/real_human_brains_cells_being_used_for_ai/",
+    "platform": "Reddit",
+    "title": "Real human brains cells being used for AI. Exciting times",
+    "author": {
+      "name": "/u/EmotionalGuess9229",
+      "handle": "/u//u/EmotionalGuess9229",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Real human brains cells being used for AI. Exciting times",
+    "summary_ko": "실제 인간 뇌세포가 AI에 사용되고 있다. 신나는 시간",
+    "url": "https://www.reddit.com/r/singularity/comments/1xjwpz8/real_human_brains_cells_being_used_for_ai/",
+    "image": "https://preview.redd.it/50kaz104bpyh1.jpeg?width=640&crop=smart&auto=webp&s=fb116f0e80d9ad31c0b78b615f390c18aed82586",
+    "date": "2026-10-31T00:55:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1xjleej/every_time_i_visit_the_antiai_sub/",
     "platform": "Reddit",
     "title": "Every time I visit the antiai sub",
@@ -3287,101 +3355,6 @@
     "url": "https://www.cio.com/article/4229848/ai-%ea%b2%bd%ec%9f%81%ec%9d%98-%eb%8b%a4%ec%9d%8c-%eb%ac%b4%eb%8c%80%eb%8a%94-%eb%a7%a5%eb%9d%bd-ms.html",
     "image": null,
     "date": "2026-10-02T01:34:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4229399/ipo-%ec%95%9e%eb%91%94-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%86%8c%ec%88%98-%ea%b3%a0%ea%b0%9d%ec%97%90-%eb%a7%a4%ec%b6%9c-%ec%a7%91%ec%a4%91.html",
-    "platform": "CIO",
-    "title": "IPO 앞둔 앤트로픽, 소수 고객에 매출 집중…CIO가 확보해야 할 AI 계약 조건",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "IPO 앞둔 앤트로픽, 소수 고객에 매출 집중…CIO가 확보해야 할 AI 계약 조건",
-    "summary_ko": "앤트로픽의 기업공개(IPO) 투자설명서에서 소수 고객에 대한 의존도가 기존에 알려진 수준보다 훨씬 높다는 사실이 드러났다. AI 기업 앤트로픽의 지난해 매출 가운데 거의 4분의 1이 단 두 고객에게서 발생했고, 주요 고객 상당수가 장기 계약을 체결하지 않은 것으로 나타났다. 이는 기업 CIO가 협상에서 훨씬 유리한 위치를 차지할 수 있음을 시사한다. 로이터에 따르면, 앤트로픽의 비공개 투자설명서는 매출원 다변화에 어려움을 겪을 가능성이 있는 기업의 모습을 보여준다.",
-    "url": "https://www.cio.com/article/4229399/ipo-%ec%95%9e%eb%91%94-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%86%8c%ec%88%98-%ea%b3%a0%ea%b0%9d%ec%97%90-%eb%a7%a4%ec%b6%9c-%ec%a7%91%ec%a4%91.html",
-    "image": null,
-    "date": "2026-10-01T07:43:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4229391/ai-%ec%97%ad%eb%9f%89%ec%9d%b4-it-%ec%97%85%ea%b3%84%ec%9d%98-%ea%b8%89%ec%97%ac%eb%a5%bc-%eb%81%8c%ec%96%b4%ec%98%ac%eb%a6%ac%ea%b3%a0-%ec%9e%88%ec%a7%80%eb%a7%8c-%ec%a3%bc%eb%a1%9c-%ea%b3%a0.html",
-    "platform": "CIO",
-    "title": "연차가 곧 연봉···AI 임금 상승률 ‘경력 45%, 신입 2%’",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "연차가 곧 연봉···AI 임금 상승률 ‘경력 45%, 신입 2%’",
-    "summary_ko": "AI의 영향을 많이 받는 기술 직종에서 임금이 상승했다. 그러나 인디드 하이어링 랩의 데이터에 따르면, 가장 큰 혜택은 경력이 많은 직원에게 돌아갔다. 기업이 AI 관련 직무의 신입 채용을 줄이고 있기 때문이다. 기업 내 AI 확산이 거의 모든 산업과 직무에 빠르게 영향을 미치고 있다. 그러나 구인·구직 플랫폼 인디드(Indeed)의 노동시장 연구 조직인 인디드 하이어링 랩의 데이터에 따르면, AI가 촉발한 직무 변화의 중심에는 여전히 IT가 있다. AI 역량의 가치도 기술 직무에서 가장 높게 나타나고 있다.",
-    "url": "https://www.cio.com/article/4229391/ai-%ec%97%ad%eb%9f%89%ec%9d%b4-it-%ec%97%85%ea%b3%84%ec%9d%98-%ea%b8%89%ec%97%ac%eb%a5%bc-%eb%81%8c%ec%96%b4%ec%98%ac%eb%a6%ac%ea%b3%a0-%ec%9e%88%ec%a7%80%eb%a7%8c-%ec%a3%bc%eb%a1%9c-%ea%b3%a0.html",
-    "image": null,
-    "date": "2026-10-01T07:38:13.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4229333/%ed%8a%b8%eb%9f%bc%ed%94%84%ec%99%80-%ec%8b%9c%ec%a7%84%ed%95%91%ec%9d%80-ai-%ed%95%ab%eb%9d%bc%ec%9d%b8%ec%9d%84-%ea%b0%9c%ec%84%a4%ed%95%98%ea%b3%a0-ai%ec%97%90-%eb%8c%80%ed%95%9c-%ec%a0%9c%ed%95%9c.html",
-    "platform": "CIO",
-    "title": "칼럼 | 트럼프·시진핑 ‘AI 핫라인’만 남긴 정상회담…규제 공백의 짐은 CIO에게",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 트럼프·시진핑 ‘AI 핫라인’만 남긴 정상회담…규제 공백의 짐은 CIO에게",
-    "summary_ko": "양국 모두 AI 개발을 제한하려 하지 않았다. 중국은 사용자에게 AI 서비스를 제공하는 기업에 규제의 초점을 맞추고 있다. 위험 관리의 책임은 CIO에게 남았다. 시진핑 중국 국가주석은 대화를 이어가겠다는 합의와 핫라인 설치 약속을 안고 9월 25일 워싱턴을 떠났다. 백악관의 설명자료에는 AI 관련 합의 3가지가 담겼다. 양국 정상은 해당 기술을 ‘초지능’이라고 부르기로 했으며, 2026년 11월까지 다음 협의를 진행하는 대화 체계를 마련하고, 사고 발생 시 소통할 양자 채널을 설치하기로 했다.",
-    "url": "https://www.cio.com/article/4229333/%ed%8a%b8%eb%9f%bc%ed%94%84%ec%99%80-%ec%8b%9c%ec%a7%84%ed%95%91%ec%9d%80-ai-%ed%95%ab%eb%9d%bc%ec%9d%b8%ec%9d%84-%ea%b0%9c%ec%84%a4%ed%95%98%ea%b3%a0-ai%ec%97%90-%eb%8c%80%ed%95%9c-%ec%a0%9c%ed%95%9c.html",
-    "image": null,
-    "date": "2026-10-01T07:34:04.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4229326/%ec%98%a4%ed%94%88ai%eb%8a%94-%ea%b8%b0%ec%97%85%eb%93%a4%ec%9d%b4-%ec%8b%a4%ec%a0%9c-%ec%97%85%eb%ac%b4%eb%a5%bc-%ec%9e%90%ec%9c%a8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%eb%a7%a1%ea%b8%b8.html",
-    "platform": "CIO",
-    "title": "“노트북 닫아도 AI는 일한다”…오픈AI, 자율형 에이전트·코덱스 클라우드 공개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“노트북 닫아도 AI는 일한다”…오픈AI, 자율형 에이전트·코덱스 클라우드 공개",
-    "summary_ko": "닷, 코덱스 클라우드, 확장된 에이전트 API는 장시간 자율적으로 작동하는 AI를 기업 업무에 실용적으로 적용하고 비용도 낮추려는 오픈AI의 전략을 보여준다. 오픈AI가 초기 가상 비서의 단순한 기능을 넘어서는 진정한 에이전틱 AI 시대가 열렸다고 선언했다. 오픈AI는 29일 열린 자체 컨퍼런스 오픈AI 데브데이에서 GPT-6 아스트라(Astra) 기반 에이전트인 닷(Dots)을 공개했다. 오픈AI CEO 샘 알트먼은 닷을 “탁월한 역량을 갖추고 상시 작동하는” 에이전트라고 소개했다.",
-    "url": "https://www.cio.com/article/4229326/%ec%98%a4%ed%94%88ai%eb%8a%94-%ea%b8%b0%ec%97%85%eb%93%a4%ec%9d%b4-%ec%8b%a4%ec%a0%9c-%ec%97%85%eb%ac%b4%eb%a5%bc-%ec%9e%90%ec%9c%a8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%eb%a7%a1%ea%b8%b8.html",
-    "image": null,
-    "date": "2026-10-01T02:40:03.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4229316/ciso%eb%93%a4%ec%9d%80-%eb%8d%94-%ec%9d%b4%ec%83%81-%ea%b5%ad%ea%b0%80-%ec%b0%a8%ec%9b%90%ec%9d%98-%ec%9c%84%ed%98%91%ec%9d%84-%eb%ac%b4%ec%8b%9c%ed%95%a0-%ec%88%98-%ec%97%86%eb%8b%a4.html",
-    "platform": "CIO",
-    "title": "지정학 리스크가 곧 기업 리스크다···CISO가 지금 해야 할 일",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "지정학 리스크가 곧 기업 리스크다···CISO가 지금 해야 할 일",
-    "summary_ko": "AI가 정교한 공격의 진입 장벽을 낮추고 방어자의 대응 시간을 줄이면서, CISO는 지정학적 위협을 시급한 기업 리스크로 다뤄야 하는 상황에 놓였다. 미국 정보기관과 민간 보안 담당자 사이의 갈등은 사이버보안 분야에서 오래전부터 반복돼 왔다. 양측 관계는 긴밀한 협력과 마찰 사이를 오갔다. CISO의 목표는 대체로 공격자를 네트워크에서 최대한 빨리 몰아내 법적 책임과 피해를 최소화하는 것이다. 반면 정부 대응 담당자는 침해된 시스템에 더 오래 머물며 공격자의 움직임을 관찰하고 정보를 수집하려 한다.",
-    "url": "https://www.cio.com/article/4229316/ciso%eb%93%a4%ec%9d%80-%eb%8d%94-%ec%9d%b4%ec%83%81-%ea%b5%ad%ea%b0%80-%ec%b0%a8%ec%9b%90%ec%9d%98-%ec%9c%84%ed%98%91%ec%9d%84-%eb%ac%b4%ec%8b%9c%ed%95%a0-%ec%88%98-%ec%97%86%eb%8b%a4.html",
-    "image": null,
-    "date": "2026-10-01T02:10:08.000Z",
     "likes": 0,
     "comments": 0
   }
