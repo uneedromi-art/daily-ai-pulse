@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xlen1c/sam_altman_is_right/",
+    "platform": "Reddit",
+    "title": "Sam Altman is right",
+    "author": {
+      "name": "/u/EndriuDuh",
+      "handle": "/u//u/EndriuDuh",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Sam Altman is right",
+    "summary_ko": "샘 알트만이 옳다",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xlen1c/sam_altman_is_right/",
+    "image": "https://preview.redd.it/2trf735gh2zh1.jpeg?width=640&crop=smart&auto=webp&s=09a3bab4e962255f729f181c9966956a7cf25273",
+    "date": "2026-11-01T21:14:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xl6vk8/anthropics_growing_restrictions_are_creating_a/",
+    "platform": "Reddit",
+    "title": "Anthropic's growing restrictions are creating a new divide in the AI capabilities race: Gemini 4 Argon recreates Pixar's iconic intro, while Claude Opus 5.5 refuses over copyright and builds a toaster instead—highlighting the gap between what frontier AI can do and what companies allow it to do.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Anthropic's growing restrictions are creating a new divide in the AI capabilities race: Gemini 4 Argon recreates Pixar's iconic intro, while Claude Opus 5.5 refuses over copyright and builds a toaster instead—highlighting the gap between what frontier AI can do and what companies allow it to do.",
+    "summary_ko": "Anthropic의 증가하는 제한은 AI 기능 경쟁에 새로운 격차를 만들고 있습니다. Gemini 4 Argon은 Pixar의 상징적인 인트로를 재창조하는 반면 Claude Opus 5.5는 저작권을 거부하고 대신 토스터를 만들어 최첨단 AI가 할 수 있는 것과 기업이 허용하는 것 사이의 격차를 강조합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xl6vk8/anthropics_growing_restrictions_are_creating_a/",
+    "image": "https://external-preview.redd.it/MWs5Zm80cXV5MHpoMcCE2P6zdHF-Mj2NJ82ameWGO0tDUj5vj2xqYOwYMLeI.png?width=640&crop=smart&auto=webp&s=c5257bb7e4935c01a119fd9f376db31a6cde6da6",
+    "date": "2026-11-01T16:08:05.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+    "platform": "Reddit",
+    "title": "Heretic 2.0 released: Model modification for everyone",
+    "author": {
+      "name": "/u/-p-e-w-",
+      "handle": "/u//u/-p-e-w-",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Heretic 2.0 released: Model modification for everyone",
+    "summary_ko": "Heretic 2.0 출시: 모두를 위한 모델 수정",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+    "image": null,
+    "date": "2026-11-01T13:16:24.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xkqzgx/consent_is_key/",
+    "platform": "Reddit",
+    "title": "Consent is key",
+    "author": {
+      "name": "/u/Famous-Garlic3838",
+      "handle": "/u//u/Famous-Garlic3838",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Consent is key",
+    "summary_ko": "동의가 핵심입니다",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xkqzgx/consent_is_key/",
+    "image": "https://preview.redd.it/z0ae25rgnwyh1.jpeg?width=640&crop=smart&auto=webp&s=75ca79e59b68da9cc5e3a5587902ecb2bf13c8a4",
+    "date": "2026-11-01T01:37:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1xkbjrz/every_time_i_visit_the_antiai_sub_wall_street/",
     "platform": "Reddit",
     "title": "Every time I visit the antiai sub [wall street apes edition]",
@@ -3212,149 +3280,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1ww9myb/openai_is_now_working_directly_with_lockheed/",
     "image": "https://preview.redd.it/9d47csiqc5th1.jpeg?width=640&crop=smart&auto=webp&s=300d7f8815866908e1dc880f736113e8b69a2163",
     "date": "2026-10-03T00:28:11.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1ww3rq7/pewdiepie_is_trying_to_distill_gptsol/",
-    "platform": "Reddit",
-    "title": "PewDiePie is trying to distill GPT-Sol",
-    "author": {
-      "name": "/u/sigma_crusader",
-      "handle": "/u//u/sigma_crusader",
-      "avatar_color": "#ff4500"
-    },
-    "content": "PewDiePie is trying to distill GPT-Sol",
-    "summary_ko": "PewDiePie가 GPT-Sol을 증류하려고 합니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1ww3rq7/pewdiepie_is_trying_to_distill_gptsol/",
-    "image": "https://preview.redd.it/l8i9oi7124th1.jpeg?width=640&crop=smart&auto=webp&s=4ad180e1cf9e60efb1d37d6fb8191e5166f1d10c",
-    "date": "2026-10-02T20:06:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
-    "platform": "Reddit",
-    "title": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
-    "author": {
-      "name": "/u/StayLameBro",
-      "handle": "/u//u/StayLameBro",
-      "avatar_color": "#ff4500"
-    },
-    "content": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
-    "summary_ko": "저는 iPhone을 24GB MacBook용 두 번째 GPU로 만들었습니다. Qwen 3.8 27B는 29~44% 더 빠르게 미리 채워지고 CTX 창의 일부를 보유합니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
-    "image": "https://external-preview.redd.it/dDVtbHdrd24zM3RoMVp30zpmYT17R8E7kjj3Guqcxx5HP1U9vnCW8-YhOLM_.png?width=640&crop=smart&auto=webp&s=b6cfbbd20628b5c3ae71bbb063bcf2d65c897eed",
-    "date": "2026-10-02T16:59:22.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-    "platform": "Google",
-    "title": "Toward provably private learning from federated data",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Mobile Systems",
-    "summary_ko": "연합 데이터를 통한 입증 가능한 개인 학습을 향하여",
-    "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-    "image": null,
-    "date": "2026-10-02T14:57:41.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
-    "platform": "Reddit",
-    "title": "Does anyone know if any new releases from Mistral are planned?",
-    "author": {
-      "name": "/u/LegacyRemaster",
-      "handle": "/u//u/LegacyRemaster",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Does anyone know if any new releases from Mistral are planned?",
-    "summary_ko": "Mistral의 새 릴리스가 계획되어 있는지 아는 사람이 있습니까?",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvpxg8/does_anyone_know_if_any_new_releases_from_mistral/",
-    "image": "https://preview.redd.it/wxxi2f2o21th1.png?width=640&crop=smart&auto=webp&s=c325f00556bb6f723d79c8fb551bc49bb64c3ce7",
-    "date": "2026-10-02T10:05:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wvknzh/what_do_we_think_of_this_ai_torture_chamber/",
-    "platform": "Reddit",
-    "title": "What do we think of this AI torture chamber",
-    "author": {
-      "name": "/u/arknightstranslate",
-      "handle": "/u//u/arknightstranslate",
-      "avatar_color": "#ff4500"
-    },
-    "content": "What do we think of this AI torture chamber",
-    "summary_ko": "우리는 이 AI 고문실에 대해 어떻게 생각하나요?",
-    "url": "https://www.reddit.com/r/singularity/comments/1wvknzh/what_do_we_think_of_this_ai_torture_chamber/",
-    "image": "https://preview.redd.it/fmd6d3jpfzsh1.jpeg?width=640&crop=smart&auto=webp&s=25252639f26e56c3ea76dc62b6cc04e611630794",
-    "date": "2026-10-02T04:34:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4229856/%eb%af%b8%ea%b5%ad%ec%97%90%ec%84%9c-%ea%b0%80%ec%9e%a5-%ed%9b%8c%eb%a5%ad%ed%95%9c-%ec%a7%81%ec%9e%a5-%eb%ac%b8%ed%99%94%eb%8a%94-%ec%97%ac%eb%9f%ac%eb%b6%84%ec%9d%b4-%eb%93%a4%ec%96%b4%eb%b3%b8.html",
-    "platform": "CIO",
-    "title": "칼럼 | 감원하는 빅테크와 다른 길…중소기업이 만드는 새로운 美 기업 문화",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 감원하는 빅테크와 다른 길…중소기업이 만드는 새로운 美 기업 문화",
-    "summary_ko": "마이크로소프트(MS)가 4,800명을 감원한다고 발표하자 많은 이들이 의문을 표했다. 최근 시장에서 거둔 성과와 감원 결정이 어울리지 않는다고 봤기 때문이다. MS의 지난 분기 순이익은 전년 동기 대비 23% 증가한 318억 달러(약 43조 3,100억 원)였다. 하지만 이것이 2026년 기업 경영의 현실이다. 수익을 내는 상장기업이 월가에 막대한 AI 투자의 정당성을 입증하기 위해 수천 개의 일자리를 없애고, 그만큼 많은 사람의 삶에 영향을 미치고 있다. MS를 비롯한 거대 기업의 감원은 미국 기업사에 전환점이 찾아왔음을 보여준다.",
-    "url": "https://www.cio.com/article/4229856/%eb%af%b8%ea%b5%ad%ec%97%90%ec%84%9c-%ea%b0%80%ec%9e%a5-%ed%9b%8c%eb%a5%ad%ed%95%9c-%ec%a7%81%ec%9e%a5-%eb%ac%b8%ed%99%94%eb%8a%94-%ec%97%ac%eb%9f%ac%eb%b6%84%ec%9d%b4-%eb%93%a4%ec%96%b4%eb%b3%b8.html",
-    "image": null,
-    "date": "2026-10-02T01:49:53.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4229854/%eb%a7%8c%ec%95%bd-%ec%95%a0%ed%94%8c%ec%9d%b4-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%eb%8f%84%ec%9b%80%ec%9d%84-%eb%b0%9b%ec%95%84-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%84%9c%eb%b2%84-%ec%8b%9c.html",
-    "platform": "CIO",
-    "title": "애플의 서버 시장 복귀설…업계 전문가 “자체 AI 서비스용으로 활용할 듯”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "애플의 서버 시장 복귀설…업계 전문가 “자체 AI 서비스용으로 활용할 듯”",
-    "summary_ko": "애플이 자체 칩을 기반으로 하고 엔비디아의 연결 기술을 활용할 가능성이 있는 AI 특화 시스템으로 기업용 서버 시장 복귀를 검토하고 있는 것으로 알려졌다. 미 IT언론사 더인포메이션은 9월 중순 애플이 차세대 M8 시리즈 프로세서를 탑재한 서버를 검토하고 있으며, 이르면 2029년께 출시할 수 있다고 보도했다. 다만 아직 초기 단계인 만큼 계획이 바뀌거나 취소될 가능성도 있다. 이 시스템이 출시되면 애플은 2011년 엑스서브(Xserve)를 단종한 이후 상용 서버 시장에 복귀하게 된다.",
-    "url": "https://www.cio.com/article/4229854/%eb%a7%8c%ec%95%bd-%ec%95%a0%ed%94%8c%ec%9d%b4-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%eb%8f%84%ec%9b%80%ec%9d%84-%eb%b0%9b%ec%95%84-%ea%b8%b0%ec%97%85%ec%9a%a9-%ec%84%9c%eb%b2%84-%ec%8b%9c.html",
-    "image": null,
-    "date": "2026-10-02T01:43:02.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4229848/ai-%ea%b2%bd%ec%9f%81%ec%9d%98-%eb%8b%a4%ec%9d%8c-%eb%ac%b4%eb%8c%80%eb%8a%94-%eb%a7%a5%eb%9d%bd-ms.html",
-    "platform": "CIO",
-    "title": "AI 경쟁의 다음 무대는 ‘맥락’…MS, 기업 데이터 플랫폼 재설계",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 경쟁의 다음 무대는 ‘맥락’…MS, 기업 데이터 플랫폼 재설계",
-    "summary_ko": "마이크로소프트(MS)가 스페인 바르셀로나에서 열린 ‘패브릭 + SQL 유럽 커뮤니티 컨퍼런스’에서 고객사의 에이전트 활용을 위한 새로운 비전을 공개했다. 바르셀로나 국제컨벤션센터(CCIB)에는 71개국에서 5,000명 이상이 모였다. 마이크로소프트는 이 자리에서 마이크로소프트 패브릭(Microsoft Fabric), 파워 BI(Power BI), 원레이크(One Lake), 애저 SQL(Azure SQL) 전반에 걸친 신규 기능을 발표했다. 핵심은 데이터와 데이터의 비즈니스적 의미, 인공지능을 하나의 플랫폼으로 통합하는 것이다.",
-    "url": "https://www.cio.com/article/4229848/ai-%ea%b2%bd%ec%9f%81%ec%9d%98-%eb%8b%a4%ec%9d%8c-%eb%ac%b4%eb%8c%80%eb%8a%94-%eb%a7%a5%eb%9d%bd-ms.html",
-    "image": null,
-    "date": "2026-10-02T01:34:59.000Z",
     "likes": 0,
     "comments": 0
   }
