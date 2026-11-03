@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1xm89o3/mit_researchers_say_gpt6_astra_improved_a_small/",
+    "platform": "Reddit",
+    "title": "MIT researchers say GPT-6 Astra improved a small Qwen model’s math score from 7.9% to 48.1% by directly editing just 0.016% of its weights, without gradient-based training.",
+    "author": {
+      "name": "/u/troll_khan",
+      "handle": "/u//u/troll_khan",
+      "avatar_color": "#ff4500"
+    },
+    "content": "MIT researchers say GPT-6 Astra improved a small Qwen model’s math score from 7.9% to 48.1% by directly editing just 0.016% of its weights, without gradient-based training.",
+    "summary_ko": "MIT 연구원들은 GPT-6 Astra가 경사 기반 교육 없이 가중치의 0.016%만 직접 편집하여 작은 Qwen 모델의 수학 점수를 7.9%에서 48.1%로 향상시켰다고 말합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xm89o3/mit_researchers_say_gpt6_astra_improved_a_small/",
+    "image": null,
+    "date": "2026-11-02T20:18:42.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xm44jm/sam_altman_at_the_start_of_this_year_ai_was/",
+    "platform": "Reddit",
+    "title": "Sam Altman: \"At the start of this year, AI was mostly not as smart as our smartest scientists, and now it's mostly smarter than them.\" He also says AI can now perform large parts of white-collar jobs that were beyond its capabilities earlier this year.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Sam Altman: \"At the start of this year, AI was mostly not as smart as our smartest scientists, and now it's mostly smarter than them.\" He also says AI can now perform large parts of white-collar jobs that were beyond its capabilities earlier this year.",
+    "summary_ko": "Sam Altman: \"올해 초 AI는 대부분 우리의 가장 똑똑한 과학자만큼 똑똑하지 않았지만 이제는 대부분 그들보다 더 똑똑합니다.\" 그는 또한 올해 초에는 AI가 감당할 수 없었던 사무직 업무의 상당 부분을 이제 AI가 수행할 수 있다고 말했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xm44jm/sam_altman_at_the_start_of_this_year_ai_was/",
+    "image": "https://external-preview.redd.it/cTQ1bnFzcjFtOHpoMX_0vg88jgImEk6X_e_cOFBEwq3R73p_4oiZVe_JEpfR.png?width=640&crop=smart&auto=webp&s=4a69c9f88c2aee356d01a756688af04c02eff6de",
+    "date": "2026-11-02T17:50:33.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+    "platform": "Reddit",
+    "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+    "author": {
+      "name": "/u/ResearchCrafty1804",
+      "handle": "/u//u/ResearchCrafty1804",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+    "summary_ko": "공식 성명: Qwen 모델은 끝까지 오픈 소스를 고수할 것입니다!",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+    "image": "https://preview.redd.it/cjcpaqzw98zh1.jpeg?width=640&crop=smart&auto=webp&s=c477e7e4bf17132d9a49bb526dc5f5eef68501ff",
+    "date": "2026-11-02T16:42:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xlqq7b/sam_altmans_ram_allocation_argument_applied_to/",
+    "platform": "Reddit",
+    "title": "Sam Altman's RAM allocation argument, applied to food",
+    "author": {
+      "name": "/u/Jarsen_",
+      "handle": "/u//u/Jarsen_",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Sam Altman's RAM allocation argument, applied to food",
+    "summary_ko": "Sam Altman의 RAM 할당 주장을 음식에 적용",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xlqq7b/sam_altmans_ram_allocation_argument_applied_to/",
+    "image": "https://preview.redd.it/z11508g2h5zh1.png?width=640&crop=smart&auto=webp&s=337e7568a5c5c2d29780002330ea42b61d2165da",
+    "date": "2026-11-02T07:19:08.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4243094/ai-%ea%b3%b5%ea%b8%89%ec%97%85%ec%b2%b4-%ec%82%ac%eb%9d%bc%ec%a7%84%eb%8b%a4%eb%a9%b4-cio-%ec%b6%9c%ea%b5%ac-%ec%a0%84%eb%9e%b5.html",
+    "platform": "CIO",
+    "title": "AI 공급업체가 갑자기 사라진다면…CIO가 준비해야 할 출구 전략",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 공급업체가 갑자기 사라진다면…CIO가 준비해야 할 출구 전략",
+    "summary_ko": "수백 개의 AI 관련 기업이 기업 고객의 예산을 놓고 치열하게 경쟁하고 있다. IT 리더는 자사가 거래하는 AI 공급업체 중 적어도 한 곳이 갑자기 문을 닫거나 인수되는 상황에 대비해야 한다. AI 시장 전반은 성장세가 둔화할 조짐이 거의 없지만, 결국에는 구조조정이 일어날 것이며 CIO에게 상당한 영향을 미칠 수 있다. 무엇이 걸려 있는지 가늠하려면 브로드컴의 가상화 대기업 VM웨어 인수 사례만 떠올려 봐도 충분하다. 물론 CIO에게 IT 공급업체의 폐업이나 인수로 발생하는 여러 문제는 낯설지 않다.",
+    "url": "https://www.cio.com/article/4243094/ai-%ea%b3%b5%ea%b8%89%ec%97%85%ec%b2%b4-%ec%82%ac%eb%9d%bc%ec%a7%84%eb%8b%a4%eb%a9%b4-cio-%ec%b6%9c%ea%b5%ac-%ec%a0%84%eb%9e%b5.html",
+    "image": null,
+    "date": "2026-11-02T02:39:01.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4243078/%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84-%ec%82%ac%ec%9d%b4%eb%b2%84%ea%b3%b5%ea%b2%a9-%ec%9a%b0%eb%a0%a4%ec%97%90%eb%8f%84-%eb%9d%bc%ec%a7%804-%ea%b0%80%ec%a4%91%ec%b9%98-%ea%b3%b5%ea%b0%9c.html",
+    "platform": "CIO",
+    "title": "미스트랄, 사이버공격 지원 가능성 인정…라지 4 가중치 공개 강행",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "미스트랄, 사이버공격 지원 가능성 인정…라지 4 가중치 공개 강행",
+    "summary_ko": "미스트랄이 1조 매개변수 규모의 AI 모델을 공개했다. 누구나 무료로 내려받아 수정하고 자체 환경에서 실행할 수 있는 모델이다. 다만 미스트랄은 이 모델이 실제 사이버공격에 악용될 가능성도 있다고 밝혔다. 미스트랄 AI는 멀티모달 모델 ‘미스트랄 라지 4’의 공개 프리뷰를 시작한 지 몇 주 만인 목요일, 모델 가중치를 공개했다. 회사가 ‘르 숑크(Le Chonk)’라는 별칭을 붙인 모델이다. 파리에 본사를 둔 미스트랄은 프리뷰 기간 실제 트래픽에서 사이버보안 관련 활용 양상을 모니터링했다고 밝혔다.",
+    "url": "https://www.cio.com/article/4243078/%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84-%ec%82%ac%ec%9d%b4%eb%b2%84%ea%b3%b5%ea%b2%a9-%ec%9a%b0%eb%a0%a4%ec%97%90%eb%8f%84-%eb%9d%bc%ec%a7%804-%ea%b0%80%ec%a4%91%ec%b9%98-%ea%b3%b5%ea%b0%9c.html",
+    "image": null,
+    "date": "2026-11-02T02:36:50.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4243083/%ec%82%bc%ec%84%b1-%ec%82%ac%ec%9e%a5%eb%8b%a8%ec%97%90-%ec%bd%94%eb%8d%b1%ec%8a%a4-%ed%82%a4%eb%b3%b4%eb%93%9c-%ec%84%a0%eb%ac%bc%ed%95%9c-%ec%95%8c%ed%8a%b8%eb%a8%bc-ai.html",
+    "platform": "CIO",
+    "title": "삼성 사장단에 ‘코덱스 키보드’ 선물한 알트먼 “AI 사용만으로 경쟁 우위 어렵다”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "삼성 사장단에 ‘코덱스 키보드’ 선물한 알트먼 “AI 사용만으로 경쟁 우위 어렵다”",
+    "summary_ko": "오픈AI 및 삼성 보도자료에 따르면, 삼성은 지난 10월 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO 초청 간담회를 열었다. ‘AI가 바꿀 다음 10년, 기업의 선택’을 주제로 진행된 간담회에는 전자·금융·바이오 등 삼성 주요 관계사 사장단 50여 명이 참석했다. 오픈AI에서는 알트먼 CEO와 함께 리차드 호 하드웨어 담당 부사장, 아르빈드 KC 최고인사책임자(CPO), 키란 마니 아시아태평양·일본 총괄 대표, 안드레아스 하틀 아시아태평양·일본 세일즈 부문 부사장 등 주요 경영진이 동행했다.",
+    "url": "https://www.cio.com/article/4243083/%ec%82%bc%ec%84%b1-%ec%82%ac%ec%9e%a5%eb%8b%a8%ec%97%90-%ec%bd%94%eb%8d%b1%ec%8a%a4-%ed%82%a4%eb%b3%b4%eb%93%9c-%ec%84%a0%eb%ac%bc%ed%95%9c-%ec%95%8c%ed%8a%b8%eb%a8%bc-ai.html",
+    "image": null,
+    "date": "2026-11-02T02:35:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/OpenAI/comments/1xlen1c/sam_altman_is_right/",
     "platform": "Reddit",
     "title": "Sam Altman is right",
@@ -3212,74 +3337,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1wx6cri/its_over_guys_this_repo_turns_one_photo_into_a/",
     "image": "https://external-preview.redd.it/bjB3c3pqMnBsZHRoMccv0wOHKwp4v6aX1lQK-lQ8icB-2SaifuY7q8Hutfrh.png?width=640&crop=smart&auto=webp&s=20317a8478058922dcead17a786b704e677b03b9",
     "date": "2026-10-04T04:12:42.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
-    "platform": "Reddit",
-    "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
-    "author": {
-      "name": "/u/Nunki08",
-      "handle": "/u//u/Nunki08",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
-    "summary_ko": "Aleph-Alpha/Kolibri-1 · 포옹 얼굴 - 78B 매개변수. 3. 46B 활성. 최대 100만 개의 컨텍스트 토큰 - Apache 2.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
-    "image": "https://external-preview.redd.it/rt9Ie1Rr4-8wVffy0Gk_KfRkk1QdfXl7GMLuk4esf-o.png?width=640&crop=smart&auto=webp&s=b6fed847f71cec799bf21c249ebb5bcc3a597214",
-    "date": "2026-10-03T11:44:42.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wwbcdt/im_pretty_close_to_the_middle_thanks_to_you_all/",
-    "platform": "Reddit",
-    "title": "I'm pretty close to the middle thanks to you all",
-    "author": {
-      "name": "/u/pmarsh",
-      "handle": "/u//u/pmarsh",
-      "avatar_color": "#ff4500"
-    },
-    "content": "I'm pretty close to the middle thanks to you all",
-    "summary_ko": "여러분 덕분에 거의 중간에 가까워졌네요",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwbcdt/im_pretty_close_to_the_middle_thanks_to_you_all/",
-    "image": "https://preview.redd.it/8xsac3o9s5th1.png?width=640&crop=smart&auto=webp&s=1613d2e2d629330143160d8504f641621f874d3a",
-    "date": "2026-10-03T01:58:20.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wwa2ff/truly_groundbreaking_stuff/",
-    "platform": "Reddit",
-    "title": "Truly groundbreaking stuff",
-    "author": {
-      "name": "/u/turtle-toaster",
-      "handle": "/u//u/turtle-toaster",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Truly groundbreaking stuff",
-    "summary_ko": "정말 획기적인 것들",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wwa2ff/truly_groundbreaking_stuff/",
-    "image": "https://preview.redd.it/hwzzo274g5th1.png?width=640&crop=smart&auto=webp&s=7f493b62f87a0931720a4544adb7bdca9d7a7ab6",
-    "date": "2026-10-03T00:50:30.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1ww9myb/openai_is_now_working_directly_with_lockheed/",
-    "platform": "Reddit",
-    "title": "OpenAI is now working directly with Lockheed Martin’s F-35 engineers to solve the math and physics behind advanced fighter-jet sensors",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "OpenAI is now working directly with Lockheed Martin’s F-35 engineers to solve the math and physics behind advanced fighter-jet sensors",
-    "summary_ko": "OpenAI는 이제 Lockheed Martin의 F-35 엔지니어와 직접 협력하여 고급 전투기 센서의 수학과 물리학을 해결하고 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1ww9myb/openai_is_now_working_directly_with_lockheed/",
-    "image": "https://preview.redd.it/9d47csiqc5th1.jpeg?width=640&crop=smart&auto=webp&s=300d7f8815866908e1dc880f736113e8b69a2163",
-    "date": "2026-10-03T00:28:11.000Z",
     "likes": 0,
     "comments": 0
   }
