@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1xn5g1f/xiaomis_humanoid_robots_spotted_doing_their_first/",
+    "platform": "Reddit",
+    "title": "Xiaomi's humanoid robots spotted doing their first 8-hour shift sorting EV parts at a rate of ~ 1 per minute",
+    "author": {
+      "name": "/u/Distinct-Question-16",
+      "handle": "/u//u/Distinct-Question-16",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Xiaomi's humanoid robots spotted doing their first 8-hour shift sorting EV parts at a rate of ~ 1 per minute",
+    "summary_ko": "Xiaomi의 휴머노이드 로봇이 분당 1대의 속도로 EV 부품을 분류하는 첫 8시간 교대 작업을 목격했습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xn5g1f/xiaomis_humanoid_robots_spotted_doing_their_first/",
+    "image": "https://external-preview.redd.it/MzByazNqZ21yZ3poMTD2rf77oAGINmNVb1cOKwKUTVtp8WJEEZN2L0D9LTJu.png?width=320&crop=smart&auto=webp&s=f48b346aeef066307b2990055ca7d6f807e1125f",
+    "date": "2026-11-03T21:16:07.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+    "platform": "Reddit",
+    "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+    "author": {
+      "name": "/u/notheresnolight",
+      "handle": "/u//u/notheresnolight",
+      "avatar_color": "#ff4500"
+    },
+    "content": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+    "summary_ko": "영국 핀테크 Revolut, Claude를 생략하고 자체 호스팅을 통해 AI 코딩 비용을 10배 절감.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+    "image": null,
+    "date": "2026-11-03T21:05:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xmviu5/this_guy_figured_out_how_to_leak_your_exact/",
+    "platform": "Reddit",
+    "title": "This guy figured out how to leak your exact location from any video with sound using the Doppler curves of nearby airplanes",
+    "author": {
+      "name": "/u/Malor777",
+      "handle": "/u//u/Malor777",
+      "avatar_color": "#ff4500"
+    },
+    "content": "This guy figured out how to leak your exact location from any video with sound using the Doppler curves of nearby airplanes",
+    "summary_ko": "이 사람은 근처 비행기의 도플러 곡선을 사용하여 소리가 포함된 모든 동영상에서 정확한 위치를 유출하는 방법을 알아냈습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xmviu5/this_guy_figured_out_how_to_leak_your_exact/",
+    "image": "https://preview.redd.it/oq3bmagnyezh1.png?width=640&crop=smart&auto=webp&s=eb27ed4fc7640bf03d32c915be9cbe46c486b8a8",
+    "date": "2026-11-03T15:12:04.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4243728/it-%eb%a6%ac%eb%8d%94-2027%eb%85%84-ai-%ec%a0%84%eb%9e%b5-13%ea%b0%80%ec%a7%80-%ec%a7%88%eb%ac%b8.html",
+    "platform": "CIO",
+    "title": "IT 리더가 2027년 AI 전략 수립 전에 던져야 할 13가지 질문",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "IT 리더가 2027년 AI 전략 수립 전에 던져야 할 13가지 질문",
+    "summary_ko": "2027년이 빠르게 다가오면서 IT 리더들도 새해 목표를 확정해야 할 시점이다. 2026년의 흐름을 돌아보면, 새해 역시 수많은 불확실성으로 가득할 가능성이 크다. 올해 초에는 AI 파일럿에서 AI 투자수익률(ROI)로 초점을 전환해야 한다는 요구가 높았다. 그러나 에이전틱 AI가 기업에 더욱 깊숙이 도입되고, 세간의 이목을 끈 사고들이 AI 오작동의 위험과 보안을 우선하는 AI 에이전트 접근법의 중요성을 드러내면서 AI 거버넌스와 책임 소재가 빠르게 핵심 의제로 떠올랐다.",
+    "url": "https://www.cio.com/article/4243728/it-%eb%a6%ac%eb%8d%94-2027%eb%85%84-ai-%ec%a0%84%eb%9e%b5-13%ea%b0%80%ec%a7%80-%ec%a7%88%eb%ac%b8.html",
+    "image": null,
+    "date": "2026-11-03T08:26:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4243676/%ea%b9%83%ed%97%88%eb%b8%8c-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ec%a0%84%eb%a9%b4-%ea%b0%9c%ed%8e%b8.html",
+    "platform": "CIO",
+    "title": "깃허브, 코파일럿 전면 개편…여러 AI 에이전트가 개발 나눠 맡는다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "깃허브, 코파일럿 전면 개편…여러 AI 에이전트가 개발 나눠 맡는다",
+    "summary_ko": "깃허브(Git Hub)가 코파일럿의 역할을 코드 생성과 개발자 지원 너머로 확대한다. 새롭게 설계한 코파일럿 앱과 프로젝트 기능을 통해 개발팀이 여러 AI 에이전트를 조율하고, 도구와 저장소의 맥락 정보를 공유하며, 하나의 플랫폼에서 소프트웨어 개발 워크플로를 관리하도록 지원한다. 연례 행사인 깃허브 유니버스에서 발표된 이번 깃허브 코파일럿 업데이트는 기업이 코딩과 테스트, 애플리케이션 유지보수 속도를 높이기 위해 소프트웨어 개발 워크플로 전반에 AI 에이전트를 도입하려는 시점에 나왔다.",
+    "url": "https://www.cio.com/article/4243676/%ea%b9%83%ed%97%88%eb%b8%8c-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ec%a0%84%eb%a9%b4-%ea%b0%9c%ed%8e%b8.html",
+    "image": null,
+    "date": "2026-11-03T05:19:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4243681/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%eb%b0%a9%ec%9c%84%ea%b8%b0%ec%88%a0-%ec%9d%b8%ec%88%98-%ea%b5%b0%ec%88%98%ec%8b%9c%ec%9e%a5-%ea%b3%b5%eb%9e%b5.html",
+    "platform": "CIO",
+    "title": "세일즈포스, 방위 기술 스타트업 인수로 최전방 군수 시장 공략",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "세일즈포스, 방위 기술 스타트업 인수로 최전방 군수 시장 공략",
+    "summary_ko": "세일즈포스가 미국 방위 기술 스타트업 룬 테크놀로지스(Rune Technologies) 인수를 추진한다. 국가안보·국방·항공우주·정부 기관을 위한 에이전트포스 특화 버전인 ‘미션포스(Missionforce)’에 오프라인 기능을 추가하기 위해서다. CRM 소프트웨어 기업 세일즈포스는 성명을 통해 룬의 ‘Tyr OS’ 플랫폼을 활용해 미션포스의 지원 범위를 최전방 군수 업무로 확대할 계획이라고 밝혔다. 이를 통해 현장에 배치된 부대는 네트워크에 연결되지 않은 상황에서도 보급 수요를 예측하고, 자원 배분을 최적화하며, 작전 관련 의사결정을 내릴 수 있게 된다.",
+    "url": "https://www.cio.com/article/4243681/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%eb%b0%a9%ec%9c%84%ea%b8%b0%ec%88%a0-%ec%9d%b8%ec%88%98-%ea%b5%b0%ec%88%98%ec%8b%9c%ec%9e%a5-%ea%b3%b5%eb%9e%b5.html",
+    "image": null,
+    "date": "2026-11-03T05:17:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+    "platform": "Reddit",
+    "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+    "author": {
+      "name": "/u/feelspeaceman",
+      "handle": "/u//u/feelspeaceman",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+    "summary_ko": "Alibaba의 Qwen Code 저장소에서 qwen4-max, qwen4-coder-plus 및 qwen4-omni-120b가 유출되었습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+    "image": "https://external-preview.redd.it/rZinDhLetYEVHArY_maRo38c3OtJmbJ7LBLdHOON_YE.png?width=640&crop=smart&auto=webp&s=25b2094ae8df9ad8a78e530a7616d0675f338935",
+    "date": "2026-11-03T03:55:43.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1xm89o3/mit_researchers_say_gpt6_astra_improved_a_small/",
     "platform": "Reddit",
     "title": "MIT researchers say GPT-6 Astra improved a small Qwen model’s math score from 7.9% to 48.1% by directly editing just 0.016% of its weights, without gradient-based training.",
@@ -3269,74 +3394,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1wxxz1n/a_researcher_spent_3_months_making_software_for/",
     "image": "https://preview.redd.it/7d6lrwyoekth1.jpeg?width=640&crop=smart&auto=webp&s=c6e3c2f1dea286cbda5e7bd0afc6cb9cb5495027",
     "date": "2026-10-05T03:05:53.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1wxin4m/chatgpt6_astra_plays_world_of_warcraft_blind_and/",
-    "platform": "Reddit",
-    "title": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths — AI agent navigates by parsing raw server network packets and SQL files",
-    "author": {
-      "name": "/u/ThereWas",
-      "handle": "/u//u/ThereWas",
-      "avatar_color": "#ff4500"
-    },
-    "content": "ChatGPT-6 Astra plays World of Warcraft 'blind' and clears the orc starting zone in 40 minutes with no deaths — AI agent navigates by parsing raw server network packets and SQL files",
-    "summary_ko": "ChatGPT-6 Astra는 World of Warcraft '블라인드'를 플레이하고 사망 없이 40분 만에 오크 시작 영역을 클리어합니다. AI 에이전트는 원시 서버 네트워크 패킷과 SQL 파일을 구문 분석하여 탐색합니다.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1wxin4m/chatgpt6_astra_plays_world_of_warcraft_blind_and/",
-    "image": "https://external-preview.redd.it/5mWotV5SOmfnb56NmRVj2DW92_T-3UJeuNHSnC93x0k.png?width=640&crop=smart&auto=webp&s=8457fb11ab0844b8e741f1cda781b697065773bb",
-    "date": "2026-10-04T15:37:47.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wx7ow5/crab_rave_i_built_a_little_crab_robot_jumper/",
-    "platform": "Reddit",
-    "title": "Crab Rave: \"I built a little crab robot Jumper people seemed to love and I open-souced it\"",
-    "author": {
-      "name": "/u/Anen-o-me",
-      "handle": "/u//u/Anen-o-me",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Crab Rave: \"I built a little crab robot Jumper people seemed to love and I open-souced it\"",
-    "summary_ko": "Crab Rave: \"사람들이 좋아할 것 같은 작은 게 로봇 Jumper를 만들어 오픈 소스로 공개했습니다.\".",
-    "url": "https://www.reddit.com/r/singularity/comments/1wx7ow5/crab_rave_i_built_a_little_crab_robot_jumper/",
-    "image": null,
-    "date": "2026-10-04T05:30:37.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wx73vr/claude_opus_55_created_this_in_18_hours/",
-    "platform": "Reddit",
-    "title": "Claude Opus 5.5 created this in 18 hours",
-    "author": {
-      "name": "/u/Kanute3333",
-      "handle": "/u//u/Kanute3333",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Claude Opus 5.5 created this in 18 hours",
-    "summary_ko": "Claude Opus 5.5가 18시간 만에 이것을 만들었습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wx73vr/claude_opus_55_created_this_in_18_hours/",
-    "image": "https://external-preview.redd.it/N3hnYXlvNmp0ZHRoMWQNn-zBNqk5modl1fI8IoOdEi5uCq5oFeqVzguZ6HVm.png?width=640&crop=smart&auto=webp&s=cd81db43f5451694759c68e0a2325421e674199b",
-    "date": "2026-10-04T04:56:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wx6cri/its_over_guys_this_repo_turns_one_photo_into_a/",
-    "platform": "Reddit",
-    "title": "It's over, guys. This repo turns ONE photo into a full explorable 3D world in 5 minutes. Physics, splats, audio!",
-    "author": {
-      "name": "/u/Kanute3333",
-      "handle": "/u//u/Kanute3333",
-      "avatar_color": "#ff4500"
-    },
-    "content": "It's over, guys. This repo turns ONE photo into a full explorable 3D world in 5 minutes. Physics, splats, audio!",
-    "summary_ko": "이제 끝났습니다. 이 저장소는 5분 안에 사진 한 장을 탐험 가능한 3D 세계로 바꿔줍니다. 물리학, 표시, 오디오!",
-    "url": "https://www.reddit.com/r/singularity/comments/1wx6cri/its_over_guys_this_repo_turns_one_photo_into_a/",
-    "image": "https://external-preview.redd.it/bjB3c3pqMnBsZHRoMccv0wOHKwp4v6aX1lQK-lQ8icB-2SaifuY7q8Hutfrh.png?width=640&crop=smart&auto=webp&s=20317a8478058922dcead17a786b704e677b03b9",
-    "date": "2026-10-04T04:12:42.000Z",
     "likes": 0,
     "comments": 0
   }
