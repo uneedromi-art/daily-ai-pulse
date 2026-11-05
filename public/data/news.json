@@ -1,5 +1,186 @@
 [
   {
+    "id": "https://www.cio.com/article/4244430/ai-%ec%98%88%ec%82%b0-%eb%82%ad%eb%b9%84-cio%ea%b0%80-%ed%94%bc%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%8b%a4%ec%88%98-7%ea%b0%80%ec%a7%80.html",
+    "platform": "CIO",
+    "title": "AI 예산은 어디로 새나…CIO가 피해야 할 실수 7가지",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 예산은 어디로 새나…CIO가 피해야 할 실수 7가지",
+    "summary_ko": "CIO는 늘 신기술을 신속하게 도입해야 한다는 압박을 받아왔다. 그러나 기술 도입에는 초기 투자비를 산정하고 측정하는 일부터 여러 과제가 따른다. 도입을 지나치게 서두르면 열기가 식은 뒤 IT 부서에 유지 비용이 많이 드는 아키텍처와 보안 공백, 운영 문제만 남을 수 있다. AI에서도 같은 흐름이 나타나고 있다. 많은 CIO가 전사 AI 모델 라이선스를 구매하고 직원들이 언어 모델을 실험하거나 AI 에이전트를 개발하도록 지원했다. 데브옵스 팀에 AI 코드 생성과 바이브 코딩을 서두르라고 주문한 곳도 있다.",
+    "url": "https://www.cio.com/article/4244430/ai-%ec%98%88%ec%82%b0-%eb%82%ad%eb%b9%84-cio%ea%b0%80-%ed%94%bc%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%8b%a4%ec%88%98-7%ea%b0%80%ec%a7%80.html",
+    "image": null,
+    "date": "2026-11-04T22:58:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4244423/ai-%ec%97%85%eb%ac%b4-%ec%86%8d%eb%8f%84-%ea%b7%bc%eb%ac%b4%ec%8b%9c%ea%b0%84-%ec%83%9d%ec%82%b0%ec%84%b1-%ec%97%ad%ec%84%a4.html",
+    "platform": "CIO",
+    "title": "AI로 일은 빨라졌는데 근무 시간은 늘었다…생산성의 역설",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI로 일은 빨라졌는데 근무 시간은 늘었다…생산성의 역설",
+    "summary_ko": "코로나19 팬데믹 당시 IT·기술 인력 채용 붐을 겪은 기업들은 이후 AI 프로젝트를 추진할 여력을 확보하는 과정에서 인력 감축을 확대했다. 그러나 최근 데이터에 따르면 일부 IT 채용 흐름에 변화가 나타나고 있다. 다이스의 기술 인력 인식 보고서에 따르면, AI의 영향을 가장 많이 받는 직종의 임금은 2021년 이후 약 46% 올랐다. 반면 AI의 영향을 가장 적게 받는 직종의 임금 상승률은 25%에 그쳤다. 이 격차는 2024년부터 벌어지기 시작했으며, 수년간 침체했던 채용 공고가 다시 늘어나면서 계속 확대되고 있다.",
+    "url": "https://www.cio.com/article/4244423/ai-%ec%97%85%eb%ac%b4-%ec%86%8d%eb%8f%84-%ea%b7%bc%eb%ac%b4%ec%8b%9c%ea%b0%84-%ec%83%9d%ec%82%b0%ec%84%b1-%ec%97%ad%ec%84%a4.html",
+    "image": null,
+    "date": "2026-11-04T22:55:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4244415/ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-it-%ec%b1%84%ec%9a%a9-%ec%8b%9c%ec%9e%a5.html",
+    "platform": "CIO",
+    "title": "AI가 바꾸는 IT 채용 시장…연봉 오르지만 번아웃·성별 격차도 커진다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI가 바꾸는 IT 채용 시장…연봉 오르지만 번아웃·성별 격차도 커진다",
+    "summary_ko": "코로나19 팬데믹 당시 IT·기술 인력 채용 붐을 겪은 기업들은 이후 AI 프로젝트를 추진할 여력을 확보하는 과정에서 인력 감축을 확대했다. 그러나 최근 데이터에 따르면 일부 IT 채용 흐름에 변화가 나타나고 있다. 다이스의 기술 인력 인식 보고서에 따르면, AI의 영향을 가장 많이 받는 직종의 임금은 2021년 이후 약 46% 올랐다. 반면 AI의 영향을 가장 적게 받는 직종의 임금 상승률은 25%에 그쳤다. 이 격차는 2024년부터 벌어지기 시작했으며, 수년간 침체했던 채용 공고가 다시 늘어나면서 계속 확대되고 있다.",
+    "url": "https://www.cio.com/article/4244415/ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-it-%ec%b1%84%ec%9a%a9-%ec%8b%9c%ec%9e%a5.html",
+    "image": null,
+    "date": "2026-11-04T22:50:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+    "platform": "Google",
+    "title": "Agile Deliberation: How AI helps humans define the gray areas",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Data Mining & Modeling",
+    "summary_ko": "민첩한 심의: AI가 인간이 회색 영역을 정의하는 데 어떻게 도움이 됩니까?",
+    "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+    "image": null,
+    "date": "2026-11-04T18:07:05.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/",
+    "platform": "Reddit",
+    "title": "Kimi-K3.1-Pro is now open-weights",
+    "author": {
+      "name": "/u/ApprehensiveAd3629",
+      "handle": "/u//u/ApprehensiveAd3629",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Kimi-K3.1-Pro is now open-weights",
+    "summary_ko": "Kimi-K3.1-Pro는 이제 오픈 웨이트입니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/",
+    "image": "https://external-preview.redd.it/8pxJ_mZEono8vgcxu6JFglJpS83CRqtH6-eQevQ6o4k.png?width=640&crop=smart&auto=webp&s=221a09cec236af578dea1f721de7ed180b72e006",
+    "date": "2026-11-04T15:44:08.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xnr6zd/my_gift_to_the_mods/",
+    "platform": "Reddit",
+    "title": "My gift to the mods:",
+    "author": {
+      "name": "/u/Porespellar",
+      "handle": "/u//u/Porespellar",
+      "avatar_color": "#ff4500"
+    },
+    "content": "My gift to the mods:",
+    "summary_ko": "모드에 대한 나의 선물:",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnr6zd/my_gift_to_the_mods/",
+    "image": "https://preview.redd.it/wakheug77mzh1.jpeg?width=640&crop=smart&auto=webp&s=2e2be64ce8150772558c0a6b35ef5d9639e30758",
+    "date": "2026-11-04T15:32:17.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xnplmi/claude_writes_a_neural_networks_weights_by_hand/",
+    "platform": "Reddit",
+    "title": "Claude writes a neural network's weights by hand, without training, to detect fake legal citations—achieving 97.8% test accuracy and outperforming a conventionally trained model that scored 94.6%.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Claude writes a neural network's weights by hand, without training, to detect fake legal citations—achieving 97.8% test accuracy and outperforming a conventionally trained model that scored 94.6%.",
+    "summary_ko": "Claude는 훈련 없이 직접 신경망의 가중치를 작성하여 가짜 법적 인용을 탐지합니다. 이는 97.8%의 테스트 정확도를 달성하고 94.6%를 획득한 기존 훈련 모델보다 뛰어난 성능을 발휘합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xnplmi/claude_writes_a_neural_networks_weights_by_hand/",
+    "image": "https://preview.redd.it/da9osrqrvlzh1.jpeg?width=640&crop=smart&auto=webp&s=c91ca8945078f89bc2f58626c581e6eab6a71d71",
+    "date": "2026-11-04T14:28:11.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xnl35l/my_precious_ram/",
+    "platform": "Reddit",
+    "title": "My precious RAM",
+    "author": {
+      "name": "/u/Cyborgized",
+      "handle": "/u//u/Cyborgized",
+      "avatar_color": "#ff4500"
+    },
+    "content": "My precious RAM",
+    "summary_ko": "나의 소중한 RAM",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xnl35l/my_precious_ram/",
+    "image": "https://preview.redd.it/78kj87workzh1.png?width=640&crop=smart&auto=webp&s=3c2ec23da18ae3858c7e42b0d8d256b612051505",
+    "date": "2026-11-04T10:43:34.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4244344/z%ec%84%b8%eb%8c%80%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-%ea%b8%b0%ec%97%85-it-%ed%97%ac%ed%94%84%eb%8d%b0%ec%8a%a4%ed%81%ac.html",
+    "platform": "CIO",
+    "title": "칼럼 | “접수하고 이틀을 기다리라고?” Z세대가 바꾸는 기업 IT 헬프데스크",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | “접수하고 이틀을 기다리라고?” Z세대가 바꾸는 기업 IT 헬프데스크",
+    "summary_ko": "젊은 직원들은 IT 지원 요청을 접수하고 이틀을 기다리느니 헬프데스크를 거치지 않고 직접 해결하려 한다. 사용하기 불편한 사내 포털이 이런 선택을 부추긴다. Z세대가 오늘날의 기업 문화에 제대로 적응하지 못한다는 이야기는 이미 숱하게 나왔다. 최근 비즈니스 인사이더는 Z세대(1997~2012년생)의 직장생활 준비도를 다룬 기사에서 이들에게 상당히 부정적인 통계를 소개했다. 기사에서 인용한 2024년 설문조사에서는 기업 리더 약 1,000명 가운데 75%가 자신이 채용한 최근 대졸 신입사원 일부 또는 전부를 ‘만족스럽지 않다’고 평가했다.",
+    "url": "https://www.cio.com/article/4244344/z%ec%84%b8%eb%8c%80%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-%ea%b8%b0%ec%97%85-it-%ed%97%ac%ed%94%84%eb%8d%b0%ec%8a%a4%ed%81%ac.html",
+    "image": null,
+    "date": "2026-11-04T05:15:28.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4244328/%eb%b0%94%ec%9d%b4%eb%82%b8%ec%8a%a4-63%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%95%b4%ed%82%b9%ec%8b%9c%ec%9e%91%ec%9d%80-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%eb%85%b8%ed%8a%b8%eb%b6%81-%ed%95%9c.html",
+    "platform": "CIO",
+    "title": "바이낸스 63억 달러 해킹…시작은 엔지니어 노트북 한 대였다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "바이낸스 63억 달러 해킹…시작은 엔지니어 노트북 한 대였다",
+    "summary_ko": "암호화폐 거래소 바이낸스가 지난주 발생한 63억 달러 규모의 암호화폐 도난 사건이 데브옵스 엔지니어의 노트북 침해에서 비롯됐다고 밝혔다. 고객이 입은 손실은 전액 보상하겠다고 덧붙였다. 세계 최대 암호화폐 거래소인 바이낸스는 금요일 발표한 자료에서 “이용자 자산 보호 기금(SAFU)과 회사 자금으로 모든 손실을 보상하겠다”라고 밝혔다. 이용자 자금은 안전하며, 사건 조사 과정에서 지갑 개인 키가 유출된 증거는 발견하지 못했다고 설명했다.",
+    "url": "https://www.cio.com/article/4244328/%eb%b0%94%ec%9d%b4%eb%82%b8%ec%8a%a4-63%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%95%b4%ed%82%b9%ec%8b%9c%ec%9e%91%ec%9d%80-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4-%eb%85%b8%ed%8a%b8%eb%b6%81-%ed%95%9c.html",
+    "image": null,
+    "date": "2026-11-04T03:35:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1xn5g1f/xiaomis_humanoid_robots_spotted_doing_their_first/",
     "platform": "Reddit",
     "title": "Xiaomi's humanoid robots spotted doing their first 8-hour shift sorting EV parts at a rate of ~ 1 per minute",
@@ -3308,92 +3489,6 @@
     "url": "https://www.cio.com/article/4230907/ai%ea%b0%80-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ec%83%9d%ec%82%b0%ec%84%b1-32-6-%eb%86%92%ec%97%ac.html",
     "image": null,
     "date": "2026-10-06T02:22:02.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
-    "platform": "Reddit",
-    "title": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
-    "author": {
-      "name": "/u/rodrigodevbits",
-      "handle": "/u//u/rodrigodevbits",
-      "avatar_color": "#ff4500"
-    },
-    "content": "PewDiePie getting banned twice by OpenAI while making a local model is top-tier comedy 💀",
-    "summary_ko": "PewDiePie가 현지 모델을 만들다가 OpenAI로부터 두 번이나 금지당하는 것은 최고의 코미디입니다 💀.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/",
-    "image": null,
-    "date": "2026-10-05T22:37:19.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wykgbk/ai_is_about_to_transform_materials_science/",
-    "platform": "Reddit",
-    "title": "AI Is About to Transform Materials Science",
-    "author": {
-      "name": "/u/ResultBackground2450",
-      "handle": "/u//u/ResultBackground2450",
-      "avatar_color": "#ff4500"
-    },
-    "content": "AI Is About to Transform Materials Science",
-    "summary_ko": "AI가 재료과학을 변화시키려 합니다",
-    "url": "https://www.reddit.com/r/singularity/comments/1wykgbk/ai_is_about_to_transform_materials_science/",
-    "image": "https://preview.redd.it/zekwb7z8spth1.png?width=640&crop=smart&auto=webp&s=30772c87877baef50b43c0aa83d7192ff19eb295",
-    "date": "2026-10-05T21:11:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-    "platform": "Google",
-    "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-    "author": {
-      "name": "Google Research",
-      "handle": "@GoogleAI",
-      "avatar_color": "#4285F4",
-      "avatar_url": null
-    },
-    "content": "Generative AI",
-    "summary_ko": "에이전트 개인 정보 보호 및 보안의 공개적이고 긴급한 문제: 상황별 각도",
-    "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
-    "image": null,
-    "date": "2026-10-05T21:08:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
-    "platform": "Reddit",
-    "title": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
-    "author": {
-      "name": "/u/SignificantZebra5883",
-      "handle": "/u//u/SignificantZebra5883",
-      "avatar_color": "#ff4500"
-    },
-    "content": "How is it possible that qwen 27b is so good? When GPT 4o had a trillion parameters and was worse?",
-    "summary_ko": "Qwen 27b가 그렇게 좋은 것이 어떻게 가능합니까? GPT 4o에 1조 개의 매개변수가 있었고 그보다 더 나빴을 때는요?",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when/",
-    "image": "https://preview.redd.it/30cg5bmsmoth1.png?width=640&crop=smart&auto=webp&s=d44b8ff477ced26c69de015f18396bd9c68e7690",
-    "date": "2026-10-05T17:20:38.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1wxxz1n/a_researcher_spent_3_months_making_software_for/",
-    "platform": "Reddit",
-    "title": "A researcher spent 3 months making software for designing quantum circuits ~10,000× faster. GPT-6 Astra took the already-optimized code and made it another ~10× faster overnight",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "A researcher spent 3 months making software for designing quantum circuits ~10,000× faster. GPT-6 Astra took the already-optimized code and made it another ~10× faster overnight",
-    "summary_ko": "한 연구원은 최대 10,000배 더 빠른 양자 회로 설계용 소프트웨어를 만드는 데 3개월을 보냈습니다. GPT-6 Astra는 이미 최적화된 코드를 가져와 밤새 최대 10배 더 빠르게 만들었습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1wxxz1n/a_researcher_spent_3_months_making_software_for/",
-    "image": "https://preview.redd.it/7d6lrwyoekth1.jpeg?width=640&crop=smart&auto=webp&s=c6e3c2f1dea286cbda5e7bd0afc6cb9cb5495027",
-    "date": "2026-10-05T03:05:53.000Z",
     "likes": 0,
     "comments": 0
   }
