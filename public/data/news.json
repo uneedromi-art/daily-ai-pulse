@@ -1,5 +1,73 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1xr6w6w/apple_researchers_use_a_mac_mini_running_qwen/",
+    "platform": "Reddit",
+    "title": "Apple researchers use a Mac mini running Qwen locally to control a Unitree G1 humanoid robot. Trained on 1,000 simulated homes, it autonomously sits, crawls under tables and navigates unfamiliar rooms, achieving 91% success across 360 real-world trials.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Apple researchers use a Mac mini running Qwen locally to control a Unitree G1 humanoid robot. Trained on 1,000 simulated homes, it autonomously sits, crawls under tables and navigates unfamiliar rooms, achieving 91% success across 360 real-world trials.",
+    "summary_ko": "Apple 연구원들은 Qwen을 로컬에서 실행하는 Mac mini를 사용하여 Unitree G1 휴머노이드 로봇을 제어합니다. 1,000개의 시뮬레이션된 집에서 훈련을 받은 이 로봇은 자율적으로 앉고, 테이블 아래로 기어가고, 낯선 방을 탐색하며, 360개의 실제 시험에서 91%의 성공을 거두었습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xr6w6w/apple_researchers_use_a_mac_mini_running_qwen/",
+    "image": "https://external-preview.redd.it/dnhtcGU3dG94ZjBpMcHPkqOwmOunrjMYdt1FbCPojTzhLgvDOPd-t3jYC9sN.png?width=640&crop=smart&auto=webp&s=15af047d1097babbcda2a0116ab9a097bd5bb33c",
+    "date": "2026-11-08T19:32:25.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+    "platform": "Reddit",
+    "title": "\"Does censorship exist in [country]?\", according to various LLMs",
+    "author": {
+      "name": "/u/-p-e-w-",
+      "handle": "/u//u/-p-e-w-",
+      "avatar_color": "#ff4500"
+    },
+    "content": "\"Does censorship exist in [country]?\", according to various LLMs",
+    "summary_ko": "다양한 LLM에 따르면 \"[국가]에 검열이 존재합니까?\"",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+    "image": "https://preview.redd.it/knnfwsmaje0i1.png?width=140&height=78&auto=webp&s=959c92555030e29312897f6fc129b0a9a650e0fa",
+    "date": "2026-11-08T14:56:07.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+    "platform": "Reddit",
+    "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+    "author": {
+      "name": "/u/ab2377",
+      "handle": "/u//u/ab2377",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
+    "summary_ko": "사용자들은 AI를 위해 RTX 5060 Ti 16GB 그래픽 카드를 대량으로 구매하기 시작했습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+    "image": null,
+    "date": "2026-11-08T14:45:22.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xqzpba/deepminds_vp_of_science_teases_a_phase_transition/",
+    "platform": "Reddit",
+    "title": "DeepMind’s VP of Science teases a \"phase transition\" in scientific discovery. What could it be?",
+    "author": {
+      "name": "/u/TorturedPoet30",
+      "handle": "/u//u/TorturedPoet30",
+      "avatar_color": "#ff4500"
+    },
+    "content": "DeepMind’s VP of Science teases a \"phase transition\" in scientific discovery. What could it be?",
+    "summary_ko": "DeepMind의 과학 담당 부사장은 과학적 발견의 \"단계 전환\"을 설명합니다. 그것은 무엇일까요?",
+    "url": "https://www.reddit.com/r/singularity/comments/1xqzpba/deepminds_vp_of_science_teases_a_phase_transition/",
+    "image": "https://preview.redd.it/qxnbipskee0i1.png?width=640&crop=smart&auto=webp&s=8e99589b7064ae2c2ac69bbe1d73ed9bdccb34f8",
+    "date": "2026-11-08T14:29:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1xq9o88/ai_progress_is_now_six_weeks_ahead_of_the_ai_2027/",
     "platform": "Reddit",
     "title": "AI Progress Is Now Six Weeks Ahead of the AI 2027 Timeline",
@@ -3096,74 +3164,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
     "image": "https://preview.redd.it/kfn7dsililuh1.png?width=320&crop=smart&auto=webp&s=f631efaeaa3a3e8d4a53bb774732db8d277e2a78",
     "date": "2026-10-10T07:54:15.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x1mzkn/hugo_duminilcopin_2022_fields_medalist_openais/",
-    "platform": "Reddit",
-    "title": "Hugo Duminil-Copin (2022 Fields Medalist): OpenAI's solving of 350 major problems feels as if I had been run over by trucks; all the problems (and thus research directions) that I used to mention in my talks, papers, and grant applications have been solved.\"",
-    "author": {
-      "name": "/u/UndeadPrs",
-      "handle": "/u//u/UndeadPrs",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Hugo Duminil-Copin (2022 Fields Medalist): OpenAI's solving of 350 major problems feels as if I had been run over by trucks; all the problems (and thus research directions) that I used to mention in my talks, papers, and grant applications have been solved.\"",
-    "summary_ko": "Hugo Duminil-Copin(2022년 필즈 메달 수상자): OpenAI가 350가지 주요 문제를 해결하는 것은 마치 트럭에 치인 것처럼 느껴집니다. 제가 강연, 논문, 연구비 신청에서 언급했던 모든 문제(그리고 그에 따른 연구 방향)가 해결되었습니다.\".",
-    "url": "https://www.reddit.com/r/singularity/comments/1x1mzkn/hugo_duminilcopin_2022_fields_medalist_openais/",
-    "image": null,
-    "date": "2026-10-09T14:34:01.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x18ywv/anthropic_bans_abusive_or_cruel_behavior_toward/",
-    "platform": "Reddit",
-    "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-    "author": {
-      "name": "/u/sourdub",
-      "handle": "/u//u/sourdub",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-    "summary_ko": "인류학은 클로드를 향한 '학대적이거나 잔인한 행위'를 금지한다",
-    "url": "https://www.reddit.com/r/singularity/comments/1x18ywv/anthropic_bans_abusive_or_cruel_behavior_toward/",
-    "image": "https://external-preview.redd.it/OQ9yUu8CGHLjZxpbX1IYV44Ew3d76COOT8datYO4bq4.jpeg?width=640&crop=smart&auto=webp&s=971cca184df17e7822985f9bd594c701e7ea3491",
-    "date": "2026-10-09T01:49:35.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x18s0b/one_developer_used_claude_to_reverseengineer_lgs/",
-    "platform": "Reddit",
-    "title": "One developer used Claude to reverse-engineer LG’s webOS media stack and build a native Rust Plex client from scratch—on the same 2019 TV it cuts the profile screen from ~30 seconds to ~3, runs at 60 FPS, and supports 4K, Dolby Vision and Atmos",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "One developer used Claude to reverse-engineer LG’s webOS media stack and build a native Rust Plex client from scratch—on the same 2019 TV it cuts the profile screen from ~30 seconds to ~3, runs at 60 FPS, and supports 4K, Dolby Vision and Atmos",
-    "summary_ko": "한 개발자는 Claude를 사용하여 LG의 webOS 미디어 스택을 리버스 엔지니어링하고 기본 Rust Plex 클라이언트를 처음부터 구축했습니다. 동일한 2019년 TV에서 프로필 화면을 ~30초에서 ~3초로 줄이고 60FPS로 실행하며 4K, Dolby Vision 및 Atmos를 지원합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x18s0b/one_developer_used_claude_to_reverseengineer_lgs/",
-    "image": "https://preview.redd.it/cjwnfgfzicuh1.jpeg?width=640&crop=smart&auto=webp&s=de65432725598e8827bb951aec53fe32000f6409",
-    "date": "2026-10-09T01:39:49.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x17emy/eye_cells_may_have_been_rejuvenated_for_the_first/",
-    "platform": "Reddit",
-    "title": "Eye Cells May Have Been Rejuvenated for the First Time in People",
-    "author": {
-      "name": "/u/FomalhautCalliclea",
-      "handle": "/u//u/FomalhautCalliclea",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Eye Cells May Have Been Rejuvenated for the First Time in People",
-    "summary_ko": "인간의 경우 처음으로 안구 세포가 젊어졌을 수도 있습니다",
-    "url": "https://www.reddit.com/r/singularity/comments/1x17emy/eye_cells_may_have_been_rejuvenated_for_the_first/",
-    "image": "https://external-preview.redd.it/k5Ke29JsV-ikKHHXrneFJrTKHCBpkdxz4TLUWSCzU0k.jpeg?width=640&crop=smart&auto=webp&s=7c0b60df42786d0b90f555d9cb3176adc68948c8",
-    "date": "2026-10-09T00:31:04.000Z",
     "likes": 0,
     "comments": 0
   }
