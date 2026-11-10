@@ -1,5 +1,167 @@
 [
   {
+    "id": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+    "platform": "Google",
+    "title": "Exploring the world's languages with Language Explorer",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Natural Language Processing",
+    "summary_ko": "언어 탐색기로 세계의 언어를 탐험해보세요",
+    "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+    "image": null,
+    "date": "2026-11-09T20:29:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xs1y29/claude_fable_52_built_a_playable_gears_of_war/",
+    "platform": "Reddit",
+    "title": "Claude Fable 5.2 built a playable Gears of War clone in Unreal Engine from a 3-line prompt, complete with enemy AI, cover mechanics and active reloading. After testing it with over 100 billion tokens, Matthew Berman calls it “by far the best model” he’s ever used.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Claude Fable 5.2 built a playable Gears of War clone in Unreal Engine from a 3-line prompt, complete with enemy AI, cover mechanics and active reloading. After testing it with over 100 billion tokens, Matthew Berman calls it “by far the best model” he’s ever used.",
+    "summary_ko": "Claude Fable 5.2는 적 AI, 엄폐 메커니즘, 활성 재로딩 기능을 갖춘 3줄 프롬프트를 통해 Unreal Engine에서 플레이 가능한 Gears of War 클론을 구축했습니다. 1000억 개 이상의 토큰으로 테스트한 후 Matthew Berman은 이를 자신이 사용해본 \"단연 최고의 모델\"이라고 부릅니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xs1y29/claude_fable_52_built_a_playable_gears_of_war/",
+    "image": "https://external-preview.redd.it/bXNvcWt0aHo2bjBpMfoJs0bdCmGgzU2i2w2n85G33dCJHd36udbcCqcEOL82.png?width=640&crop=smart&auto=webp&s=eff2050a664b84fbfb15e9452317d434776f2ea3",
+    "date": "2026-11-09T19:57:29.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xrvqoo/skyrim_modder_uses_ai_to_help_reverseengineer_the/",
+    "platform": "Reddit",
+    "title": "Skyrim modder uses AI to help reverse-engineer the game's 15-year-old engine, adding real-time terrain editing, modular construction, and NPC navigation to player-built structures.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Skyrim modder uses AI to help reverse-engineer the game's 15-year-old engine, adding real-time terrain editing, modular construction, and NPC navigation to player-built structures.",
+    "summary_ko": "Skyrim 모더는 AI를 사용하여 게임의 15년 된 엔진을 리버스 엔지니어링하고 실시간 지형 편집, 모듈식 구성 및 플레이어가 만든 구조물에 NPC 탐색을 추가합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xrvqoo/skyrim_modder_uses_ai_to_help_reverseengineer_the/",
+    "image": "https://external-preview.redd.it/dWFlYjd1cGsybTBpMRMbYhan0gDfXxf633hhB1t5SkRq3W-Oh_TQUza65J-b.png?width=320&crop=smart&auto=webp&s=bb3387a0e08e37c2c06ecebc24c3b760ab3134b6",
+    "date": "2026-11-09T16:10:46.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xrsmch/i_am_sorry_everyone/",
+    "platform": "Reddit",
+    "title": "I am sorry everyone.",
+    "author": {
+      "name": "/u/TechnicalCloud2047",
+      "handle": "/u//u/TechnicalCloud2047",
+      "avatar_color": "#ff4500"
+    },
+    "content": "I am sorry everyone.",
+    "summary_ko": "죄송합니다 여러분.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xrsmch/i_am_sorry_everyone/",
+    "image": "https://preview.redd.it/kzg5cwc4hl0i1.jpeg?width=320&crop=smart&auto=webp&s=17068e6fe8416ec0b281cc536da770ad20b57408",
+    "date": "2026-11-09T14:10:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xrr40n/jensen_does_not_run_his_personal_life_in_single/",
+    "platform": "Reddit",
+    "title": "Jensen does not run his personal life in single thread",
+    "author": {
+      "name": "/u/aprx4",
+      "handle": "/u//u/aprx4",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Jensen does not run his personal life in single thread",
+    "summary_ko": "Jensen은 개인 생활을 단일 스레드로 운영하지 않습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xrr40n/jensen_does_not_run_his_personal_life_in_single/",
+    "image": "https://preview.redd.it/ittkz4165l0i1.jpeg?width=640&crop=smart&auto=webp&s=af9817adb1128dcc3dce2e46863cf3959a7c355d",
+    "date": "2026-11-09T13:03:13.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4246176/%ec%a7%81%ec%9b%90%ec%9d%80-%ec%99%9c-%ec%83%81%ec%82%ac%eb%b3%b4%eb%8b%a4-ai%ec%97%90%ea%b2%8c-%eb%8d%94-%ec%86%94%ec%a7%81%ed%95%a0%ea%b9%8c.html",
+    "platform": "CIO",
+    "title": "칼럼 | 직원은 왜 상사보다 AI에게 더 솔직할까···CIO가 놓치는 신뢰의 간극",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 직원은 왜 상사보다 AI에게 더 솔직할까···CIO가 놓치는 신뢰의 간극",
+    "summary_ko": "리더라면 관리자가 심리적 안전감을 조성하도록 수년간 독려해 왔을 것이다. 상사의 의견에 이의를 제기하고, 나쁜 소식을 일찍 알리고, 불편한 문제가 막대한 비용으로 이어지기 전에 입 밖으로 꺼낼 수 있는 조직은 큰 이점을 얻는다. 1986년 우주왕복선 챌린저호 참사는 이를 경고하는 대표적인 사례다. 발사 전 엔지니어들은 고체 로켓 부스터에 사용된 오링에 문제가 있다고 우려했다. 하지만 일정 압박에 시달리던 관리자들은 경고를 묵살했다. 이륙 73초 만에 우주비행사 7명이 목숨을 잃었다. 교훈은 지금도 유효하다.",
+    "url": "https://www.cio.com/article/4246176/%ec%a7%81%ec%9b%90%ec%9d%80-%ec%99%9c-%ec%83%81%ec%82%ac%eb%b3%b4%eb%8b%a4-ai%ec%97%90%ea%b2%8c-%eb%8d%94-%ec%86%94%ec%a7%81%ed%95%a0%ea%b9%8c.html",
+    "image": null,
+    "date": "2026-11-09T04:39:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4246172/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-ai-%ec%9d%b8%ed%94%84%eb%9d%bc.html",
+    "platform": "CIO",
+    "title": "에이전틱 AI가 바꾸는 AI 인프라…CPU 역할 다시 커진다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "에이전틱 AI가 바꾸는 AI 인프라…CPU 역할 다시 커진다",
+    "summary_ko": "자율형 AI 에이전트 활용이 늘면서 데이터센터에 필요한 CPU 코어 수가 4배로 증가할 수 있다는 전망이 나왔다. 인공지능 시대에 사실상 중요성을 잃었다는 평가를 받던 CPU가 에이전틱 AI라는 새로운 수요처를 만나 다시 주목받고 있다. 반도체 시장조사업체 트렌드포스(Trend Force)에 따르면, 자율형 AI 에이전트의 연산 수요가 증가하면서 데이터센터 운영사는 CPU 도입을 대폭 확대하고 서버 인프라의 CPU와 GPU 구성 비율을 재검토해야 할 수 있다.",
+    "url": "https://www.cio.com/article/4246172/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-ai-%ec%9d%b8%ed%94%84%eb%9d%bc.html",
+    "image": null,
+    "date": "2026-11-09T04:32:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4246154/%ec%98%88%ec%8a%a4%eb%a7%a8%eb%b3%b4%eb%8b%a4-%eb%85%bc%ec%9f%81-%ec%84%a0%ed%98%b8%ed%95%98%eb%8a%94-hp-%ec%b0%a8%ea%b8%b0-ceo.html",
+    "platform": "CIO",
+    "title": "‘예스맨보다 논쟁’ 선호하는 HP 차기 CEO, 변화 이끌까",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "‘예스맨보다 논쟁’ 선호하는 HP 차기 CEO, 변화 이끌까",
+    "summary_ko": "HP가 새해를 새 CEO와 함께 맞이한다. 9개월간의 물색 끝에 엠마 월슬리를 차기 CEO로 선임했다. 취임일은 2027년 1월 4일이다. 월슬리는 제약사 GSK의 CEO를 지내며 재무 실적을 개선하고, 소비자 헬스케어 사업을 헤일리온(Haleon)이라는 별도 기업으로 분사했다. 이사회에서 무조건 동조하는 사람보다 적극적으로 이견을 제시하며 논쟁하는 사람을 선호하는 것으로 알려져 있다. 인쇄 사업 매출이 감소하고 AI로 인한 부품 수요 증가가 PC 가격을 끌어올리는 상황에서 HP에는 변화가 필요하다. 월슬리는 HP 임시 CEO인 브루스 브루사드의 뒤를 잇는다.",
+    "url": "https://www.cio.com/article/4246154/%ec%98%88%ec%8a%a4%eb%a7%a8%eb%b3%b4%eb%8b%a4-%eb%85%bc%ec%9f%81-%ec%84%a0%ed%98%b8%ed%95%98%eb%8a%94-hp-%ec%b0%a8%ea%b8%b0-ceo.html",
+    "image": null,
+    "date": "2026-11-09T02:12:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4246150/%eb%a9%94%ed%83%80-ai-%ec%98%a4%eb%a5%98-%ec%b1%85%ec%9e%84-%ea%b3%a0%ea%b0%9d-%ec%a0%84%ea%b0%80-%ec%95%bd%ea%b4%80-%ea%b0%9c%ec%a0%95-%eb%b3%b4%eb%a5%98.html",
+    "platform": "CIO",
+    "title": "“AI 오류 책임은 고객 몫” 메타, 논란의 약관 개정 보류",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“AI 오류 책임은 고객 몫” 메타, 논란의 약관 개정 보류",
+    "summary_ko": "메타가 기업 고객의 웹사이트에 있는 모든 콘텐츠를 가져다 쓸 권한을 확보하려던 서비스 약관 개정을 보류했다. 개정 약관에는 AI의 결함으로 발생한 모든 오류의 책임을 고객에게 전가하는 내용도 담겨 있었다. 새 약관은 10월 19일 공개됐으며, 당초 10월 30일 시행될 예정이었다. 이후 메타는 시행일을 11월 20일로 연기했다. 하지만 시행일을 조금 늦추는 것만으로는 고객의 반발을 잠재우기에 역부족이었다. 결국 메타는 페이스북 비즈니스 고객센터에 약관 개정을 무기한 보류한다는 공지를 게시했다. 반발의 강도를 고려하면 메타의 입장 선회는 놀라운 일이 아니다.",
+    "url": "https://www.cio.com/article/4246150/%eb%a9%94%ed%83%80-ai-%ec%98%a4%eb%a5%98-%ec%b1%85%ec%9e%84-%ea%b3%a0%ea%b0%9d-%ec%a0%84%ea%b0%80-%ec%95%bd%ea%b4%80-%ea%b0%9c%ec%a0%95-%eb%b3%b4%eb%a5%98.html",
+    "image": null,
+    "date": "2026-11-09T02:07:02.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1xr6w6w/apple_researchers_use_a_mac_mini_running_qwen/",
     "platform": "Reddit",
     "title": "Apple researchers use a Mac mini running Qwen locally to control a Unitree G1 humanoid robot. Trained on 1,000 simulated homes, it autonomously sits, crawls under tables and navigates unfamiliar rooms, achieving 91% success across 360 real-world trials.",
@@ -3079,91 +3241,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
     "image": "https://preview.redd.it/lmtd1h0goruh1.png?width=640&crop=smart&auto=webp&s=66dd48782a30f1bf0acb5eac19117ce1236eb95a",
     "date": "2026-10-11T04:37:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/",
-    "platform": "Reddit",
-    "title": "Building a 4x R9700 setup for a 10 person startup",
-    "author": {
-      "name": "/u/sayamss",
-      "handle": "/u//u/sayamss",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Building a 4x R9700 setup for a 10 person startup",
-    "summary_ko": "10명의 스타트업을 위한 4x R9700 설정 구축",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/",
-    "image": "https://preview.redd.it/kr2fywypbquh1.png?width=640&crop=smart&auto=webp&s=afb623e012de0a2eeea13c481449e8fedd5f25d5",
-    "date": "2026-10-11T00:20:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1x2eq0n/the_man_is_smooth_were_not_ready_for_fake_videos/",
-    "platform": "Reddit",
-    "title": "The man is smooth. We’re not ready for fake videos",
-    "author": {
-      "name": "/u/py-net",
-      "handle": "/u//u/py-net",
-      "avatar_color": "#ff4500"
-    },
-    "content": "The man is smooth. We’re not ready for fake videos",
-    "summary_ko": "그 남자는 부드럽습니다. 우리는 가짜 동영상을 받아들일 준비가 되어 있지 않습니다",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1x2eq0n/the_man_is_smooth_were_not_ready_for_fake_videos/",
-    "image": "https://external-preview.redd.it/emp4bGk0NjgxbnVoMb8Q9mZwl4c8ZIk9K6uD_EulQRBgEgpbU5WAcGuh4yc0.jpeg?width=640&crop=smart&auto=webp&s=435b448ec71327e29b520a7198dcc18bd5ee96cd",
-    "date": "2026-10-10T12:59:55.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
-    "platform": "Reddit",
-    "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
-    "author": {
-      "name": "/u/A-Rahim",
-      "handle": "/u//u/A-Rahim",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
-    "summary_ko": "EmbeddingGemma 2를 로컬에서 실행하여 파일 내용을 기준으로 파일을 검색하는 오픈 소스 Mac 앱.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
-    "image": "https://external-preview.redd.it/anozN2JrYmF4bXVoMUndolEwAy24n0LU_Pp6Gb4-ILJSfsBrJT2bxGdi6wwk.png?width=640&crop=smart&auto=webp&s=10522956abf8e86a6f5613cd3f0706fe3509e76b",
-    "date": "2026-10-10T12:43:33.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
-    "platform": "Reddit",
-    "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
-    "author": {
-      "name": "/u/chemist_slime",
-      "handle": "/u//u/chemist_slime",
-      "avatar_color": "#ff4500"
-    },
-    "content": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
-    "summary_ko": "NVIDIA는 RTX PRO 시리즈용으로 예약된 RTX 5090, GB202 GPU를 중단한다고 합니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
-    "image": "https://external-preview.redd.it/GBRAq5G7bpFl06TLmEI7g34SvFj2ENohfYkbHbgBOyQ.jpeg?width=640&crop=smart&auto=webp&s=0e56962138d6731d952f306b883c1e333a1d4807",
-    "date": "2026-10-10T10:20:08.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
-    "platform": "Reddit",
-    "title": "big or small?",
-    "author": {
-      "name": "/u/jacek2023",
-      "handle": "/u//u/jacek2023",
-      "avatar_color": "#ff4500"
-    },
-    "content": "big or small?",
-    "summary_ko": "크거나 작습니까?",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
-    "image": "https://preview.redd.it/kfn7dsililuh1.png?width=320&crop=smart&auto=webp&s=f631efaeaa3a3e8d4a53bb774732db8d277e2a78",
-    "date": "2026-10-10T07:54:15.000Z",
     "likes": 0,
     "comments": 0
   }
