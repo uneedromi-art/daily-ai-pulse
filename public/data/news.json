@@ -1,5 +1,149 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1xsucqc/reuters_the_ceos_relationship_with_alice_huang/",
+    "platform": "Reddit",
+    "title": "Reuters: \"The CEO's relationship with Alice Huang helped facilitate shipments of at least $7.5 billion worth of Nvidia chips to Chinese firms\"",
+    "author": {
+      "name": "/u/SnoozeDoggyDog",
+      "handle": "/u//u/SnoozeDoggyDog",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Reuters: \"The CEO's relationship with Alice Huang helped facilitate shipments of at least $7.5 billion worth of Nvidia chips to Chinese firms\"",
+    "summary_ko": "Reuters: \"CEO와 Alice Huang의 관계는 최소 75억 달러 상당의 Nvidia 칩을 중국 기업에 선적하는 데 도움이 되었습니다.\".",
+    "url": "https://www.reddit.com/r/singularity/comments/1xsucqc/reuters_the_ceos_relationship_with_alice_huang/",
+    "image": null,
+    "date": "2026-11-10T18:19:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xsivix/the_adeptus_mechanicus_welcomes_its_first/",
+    "platform": "Reddit",
+    "title": "The Adeptus Mechanicus welcomes its first mathematics department.",
+    "author": {
+      "name": "/u/141_1337",
+      "handle": "/u//u/141_1337",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The Adeptus Mechanicus welcomes its first mathematics department.",
+    "summary_ko": "Adeptus Mechanicus는 최초의 수학 부서를 환영합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xsivix/the_adeptus_mechanicus_welcomes_its_first/",
+    "image": "https://preview.redd.it/vl76wl1ibr0i1.jpeg?width=640&crop=smart&auto=webp&s=a864c74a5f2198ebd9f68a147884851216dfb055",
+    "date": "2026-11-10T09:49:24.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4246649/cio-%ec%a7%81%eb%ac%b4-%ec%84%a4%eb%aa%85%ec%84%9c%ea%b0%80-%ec%8b%a4%ec%8b%9c%ea%b0%84%ec%9c%bc%eb%a1%9c-%ea%b0%9c%ec%a0%95%eb%90%98%ea%b3%a0-%ec%9e%88%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "AI 가치 실현 막는 ‘레거시 67%·변화 관리 55%’···CIO는 두 과제를 함께 풀어야",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 가치 실현 막는 ‘레거시 67%·변화 관리 55%’···CIO는 두 과제를 함께 풀어야",
+    "summary_ko": "TIAA의 전국 고객상담센터 직원들은 한때 여러 화면을 오가며 업무를 처리했다. 화면을 모두 출력해 일렬로 늘어놓으면 길이가 81인치, 약 206cm에 달했다. “농구 선수 키만큼 길었다. ” 퇴직연금·투자 서비스 기업 TIAA에서 수년간 기술 조직을 이끌다 현재 최고운영책임자(COO)를 맡고 있는 사스트리 두르바술라의 설명이다. 계좌에 관한 질문 하나에 답하려면 11개 시스템에 흩어진 화면을 모두 살펴봐야 할 때도 있었다. 두르바술라에 따르면 과거 CIO라면 더 나은 인터페이스를 만드는 데 먼저 눈을 돌렸을 것이다. 핵심 결정은 직접 개발할지, 구매할지였다.",
+    "url": "https://www.cio.com/article/4246649/cio-%ec%a7%81%eb%ac%b4-%ec%84%a4%eb%aa%85%ec%84%9c%ea%b0%80-%ec%8b%a4%ec%8b%9c%ea%b0%84%ec%9c%bc%eb%a1%9c-%ea%b0%9c%ec%a0%95%eb%90%98%ea%b3%a0-%ec%9e%88%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-11-10T06:34:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4246636/%ec%96%91%ec%9e%90%ec%bb%b4%ed%93%a8%ed%8c%85%ec%9d%98-%ea%b8%b0%eb%8c%80%ec%99%80-%ed%98%84%ec%8b%a4-%ec%82%ac%ec%9d%b4.html",
+    "platform": "CIO",
+    "title": "칼럼 | 양자컴퓨팅의 기대와 현실 사이···CIO는 무엇부터 준비해야 하나",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 양자컴퓨팅의 기대와 현실 사이···CIO는 무엇부터 준비해야 하나",
+    "summary_ko": "오늘날 CIO가 양자컴퓨팅과 관련해 저지를 수 있는 가장 값비싼 실수는 너무 일찍 투자하는 것이 아닐 수 있다. 아키텍처와 경제성에 미칠 영향을 이해하지 못한 채 잘못된 이유로 엉뚱한 역량에 투자하는 것이 더 큰 실수일 수 있다. 필자는 규제가 엄격하고 복잡한 환경에서 수십 년간 기업의 기술, 아키텍처, 현대화, 혁신을 이끌며 같은 패턴을 반복해서 목격했다. 기술에 대한 열기가 조직의 준비 속도를 앞지른다. 자본이 투입되고, 플랫폼이 고착화되며, 의존 관계가 늘어난다. 그러나 비즈니스 가치를 입증하기는 여전히 어렵다. 양자컴퓨팅도 이런 패턴을 되풀이할 위험이 있다.",
+    "url": "https://www.cio.com/article/4246636/%ec%96%91%ec%9e%90%ec%bb%b4%ed%93%a8%ed%8c%85%ec%9d%98-%ea%b8%b0%eb%8c%80%ec%99%80-%ed%98%84%ec%8b%a4-%ec%82%ac%ec%9d%b4.html",
+    "image": null,
+    "date": "2026-11-10T06:25:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4246627/%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%95%84%eb%8b%99%eb%8b%88%eb%8b%a4-%ec%bb%b4%ed%93%a8%ed%8a%b8-%ec%ba%a0%ed%8d%bc%ec%8a%a4%ec%9e%85%eb%8b%88%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "“데이터센터 아닙니다, 컴퓨트 캠퍼스입니다”…오픈AI, 반대 여론에 개명에 전력 감축 약속까지",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“데이터센터 아닙니다, 컴퓨트 캠퍼스입니다”…오픈AI, 반대 여론에 개명에 전력 감축 약속까지",
+    "summary_ko": "오픈AI가 지역사회와 기술 기업 간 대립으로 번진 데이터센터 논쟁에 대응해, 전력망에 부담이 커지는 시간대에 전력 수요를 줄이겠다는 방안을 내놨다. 오픈AI는 데이터센터를 둘러싼 부정적인 여론도 의식하고 있다. 부정적인 인식을 누그러뜨리려는 듯 데이터센터에 ‘컴퓨트 캠퍼스’(compute campuses)라는 새 이름을 붙였다. 멕시코만(Gulf of Mexico)을 미국만(Gulf of America)으로 바꾸거나, 인공지능(artificial intelligence)을 초지능(super intelligence)으로 재포장하는 최근 흐름과도 맞닿아 있다.",
+    "url": "https://www.cio.com/article/4246627/%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%95%84%eb%8b%99%eb%8b%88%eb%8b%a4-%ec%bb%b4%ed%93%a8%ed%8a%b8-%ec%ba%a0%ed%8d%bc%ec%8a%a4%ec%9e%85%eb%8b%88%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-11-10T06:15:52.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4246622/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ed%94%bc%ec%a7%80%ec%bb%ac-ai%eb%b6%80%ed%84%b0-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b9%8c%ec%a7%80-%ed%98%84%ec%9e%a5-%ed%86%b5%ed%95%a9-%ea%b0%95.html",
+    "platform": "CIO",
+    "title": "엔비디아, 피지컬 AI부터 에이전트까지 ‘현장 통합’ 강조···SKT·리벨리온과 소버린 인프라 협력",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "엔비디아, 피지컬 AI부터 에이전트까지 ‘현장 통합’ 강조···SKT·리벨리온과 소버린 인프라 협력",
+    "summary_ko": "“로보틱스 기술, 향후 10년 황금기 진입” 디푸 탈라(Deepu Talla) 엔비디아 로보틱스·엣지 AI 부문 부사장은 기조연설에서 로보틱스가 향후 10년간 황금기에 들어섰다고 진단했다. 그는 “제조업의 90%는 중소기업이 차지하지만, 최근까지만 해도 기술이 이런 현장에 배치될 만큼 충분하지 않았다”라며 “피지컬 AI는 대부분 사람이 개입하지 않는 환경에서 작동하기 때문에 디지털 AI보다 정확성, 신뢰성, 안전성 요구 수준이 훨씬 높다”라고 설명했다. 탈라 부사장은 지난해 두 가지 기술이 성숙하면서 이런 한계가 풀리기 시작했다고 말했다.",
+    "url": "https://www.cio.com/article/4246622/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ed%94%bc%ec%a7%80%ec%bb%ac-ai%eb%b6%80%ed%84%b0-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b9%8c%ec%a7%80-%ed%98%84%ec%9e%a5-%ed%86%b5%ed%95%a9-%ea%b0%95.html",
+    "image": null,
+    "date": "2026-11-10T05:55:42.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xsde10/the_chinese_threat/",
+    "platform": "Reddit",
+    "title": "The Chinese threat",
+    "author": {
+      "name": "/u/PhilosophyforOne",
+      "handle": "/u//u/PhilosophyforOne",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The Chinese threat",
+    "summary_ko": "중국의 위협",
+    "url": "https://www.reddit.com/r/singularity/comments/1xsde10/the_chinese_threat/",
+    "image": "https://preview.redd.it/res339nznp0i1.png?width=640&crop=smart&auto=webp&s=b613e3359d6678bb196b73925f7b17d2601ebf9a",
+    "date": "2026-11-10T04:16:19.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xs9fqh/this_completely_reshapes_the_economy/",
+    "platform": "Reddit",
+    "title": "This completely reshapes the economy",
+    "author": {
+      "name": "/u/Charuru",
+      "handle": "/u//u/Charuru",
+      "avatar_color": "#ff4500"
+    },
+    "content": "This completely reshapes the economy",
+    "summary_ko": "이는 경제를 완전히 재구성합니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xs9fqh/this_completely_reshapes_the_economy/",
+    "image": "https://preview.redd.it/c1kh7dy8po0i1.png?width=640&crop=smart&auto=webp&s=ae8eec7c5f597c5ffc6ff14677e16fe399149fcf",
+    "date": "2026-11-10T01:01:21.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
     "platform": "Google",
     "title": "Exploring the world's languages with Language Explorer",
@@ -3190,57 +3334,6 @@
     "url": "https://www.cio.com/article/4233549/%ec%bd%94%eb%93%9c%eb%8a%94-%ec%8b%b8%ec%a7%80%ea%b3%a0-%ed%8c%90%eb%8b%a8%ec%9d%80-%eb%b9%84%ec%8b%b8%ec%a1%8c%eb%8b%a4%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%a9%94%ec%9d%b8%ed%85%8c.html",
     "image": "https://b2b-contenthub.com/wp-content/uploads/2026/10/madelyn-olson.jpg?quality=50&amp;strip=all&amp;w=1024",
     "date": "2026-10-12T05:43:43.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x3daf9/shock_and_awe_creator_of_free_adobe_clones/",
-    "platform": "Reddit",
-    "title": "Shock and awe — Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next",
-    "author": {
-      "name": "/u/exophades",
-      "handle": "/u//u/exophades",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Shock and awe — Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications — Autodesk tools and other subscription-based services may come next",
-    "summary_ko": "충격과 경외감 - 무료 Adobe 복제본 제작자가 오픈 소스 Microsoft Office Excel, PowerPoint 및 Word 복제 공개 - Autodesk 도구 및 기타 구독 기반 서비스가 다음에 나올 수도 있음.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x3daf9/shock_and_awe_creator_of_free_adobe_clones/",
-    "image": "https://external-preview.redd.it/jsYaRAHYp63A6Fp3LHqa40mg3F6wGmSmnb8OEXoPcrw.jpeg?width=640&crop=smart&auto=webp&s=c2f5d5527ecc91322d9a3bcbba6cde6e7d143885",
-    "date": "2026-10-11T16:58:04.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x3d76y/does_this_still_works_for_bots_or_is_it_over/",
-    "platform": "Reddit",
-    "title": "Does this still works for bots or is it over?",
-    "author": {
-      "name": "/u/RedTeaGuy",
-      "handle": "/u//u/RedTeaGuy",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Does this still works for bots or is it over?",
-    "summary_ko": "이것이 여전히 봇에서 작동합니까, 아니면 끝났습니까?",
-    "url": "https://www.reddit.com/r/singularity/comments/1x3d76y/does_this_still_works_for_bots_or_is_it_over/",
-    "image": "https://preview.redd.it/xzl31cbybvuh1.png?width=640&crop=smart&auto=webp&s=79beb557e58a149341d9d00a0576a06aab572d37",
-    "date": "2026-10-11T16:54:36.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
-    "platform": "Reddit",
-    "title": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
-    "author": {
-      "name": "/u/Recoil42",
-      "handle": "/u//u/Recoil42",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
-    "summary_ko": "Qualcomm CEO는 AI 기업들이 2028년까지 1000억 개의 매개변수 모델을 지속적으로 실행하는 휴대폰을 원한다고 밝혔습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
-    "image": "https://preview.redd.it/lmtd1h0goruh1.png?width=640&crop=smart&auto=webp&s=66dd48782a30f1bf0acb5eac19117ce1236eb95a",
-    "date": "2026-10-11T04:37:21.000Z",
     "likes": 0,
     "comments": 0
   }
