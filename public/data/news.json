@@ -1,5 +1,148 @@
 [
   {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
+    "platform": "Reddit",
+    "title": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
+    "author": {
+      "name": "/u/fallingdowndizzyvr",
+      "handle": "/u//u/fallingdowndizzyvr",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
+    "summary_ko": "엔비디아는 엔비디아 CEO 젠슨 황을 축출할 준비를 하고 있다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
+    "image": null,
+    "date": "2026-11-11T22:31:56.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+    "platform": "Google",
+    "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Health & Bioscience",
+    "summary_ko": "웨어러블을 사용하여 맞춤형 코칭을 위한 심혈관-신장-대사(CKM) 위험 프로파일링 지원",
+    "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+    "image": null,
+    "date": "2026-11-11T19:54:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xtjj5g/ts_is_too_funny/",
+    "platform": "Reddit",
+    "title": "Ts is too funny",
+    "author": {
+      "name": "/u/Formal-Narwhal-1610",
+      "handle": "/u//u/Formal-Narwhal-1610",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Ts is too funny",
+    "summary_ko": "Ts 너무 웃겨",
+    "url": "https://www.reddit.com/r/singularity/comments/1xtjj5g/ts_is_too_funny/",
+    "image": "https://preview.redd.it/y7eqt08f0w0i1.jpeg?width=640&crop=smart&auto=webp&s=4e0871cf1a8068ee08a842ce6b1695def1d0fd0c",
+    "date": "2026-11-11T14:44:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/",
+    "platform": "Reddit",
+    "title": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs",
+    "author": {
+      "name": "/u/Norwood_Reaper_",
+      "handle": "/u//u/Norwood_Reaper_",
+      "avatar_color": "#ff4500"
+    },
+    "content": "NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs",
+    "summary_ko": "NVIDIA는 GeForce RTX 5080 24GB 출시를 취소하고 GDDR7 비용보다 16GB 모델을 다시 출시한다고 합니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/",
+    "image": "https://external-preview.redd.it/LFt9xWx0UdyhRJkFkn-HQ8OLQiyvZRf8ITvO0Rx4lvQ.jpeg?width=640&crop=smart&auto=webp&s=337ee88328f8ada41f2c5590674de74ba5c930d5",
+    "date": "2026-11-11T09:58:50.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4247153/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c-%ed%98%84%ec%a7%80%ec%97%90-%eb%91%90%eb%a9%b4-%ec%a3%bc%ea%b6%8c-%ed%99%95%eb%b3%b4-%ed%82%a4-%ea%b4%80%eb%a6%ac-%ea%b8%b0%eb%b0%80-%ec%bb%b4%ed%93%a8%ed%8c%85.html",
+    "platform": "CIO",
+    "title": "데이터만 현지에 두면 주권 확보? …키 관리·기밀 컴퓨팅 빠지면 ‘반쪽 주권’",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "데이터만 현지에 두면 주권 확보? …키 관리·기밀 컴퓨팅 빠지면 ‘반쪽 주권’",
+    "summary_ko": "데이터 저장 위치를 바꾸는 것만으로 데이터 주권을 확보할 수는 없다. 실질적인 통제권을 보장하는 기술도 구현해야 한다. 각국의 현지 업체는 자사의 서비스를 대안으로 적극 제시하고 있다. 미국 업체 역시 자사가 제공하는 폭넓은 서비스를 계속 활용하면서도 고객이 더 많은 선택권을 가질 수 있도록 노력하고 있다. 그러나 소버린 클라우드 리전의 약속을 현실로 만들려면 암호화 키, 접근 절차, 기밀 컴퓨팅 문제를 해결해야 한다. 그만큼 비용과 의존성, 운영 책임도 늘어난다. 미국 클라우드 서비스를 이용할 때 가장 먼저 우려되는 것은 클라우드법(CLOUD Act)이다.",
+    "url": "https://www.cio.com/article/4247153/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a7%8c-%ed%98%84%ec%a7%80%ec%97%90-%eb%91%90%eb%a9%b4-%ec%a3%bc%ea%b6%8c-%ed%99%95%eb%b3%b4-%ed%82%a4-%ea%b4%80%eb%a6%ac-%ea%b8%b0%eb%b0%80-%ec%bb%b4%ed%93%a8%ed%8c%85.html",
+    "image": null,
+    "date": "2026-11-11T07:52:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4247143/sap-vm%ec%9b%a8%ec%96%b4-%ec%9e%90%eb%b0%94-%ea%b5%90%ec%b2%b4-%ea%b2%80%ed%86%a0-1%ec%88%9c%ec%9c%84-%ec%8b%a4%ec%a0%9c-%ec%a0%84%ed%99%98%ec%97%94-%ec%b5%9c%eb%8c%80-4%eb%85%84-%ea%b1%b8%eb%a0%a4.html",
+    "platform": "CIO",
+    "title": "SAP·VM웨어·자바, 교체 검토 1순위…실제 전환엔 최대 4년 걸려",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "SAP·VM웨어·자바, 교체 검토 1순위…실제 전환엔 최대 4년 걸려",
+    "summary_ko": "CIO들이 기업용 소프트웨어 포트폴리오 재편에 나서고 있다. 규모가 크거나 조직 깊숙이 자리 잡았다는 이유만으로 교체 검토 대상에서 제외되는 소프트웨어는 없다. 라이선스 비용 인상, 업체의 지원 종료, AI로 개발한 대안에 대한 기대 속에 IT 리더들은 VM웨어, SAP ERP 제품군, 오라클 자바 등 주요 기업용 소프트웨어를 교체 검토 목록에 올리고 있다. 세 업체는 논평 요청에 응답하지 않았다. 이런 흐름을 이끄는 요인 중 하나는 나날이 개선되는 AI 코딩 도구의 기능이다.",
+    "url": "https://www.cio.com/article/4247143/sap-vm%ec%9b%a8%ec%96%b4-%ec%9e%90%eb%b0%94-%ea%b5%90%ec%b2%b4-%ea%b2%80%ed%86%a0-1%ec%88%9c%ec%9c%84-%ec%8b%a4%ec%a0%9c-%ec%a0%84%ed%99%98%ec%97%94-%ec%b5%9c%eb%8c%80-4%eb%85%84-%ea%b1%b8%eb%a0%a4.html",
+    "image": null,
+    "date": "2026-11-11T04:19:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4247135/ai-%ec%86%8c%ec%9c%a0-%ea%b8%b0%ec%97%85%ea%b3%bc-ai-%ec%9e%84%ec%b0%a8-%ea%b8%b0%ec%97%85-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%94%94%ec%a7%80%ed%84%b8-%ea%b2%a9%ec%b0%a8%ea%b0%80-%ec%98%a8%eb%8b%a4.html",
+    "platform": "CIO",
+    "title": "칼럼 | ‘AI 소유 기업’과 ‘AI 임차 기업’···새로운 디지털 격차가 온다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | ‘AI 소유 기업’과 ‘AI 임차 기업’···새로운 디지털 격차가 온다",
+    "summary_ko": "지난 2년간 인공지능을 둘러싼 논의는 주로 도입에 집중됐다. 어떤 조직이 AI 도구를 사용하는가? 어떤 기업이 업무 흐름에 생성형 AI를 통합하고 있는가? 어떤 팀이 자동화와 생산성 향상을 실험하고 있는가? 그러나 이런 도입 열풍의 이면에서는 더 중요한 구조적 변화가 일어나고 있다. 향후 10년간 기업 기술의 방향을 좌우할 수도 있는 변화다. AI 시대의 진정한 격차는 AI를 사용하는 기업과 사용하지 않는 기업 사이에서 벌어지지 않을 수 있다. 대신 AI 역량을 직접 보유한 기업과 주로 외부 플랫폼에서 빌려 쓰는 기업 사이에서 격차가 나타날 가능성이 있다.",
+    "url": "https://www.cio.com/article/4247135/ai-%ec%86%8c%ec%9c%a0-%ea%b8%b0%ec%97%85%ea%b3%bc-ai-%ec%9e%84%ec%b0%a8-%ea%b8%b0%ec%97%85-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%94%94%ec%a7%80%ed%84%b8-%ea%b2%a9%ec%b0%a8%ea%b0%80-%ec%98%a8%eb%8b%a4.html",
+    "image": null,
+    "date": "2026-11-11T04:12:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xt77bh/this_is_so_much_more_impressive_than_any_dancing/",
+    "platform": "Reddit",
+    "title": "This is *so* much more impressive than any dancing or acrobatic feat, because the skateboard can have countless variable states to account for *outside* the system (and it doesn’t appear to have any trackers, gyro/accelerometer/imu on it either) … I genuinely thought this was 3-5 years away…",
+    "author": {
+      "name": "/u/jBby_omg",
+      "handle": "/u//u/jBby_omg",
+      "avatar_color": "#ff4500"
+    },
+    "content": "This is *so* much more impressive than any dancing or acrobatic feat, because the skateboard can have countless variable states to account for *outside* the system (and it doesn’t appear to have any trackers, gyro/accelerometer/imu on it either) … I genuinely thought this was 3-5 years away…",
+    "summary_ko": "이것은 어떤 춤이나 곡예 묘기보다 *너무* 훨씬 인상적입니다. 왜냐하면 스케이트보드는 시스템 *외부*를 설명하기 위해 셀 수 없이 많은 가변 상태를 가질 수 있기 때문입니다(그리고 거기에는 어떤 추적기, 자이로/가속도계/이무도 없는 것 같습니다)… 저는 진심으로 이것이 3~5년 정도 걸릴 것이라고 생각했습니다….",
+    "url": "https://www.reddit.com/r/singularity/comments/1xt77bh/this_is_so_much_more_impressive_than_any_dancing/",
+    "image": null,
+    "date": "2026-11-11T03:25:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/singularity/comments/1xsucqc/reuters_the_ceos_relationship_with_alice_huang/",
     "platform": "Reddit",
     "title": "Reuters: \"The CEO's relationship with Alice Huang helped facilitate shipments of at least $7.5 billion worth of Nvidia chips to Chinese firms\"",
@@ -3230,110 +3373,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4n6sg/anyone_feel_like_reverseengineering_cuda/",
     "image": null,
     "date": "2026-10-13T04:23:26.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
-    "platform": "Reddit",
-    "title": "Anthropic is doing free publicity for GLM again",
-    "author": {
-      "name": "/u/No-Point1424",
-      "handle": "/u//u/No-Point1424",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anthropic is doing free publicity for GLM again",
-    "summary_ko": "Anthropic은 GLM에 대한 무료 홍보를 다시 진행하고 있습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again/",
-    "image": "https://preview.redd.it/s9srfeunp4vh1.jpeg?width=640&crop=smart&auto=webp&s=119757f9b793bebdc090b72e23c560d36432f615",
-    "date": "2026-10-13T00:27:09.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1x457ja/how_did_encountering_superintelligence_go_for/",
-    "platform": "Reddit",
-    "title": "How did encountering \"superintelligence\" go for other species?",
-    "author": {
-      "name": "/u/Puzzleheaded-King584",
-      "handle": "/u//u/Puzzleheaded-King584",
-      "avatar_color": "#ff4500"
-    },
-    "content": "How did encountering \"superintelligence\" go for other species?",
-    "summary_ko": "다른 종들은 \"초지능\"을 접하게 되면서 어떻게 되었나요?",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1x457ja/how_did_encountering_superintelligence_go_for/",
-    "image": "https://preview.redd.it/0f0b2zgq32vh1.png?width=640&crop=smart&auto=webp&s=06b83ee880418620c3ee309f79be70ce541496b3",
-    "date": "2026-10-12T15:40:50.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x3yeti/linus_torvalds_used_ai_to_make_code_decipherable/",
-    "platform": "Reddit",
-    "title": "Linus Torvalds Used AI To Make Code Decipherable & Uncovered More Bugs",
-    "author": {
-      "name": "/u/PointmanW",
-      "handle": "/u//u/PointmanW",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Linus Torvalds Used AI To Make Code Decipherable & Uncovered More Bugs",
-    "summary_ko": "Linus Torvalds는 AI를 사용하여 코드를 해독 가능하게 만들고 더 많은 버그를 발견했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x3yeti/linus_torvalds_used_ai_to_make_code_decipherable/",
-    "image": "https://external-preview.redd.it/zqyf_5Q3V37Vc1TEIOtKwSbvYpf_VbIPSBab6IpbUP8.jpeg?width=640&crop=smart&auto=webp&s=8fca6caa0f400326164d513a9ccbc65e8ade23c7",
-    "date": "2026-10-12T10:34:04.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x3vgi7/linus_torvalds_working_on_a_hefty_linux_kernel/",
-    "platform": "Reddit",
-    "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
-    "author": {
-      "name": "/u/PointmanW",
-      "handle": "/u//u/PointmanW",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
-    "summary_ko": "Linus Torvalds, Claude 코드로 대규모 Linux 커널 개선 작업 중",
-    "url": "https://www.reddit.com/r/singularity/comments/1x3vgi7/linus_torvalds_working_on_a_hefty_linux_kernel/",
-    "image": "https://external-preview.redd.it/ThaZPjEwWB8QjuzmPWqTPH9f1Fv_jGmzEYdsu6fxWsA.jpeg?width=640&crop=smart&auto=webp&s=5fe0ffa04e7cf5c40764237e358f697452d3b197",
-    "date": "2026-10-12T07:26:47.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x3unnr/google_deepminds_ai_weather_model_picked_up/",
-    "platform": "Reddit",
-    "title": "Google DeepMind’s AI weather model picked up Hurricane Isaias 11 days before landfall, pinned where it would hit 4 days out and nailed its peak strength 3 days out—potentially giving communities days more time to evacuate and prepare",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Google DeepMind’s AI weather model picked up Hurricane Isaias 11 days before landfall, pinned where it would hit 4 days out and nailed its peak strength 3 days out—potentially giving communities days more time to evacuate and prepare",
-    "summary_ko": "Google DeepMind의 AI 기상 모델은 허리케인 이사이아스(Hurricane Isaias)가 육지에 상륙하기 11일 전에 포착하여 4일 만에 강타할 위치를 고정하고 3일 만에 최고 강도에 도달했습니다. 이를 통해 지역사회에 대피하고 준비할 시간을 며칠 더 제공할 수 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x3unnr/google_deepminds_ai_weather_model_picked_up/",
-    "image": "https://preview.redd.it/fdohz13uezuh1.jpeg?width=640&crop=smart&auto=webp&s=2805e9b01ea83ec68bbc768380d73df9117d02c7",
-    "date": "2026-10-12T06:37:32.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4233549/%ec%bd%94%eb%93%9c%eb%8a%94-%ec%8b%b8%ec%a7%80%ea%b3%a0-%ed%8c%90%eb%8b%a8%ec%9d%80-%eb%b9%84%ec%8b%b8%ec%a1%8c%eb%8b%a4%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%a9%94%ec%9d%b8%ed%85%8c.html",
-    "platform": "CIO",
-    "title": "코드는 싸지고 판단은 비싸졌다…오픈소스 메인테이너 3인이 말하는 AI 시대 개발",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "코드는 싸지고 판단은 비싸졌다…오픈소스 메인테이너 3인이 말하는 AI 시대 개발",
-    "summary_ko": "그렇다면 AI 확산 이후 오픈소스에서 나타나는 변화는 미래 개발 조직을 짐작할 단서가 될 수 있지 않을까. 코드를 제출하는 기여자(contributor)를 일반 직원에, 이를 검토하고 프로젝트의 방향을 정하는 메인테이너(maintainer)를 리더에 대입해 보면, 이곳의 변화는 사내 개발 조직에서 지금 벌어지고 있거나 곧 벌어질 일의 예고편으로 읽힌다. 이런 관점에서 오픈소스 메인테이너 3인의 이야기를 들었다.",
-    "url": "https://www.cio.com/article/4233549/%ec%bd%94%eb%93%9c%eb%8a%94-%ec%8b%b8%ec%a7%80%ea%b3%a0-%ed%8c%90%eb%8b%a8%ec%9d%80-%eb%b9%84%ec%8b%b8%ec%a1%8c%eb%8b%a4%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%eb%a9%94%ec%9d%b8%ed%85%8c.html",
-    "image": "https://b2b-contenthub.com/wp-content/uploads/2026/10/madelyn-olson.jpg?quality=50&amp;strip=all&amp;w=1024",
-    "date": "2026-10-12T05:43:43.000Z",
     "likes": 0,
     "comments": 0
   }
