@@ -1,5 +1,130 @@
 [
   {
+    "id": "https://www.reddit.com/r/singularity/comments/1xuqlkb/judging_by_the_current_exponential_rate_jensen/",
+    "platform": "Reddit",
+    "title": "Judging by the current exponential rate, Jensen Huang's affairs should exceed all human population by December. We are not ready for what's coming",
+    "author": {
+      "name": "/u/GutiV",
+      "handle": "/u//u/GutiV",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Judging by the current exponential rate, Jensen Huang's affairs should exceed all human population by December. We are not ready for what's coming",
+    "summary_ko": "현재의 기하급수적인 비율로 판단하면 Jensen Huang의 업무는 12월까지 모든 인구를 초과해야 합니다. 우리는 앞으로 일어날 일에 준비가 되어 있지 않습니다.",
+    "url": "https://www.reddit.com/r/singularity/comments/1xuqlkb/judging_by_the_current_exponential_rate_jensen/",
+    "image": "https://preview.redd.it/n5h6nr60b91i1.png?width=640&crop=smart&auto=webp&s=557efa7ba089e231af1435c6d946c353d0ff5aae",
+    "date": "2026-11-12T22:21:15.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xuhhvn/china_offers_jensen_new_opportunities/",
+    "platform": "Reddit",
+    "title": "China offers Jensen new opportunities",
+    "author": {
+      "name": "/u/canadianjohnson",
+      "handle": "/u//u/canadianjohnson",
+      "avatar_color": "#ff4500"
+    },
+    "content": "China offers Jensen new opportunities",
+    "summary_ko": "중국은 Jensen에게 새로운 기회를 제공합니다",
+    "url": "https://www.reddit.com/r/singularity/comments/1xuhhvn/china_offers_jensen_new_opportunities/",
+    "image": "https://preview.redd.it/g2jvndlnl71i1.png?width=640&crop=smart&auto=webp&s=d6e514af5002f6970eecb7562b3e8b330c4bbf37",
+    "date": "2026-11-12T16:36:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xudfv3/jensen_huang_resigns/",
+    "platform": "Reddit",
+    "title": "Jensen Huang Resigns",
+    "author": {
+      "name": "/u/TorturedPoet30",
+      "handle": "/u//u/TorturedPoet30",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Jensen Huang Resigns",
+    "summary_ko": "젠슨 황 사임",
+    "url": "https://www.reddit.com/r/singularity/comments/1xudfv3/jensen_huang_resigns/",
+    "image": "https://preview.redd.it/m240ptrqt61i1.png?width=640&crop=smart&auto=webp&s=1c27feace847282253132b1b32275fed38da0845",
+    "date": "2026-11-12T13:58:25.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
+    "platform": "Reddit",
+    "title": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+    "author": {
+      "name": "/u/ShreckAndDonkey123",
+      "handle": "/u//u/ShreckAndDonkey123",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+    "summary_ko": "Nvidia의 Jensen Huang이 CEO로 사임하고 Colette Kress가 임시로 임명되었습니다.",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
+    "image": "https://external-preview.redd.it/R32wVYwtPRPs1Q6Cu95skh2ArgKashFTqmvj5dcYPkQ.jpeg?width=640&crop=smart&auto=webp&s=022b7fe6b8a7831d288aa64e2b06f44f9e5803d2",
+    "date": "2026-11-12T13:56:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4247604/%ea%b0%80%ec%b9%98-%ec%97%86%ec%9c%bc%eb%a9%b4-%ea%ba%bc%ec%95%bc-%ed%95%9c%eb%8b%a4-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b4%80%eb%a6%ac%ec%9d%98-%ea%b8%b0%ec%a4%80%ec%9d%b4-%eb%b0%94%eb%80%90.html",
+    "platform": "CIO",
+    "title": "“가치 없으면 꺼야 한다”···AI 에이전트 관리의 기준이 바뀐다",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“가치 없으면 꺼야 한다”···AI 에이전트 관리의 기준이 바뀐다",
+    "summary_ko": "후지필름 바이오테크놀로지스에서는 법무 부서의 계약서 검토를 돕는 AI 에이전트가 12월 초 샌드박스를 벗어나 정식 운영에 들어갈 준비를 하고 있다. 제약·바이오 기업과 협력해 백신과 치료제를 개발하는 위탁개발생산기업(CDMO)인 이 회사에서 계약은 업무의 큰 비중을 차지한다. 법무팀은 계약서를 검토하고 계약 조건이 기준에 부합하는지 확인한 뒤, 법무팀이 살펴볼 수정안을 제안하는 에이전트를 구상했다. 후지필름 바이오테크놀로지스의 최고디지털정보책임자(CDIO) 마이크 토마스코는 “여러 에이전트를 활용하기에 아주 적합한 사례”라고 말했다.",
+    "url": "https://www.cio.com/article/4247604/%ea%b0%80%ec%b9%98-%ec%97%86%ec%9c%bc%eb%a9%b4-%ea%ba%bc%ec%95%bc-%ed%95%9c%eb%8b%a4-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b4%80%eb%a6%ac%ec%9d%98-%ea%b8%b0%ec%a4%80%ec%9d%b4-%eb%b0%94%eb%80%90.html",
+    "image": null,
+    "date": "2026-11-12T03:08:15.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4247594/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%eb%8b%a4%ec%8b%9c-%eb%ac%bb%ec%a7%80-%ec%95%8a%ea%b8%b0-%ea%b8%b0%eb%8a%a5-%ec%9d%b8%ec%a6%9d%ec%a0%95%eb%b3%b4-%ec%9c%a0%ec%b6%9c-%ed%86%b5%eb%a1%9c.html",
+    "platform": "CIO",
+    "title": "클로드 코드 ‘다시 묻지 않기’ 기능, 인증정보 유출 통로로",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "클로드 코드 ‘다시 묻지 않기’ 기능, 인증정보 유출 통로로",
+    "summary_ko": "앤트로픽의 클로드 코드에서 로컬 명령어 실행 권한을 저장하는 설정 파일이 API 키와 데이터베이스 인증정보 등 수천 개의 비밀정보를 노출하고 있다는 깃가디언(Git Guardian)의 조사 결과가 나왔다. 코드 보안 업체 깃가디언은 공개 깃허브 저장소 2만 3,276곳에 있는 클로드 코드의 ‘. claude/settings. local. json’ 파일에서 서로 다른 비밀정보 3만 1,088개를 확인했다. 이 중 5,343개는 발견 당시에도 유효했다.",
+    "url": "https://www.cio.com/article/4247594/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%eb%8b%a4%ec%8b%9c-%eb%ac%bb%ec%a7%80-%ec%95%8a%ea%b8%b0-%ea%b8%b0%eb%8a%a5-%ec%9d%b8%ec%a6%9d%ec%a0%95%eb%b3%b4-%ec%9c%a0%ec%b6%9c-%ed%86%b5%eb%a1%9c.html",
+    "image": null,
+    "date": "2026-11-12T02:57:50.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4247586/%eb%af%b8-%ec%a0%95%eb%b6%80-%ec%95%95%eb%b0%95%ec%97%90-%ec%98%a4%eb%9d%bc%ed%81%b4-%ed%85%90%ec%84%bc%ed%8a%b8-ai-%ea%b3%84%ec%95%bd-%eb%ac%b4%ec%82%b0-70%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ea%b7%9c.html",
+    "platform": "CIO",
+    "title": "미 정부 압박에 오라클·텐센트 AI 계약 무산…70억 달러 규모",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "미 정부 압박에 오라클·텐센트 AI 계약 무산…70억 달러 규모",
+    "summary_ko": "오라클이 중국 기술 대기업 텐센트에 첨단 AI 컴퓨팅 용량을 임대하기로 한 5년 계약을 취소한 것으로 알려졌다. 트럼프 행정부가 이 계약이 미국의 기술 수출 제한에 미칠 영향을 우려한 데 따른 조치다. 계약 규모는 약 70억 달러, 우리돈 9조 원로 추산됐다. 계약이 성사됐다면 텐센트는 동남아시아 데이터센터에 설치된 엔비디아의 첨단 AI 칩 약 10만 개를 이용할 수 있었을 것이다. 파이낸셜타임스와 다른 매체는 사안에 정통한 관계자를 인용해 계약 취소 소식을 보도했다.",
+    "url": "https://www.cio.com/article/4247586/%eb%af%b8-%ec%a0%95%eb%b6%80-%ec%95%95%eb%b0%95%ec%97%90-%ec%98%a4%eb%9d%bc%ed%81%b4-%ed%85%90%ec%84%bc%ed%8a%b8-ai-%ea%b3%84%ec%95%bd-%eb%ac%b4%ec%82%b0-70%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ea%b7%9c.html",
+    "image": null,
+    "date": "2026-11-12T02:46:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
     "platform": "Reddit",
     "title": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
@@ -3172,207 +3297,6 @@
     "url": "https://www.reddit.com/r/OpenAI/comments/1x5glxv/abdulrahman_alfozan_a_saudi_national_employed_as/",
     "image": "https://preview.redd.it/j6hp20iyncvh1.jpeg?width=640&crop=smart&auto=webp&s=e4251372fb76bf475fd77670fa977180cad3d702",
     "date": "2026-10-14T03:12:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4234809/%ec%96%b4%eb%a6%ac%eb%b2%84%eb%a6%ac%ed%95%9c-ai-%eb%8f%99%eb%a3%8c-%ec%97%90%ec%9d%b4%ec%8a%a4%eb%a1%9c.html",
-    "platform": "CIO",
-    "title": "칼럼 | 어리버리한 AI 동료, 에이스로 키우는 5가지 관리 원칙",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | 어리버리한 AI 동료, 에이스로 키우는 5가지 관리 원칙",
-    "summary_ko": "가트너가 2026년 8월 발표한 보고서에서 최고경영진의 40%는 조직이 “일부 비즈니스 프로세스에 AI를 실제로 적용했다”라고 답했다. 그러나 “측정 가능한 성과를 거두고 조직 전반으로 AI를 확대하고 있다”라고 답한 비율은 13%에 그쳤다. 이런 격차는 기업에서 흔히 나타나는 현실을 보여준다. AI를 ‘채용’하기는 했지만, 업무에 적응하도록 제대로 지원하지 않았다는 것이다. 인사 분야 분석업체 브랜던 홀 그룹(The Brandon Hall Group)의 연구에 따르면, 체계적인 온보딩 절차를 갖춘 조직은 신입 직원의 생산성을 70% 이상 높였다. AI도 마찬가지다.",
-    "url": "https://www.cio.com/article/4234809/%ec%96%b4%eb%a6%ac%eb%b2%84%eb%a6%ac%ed%95%9c-ai-%eb%8f%99%eb%a3%8c-%ec%97%90%ec%9d%b4%ec%8a%a4%eb%a1%9c.html",
-    "image": null,
-    "date": "2026-10-14T00:29:06.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4234786/%ec%98%a4%eb%8a%98%eb%82%a0-ciso%ec%99%80-%eb%b3%b4%ec%95%88-%ed%8c%80%ec%9d%b4-%ec%a7%81%eb%a9%b4%ed%95%9c-7%eb%8c%80-%ea%b3%bc%ec%a0%9c.html",
-    "platform": "CIO",
-    "title": "CISO 2명 중 1명이 “업계 떠날까” 고민…AI 시대 보안 리더를 압박하는 7가지 과제",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "CISO 2명 중 1명이 “업계 떠날까” 고민…AI 시대 보안 리더를 압박하는 7가지 과제",
-    "summary_ko": "해마다 사이버 공격의 규모와 속도, 정교함이 증가하고 있다. 기업의 공격 표면 역시 확대되면서 복잡성이 높아지고 있다. 인공지능(AI) 기술의 발전과 기업 내 AI 활용 확대도 보안 전략에 영향을 미치고 있다. 새로운 공격 기법이 등장하고 AI 인프라까지 공격 표면에 포함되면서 보안 거버넌스와 통제 체계를 구축하는 일이 더욱 복잡해졌다. 특히 에이전틱 AI 시스템의 도입이 본격화하면서 새로운 보안 과제가 나타나고 있다.",
-    "url": "https://www.cio.com/article/4234786/%ec%98%a4%eb%8a%98%eb%82%a0-ciso%ec%99%80-%eb%b3%b4%ec%95%88-%ed%8c%80%ec%9d%b4-%ec%a7%81%eb%a9%b4%ed%95%9c-7%eb%8c%80-%ea%b3%bc%ec%a0%9c.html",
-    "image": null,
-    "date": "2026-10-13T23:49:06.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4234786/ciso-2%eb%aa%85%ec%a4%91-1%eb%aa%85-%ec%97%85%ea%b3%84%eb%96%a0%eb%82%a0%ea%b9%8c.html",
-    "platform": "CIO",
-    "title": "CISO 2명 중 1명이 “업계 떠날까” 고민…AI 시대 보안 리더를 압박하는 7가지 과제",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "CISO 2명 중 1명이 “업계 떠날까” 고민…AI 시대 보안 리더를 압박하는 7가지 과제",
-    "summary_ko": "해마다 사이버 공격의 규모와 속도, 정교함이 증가하고 있다. 기업의 공격 표면 역시 확대되면서 복잡성이 높아지고 있다. 인공지능(AI) 기술의 발전과 기업 내 AI 활용 확대도 보안 전략에 영향을 미치고 있다. 새로운 공격 기법이 등장하고 AI 인프라까지 공격 표면에 포함되면서 보안 거버넌스와 통제 체계를 구축하는 일이 더욱 복잡해졌다. 특히 에이전틱 AI 시스템의 도입이 본격화하면서 새로운 보안 과제가 나타나고 있다.",
-    "url": "https://www.cio.com/article/4234786/ciso-2%eb%aa%85%ec%a4%91-1%eb%aa%85-%ec%97%85%ea%b3%84%eb%96%a0%eb%82%a0%ea%b9%8c.html",
-    "image": null,
-    "date": "2026-10-13T23:49:06.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x5cbvp/argon_produced_video/",
-    "platform": "Reddit",
-    "title": "Argon produced video",
-    "author": {
-      "name": "/u/Jaguar_2454",
-      "handle": "/u//u/Jaguar_2454",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Argon produced video",
-    "summary_ko": "아르곤 제작 영상",
-    "url": "https://www.reddit.com/r/singularity/comments/1x5cbvp/argon_produced_video/",
-    "image": "https://external-preview.redd.it/NjVyOXpramVtYnZoMQ5fQDT6NiFkaAe97w9-YMWjYV3gfRWBj9JgpgAjq3xJ.png?width=640&crop=smart&auto=webp&s=d1f0d982f804e2e0dfea8898cdb3fa80a4540048",
-    "date": "2026-10-13T23:41:20.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x53gba/googles_gemini_4_argon_autonomously_built_an/",
-    "platform": "Reddit",
-    "title": "Google's Gemini 4 Argon autonomously built an entire photorealistic pagoda temple complex in Blender from a single prompt, with zero human intervention, using multiple AI agents to critique and refine its own work",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Google's Gemini 4 Argon autonomously built an entire photorealistic pagoda temple complex in Blender from a single prompt, with zero human intervention, using multiple AI agents to critique and refine its own work",
-    "summary_ko": "Google의 Gemini 4 Argon은 사람의 개입 없이 단일 프롬프트로 Blender에서 전체 사실적인 탑 사원 단지를 자동으로 구축했으며 여러 AI 에이전트를 사용하여 자체 작업을 비평하고 개선했습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x53gba/googles_gemini_4_argon_autonomously_built_an/",
-    "image": "https://external-preview.redd.it/eGJiODlrNzB2OXZoMdQaRhj3y0jvWhFZ71HPkab-Gm8ANban36e01QM6IVlv.png?width=640&crop=smart&auto=webp&s=64e6a44012472282e44772f413ddd24c3c2e59c5",
-    "date": "2026-10-13T17:46:11.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
-    "platform": "Reddit",
-    "title": "It's been too quiet on the other side of the Pacific",
-    "author": {
-      "name": "/u/Nunki08",
-      "handle": "/u//u/Nunki08",
-      "avatar_color": "#ff4500"
-    },
-    "content": "It's been too quiet on the other side of the Pacific",
-    "summary_ko": "태평양 반대편은 너무 조용했어요",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
-    "image": "https://preview.redd.it/jsregr9ky7vh1.jpeg?width=640&crop=smart&auto=webp&s=2f0426c14ea3eb9894a7cf09d119e6c6a42deb57",
-    "date": "2026-10-13T11:32:31.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4234130/cio%ea%b0%80-ai-%ed%88%ac%ec%9e%90-%ec%88%98%ec%9d%b5%eb%a5%a0roi%ec%9d%84-%ed%8f%89%ea%b0%80%ed%95%98%ea%b8%b0-%ec%9c%84%ed%95%9c-3%ea%b0%80%ec%a7%80-%eb%aa%a8%eb%b2%94-%ec%82%ac%eb%a1%80.html",
-    "platform": "CIO",
-    "title": "AI 프로젝트는 늘었는데 성과는 모호하다면…ROI 측정의 3가지 원칙",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 프로젝트는 늘었는데 성과는 모호하다면…ROI 측정의 3가지 원칙",
-    "summary_ko": "대부분의 CIO는 자사의 AI 프로젝트를 쉽게 설명할 수 있지만, AI의 가치와 투자수익률(ROI)을 입증하고 보고하는 데는 어려움을 겪는다. 가트너의 AI ROI에 대한 인식 조사에서도 이런 상황이 드러났다. 응답자의 27%는 AI 프로젝트의 ROI를 정량화하기 어렵다는 데 매우 동의했다. AI 프로젝트의 성공 여부를 평가하는 명확한 절차를 갖춘 응답자도 4명 중 1명에 불과했다. 디지털 전환 시대에는 컴퓨팅 비용이 비교적 저렴했다.",
-    "url": "https://www.cio.com/article/4234130/cio%ea%b0%80-ai-%ed%88%ac%ec%9e%90-%ec%88%98%ec%9d%b5%eb%a5%a0roi%ec%9d%84-%ed%8f%89%ea%b0%80%ed%95%98%ea%b8%b0-%ec%9c%84%ed%95%9c-3%ea%b0%80%ec%a7%80-%eb%aa%a8%eb%b2%94-%ec%82%ac%eb%a1%80.html",
-    "image": null,
-    "date": "2026-10-13T08:38:51.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4234164/%ea%b5%ad%eb%82%b4-%ea%b8%b0%ec%97%85-ai-%eb%b3%b4%ec%95%88-%ec%97%ad%eb%9f%89-58%ec%a0%90-%ea%b8%80%eb%a1%9c%eb%b2%8c-%ed%8f%89%ea%b7%a0-%eb%b0%91%eb%8f%8c%ec%95%84%ec%8b%9c%ec%8a%a4.html",
-    "platform": "CIO",
-    "title": "국내 기업 AI 보안 역량 58점, 글로벌 평균 밑돌아…시스코 “협업·AI 방어로 격차 좁혀야”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "국내 기업 AI 보안 역량 58점, 글로벌 평균 밑돌아…시스코 “협업·AI 방어로 격차 좁혀야”",
-    "summary_ko": "“보안 걸림돌은 기술보다 조직…거버넌스부터 세워야” 황성규 시스코코리아 보안 사업 총괄 상무는 이번 조사에서 질문의 틀 자체를 바꿨다고 설명했다. 그는 “예전에는 얼마나 방어할 준비가 됐는지를 물었다면, 지금은 공격 속도가 빨라졌기 때문에 방어가 가능한지를 묻는 방식으로 바꿨다”라고 말했다.",
-    "url": "https://www.cio.com/article/4234164/%ea%b5%ad%eb%82%b4-%ea%b8%b0%ec%97%85-ai-%eb%b3%b4%ec%95%88-%ec%97%ad%eb%9f%89-58%ec%a0%90-%ea%b8%80%eb%a1%9c%eb%b2%8c-%ed%8f%89%ea%b7%a0-%eb%b0%91%eb%8f%8c%ec%95%84%ec%8b%9c%ec%8a%a4.html",
-    "image": null,
-    "date": "2026-10-13T08:38:21.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4234113/ai-%ea%b0%80%ea%b2%a9%ec%9d%98-%eb%8c%80%eb%8c%80%ec%a0%81%ec%9d%b8-%ec%9e%ac%ed%8e%b8%ec%9d%b4-%eb%8b%a4%ea%b0%80%ec%98%a4%ea%b3%a0-%ec%9e%88%ec%8a%b5%eb%8b%88%eb%8b%a4-%ec%a4%80%eb%b9%84%eb%90%98.html",
-    "platform": "CIO",
-    "title": "칼럼 | AI 무료 시대 끝나간다…기업의 토큰 비용을 뒤흔들 SSD 가격 급등",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "칼럼 | AI 무료 시대 끝나간다…기업의 토큰 비용을 뒤흔들 SSD 가격 급등",
-    "summary_ko": "생성형 AI 시장에서 토큰당 과금 방식은 사실상 표준 가격 모델로 자리 잡았다. 이제 거의 모든 AI 예산 논의가 토큰 소비량, 생성량, 100만 토큰당 비용 등을 중심으로 이뤄지고 있다. 문제는 이 모델이 각각의 AI 상호작용을 독립적인 거래로 취급하고, 이를 처리하는 데 필요한 인프라와 분리해서 바라본다는 점이다. 토큰은 분명 과금 단위이지만, 토큰을 처리하는 작업은 메모리와 스토리지에도 물리적인 부담을 준다.",
-    "url": "https://www.cio.com/article/4234113/ai-%ea%b0%80%ea%b2%a9%ec%9d%98-%eb%8c%80%eb%8c%80%ec%a0%81%ec%9d%b8-%ec%9e%ac%ed%8e%b8%ec%9d%b4-%eb%8b%a4%ea%b0%80%ec%98%a4%ea%b3%a0-%ec%9e%88%ec%8a%b5%eb%8b%88%eb%8b%a4-%ec%a4%80%eb%b9%84%eb%90%98.html",
-    "image": null,
-    "date": "2026-10-13T07:01:07.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4233601/%eb%b3%b4%ec%95%88-%ed%85%8c%ec%8a%a4%ed%8a%b8%eb%8a%94-ai%ea%b0%80-%ed%8c%90%eb%8b%a8%ec%9d%80-%ec%a0%84%eb%ac%b8%ea%b0%80%ea%b0%80.html",
-    "platform": "CIO",
-    "title": "보안 테스트는 AI가, 판단은 전문가가…달라지는 공격적 보안 전략",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "보안 테스트는 AI가, 판단은 전문가가…달라지는 공격적 보안 전략",
-    "summary_ko": "AI의 부상으로 최고정보보안책임자(CISO)가 대응해야 할 취약점이 어느 때보다 많아졌다. 이에 따라 어떤 취약점을 먼저 수정할지 결정하는 일도 갈수록 어려워지고 있다. 침투 테스트 플랫폼 기업 호라이즌3. ai(Horizon3. ai)의 스네할 안타니 CEO는 CSO에 “CIO로 일할 때 가장 어려웠던 일은 무엇을 하지 않을지 결정하는 것이었다”라며 “자원이 부족하거나 중요하지 않다고 판단해 취약점을 수정하지 않았는데, 나중에 그 취약점 때문에 침해 사고가 발생한다면 정말 최악의 하루가 될 것”이라고 말했다.",
-    "url": "https://www.cio.com/article/4233601/%eb%b3%b4%ec%95%88-%ed%85%8c%ec%8a%a4%ed%8a%b8%eb%8a%94-ai%ea%b0%80-%ed%8c%90%eb%8b%a8%ec%9d%80-%ec%a0%84%eb%ac%b8%ea%b0%80%ea%b0%80.html",
-    "image": null,
-    "date": "2026-10-13T06:50:46.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x4n6sg/anyone_feel_like_reverseengineering_cuda/",
-    "platform": "Reddit",
-    "title": "Anyone feel like reverse-engineering CUDA?",
-    "author": {
-      "name": "/u/Odd-World4925",
-      "handle": "/u//u/Odd-World4925",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anyone feel like reverse-engineering CUDA?",
-    "summary_ko": "CUDA를 리버스 엔지니어링하고 싶은 사람이 있나요?",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4n6sg/anyone_feel_like_reverseengineering_cuda/",
-    "image": null,
-    "date": "2026-10-13T04:23:26.000Z",
     "likes": 0,
     "comments": 0
   }
