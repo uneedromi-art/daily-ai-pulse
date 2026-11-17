@@ -1,5 +1,92 @@
 [
   {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xxt2il/barack_obama_the_machines_are_starting_to_teach/",
+    "platform": "Reddit",
+    "title": "Barack Obama: “The machines are starting to teach themselves. We're now hitting the hockey stick where the models are getting smarter and smarter at an exponential pace.\" ... \"If they start setting their own agendas, you may get misalignment between what they want to do vs what we want them to do.\"",
+    "author": {
+      "name": "/u/Puzzleheaded-King584",
+      "handle": "/u//u/Puzzleheaded-King584",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Barack Obama: “The machines are starting to teach themselves. We're now hitting the hockey stick where the models are getting smarter and smarter at an exponential pace.\" ... \"If they start setting their own agendas, you may get misalignment between what they want to do vs what we want them to do.\"",
+    "summary_ko": "버락 오바마: \"기계가 스스로 학습하기 시작했습니다. 이제 우리는 모델이 기하급수적인 속도로 점점 더 똑똑해지는 하키 스틱을 치고 있습니다. \" ... \"그들이 스스로 의제를 설정하기 시작하면 그들이 원하는 것과 우리가 원하는 것 사이에 불일치가 생길 수 있습니다.",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xxt2il/barack_obama_the_machines_are_starting_to_teach/",
+    "image": "https://external-preview.redd.it/ODM5Zm02bzN6ejFpMaOJGW7BPLA6ohrLi4VN7TdcDVRG1A6aq_VOVj6IoDPR.png?width=640&crop=smart&auto=webp&s=26e0d49bf0f7ec6d196d022d1dc8e4c9c4b88e7e",
+    "date": "2026-11-16T16:00:18.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/singularity/comments/1xxolvw/increase_productivity/",
+    "platform": "Reddit",
+    "title": "Increase Productivity",
+    "author": {
+      "name": "/u/ToasterBotnet",
+      "handle": "/u//u/ToasterBotnet",
+      "avatar_color": "#ff4500"
+    },
+    "content": "Increase Productivity",
+    "summary_ko": "생산성 향상",
+    "url": "https://www.reddit.com/r/singularity/comments/1xxolvw/increase_productivity/",
+    "image": "https://preview.redd.it/cxsqc1mt1z1i1.jpeg?width=320&crop=smart&auto=webp&s=4c645aee4db039e8edf847a535ee047dfa1e42cc",
+    "date": "2026-11-16T12:53:32.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/",
+    "platform": "Reddit",
+    "title": "The beginning of the becoming of the beginning begins",
+    "author": {
+      "name": "/u/Subulicious",
+      "handle": "/u//u/Subulicious",
+      "avatar_color": "#ff4500"
+    },
+    "content": "The beginning of the becoming of the beginning begins",
+    "summary_ko": "시작의 시작이 시작된다",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/",
+    "image": "https://preview.redd.it/czvg7r846y1i1.jpeg?width=640&crop=smart&auto=webp&s=0d95847d857439747ef780d17c267701e20384b5",
+    "date": "2026-11-16T09:55:51.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.reddit.com/r/OpenAI/comments/1xxkwuq/ceos_are_getting_paranoid/",
+    "platform": "Reddit",
+    "title": "CEOs are getting paranoid",
+    "author": {
+      "name": "/u/elsewherewriter",
+      "handle": "/u//u/elsewherewriter",
+      "avatar_color": "#ff4500"
+    },
+    "content": "CEOs are getting paranoid",
+    "summary_ko": "CEO들은 편집증에 빠졌다",
+    "url": "https://www.reddit.com/r/OpenAI/comments/1xxkwuq/ceos_are_getting_paranoid/",
+    "image": "https://external-preview.redd.it/Z2FnZWZiaDZ6eDFpMVPyNBaAguJUvd1iTzgej47gvu7yd-FpzQA0rcmbRxfx.png?width=320&crop=smart&auto=webp&s=fd72443ca34258b91763792011525a8b60b3e5bb",
+    "date": "2026-11-16T09:16:57.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4248819/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%eb%a6%ac%eb%8d%94%ec%8b%ad-%ec%9c%84%ea%b8%b0%eb%a1%9c-%ec%9d%b8%ed%95%b4-%ea%b8%b0%ec%97%85%ec%9a%a9-ai%ea%b0%80-%ed%95%9c-%ea%b8%b0%ec%97%85%ec%97%90.html",
+    "platform": "CIO",
+    "title": "젠슨 황 사임에 로드맵·공급망 ‘비상’…기업 AI, 벤더 다변화 시험대",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "젠슨 황 사임에 로드맵·공급망 ‘비상’…기업 AI, 벤더 다변화 시험대",
+    "summary_ko": "로벌 기술업계의 핵심 리더가 갑작스럽게 자리에서 물러나면서 업계가 충격에 빠졌다. 이번 사태가 AI 산업 전반에 미칠 파장에도 관심이 쏠리고 있다. 전 세계 수많은 기업에 AI 인프라를 공급하는 엔비디아(Nvidia)는 지난 12일 공식발표를 통해 젠슨 황 사장 겸 CEO가 즉시 사임한다고 밝혔다. 앞서 이번 주 황 CEO가 중국 스파이로 의심받는 인물과 직속 부하직원 등 최소 2명과 혼외관계를 맺었다는 사실이 알려졌다. 엔비디아의 콜레트 크레스 수석부사장 겸 CFO가 임시 CEO를 맡았으며, 이사회는 정식 후임자 물색에 착수했다.",
+    "url": "https://www.cio.com/article/4248819/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%eb%a6%ac%eb%8d%94%ec%8b%ad-%ec%9c%84%ea%b8%b0%eb%a1%9c-%ec%9d%b8%ed%95%b4-%ea%b8%b0%ec%97%85%ec%9a%a9-ai%ea%b0%80-%ed%95%9c-%ea%b8%b0%ec%97%85%ec%97%90.html",
+    "image": null,
+    "date": "2026-11-16T02:08:47.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/",
     "platform": "Reddit",
     "title": "I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !",
@@ -3082,91 +3169,6 @@
     "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
     "image": "https://external-preview.redd.it/Pft2o03LsPI0kYXdZtCeSS9_N3TbLTI_I2XWVr1THKo.jpeg?width=640&crop=smart&auto=webp&s=b9785244c37e65c8d88524e1b75af9a81263bc0f",
     "date": "2026-10-18T12:16:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x8qyc7/researchers_connected_a_simulated_fruit_fly_brain/",
-    "platform": "Reddit",
-    "title": "Researchers connected a simulated fruit fly brain to Odyssey-3, an AI that generates entire virtual worlds. The fly is now navigating these imagined environments completely on its own. A biological brain recreated in software is exploring worlds that have never existed.",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Researchers connected a simulated fruit fly brain to Odyssey-3, an AI that generates entire virtual worlds. The fly is now navigating these imagined environments completely on its own. A biological brain recreated in software is exploring worlds that have never existed.",
-    "summary_ko": "연구원들은 시뮬레이션된 초파리 뇌를 전체 가상 세계를 생성하는 AI인 Odyssey-3에 연결했습니다. 파리는 이제 이러한 상상의 환경을 완전히 스스로 탐색하고 있습니다. 소프트웨어로 재현된 생물학적 두뇌는 존재하지 않았던 세계를 탐험하고 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x8qyc7/researchers_connected_a_simulated_fruit_fly_brain/",
-    "image": "https://external-preview.redd.it/NGdkNzJ2ZDhyNHdoMU192-EKM8N8DpyZdFngC34tuZC08TR2E2aUl3KUX0iA.png?width=640&crop=smart&auto=webp&s=8dbfdb37a578acd1d8c87765bb9b1ba4287d21f5",
-    "date": "2026-10-18T01:40:05.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x8oxmp/terrence_tao_remarks/",
-    "platform": "Reddit",
-    "title": "Terrence Tao remarks",
-    "author": {
-      "name": "/u/jracine22",
-      "handle": "/u//u/jracine22",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Terrence Tao remarks",
-    "summary_ko": "테렌스 타오 발언",
-    "url": "https://www.reddit.com/r/singularity/comments/1x8oxmp/terrence_tao_remarks/",
-    "image": "https://preview.redd.it/n49gtk2r84wh1.jpeg?width=640&crop=smart&auto=webp&s=8320ddaf18cdde6359f35601c51e2936cdbdbf19",
-    "date": "2026-10-17T23:57:59.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
-    "platform": "Reddit",
-    "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
-    "author": {
-      "name": "/u/HolidayBit143",
-      "handle": "/u//u/HolidayBit143",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
-    "summary_ko": "Linux 제작자는 AI 방지 규칙이 \"멍청하다\"고 말합니다. (절대적인 신 수준을 취합니다.).",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
-    "image": "https://preview.redd.it/nhlbvepgx1wh1.png?width=640&crop=smart&auto=webp&s=d1632cf2b934dd97fc4d2e98ca4bcf3d0f8fb19e",
-    "date": "2026-10-17T16:13:13.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x8557v/real/",
-    "platform": "Reddit",
-    "title": "Real.",
-    "author": {
-      "name": "/u/Baroness_Munchausen",
-      "handle": "/u//u/Baroness_Munchausen",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Real.",
-    "summary_ko": "진짜.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x8557v/real/",
-    "image": "https://preview.redd.it/vtobv0aiozvh1.png?width=320&crop=smart&auto=webp&s=7077e70d1b4a18563ad938eba301b5e10b3201a8",
-    "date": "2026-10-17T08:36:46.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x83dxf/university_of_michigan_physicist_gabriele/",
-    "platform": "Reddit",
-    "title": "University of Michigan physicist Gabriele Carcassi, a published quantum foundations researcher, says AI now resolves advanced mathematical roadblocks in 2 minutes. He previously spent months begging mathematicians for help. Now a single AI conversation is enough.",
-    "author": {
-      "name": "/u/141_1337",
-      "handle": "/u//u/141_1337",
-      "avatar_color": "#ff4500"
-    },
-    "content": "University of Michigan physicist Gabriele Carcassi, a published quantum foundations researcher, says AI now resolves advanced mathematical roadblocks in 2 minutes. He previously spent months begging mathematicians for help. Now a single AI conversation is enough.",
-    "summary_ko": "양자 기초 연구자이자 미시간 대학의 물리학자인 Gabriele Carcassi는 이제 AI가 고급 수학적 장애물을 2분 만에 해결한다고 말합니다. 그는 이전에 수학자에게 도움을 구걸하며 몇 달을 보냈습니다. 이제는 AI 대화 한 번이면 충분합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x83dxf/university_of_michigan_physicist_gabriele/",
-    "image": "https://external-preview.redd.it/Y3h3dGVvMGk1enZoMc8uJ_fTj3te41Y0qBTWDr5s8zlv5oHwZFcjc1f54EmR.png?width=640&crop=smart&auto=webp&s=7a1d938b9b8248e87cff70feea13269a8e4662d2",
-    "date": "2026-10-17T06:49:23.000Z",
     "likes": 0,
     "comments": 0
   }
