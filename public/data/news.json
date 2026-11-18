@@ -1,5 +1,100 @@
 [
   {
+    "id": "https://www.cio.com/article/4249981/ai는-사이버-공격을-어떻게-바꾸고-있나.html",
+    "platform": "CIO",
+    "title": "AI는 사이버 공격을 어떻게 바꾸고 있나",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI는 사이버 공격을 어떻게 바꾸고 있나",
+    "summary_ko": "AI는 사이버 공격자가 더 빠르게, 더 큰 규모로 움직일 수 있도록 돕는다. 공격의 핵심 목표와 각 단계에서 쓰이는 기법은 여전히 대체로 같다. 보안 전문가들에 따르면 AI 도구의 악용으로 숙련도가 낮은 공격자도 더 적은 비용으로 쉽게 공격을 시도할 수 있게 됐다. 피싱, 악성코드, 취약점 악용은 여전히 주된 공격 수단이다. 애플리케이션 보안 기업 블랙덕의 로널드 루이스 사이버 보안 거버넌스 디렉터는 “공격자는 여전히 표적을 고르고 정찰한 뒤, 침투 거점을 확보하고 내부 시스템으로 이동한다. 목표를 달성하면 흔적을 지우고 다음 표적으로 넘어간다.",
+    "url": "https://www.cio.com/article/4249981/ai는-사이버-공격을-어떻게-바꾸고-있나.html",
+    "image": null,
+    "date": "2026-11-18T02:31:16.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4249484/ceo는-작은-ai-개선에-지쳤다-cio에-근본적-혁신-요구.html",
+    "platform": "CIO",
+    "title": "CEO는 ‘작은 AI 개선’에 지쳤다···CIO에 근본적 혁신 요구",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "CEO는 ‘작은 AI 개선’에 지쳤다···CIO에 근본적 혁신 요구",
+    "summary_ko": "새로운 AI 시대가 시작된 지 4년이 지났지만, 성과에 만족하는 비즈니스 리더는 많지 않아 보인다. 기존 업무 프로세스를 조금씩 개선하는 수준에서 벗어나지 못한 IT 리더를 향해 경영진의 인내심이 바닥을 드러내고 있다. 마이크로소프트 기술을 전문으로 하는 IT 자문 서비스 기업 아바나드(Avanade)가 의뢰한 설문조사에 따르면, 최고경영진과 임원, 관리자를 포함한 비즈니스 의사결정자의 77%는 자사가 AI 투자의 지나치게 많은 부분을 점진적 개선에 쏟고 있다고 답했다.",
+    "url": "https://www.cio.com/article/4249484/ceo는-작은-ai-개선에-지쳤다-cio에-근본적-혁신-요구.html",
+    "image": null,
+    "date": "2026-11-17T04:59:12.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4249477/칼럼-제브와-모델-테트리스의-시대.html",
+    "platform": "CIO",
+    "title": "칼럼 | 제브와 ‘모델 테트리스’의 시대",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 제브와 ‘모델 테트리스’의 시대",
+    "summary_ko": "올봄 한 기조연설을 마친 뒤 인터뷰에서 우리 모두가 이제 LLM 테트리스를 하고 있다고 말했다. 모든 에이전트 문제에 같은 LLM을 사용하는 시대는 끝났다는 뜻이었다. 어떤 판단은 밀리초 단위로 내려야 하지만, 어떤 판단은 3분이 걸려도 괜찮다. 생성형 결과물이 필요한 작업이 있는가 하면, 오픈웨이트 모델로도 충분히 처리할 수 있는 논리적 판단도 있다. 용도에 맞게 모델을 골라야 한다. 지금도 이 생각에는 변함이 없다. 다만 절반만 맞았다. 당시에는 모든 블록이 LLM이라고 생각했기 때문이다.",
+    "url": "https://www.cio.com/article/4249477/칼럼-제브와-모델-테트리스의-시대.html",
+    "image": null,
+    "date": "2026-11-17T04:54:50.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4249461/알리바바-큐원4-맥스-작업-비용-62퍼센트-절감.html",
+    "platform": "CIO",
+    "title": "알리바바 “큐원4-맥스, 작업 비용 62% 절감”···사이버 보안 안전장치도 강화",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "알리바바 “큐원4-맥스, 작업 비용 62% 절감”···사이버 보안 안전장치도 강화",
+    "summary_ko": "알리바바가 매개변수 2조 4,000억 개 규모의 플래그십 모델 ‘큐원4-맥스(Qwen4-Max)’를 출시했다. 알리바바는 이 모델이 이전 모델보다 전문 업무 수행에 드는 평균 비용을 62% 줄였으며, 사이버 공격 역량 강화와 기타 고위험 용도를 막기 위한 안전장치도 추가했다고 밝혔다. 알리바바는 블로그 게시물에서 “721개 전문 분야의 난도 높은 산업 업무 수행 능력을 평가하는 자체 벤치마크 ‘워크360(Work360)’에 따르면, 큐원4-맥스는 전반적으로 이전 모델인 큐원3. 8-맥스보다 우수한 성능을 보였다.",
+    "url": "https://www.cio.com/article/4249461/알리바바-큐원4-맥스-작업-비용-62퍼센트-절감.html",
+    "image": null,
+    "date": "2026-11-17T04:48:49.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4249471/데이터이쿠-헤드리스로-코딩-에이전트와-거버.html",
+    "platform": "CIO",
+    "title": "데이터이쿠, ‘헤드리스’로 코딩 에이전트와 거버넌스 연결",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "데이터이쿠, ‘헤드리스’로 코딩 에이전트와 거버넌스 연결",
+    "summary_ko": "데이터이쿠 헤드리스는 개발자가 기존 코딩 에이전트 환경에서 데이터 파이프라인, 모델, 대시보드, 에이전트를 데이터이쿠 프로젝트로 구축하고 수정할 수 있도록 지원한다. 데이터이쿠는 이를 통해 개발자 외의 구성원도 결과물을 검토하고 활용할 수 있다고 설명했다. 데이터이쿠 헤드리스를 사용하면 코딩 에이전트에서 코빌드의 거버넌스 기반 자연어 기능을 이용할 수 있다. 코딩 에이전트가 데이터이쿠 환경과 관련 맥락을 파악하고, 프로젝트를 생성하거나 수정할 때 코빌드를 호출하는 방식이다.",
+    "url": "https://www.cio.com/article/4249471/데이터이쿠-헤드리스로-코딩-에이전트와-거버.html",
+    "image": null,
+    "date": "2026-11-17T04:47:39.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.reddit.com/r/OpenAI/comments/1xxt2il/barack_obama_the_machines_are_starting_to_teach/",
     "platform": "Reddit",
     "title": "Barack Obama: “The machines are starting to teach themselves. We're now hitting the hockey stick where the models are getting smarter and smarter at an exponential pace.\" ... \"If they start setting their own agendas, you may get misalignment between what they want to do vs what we want them to do.\"",
@@ -3078,97 +3173,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1x9m4gs/six_frontier_ais_competed_to_design_and_3dprint/",
     "image": "https://external-preview.redd.it/cDlyMmlqaGlkY3doMQycyeNI8nwpNVAIGaTda4pv5F47Z_s2MNVZ7fw7Y9ez.png?width=320&crop=smart&auto=webp&s=e8e8aa46f1c20ef5f5eccc16f947cae094b5f18f",
     "date": "2026-10-19T03:17:48.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4236820/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%9c%a0%eb%ac%bc-253%eb%a7%8c-%ec%a0%90%ec%9d%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a1%9c%ea%b5%ad%eb%a6%bd%ec%a4%91%ec%95%99%eb%b0%95%eb%ac%bc%ea%b4%80%ec%9d%b4-a.html",
-    "platform": "CIO",
-    "title": "인터뷰 | 유물 253만 점이 데이터로…국립중앙박물관이 AI 시대를 준비하는 법",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "인터뷰 | 유물 253만 점이 데이터로…국립중앙박물관이 AI 시대를 준비하는 법",
-    "summary_ko": "국립중앙박물관은 ‘K-문화’ 열풍의 한복판에 있다. 지난해 관람객은 650만 명. 전년보다 70% 늘었다. 한국인은 물론 외국인 관람객의 발길이 끊이지 않고, 젊은 층 사이에서는 박물관 굿즈까지 인기다. 성수기에는 개관 전부터 입장을 기다리는 줄이 늘어서는, 그야말로 한국을 대표하는 곳이다. 잘 알려지지 않았지만, 국립중앙박물관이 힘을 쏟고 있는 분야가 디지털 투자다. 보통 박물관의 디지털 부서는 보안과 시스템을 관리하는 지원 조직에 가까웠으나, 국립중앙박물관은 여기서 한발 더 나아가 문화유산의 보존과 활용, 관람객 경험을 위한 AI 과제를 발굴하고 추진 중이다.",
-    "url": "https://www.cio.com/article/4236820/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%9c%a0%eb%ac%bc-253%eb%a7%8c-%ec%a0%90%ec%9d%b4-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a1%9c%ea%b5%ad%eb%a6%bd%ec%a4%91%ec%95%99%eb%b0%95%eb%ac%bc%ea%b4%80%ec%9d%b4-a.html",
-    "image": null,
-    "date": "2026-10-19T01:16:13.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4236568/ai-%ec%b1%97%eb%b4%87%ec%9c%bc%eb%a1%9c-%eb%b9%84%ec%9a%a9-%ec%95%84%eb%81%bc%eb%a0%a4%eb%8b%a4-%ed%99%98%ea%b0%81%ec%84%b8-%eb%82%bc%eb%9d%bc.html",
-    "platform": "CIO",
-    "title": "AI로 비용 줄이려다 ‘환각세’ 낼라…고객 신뢰 잃지 않는 전략은?",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI로 비용 줄이려다 ‘환각세’ 낼라…고객 신뢰 잃지 않는 전략은?",
-    "summary_ko": "기업이 챗봇과 가상 비서 등 고객 서비스 도구에 AI를 빠르게 접목하고 있다. 하지만 CIO에게는 위험이 따르는 일이다. AI가 고객에게 잘못된 정보를 제공하거나 편향된 추천을 내놓고 데이터를 부적절하게 처리하면, 기업이 공들여 쌓아온 신뢰가 순식간에 무너질 수 있다. 기존 소프트웨어와 달리 생성형 AI는 같은 질문에 항상 같은 답을 내놓지 않는다. 자신감 있고 설득력 있게 들리는 답변도 틀릴 수 있다. 고객이 금융이나 보험, 건강 관련 정보를 얻기 위해 AI에 의존한다면 실수의 파장은 훨씬 커진다.",
-    "url": "https://www.cio.com/article/4236568/ai-%ec%b1%97%eb%b4%87%ec%9c%bc%eb%a1%9c-%eb%b9%84%ec%9a%a9-%ec%95%84%eb%81%bc%eb%a0%a4%eb%8b%a4-%ed%99%98%ea%b0%81%ec%84%b8-%eb%82%bc%eb%9d%bc.html",
-    "image": null,
-    "date": "2026-10-19T01:06:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4236562/%ec%95%84%ec%9d%b4%ec%98%a8%ed%81%90-%ec%97%98%eb%a6%ac%ec%8b%9c%ed%8b%b0-12%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%9d%b8%ec%88%98.html",
-    "platform": "CIO",
-    "title": "아이온큐, 엘리시티 12억 달러 인수…“양자 보안 아닌 고객 명부에 지불한 값”",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "아이온큐, 엘리시티 12억 달러 인수…“양자 보안 아닌 고객 명부에 지불한 값”",
-    "summary_ko": "양자컴퓨팅 기업 아이온큐(Ion Q)가 일요일 사이버보안 기업 엘리시티(Elisity)를 12억 달러 규모의 전액 주식 거래로 인수한다고 발표했다. 아이온큐는 머지않아 기업의 양자 사이버보안 수요가 향후 낡은 기술이 될 암호화 체계를 교체하는 수준을 넘어설 것이라는 전망을 내놨다. 아이온큐는 보도자료에서 이번 인수로 자사의 양자내성암호(PQC) 및 양자키분배(QKD) 역량과 엘리시티의 기업용 제로 트러스트 기술 플랫폼을 결합한다고 밝혔다.",
-    "url": "https://www.cio.com/article/4236562/%ec%95%84%ec%9d%b4%ec%98%a8%ed%81%90-%ec%97%98%eb%a6%ac%ec%8b%9c%ed%8b%b0-12%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%9d%b8%ec%88%98.html",
-    "image": null,
-    "date": "2026-10-19T01:04:00.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1x9a50t/anthropic_creates_a_public_benefit_fund_pledging/",
-    "platform": "Reddit",
-    "title": "Anthropic creates a public benefit fund, pledging 20% of its shares to the public good, with another 2% potentially added for every 50% increase in its valuation",
-    "author": {
-      "name": "/u/ResultBackground2450",
-      "handle": "/u//u/ResultBackground2450",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Anthropic creates a public benefit fund, pledging 20% of its shares to the public good, with another 2% potentially added for every 50% increase in its valuation",
-    "summary_ko": "Anthropic은 공익 기금을 조성하여 지분의 20%를 공익에 기부하고 가치 평가가 50% 증가할 때마다 추가로 2%를 추가할 수 있습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1x9a50t/anthropic_creates_a_public_benefit_fund_pledging/",
-    "image": "https://external-preview.redd.it/RTI453sNUfzZ9vTZr---e4WdKhSKMF0ZBb2twTEMCb4.jpeg?width=640&crop=smart&auto=webp&s=1f92389d16df013d0a5ee02b83340fd41a215039",
-    "date": "2026-10-18T18:14:32.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
-    "platform": "Reddit",
-    "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
-    "author": {
-      "name": "/u/chemist_slime",
-      "handle": "/u//u/chemist_slime",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
-    "summary_ko": "47만 달러 상당의 ZOTAC RTX 5090 그래픽 카드 팔레트 2개가 브라질 공항에서 사라졌습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
-    "image": "https://external-preview.redd.it/Pft2o03LsPI0kYXdZtCeSS9_N3TbLTI_I2XWVr1THKo.jpeg?width=640&crop=smart&auto=webp&s=b9785244c37e65c8d88524e1b75af9a81263bc0f",
-    "date": "2026-10-18T12:16:59.000Z",
     "likes": 0,
     "comments": 0
   }
