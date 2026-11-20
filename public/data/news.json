@@ -1,5 +1,42 @@
 [
   {
+    "id": "https://www.cio.com/article/4251093/ai-허니문은-끝났다-이제는-성과다cio코리아-cio.html",
+    "platform": "CIO",
+    "title": "“AI 허니문은 끝났다, 이제는 성과다”…CIO코리아 ‘CIO 서밋 2026’서 2027년 IT 전략 해법 모색",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "“AI 허니문은 끝났다, 이제는 성과다”…CIO코리아 ‘CIO 서밋 2026’서 2027년 IT 전략 해법 모색",
+    "summary_ko": "CIO코리아와 ITWorld가 주최한 ‘CIO 서밋 2026’이 11월 19일 서울 강남구 그랜드 인터컨티넨탈 서울 파르나스 매그놀리아 룸에서 열렸다. CIO 서밋은 CIO코리아가 매년 연말 국내 IT 리더들과 이듬해 기술 전략과 전망을 공유하기 위해 개최하는 컨퍼런스다. ‘AI를 넘어, 디지털 리더십의 재정의(Beyond AI: Redefining Digital Leadership)’를 주제로 열린 올해 행사에는 국내 주요 기업의 CIO와 IT·비즈니스 리더 70여 명이 참석해 2027년 기술 전략과 경제 전망을 공유했다.",
+    "url": "https://www.cio.com/article/4251093/ai-허니문은-끝났다-이제는-성과다cio코리아-cio.html",
+    "image": null,
+    "date": "2026-11-20T01:49:25.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+    "platform": "Google",
+    "title": "A game you cannot win unless you have a quantum computer",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Quantum",
+    "summary_ko": "양자컴퓨터가 없으면 이길 수 없는 게임",
+    "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+    "image": null,
+    "date": "2026-11-19T20:03:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4250017/f5-기업-ai-전환의-동반자로···2027년-보안-화두는-소.html",
     "platform": "CIO",
     "title": "F5 “기업 AI 전환의 동반자로”···2027년 보안 화두는 소버린 AI·멀티모델·자동화 대응",
@@ -3020,131 +3057,6 @@
     "url": "https://www.reddit.com/r/singularity/comments/1xbe2tf/as_of_3_hours_ago_the_linux_kernel_no_longer/",
     "image": "https://preview.redd.it/pxatsh6v4rwh1.jpeg?width=640&crop=smart&auto=webp&s=002b5ade780c3f59e771167ef28d72a8b58f6e38",
     "date": "2026-10-21T04:55:52.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35/",
-    "platform": "Reddit",
-    "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
-    "author": {
-      "name": "/u/Ok_Warning2146",
-      "handle": "/u//u/Ok_Warning2146",
-      "avatar_color": "#ff4500"
-    },
-    "content": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders",
-    "summary_ko": "독점: ByteDance, Alibaba, Tencent, 350억 달러 이상의 Nvidia 칩 주문.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35/",
-    "image": null,
-    "date": "2026-10-21T01:24:31.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1xawecs/we_did_it_everybody_close_the_sub/",
-    "platform": "Reddit",
-    "title": "We did it everybody. Close the sub.",
-    "author": {
-      "name": "/u/Oblivion_Man",
-      "handle": "/u//u/Oblivion_Man",
-      "avatar_color": "#ff4500"
-    },
-    "content": "We did it everybody. Close the sub.",
-    "summary_ko": "우리는 모두 해냈습니다. 하위를 닫습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1xawecs/we_did_it_everybody_close_the_sub/",
-    "image": "https://preview.redd.it/y516yeqtcnwh1.jpeg?width=640&crop=smart&auto=webp&s=bfbdab619c6922832b0551f7c9ce44c6aa95abaa",
-    "date": "2026-10-20T16:13:10.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
-    "platform": "Reddit",
-    "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
-    "author": {
-      "name": "/u/feelspeaceman",
-      "handle": "/u//u/feelspeaceman",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
-    "summary_ko": "Deepseek에서 DeepInfer 출시 - DeepSeek 모델을 위한 오픈 소스 고성능, 대규모 추론 프레임워크!",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
-    "image": "https://external-preview.redd.it/jfifm2yGG5CPl4MgeE4uruwH6dlytSsZCRu8pHXHpQk.png?width=640&crop=smart&auto=webp&s=eacdaea37e3811ff70eeb18b437fc86369cedd50",
-    "date": "2026-10-20T09:33:27.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4237602/ai-%ec%98%a4%eb%a5%98%eb%b6%80%ed%84%b0-%ed%98%91%eb%a0%a5%ec%82%ac-%ec%bd%98%ed%85%90%ec%b8%a0%ea%b9%8c%ec%a7%80.html",
-    "platform": "CIO",
-    "title": "AI 오류부터 협력사 콘텐츠까지…메타, 기업 고객 책임 범위 확대",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "AI 오류부터 협력사 콘텐츠까지…메타, 기업 고객 책임 범위 확대",
-    "summary_ko": "메타가 10월 30일 시행할 상업용 약관 개정을 통해 자사 AI 모델의 실수에 대한 책임을 기업 고객에게 넘긴다. 새 약관에 따르면 협력사나 계약업체의 행위까지 해당 기업의 IT 임원이 책임져야 한다. 이번 개정은 robots. txt에도 사실상 종지부를 찍는다. 메타 계정과 관련된 모든 콘텐츠를 수집하고 자체 목적으로 활용할 권한을 메타 스스로 부여하기 때문이다. 여기서 말하는 robots. txt는 웹사이트 운영자가 자동 수집 프로그램의 접근 허용 범위를 명시하는 파일이다.",
-    "url": "https://www.cio.com/article/4237602/ai-%ec%98%a4%eb%a5%98%eb%b6%80%ed%84%b0-%ed%98%91%eb%a0%a5%ec%82%ac-%ec%bd%98%ed%85%90%ec%b8%a0%ea%b9%8c%ec%a7%80.html",
-    "image": null,
-    "date": "2026-10-20T09:12:45.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1xana1l/this_mod_received_insane_amount_of_ai_hate_and/",
-    "platform": "Reddit",
-    "title": "This mod received insane amount of AI hate and got taken down",
-    "author": {
-      "name": "/u/ReignMocap",
-      "handle": "/u//u/ReignMocap",
-      "avatar_color": "#ff4500"
-    },
-    "content": "This mod received insane amount of AI hate and got taken down",
-    "summary_ko": "이 모드는 엄청난 양의 AI 증오를 받아 게시 중단되었습니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1xana1l/this_mod_received_insane_amount_of_ai_hate_and/",
-    "image": "https://external-preview.redd.it/NXpvcTlldHY4bHdoMR8CppQiwEd8BN89ChHSEhvdR4cHofRjDp7HVR6uovKd.png?width=640&crop=smart&auto=webp&s=6925a4188d4462e5bb4819b01e1f6ced50cb8d5c",
-    "date": "2026-10-20T09:12:29.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4237569/sap%ec%bd%94%eb%a6%ac%ec%95%84-erp%eb%8a%94-ai%ec%97%90-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b3%b5%ea%b8%89%ed%95%98%eb%8a%94-%ea%b8%b0.html",
-    "platform": "CIO",
-    "title": "SAP코리아 “ERP는 AI에 신뢰할 수 있는 데이터 공급하는 기반”… 중견·중소기업 지원 ‘SAP 넥스트 100’ 공개",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "SAP코리아 “ERP는 AI에 신뢰할 수 있는 데이터 공급하는 기반”… 중견·중소기업 지원 ‘SAP 넥스트 100’ 공개",
-    "summary_ko": "SAP코리아는 10월 20일 기자간담회를 열고 중견·중소기업의 클라우드 ERP 도입을 지원하는 ‘SAP 넥스트 100’ 프로그램과 파트너 협력 전략을 소개했다. 김준영 SAP코리아 부사장은 환영사에서 “성장 초기 단계부터 디지털 기반을 제대로 갖춘 기업일수록 이후의 성장 속도와 경쟁력이 확연히 달랐다”라며 “반대로 빠른 매출 성장을 이루고도 관리 체계가 뒷받침하지 못해 투자 유치나 상장(IPO), 글로벌 진출 단계에서 어려움을 겪는 기업도 많았다”라고 말했다.",
-    "url": "https://www.cio.com/article/4237569/sap%ec%bd%94%eb%a6%ac%ec%95%84-erp%eb%8a%94-ai%ec%97%90-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88%eb%8a%94-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b3%b5%ea%b8%89%ed%95%98%eb%8a%94-%ea%b8%b0.html",
-    "image": null,
-    "date": "2026-10-20T09:05:46.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4237427/vm%ec%9b%a8%ec%96%b4-%ea%b3%a0%ea%b0%9d-cio-90-%eb%8c%80%ec%95%88-%ea%b2%80%ed%86%a0.html",
-    "platform": "CIO",
-    "title": "VM웨어 고객 CIO 90% “대안 검토”…전환 비용·복잡성이 발목",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "VM웨어 고객 CIO 90% “대안 검토”…전환 비용·복잡성이 발목",
-    "summary_ko": "브로드컴이 VM웨어를 인수한 지 거의 3년이 지났지만, IT 리더들은 가상화 시장의 선두 업체인 VM웨어를 장기적으로 계속 사용할지 여전히 확신하지 못하고 있다. 최근 설문조사에 따르면, 현재 VM웨어를 사용하는 기업의 CIO 가운데 90%가 브로드컴 인수 이후 높아진 라이선스 비용 때문에 VM웨어의 대안을 검토하고 있다. 절반 이상은 브로드컴의 영구 라이선스 지원 종료 결정이 다른 선택지를 평가하는 주요 이유라고 답했다.",
-    "url": "https://www.cio.com/article/4237427/vm%ec%9b%a8%ec%96%b4-%ea%b3%a0%ea%b0%9d-cio-90-%eb%8c%80%ec%95%88-%ea%b2%80%ed%86%a0.html",
-    "image": null,
-    "date": "2026-10-20T04:39:17.000Z",
     "likes": 0,
     "comments": 0
   }
