@@ -1,5 +1,99 @@
 [
   {
+    "id": "https://www.cio.com/article/4252355/젠슨-황-복귀에-한숨-돌린-ai-업계-공급망-집중-리스크는.html",
+    "platform": "CIO",
+    "title": "젠슨 황 복귀에 한숨 돌린 AI 업계…공급망 집중 리스크는 여전",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "젠슨 황 복귀에 한숨 돌린 AI 업계…공급망 집중 리스크는 여전",
+    "summary_ko": "애널리스트와 컨설턴트들은 엔비디아 이사회의 이번 결정으로 기업 CIO들이 AI 인프라를 한 공급업체에 과도하게 의존하는 위험에 더 주목하게 됐다고 말했다. 이사회가 CEO를 실질적으로 감독할 수 있느냐는 문제도 제기됐다. 지난주 젠슨 황이 돌아오지 않을 것이라고 밝혔던 엔비디아 이사회는 월요일 황을 CEO로 복귀시킨다고 발표했다. 엔비디아의 발표 이후 제기된 우려 중 하나는 도널드 트럼프 미국 대통령이 이사회 결정에 직접 관여했는지 여부다.",
+    "url": "https://www.cio.com/article/4252355/젠슨-황-복귀에-한숨-돌린-ai-업계-공급망-집중-리스크는.html",
+    "image": null,
+    "date": "2026-11-24T01:37:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "platform": "Google",
+    "title": "Supercharging transformer residual connections",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Algorithms & Theory",
+    "summary_ko": "과급 변압기 잔류 연결",
+    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "image": null,
+    "date": "2026-11-23T17:21:12.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4251923/클라우드-워크로드-되가져오기-전에-점검할-5가지-용.html",
+    "platform": "CIO",
+    "title": "클라우드 워크로드 되가져오기 전에 점검할 5가지···용량·네트워크·AI·운영·인력",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "클라우드 워크로드 되가져오기 전에 점검할 5가지···용량·네트워크·AI·운영·인력",
+    "summary_ko": "지난 15년간 기업 IT 인프라는 한 방향으로 움직였다. 자체 데이터센터를 떠나 퍼블릭 클라우드로 이전하는 것이었다. 하드웨어 담당 인력은 줄어들었고, 데이터센터 임대 계약은 갱신되지 않았다. ‘클라우드 우선(Cloud First)’ 전략은 어느새 ‘클라우드 전용(Cloud Only)’ 전략으로 바뀌었다. 그러나 이런 흐름이 끝나가고 있다. 클라우드 자체가 실패했기 때문은 아니다. 많은 기업이 워크로드를 어디에 배치할지 충분히 검토하지 않은 채 클라우드 이전을 결정했고, 모든 워크로드에 적합할 것이라고 가정했기 때문이다.",
+    "url": "https://www.cio.com/article/4251923/클라우드-워크로드-되가져오기-전에-점검할-5가지-용.html",
+    "image": null,
+    "date": "2026-11-23T08:02:20.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4251918/시맨틱-지식-그래프란-무엇인가-ai-에이전트에-필요한.html",
+    "platform": "CIO",
+    "title": "시맨틱 지식 그래프란 무엇인가…AI 에이전트에 필요한 ‘업무 맥락’",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "시맨틱 지식 그래프란 무엇인가…AI 에이전트에 필요한 ‘업무 맥락’",
+    "summary_ko": "기존 데이터베이스는 정보를 표로 정리한다. 한 열에는 사람의 이름을, 다른 열에는 그 사람이 다니는 회사를 적는 식이다. 그래프 데이터베이스는 같은 정보를 노드와 엣지로 저장한다. 사람과 회사가 각각 노드라면, 두 노드 사이의 연결이 엣지다. 어떤 노드든 다른 노드와 연결할 수 있어 그래프 데이터베이스는 구조가 유연하다. 관련 항목을 찾으려면 한 노드에서 엣지를 따라 다른 노드로 이동하면 된다. 공급망의 의존 관계를 파악하거나, 사기를 탐지하거나, 사용자 선호도를 파악해 추천의 품질을 높이는 데 활용할 수 있다. 이런 기능은 AI 에이전트에도 유용하다.",
+    "url": "https://www.cio.com/article/4251918/시맨틱-지식-그래프란-무엇인가-ai-에이전트에-필요한.html",
+    "image": null,
+    "date": "2026-11-23T07:52:23.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4251912/칼럼-서비스-장애에도-고객은-떠나지-않는다-ms의-독점.html",
+    "platform": "CIO",
+    "title": "칼럼 | 서비스 장애에도 고객은 떠나지 않는다···MS의 독점적 지배력이 만든 현실",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "칼럼 | 서비스 장애에도 고객은 떠나지 않는다···MS의 독점적 지배력이 만든 현실",
+    "summary_ko": "지난주 미국에서는 수백만 명이 거의 24시간 동안 업무에 필요한 도구를 사용하지 못했다. 마이크로소프트(MS)의 글로벌 서비스 장애로 12알 목요일 오후부터 13일 금요일까지 아웃룩, 팀즈, 코파일럿이 먹통이 됐다. 의회 회기 종료를 앞두고 안건 처리가 몰린 상황에서 의회 업무가 중단됐다. 병원, 학교, 공공시설 운영기관, 필수 공공서비스를 제공하는 정부기관은 내부 직원과 연락할 수단을 잃었고, 상당수는 대체 수단조차 없었다. 이들에게 남은 선택지는 MS가 자체 네트워크를 복구할 때까지 기다리는 것뿐이었다.",
+    "url": "https://www.cio.com/article/4251912/칼럼-서비스-장애에도-고객은-떠나지-않는다-ms의-독점.html",
+    "image": null,
+    "date": "2026-11-23T07:43:37.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
     "platform": "Google",
     "title": "How Google Duplex evolved to also call businesses for you in Gemini",
@@ -2672,74 +2766,6 @@
     "url": "https://www.reddit.com/r/OpenAI/comments/1xezf6x/uh_oh/",
     "image": "https://preview.redd.it/7vli0gj4hlxh1.png?width=640&crop=smart&auto=webp&s=a5fcd1f5f369fc87aa6284b651941433325e660c",
     "date": "2026-10-25T10:58:05.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
-    "platform": "Reddit",
-    "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
-    "author": {
-      "name": "/u/kroggens",
-      "handle": "/u//u/kroggens",
-      "avatar_color": "#ff4500"
-    },
-    "content": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
-    "summary_ko": "OpenAI와 Anthropic은 우리를 감시하는 스마트 TV의 리버스 엔지니어링을 차단했습니다.",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
-    "image": null,
-    "date": "2026-10-25T02:51:18.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1xedvu1/holy_fucking_shit/",
-    "platform": "Reddit",
-    "title": "holy fucking shit.",
-    "author": {
-      "name": "/u/Puzzleheaded-King584",
-      "handle": "/u//u/Puzzleheaded-King584",
-      "avatar_color": "#ff4500"
-    },
-    "content": "holy fucking shit.",
-    "summary_ko": "이런 젠장.",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1xedvu1/holy_fucking_shit/",
-    "image": "https://preview.redd.it/ohok2lp65gxh1.png?width=640&crop=smart&auto=webp&s=59035261e704cdee6b22034d300859502b1e30c7",
-    "date": "2026-10-24T17:02:06.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1xe5i3d/altman_i_dont_even_know_a_dramatic_enough_word_to/",
-    "platform": "Reddit",
-    "title": "Altman: \"I don't even know a dramatic enough word to use… models can find bugs that are outside of the normal threat model of what we think a hacker can do… hardware-level, insane stuff… I no longer think we're gonna be able to just patch all the bugs.\"",
-    "author": {
-      "name": "/u/soldierofcinema",
-      "handle": "/u//u/soldierofcinema",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Altman: \"I don't even know a dramatic enough word to use… models can find bugs that are outside of the normal threat model of what we think a hacker can do… hardware-level, insane stuff… I no longer think we're gonna be able to just patch all the bugs.\"",
-    "summary_ko": "Altman: \"저는 사용할 만큼 드라마틱한 단어조차 모릅니다... 모델은 우리가 생각하는 해커가 할 수 있다고 생각하는 일반적인 위협 모델을 벗어난 버그를 찾을 수 있습니다... 하드웨어 수준의 미친 짓... 더 이상 모든 버그를 패치하는 것만으로는 불가능하다고 생각합니다.",
-    "url": "https://www.reddit.com/r/singularity/comments/1xe5i3d/altman_i_dont_even_know_a_dramatic_enough_word_to/",
-    "image": "https://external-preview.redd.it/c2l1Z2ZxbDhhZXhoMRWq4TWJyfiqDwfhscHOgmOrw48_AMcgJXG71EowosqU.png?width=640&crop=smart&auto=webp&s=bb6b23f5f688f6ccee5fba334412defa3f9dc79c",
-    "date": "2026-10-24T10:46:47.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1xe02h6/revenue_163b_net_loss_807b_ipo_valuation_2t/",
-    "platform": "Reddit",
-    "title": "Revenue: $16.3B Net loss: $80.7B IPO valuation: $2T",
-    "author": {
-      "name": "/u/VariationLivid3193",
-      "handle": "/u//u/VariationLivid3193",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Revenue: $16.3B Net loss: $80.7B IPO valuation: $2T",
-    "summary_ko": "수익: 163억 달러 순손실: 807억 달러 IPO 평가: 2조 달러",
-    "url": "https://www.reddit.com/r/singularity/comments/1xe02h6/revenue_163b_net_loss_807b_ipo_valuation_2t/",
-    "image": "https://preview.redd.it/ofp41xs3ncxh1.jpeg?width=320&crop=smart&auto=webp&s=901c0ade2b89686ed4a3ed394dc23d76b3f1c7e5",
-    "date": "2026-10-24T05:15:19.000Z",
     "likes": 0,
     "comments": 0
   }
