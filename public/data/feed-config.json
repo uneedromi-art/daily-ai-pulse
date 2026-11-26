@@ -17,14 +17,13 @@
       "enabled": true,
       "subreddits": [
         "MachineLearning",
-        "LocalLLaMA",
         "ArtificialIntelligence",
         "OpenAI",
         "Singularity"
       ],
       "limit": 4,
       "filterByKeywords": false,
-      "note": "서브레딧 자체가 AI 주제 (키워드 필터 생략)"
+      "note": "서브레딧 자체가 AI 주제 (키워드 필터 생략) / LocalLLaMA 제외(2026-11 이후 404)"
     },
     "mastodon": {
       "enabled": false,

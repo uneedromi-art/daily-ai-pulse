@@ -70,22 +70,36 @@ async function fetchReddit(config) {
     console.log('Fetching Reddit...');
     try {
         const parser = new Parser();
-        // 서브레딧별로 따로 가져온다. 하나라도 폐쇄/차단되면 합친 URL(a+b+c)은 통째로 404가 나기 때문.
-        const perSub = await Promise.all(source.subreddits.map(async (sub) => {
-            try {
-                const response = await fetch(buildRedditFeedUrl([sub]), {
-                    headers: {
-                        'User-Agent': 'Mozilla/5.0 (compatible; DailyAIPulse/1.0)',
-                    },
-                });
-                if (!response.ok) throw new Error(`HTTP ${response.status}`);
-                const feed = await parser.parseString(await response.text());
-                return feed.items || [];
-            } catch (e) {
-                console.error(`Reddit r/${sub} Fetch Failed:`, e.message);
-                return [];
+        const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+        const getFeedItems = async (subs) => {
+            const response = await fetch(buildRedditFeedUrl(subs), {
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (compatible; DailyAIPulse/1.0)',
+                },
+            });
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const feed = await parser.parseString(await response.text());
+            return feed.items || [];
+        };
+
+        // 1) 합친 URL(a+b+c) 한 번 요청 — Reddit은 짧은 시간에 여러 번 요청하면 429를 준다.
+        // 2) 실패하면(서브레딧 하나가 폐쇄돼 404 등) 서브레딧별로 간격을 두고 순서대로 요청해 문제 서브레딧을 로그에 남긴다.
+        let perSub;
+        try {
+            perSub = [await getFeedItems(source.subreddits)];
+        } catch (e) {
+            console.error(`Reddit combined feed failed (${e.message}) — retrying per subreddit`);
+            perSub = [];
+            for (const sub of source.subreddits) {
+                await sleep(3000);
+                try {
+                    perSub.push(await getFeedItems([sub]));
+                } catch (err) {
+                    console.error(`Reddit r/${sub} Fetch Failed:`, err.message);
+                    perSub.push([]);
+                }
             }
-        }));
+        }
 
         // 각 서브레딧 상위 글을 번갈아 뽑아 한 곳에 쏠리지 않게 한다.
         const picked = [];
@@ -100,7 +114,9 @@ async function fetchReddit(config) {
                 picked.push(item);
             }
         }
-        console.log(`Reddit: ${picked.length} items (${perSub.filter((x) => x.length).length}/${source.subreddits.length} subreddits OK)`);
+        console.log(perSub.length === 1
+            ? `Reddit: ${picked.length} items (combined feed)`
+            : `Reddit: ${picked.length} items (${perSub.filter((x) => x.length).length}/${source.subreddits.length} subreddits OK)`);
 
         const results = [];
         for (const item of picked) {
