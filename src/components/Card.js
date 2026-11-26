@@ -34,6 +34,8 @@ export default function Card({ item }) {
         if (p.includes('google')) return <span className={styles.platformEmoji}>G</span>;
         if (p.includes('cio')) return <span className={styles.platformEmoji}>CIO</span>;
         if (p.includes('medium')) return <span className={styles.platformEmoji}>M</span>;
+        if (p.includes('hugging')) return <span className={styles.platformEmoji}>🤗</span>;
+        if (p.includes('openai')) return <span className={styles.platformEmoji}>◎</span>;
 
         return <span className={styles.platformEmoji}>🔗</span>;
     };

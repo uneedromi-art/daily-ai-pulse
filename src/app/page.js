@@ -34,7 +34,7 @@ export default async function Home() {
         </Suspense>
 
         <div style={{ textAlign: 'center', marginTop: '20px', fontSize: '0.7em', color: 'var(--text-muted)' }}>
-          Sources: Reddit · Google · CIO · Medium
+          Sources: Reddit · Google · CIO · Hugging Face · OpenAI
           <br />
           Last Updated: {getKSTDate().toISOString().replace('T', ' ').slice(0, 19)} (KST)
         </div>

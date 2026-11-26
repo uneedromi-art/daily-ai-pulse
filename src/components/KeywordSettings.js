@@ -100,9 +100,8 @@ export default function KeywordSettings({ open, onClose }) {
                 </div>
 
                 <p className={styles.help}>
-                    Reddit·Google은 주제 고정. CIO·Medium은 수집(fetch-news) 시 키워드 필터.
+                    Reddit·Google·Hugging Face·OpenAI는 주제 고정. CIO는 수집(fetch-news) 시 키워드 필터.
                     화면에는 news.json에 저장된 글을 날짜별로 그대로 표시합니다.
-                    Medium은 유료/티저(Continue reading) 글 제외, 본문 충분한 글만 수집합니다.
                 </p>
 
                 {cioLog?.summary && (

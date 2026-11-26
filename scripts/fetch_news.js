@@ -22,7 +22,10 @@ const { SUMMARY_INPUT_CHARS } = require('./summaryUtils');
 
 loadEnvLocal();
 
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+// 사내망(SSL 검사 프록시)에서 로컬 실행할 때만 인증서 검증을 끈다. GitHub Actions에서는 정상 검증.
+if (!process.env.GITHUB_ACTIONS) {
+    process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
+}
 
 const ENABLE_TWITTER = process.env.ENABLE_TWITTER === 'true';
 const buildKoreanSummary = createSummaryBuilder(summarizeToKorean);
@@ -428,6 +431,26 @@ async function main() {
         ),
         fetchWithTimeout(fetchCio(config), 'CIO', 300000),
         fetchWithTimeout(fetchMedium(config), 'Medium', 180000),
+        fetchWithTimeout(
+            fetchRssFeed(config, 'huggingface', {
+                platform: 'Hugging Face',
+                authorName: 'Hugging Face Blog',
+                authorHandle: '@huggingface',
+                avatarColor: '#FFD21E',
+            }),
+            'Hugging Face',
+            180000
+        ),
+        fetchWithTimeout(
+            fetchRssFeed(config, 'openai', {
+                platform: 'OpenAI',
+                authorName: 'OpenAI News',
+                authorHandle: '@OpenAI',
+                avatarColor: '#10A37F',
+            }),
+            'OpenAI',
+            180000
+        ),
     ];
 
     if (ENABLE_TWITTER) {
@@ -436,7 +459,7 @@ async function main() {
         console.log('Skipping Twitter/X (ENABLE_TWITTER is not true)');
     }
 
-    const fetchTaskNames = ['Reddit', 'Google', 'CIO', 'Medium'];
+    const fetchTaskNames = ['Reddit', 'Google', 'CIO', 'Medium', 'Hugging Face', 'OpenAI'];
     if (ENABLE_TWITTER) fetchTaskNames.push('Twitter');
 
     const results = await Promise.allSettled(fetchTasks);

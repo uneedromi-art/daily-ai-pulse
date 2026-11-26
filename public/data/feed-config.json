@@ -50,7 +50,7 @@
       "note": "CIO 코리아 RSS — AI 키워드 통과 시 한·영 각 최대 5건"
     },
     "medium": {
-      "enabled": true,
+      "enabled": false,
       "feedUrl": "https://medium.com/feed/tag/artificial-intelligence",
       "feedUrls": [
         "https://medium.com/feed/tag/artificial-intelligence",
@@ -61,7 +61,21 @@
       "maxScanItems": 60,
       "minBodyChars": 80,
       "filterByKeywords": true,
-      "note": "Medium — Member-only·Continue reading 티저 제외, 페이지 HTML로 무료 전문 확인"
+      "note": "비활성 (AI 태그 글 대부분 유료라 매일 0건) — Medium — Member-only·Continue reading 티저 제외, 페이지 HTML로 무료 전문 확인"
+    },
+    "huggingface": {
+      "enabled": true,
+      "feedUrl": "https://huggingface.co/blog/feed.xml",
+      "limit": 2,
+      "filterByKeywords": false,
+      "note": "Hugging Face 블로그 (무료 전문)"
+    },
+    "openai": {
+      "enabled": true,
+      "feedUrl": "https://openai.com/news/rss.xml",
+      "limit": 2,
+      "filterByKeywords": false,
+      "note": "OpenAI 뉴스 (무료)"
     }
   }
 }
