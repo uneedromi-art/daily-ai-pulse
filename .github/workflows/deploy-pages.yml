@@ -20,23 +20,20 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build-deploy:
+  build:
     if: >
       github.event_name == 'push' ||
       github.event_name == 'workflow_dispatch' ||
       github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     env:
       NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
 
     steps:
+      # workflow_run.head_sha는 Fetcher가 뉴스를 커밋하기 '이전' 커밋이라 쓰지 않는다.
+      # 기본값(github.sha)은 트리거 시점의 main 최신 커밋 = 방금 푸시된 뉴스 포함.
       - uses: actions/checkout@v7
-        with:
-          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
 
       - uses: actions/setup-node@v7
         with:
@@ -56,5 +53,13 @@ jobs:
           path: out
           include-hidden-files: true
 
+  # 업로드 직후 같은 job에서 배포하면 아티팩트가 아직 조회되지 않아 실패하는 경우가 있어 job을 분리한다 (GitHub 공식 템플릿 구조).
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - id: deployment
         uses: actions/deploy-pages@v5
