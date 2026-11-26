@@ -1,5 +1,78 @@
 [
   {
+    "id": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "platform": "Hugging Face",
+    "title": "Where scientists draw the line on AI agents",
+    "author": {
+      "name": "Hugging Face Blog",
+      "handle": "@huggingface",
+      "avatar_color": "#FFD21E",
+      "avatar_url": null
+    },
+    "content": "Where scientists draw the line on AI agents",
+    "summary_ko": "과학자들이 AI 에이전트에 선을 긋는 곳",
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "image": null,
+    "date": "2026-11-25T18:52:55.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+    "platform": "Google",
+    "title": "Verifiable Social Reasoning for LLM Assistants",
+    "author": {
+      "name": "Google Research",
+      "handle": "@GoogleAI",
+      "avatar_color": "#4285F4",
+      "avatar_url": null
+    },
+    "content": "Generative AI",
+    "summary_ko": "LLM 보조원을 위한 검증 가능한 사회적 추론",
+    "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+    "image": null,
+    "date": "2026-11-25T17:10:27.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "platform": "Hugging Face",
+    "title": "An Indic Voice Agent with CUGA",
+    "author": {
+      "name": "Hugging Face Blog",
+      "handle": "@huggingface",
+      "avatar_color": "#FFD21E",
+      "avatar_url": null
+    },
+    "content": "An Indic Voice Agent with CUGA",
+    "summary_ko": "CUGA를 사용한 인도어 음성 에이전트",
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "image": null,
+    "date": "2026-11-25T10:22:09.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://www.cio.com/article/4252924/ai-리더십-인사이드-김유열-ebs-ceo-ai는-유행이-아니라-시대.html",
+    "platform": "CIO",
+    "title": "AI 리더십 인사이드 | 김유열 EBS CEO “AI는 유행이 아니라 시대정신…체험이 조직을 바꿨다”",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "AI 리더십 인사이드 | 김유열 EBS CEO “AI는 유행이 아니라 시대정신…체험이 조직을 바꿨다”",
+    "summary_ko": "국내 지상파 4사 중 AI 전환에 적극적인 방송사로 평가받는 EBS는 김유열 CEO가 직접 변화의 선두에 섰다. 2024년 시작된 AI 실험은 2026년 전사 차원으로 확대됐고, 지금은 모든 부서가 AI 콘텐츠를 만들고 있다. 비IT 기업의 AI 확산과 내재화를 고민하는 조직이라면 EBS 사례에서 눈여겨볼 대목이 많다. 설득 대신 ‘전 직원 체험’을 택하다 “인간은 때로 언어보다 경험에 더 설득됩니다. 직접 겪어보지 않은 일을 남의 말만 듣고 행동까지 바꾼다? 저는 어렵다고 봤어요. 그래서 저부터 나서서 배우겠다고 했습니다.",
+    "url": "https://www.cio.com/article/4252924/ai-리더십-인사이드-김유열-ebs-ceo-ai는-유행이-아니라-시대.html",
+    "image": null,
+    "date": "2026-11-25T07:46:01.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4252858/칼럼-ai가-고친-코드-한-줄-어디까지-검증해야-할까.html",
     "platform": "CIO",
     "title": "칼럼 | AI가 고친 코드 한 줄, 어디까지 검증해야 할까",
@@ -72,6 +145,42 @@
     "url": "https://www.cio.com/article/4252826/구글의-위즈-인수-뛰어넘는-빅딜-크라우드스트라이.html",
     "image": null,
     "date": "2026-11-25T01:49:30.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "platform": "OpenAI",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "author": {
+      "name": "OpenAI News",
+      "handle": "@OpenAI",
+      "avatar_color": "#10A37F",
+      "avatar_url": null
+    },
+    "content": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "summary_ko": "GPT-6 모델은 추론과 코드를 사용하여 단백질 구조와 서열을 설계합니다. 실험실 테스트에서는 5개 표적에 걸쳐 결합 증거가 발견되었습니다.",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "image": null,
+    "date": "2026-11-24T13:00:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "platform": "OpenAI",
+    "title": "Searching for distant planets with Astra",
+    "author": {
+      "name": "OpenAI News",
+      "handle": "@OpenAI",
+      "avatar_color": "#10A37F",
+      "avatar_url": null
+    },
+    "content": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "summary_ko": "두 명의 아마추어 천문학자가 어떻게 Codex와 Astra를 사용하여 NASA의 Kepler 및 TESS 우주 망원경의 공개 데이터에서 잠재적인 외계 행성을 찾았는지 알아보세요.",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "image": null,
+    "date": "2026-11-24T11:00:00.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -2685,76 +2794,6 @@
     "url": "https://www.cio.com/article/4240678/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ea%b8%b0%ea%b3%a0-%ea%b3%a0%ea%b0%9d-%eb%8c%80%ec%8b%a0-%ec%b0%be%ec%95%84%ec%98%a4%eb%8a%94-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b8%b0.html",
     "image": null,
     "date": "2026-10-27T05:13:51.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1xg4hs6/introducing_gpt61_terra/",
-    "platform": "Reddit",
-    "title": "Introducing GPT-6.1 Terra",
-    "author": {
-      "name": "/u/daddyhughes111",
-      "handle": "/u//u/daddyhughes111",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Introducing GPT-6.1 Terra",
-    "summary_ko": "GPT-6.1 테라 소개",
-    "url": "https://www.reddit.com/r/singularity/comments/1xg4hs6/introducing_gpt61_terra/",
-    "image": "https://external-preview.redd.it/A5RyS1WkYI5c2q8EJSfO8oWQhxaL3GsbZWE7KonWCf0.png?width=640&crop=smart&auto=webp&s=91da0b6d2a92f0f350585da0337919157ac1c107",
-    "date": "2026-10-26T18:09:48.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
-    "platform": "Reddit",
-    "title": "openAI Launches GPT 6.1 TERRA",
-    "author": {
-      "name": "/u/Soggy_Perspective776",
-      "handle": "/u//u/Soggy_Perspective776",
-      "avatar_color": "#ff4500"
-    },
-    "content": "openAI Launches GPT 6.1 TERRA",
-    "summary_ko": "openAI, GPT 6.1 LAND 출시",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1xg4hoi/openai_launches_gpt_61_terra/",
-    "image": "https://preview.redd.it/vrndlgx2ruxh1.png?width=640&crop=smart&auto=webp&s=470f20a28e71b97005aa6e7ba285e0c4af5a1afe",
-    "date": "2026-10-26T18:09:42.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
-    "platform": "Reddit",
-    "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
-    "author": {
-      "name": "/u/BleynSpecnaz",
-      "handle": "/u//u/BleynSpecnaz",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
-    "summary_ko": "8GB VRAM과 32GB RAM이 있습니까? 최대 900t/s PP 및 30t/s TG에서 Qwen 3.8 Flash Next를 실행할 수 있습니다!",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
-    "image": "https://external-preview.redd.it/cmptczU3N2lmc3hoMWtw9J_RnMb3B54nb6jzdqvNCwiwqdjmt7fw3sp33zAY.png?width=640&crop=smart&auto=webp&s=c271f63f4b5509a387e2217dea484917c89f3c56",
-    "date": "2026-10-26T10:26:48.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.cio.com/article/4240132/%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ec%95%88-%ed%95%98%eb%a9%b4-%ec%a7%80%ec%9b%90-%ec%a4%91%eb%8b%a8.html",
-    "platform": "CIO",
-    "title": "“업그레이드 안 하면 지원 중단”…벤더 요구에 연 1,290만 달러 쓰는 대기업",
-    "lang": "ko",
-    "author": {
-      "name": "CIO 코리아",
-      "handle": "@CIO_KR",
-      "avatar_color": "#E51937",
-      "avatar_url": null
-    },
-    "content": "“업그레이드 안 하면 지원 중단”…벤더 요구에 연 1,290만 달러 쓰는 대기업",
-    "summary_ko": "최근 소프트웨어 청구서를 받아 들고 예상보다 큰 금액에 놀란 CIO라면, 비용이 어떻게 이만큼 늘어났는지 따져볼 필요가 있다. 대기업 IT 리더들이 자사라면 선택하지 않았을 업그레이드와 마이그레이션, 라이선스 변경을 벤더의 요구로 추진하면서 막대한 ‘소프트웨어 세금’을 부담하고 있기 때문이다. 소프트웨어 유지보수 기업 오리 지나(Origina)가 의뢰한 설문조사에 따르면, 대기업 소프트웨어 예산의 약 28%, 연평균 약 1,290만 달러가 벤더가 요구하는 작업에 소진되고 있다.",
-    "url": "https://www.cio.com/article/4240132/%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c-%ec%95%88-%ed%95%98%eb%a9%b4-%ec%a7%80%ec%9b%90-%ec%a4%91%eb%8b%a8.html",
-    "image": null,
-    "date": "2026-10-26T06:54:12.000Z",
     "likes": 0,
     "comments": 0
   }
