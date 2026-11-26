@@ -65,20 +65,42 @@ async function fetchReddit(config) {
     if (!source?.enabled) return [];
 
     console.log('Fetching Reddit...');
-    const feedUrl = buildRedditFeedUrl(source.subreddits);
-
     try {
         const parser = new Parser();
-        const response = await fetch(feedUrl, {
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (compatible; DailyAIPulse/1.0)',
-            },
-        });
-        if (!response.ok) throw new Error(`Reddit HTTP ${response.status}`);
-        const feed = await parser.parseString(await response.text());
+        // 서브레딧별로 따로 가져온다. 하나라도 폐쇄/차단되면 합친 URL(a+b+c)은 통째로 404가 나기 때문.
+        const perSub = await Promise.all(source.subreddits.map(async (sub) => {
+            try {
+                const response = await fetch(buildRedditFeedUrl([sub]), {
+                    headers: {
+                        'User-Agent': 'Mozilla/5.0 (compatible; DailyAIPulse/1.0)',
+                    },
+                });
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                const feed = await parser.parseString(await response.text());
+                return feed.items || [];
+            } catch (e) {
+                console.error(`Reddit r/${sub} Fetch Failed:`, e.message);
+                return [];
+            }
+        }));
+
+        // 각 서브레딧 상위 글을 번갈아 뽑아 한 곳에 쏠리지 않게 한다.
+        const picked = [];
+        const seen = new Set();
+        for (let i = 0; picked.length < (source.limit || 4) && perSub.some((items) => i < items.length); i++) {
+            for (const items of perSub) {
+                const item = items[i];
+                if (!item || picked.length >= (source.limit || 4)) continue;
+                const key = item.guid || item.link;
+                if (seen.has(key)) continue;
+                seen.add(key);
+                picked.push(item);
+            }
+        }
+        console.log(`Reddit: ${picked.length} items (${perSub.filter((x) => x.length).length}/${source.subreddits.length} subreddits OK)`);
 
         const results = [];
-        for (const item of feed.items.slice(0, source.limit || 4)) {
+        for (const item of picked) {
             const text = item.title || '';
             if (!shouldIncludeItem(text, source, config)) continue;
 
