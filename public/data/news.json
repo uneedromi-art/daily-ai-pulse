@@ -1,5 +1,24 @@
 [
   {
+    "id": "https://www.cio.com/article/4253851/에이전틱-엔터프라이즈-구축-벤츠-존핸콕-에스티로.html",
+    "platform": "CIO",
+    "title": "에이전틱 엔터프라이즈를 구축하려면…벤츠·존핸콕·에스티로더 사례로 본 7가지 과제",
+    "lang": "ko",
+    "author": {
+      "name": "CIO 코리아",
+      "handle": "@CIO_KR",
+      "avatar_color": "#E51937",
+      "avatar_url": null
+    },
+    "content": "에이전틱 엔터프라이즈를 구축하려면…벤츠·존핸콕·에스티로더 사례로 본 7가지 과제",
+    "summary_ko": "블룸버그가 최근 HPE와 함께 개최한 ‘에이전틱 기업 구축’ 서밋에서는 기업의 에이전틱 AI 도입이 아직 초기 단계라는 점이 드러났다. 파일럿이나 적용 범위를 엄격히 제한한 활용 사례를 넘어선 기업은 드물었다. CIO들은 이 간극을 좁히려면 무엇보다 운영 모델을 바꿔야 한다고 봤다. 블룸버그 인텔리전스가 지난 9월 직원 5,000명 이상인 유럽과 미국 기업 100곳을 대상으로 토큰을 가장 많이 소비하는 용도를 물었다. 여러 단계의 작업을 에이전트가 수행하는 워크플로를 꼽은 응답은 9%에 그쳤다.",
+    "url": "https://www.cio.com/article/4253851/에이전틱-엔터프라이즈-구축-벤츠-존핸콕-에스티로.html",
+    "image": null,
+    "date": "2026-11-27T08:05:17.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
     "id": "https://www.cio.com/article/4253540/클로드가-일주일-만에-짠-코드-앤트로픽-엔지니어는.html",
     "platform": "CIO",
     "title": "클로드가 일주일 만에 짠 코드, 앤트로픽 엔지니어는 어떻게 검증했나",
@@ -15,6 +34,24 @@
     "url": "https://www.cio.com/article/4253540/클로드가-일주일-만에-짠-코드-앤트로픽-엔지니어는.html",
     "image": null,
     "date": "2026-11-27T00:10:00.000Z",
+    "likes": 0,
+    "comments": 0
+  },
+  {
+    "id": "https://huggingface.co/blog/video-trainium3",
+    "platform": "Hugging Face",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "author": {
+      "name": "Hugging Face Blog",
+      "handle": "@huggingface",
+      "avatar_color": "#FFD21E",
+      "avatar_url": null
+    },
+    "content": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "summary_ko": "Trainium3를 트랙으로 가져가기: LTX-2.5로 비디오 생성",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "image": null,
+    "date": "2026-11-27T00:00:00.000Z",
     "likes": 0,
     "comments": 0
   },
@@ -2581,74 +2618,6 @@
     "url": "https://www.cio.com/article/4241962/%ec%b1%97gpt-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%82%ac%ec%b9%ad-%ec%b1%84%ea%b5%b4-%ec%95%85%ec%84%b1%ec%bd%94%eb%93%9c.html",
     "image": null,
     "date": "2026-10-29T06:58:19.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/singularity/comments/1xhtwjm/gemini_4_carbon/",
-    "platform": "Reddit",
-    "title": "Gemini 4 Carbon",
-    "author": {
-      "name": "/u/Marimo188",
-      "handle": "/u//u/Marimo188",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Gemini 4 Carbon",
-    "summary_ko": "제미니 4 카본",
-    "url": "https://www.reddit.com/r/singularity/comments/1xhtwjm/gemini_4_carbon/",
-    "image": "https://preview.redd.it/0b81xu8bp8yh1.jpeg?width=640&crop=smart&auto=webp&s=2c9a584702c7e069430fdb9a2a14474730fcfd43",
-    "date": "2026-10-28T17:04:42.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/OpenAI/comments/1xhra80/researchers_found_an_evil_neuron_and_when_they/",
-    "platform": "Reddit",
-    "title": "Researchers found an \"evil neuron\" and when they activate it... holy shit",
-    "author": {
-      "name": "/u/Puzzleheaded-King584",
-      "handle": "/u//u/Puzzleheaded-King584",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Researchers found an \"evil neuron\" and when they activate it... holy shit",
-    "summary_ko": "연구원들은 \"사악한 뉴런\"을 발견했고 그들이 그것을 활성화했을 때... 젠장",
-    "url": "https://www.reddit.com/r/OpenAI/comments/1xhra80/researchers_found_an_evil_neuron_and_when_they/",
-    "image": "https://preview.redd.it/4h4p372l88yh1.png?width=640&crop=smart&auto=webp&s=07536f7d9bd596a7a6f85fe9076d4a808ac1d29c",
-    "date": "2026-10-28T15:31:08.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
-    "platform": "Reddit",
-    "title": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
-    "author": {
-      "name": "/u/LatentSpacer",
-      "handle": "/u//u/LatentSpacer",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Someone built a 32-bit RISC-V CPU directly inside Qwen's model weights so it can execute instructions internaly!",
-    "summary_ko": "누군가 Qwen의 모델 가중치 내부에 직접 32비트 RISC-V CPU를 구축하여 내부적으로 명령을 실행할 수 있었습니다!",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside/",
-    "image": "https://external-preview.redd.it/aWE3OGJiZnBiN3loMdG9nUtReL1uvYFaVrzNUyA0aXE3ZuuHkXv2lPA0R4_C.png?width=640&crop=smart&auto=webp&s=d2bfce3c5f2d2958912cc514e4de3fdfba474d42",
-    "date": "2026-10-28T12:26:44.000Z",
-    "likes": 0,
-    "comments": 0
-  },
-  {
-    "id": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
-    "platform": "Reddit",
-    "title": "Dirt cheap GPUs coming next year",
-    "author": {
-      "name": "/u/sayamss",
-      "handle": "/u//u/sayamss",
-      "avatar_color": "#ff4500"
-    },
-    "content": "Dirt cheap GPUs coming next year",
-    "summary_ko": "내년에 아주 저렴한 GPU 출시",
-    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year/",
-    "image": null,
-    "date": "2026-10-28T04:34:41.000Z",
     "likes": 0,
     "comments": 0
   }
